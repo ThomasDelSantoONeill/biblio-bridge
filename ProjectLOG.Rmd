@@ -1,0 +1,19 @@
+---
+title: "`BiblioBridge`: a context-based literature linker with emergent knowledge identification."
+author: "T. J. Del Santo O'Neill"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Concieving the idea
+
+This application constructs a ***context-based*** similarity network from bibliographic data to evaluate citation bias<sup><a href="#footnote1">1</a></sup> and to identify potential knowledge gaps or opportunities for cross-disciplinary research. Specifically, `BiblioBridge` develops a network in which nodes represent scholarly papers and edges denote their semantic similarity. This context-based network is then compared with a ***citation-based*** network, where nodes correspond to papers and edges represent their citation relationships.
+
+The computational workflow initialises with the focal text (*e.g.* paper) to assess and its associated bibliography (*e.g.* list of DOIs, titles...). `BiblioBridge` will then fetch text via APIs (*e.g.* Semantic Scholar, OpenAlex and/or PubMed) or PDFs and process them sequentially using NLP techniques (*e.g.* word embeddings or topic modelling). Users are able to set a "**depth level**", that is, the hierarchical layers or stages of citation analysis as `BiblioBridge` recursively explores the references cited by papers within a bibliography. Therefore, it measures how far the analysis extends into the citation network starting from an initial set of papers (e.g., a thesis bibliography); *e.g.* a $D_L=0$ means evaluating the focal text with its references. Compare network structures via *e.g.* Jaccard similarity and propose novel research avenues contingent upon depth level.
+
+<p id="footnote1"><strong>1.</strong>That is, the tendency of authors to cite works based on their existing citation counts or perceived authority, rather than their actual contextual relevance to the citing content.</p>
+
