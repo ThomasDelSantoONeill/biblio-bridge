@@ -27,6 +27,7 @@ def fetch_openalex_data(doi, email=None):
         
         # Check if the request was successful, raise error if not
         response.raise_for_status()
+        response.encoding = "utf-8"
         
         # Parse the response into JSON format
         data = response.json()
@@ -82,4 +83,4 @@ def fetch_openalex_data(doi, email=None):
 doi = "10.1111/faf.12817"
 openalex_data = fetch_openalex_data(doi, email="delsantooneillthomas@gmail.com")
 print("OpenAlex Data:")
-print(json.dumps(openalex_data, indent=2))
+print(json.dumps(openalex_data, indent=2, ensure_ascii=False))

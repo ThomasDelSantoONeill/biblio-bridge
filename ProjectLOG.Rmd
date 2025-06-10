@@ -19,7 +19,8 @@ The computational workflow initialises with the focal text (*e.g.* paper) to ass
 
 ## Computational workflow
 
-`biblio-bridge` is an interoperable framework with different modules programmed in distinct programming languages *e.g.* `R` and/or `Python`, depending on the specific task at hand such that the advantages of each language are exploited.
+`biblio-bridge` is an interoperable framework with different modules written in distinct programming languages (*e.g.* R and/or Python), tailored to the specific task at hand, so that the advantages of each language are fully exploited.
+
 
 **STEP1** extract bibliography from **text-based** `.pdf` file:
 
