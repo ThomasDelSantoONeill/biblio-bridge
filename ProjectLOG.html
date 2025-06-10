@@ -11,9 +11,9 @@
 
 <meta name="author" content="T. J. Del Santo O’Neill" />
 
-<meta name="date" content="2025-06-06" />
+<meta name="date" content="2025-06-09" />
 
-<title>BiblioBridge: a context-based literature linker with emergent knowledge identification.</title>
+<title>biblio-bridge: a context-based literature linker with emergent knowledge identification.</title>
 
 <script>// Pandoc 2.9 adds attributes on both header and div. We remove the former (to
 // be compatible with the behavior of Pandoc < 2.8).
@@ -350,10 +350,10 @@ display: none;
 
 
 
-<h1 class="title toc-ignore"><code>BiblioBridge</code>: a context-based
+<h1 class="title toc-ignore"><code>biblio-bridge</code>: a context-based
 literature linker with emergent knowledge identification.</h1>
 <h4 class="author">T. J. Del Santo O’Neill</h4>
-<h4 class="date">2025-06-06</h4>
+<h4 class="date">2025-06-09</h4>
 
 </div>
 
@@ -375,18 +375,30 @@ to papers and edges represent their citation relationships.</p>
 then fetch text via APIs (<em>e.g.</em> Semantic Scholar, OpenAlex
 and/or PubMed) or PDFs and process them sequentially using NLP
 techniques (<em>e.g.</em> word embeddings or topic modelling). Users are
-able to set a “<strong>depth level</strong>”, that is, the level of
-scrutiny with which the focal text is contrasted; <em>e.g.</em> a <span class="math inline">\(D_L=1\)</span> means evaluating the focal text
-with its references, a <span class="math inline">\(D_L=2\)</span> means
-processing the text of the list of references within the each reference
-of the original paper… Compare network structures via <em>e.g.</em>
-Jaccard similarity and propose novel research avenues contigent upon
+able to set a “<strong>depth level</strong>”, that is, the hierarchical
+layers or stages of citation analysis as <code>BiblioBridge</code>
+recursively explores the references cited by papers within a
+bibliography. Therefore, it measures how far the analysis extends into
+the citation network starting from an initial set of papers (e.g., a
+thesis bibliography); <em>e.g.</em> a <span class="math inline">\(D_L=0\)</span> means evaluating the focal text
+with its references. Compare network structures via <em>e.g.</em>
+Jaccard similarity and propose novel research avenues contingent upon
 depth level.</p>
 <p id="footnote1">
 <strong>1.</strong>That is, the tendency of authors to cite works based
 on their existing citation counts or perceived authority, rather than
 their actual contextual relevance to the citing content.
 </p>
+</div>
+<div id="computational-workflow" class="section level2">
+<h2>Computational workflow</h2>
+<p><code>biblio-bridge</code> is an interoperable framework with
+different modules programmed in distinct programming languages
+<em>e.g.</em> <code>R</code> and/or <code>Python</code>, depending on
+the specific task at hand such that the advantages of each language are
+exploited.</p>
+<p><strong>STEP1</strong> extract bibliography from
+<strong>text-based</strong> <code>.pdf</code> file:</p>
 </div>
 
 
