@@ -1,0 +1,49 @@
+{
+  "id": "https://openalex.org/W2916451022",
+  "title": "Comparing conceptual frameworks for a fish community MSY (FCMSY) using management strategy evaluation—an example from the North Sea",
+  "abstract": "Abstract Maximum sustainable yield (MSY) is a well-established concept that is mandated by legislation, and has a clear theoretical meaning in terms of a single stock. However, its definition is problematic in a multispecies setting, which makes it more difficult to apply the MSY principle. In this study of the North Sea fish community, we consider several possible MSY candidates, and evaluate them in terms of their ability to produce optimum long-term yield whilst avoiding unacceptable risk of stock impairment. We perform this evaluation with an ensemble of size-structured models using a management strategy evaluation approach, in which harvest control rules (HCRs) are used to determine levels of fishing as a function of the proposed MSY target and stock status, taking account of recruitment and model parameter uncertainties. We find that HCRs of the type considered here are always useful in the scenarios we tested, as they reduce overfishing risk much more than average long-term yield. This is independent of the precise form of the HCR, so it is more important to implement one rigorously than obsess over the rule details. For a lax definition of overfishing, which accepts relatively severe stock depletion (B &amp;lt; 10% B0), and using HCRs, risks are “low” across all strategies, and the Nash equilibrium is the best performing MSY approach considered here. For more stringent definitions of “at risk” (e.g. likelihood of B &amp;lt; 20% of B0), the application of HCRs can allow a range of alternative formulations of MSY. Thus, the definition of MSY may be sensitive to judgements about acceptable levels of risk, and consistent application of a sensible management framework may be more important than developing the best possible theoretical definition of MSY.",
+  "authors": [
+    {
+      "name": "Robert Thorpe"
+    },
+    {
+      "name": "José A. A. De Oliveira"
+    }
+  ],
+  "publication_year": 2019,
+  "cited_by_count": 24,
+  "referenced_works": [
+    "https://openalex.org/W1588483953",
+    "https://openalex.org/W1861736088",
+    "https://openalex.org/W1972064083",
+    "https://openalex.org/W1986988264",
+    "https://openalex.org/W1997699070",
+    "https://openalex.org/W2011292626",
+    "https://openalex.org/W2012770272",
+    "https://openalex.org/W2028717723",
+    "https://openalex.org/W2062473510",
+    "https://openalex.org/W2113470865",
+    "https://openalex.org/W2116815273",
+    "https://openalex.org/W2122505518",
+    "https://openalex.org/W2122974269",
+    "https://openalex.org/W2125509445",
+    "https://openalex.org/W2152353861",
+    "https://openalex.org/W2154277394",
+    "https://openalex.org/W2156523992",
+    "https://openalex.org/W2164070727",
+    "https://openalex.org/W2164647633",
+    "https://openalex.org/W2189124356",
+    "https://openalex.org/W2311736766",
+    "https://openalex.org/W2363261994",
+    "https://openalex.org/W2471309530",
+    "https://openalex.org/W2496603371",
+    "https://openalex.org/W2511268749",
+    "https://openalex.org/W2560415672",
+    "https://openalex.org/W2610642213",
+    "https://openalex.org/W2757659339",
+    "https://openalex.org/W2767208408",
+    "https://openalex.org/W2781882786",
+    "https://openalex.org/W2887817833",
+    "https://openalex.org/W3128703889"
+  ]
+}

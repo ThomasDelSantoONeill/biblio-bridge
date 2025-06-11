@@ -1,0 +1,48 @@
+{
+  "id": "https://openalex.org/W2165162942",
+  "title": "What is Sustainability?",
+  "abstract": "Sustainability as a policy concept has its origin in the Brundtland Report of 1987. That document was concerned with the tension between the aspirations of mankind towards a better life on the one hand and the limitations imposed by nature on the other hand. In the course of time, the concept has been re-interpreted as encompassing three dimensions, namely social, economic and environmental. The paper argues that this change in meaning (a) obscures the real contradiction between the aims of welfare for all and environmental conservation; (b) risks diminishing the importance of the environmental dimension; and (c) separates social from economic aspects, which in reality are one and the same. It is proposed instead to return to the original meaning, where sustainability is concerned with the well-being of future generations and in particular with irreplaceable natural resources—as opposed to the gratification of present needs which we call well-being. A balance needs to be found between those two, but not by pretending they are three sides of the same coin. Although we use up natural resources at the expense of future generations, we also generate capital (including knowledge) which raises future well-being. A major question is to what extent the one compensates for the other. This debate centres around the problem of substitutability, which has been cast into a distinction between ‘weak’ and ‘strong’ sustainability. It is argued that these two do not need to be in opposition but complement one another.",
+  "authors": [
+    {
+      "name": "Tom Kuhlman"
+    },
+    {
+      "name": "John Farrington"
+    }
+  ],
+  "publication_year": 2010,
+  "cited_by_count": 1098,
+  "referenced_works": [
+    "https://openalex.org/W112302872",
+    "https://openalex.org/W1497460133",
+    "https://openalex.org/W1534462788",
+    "https://openalex.org/W1570801558",
+    "https://openalex.org/W1589572802",
+    "https://openalex.org/W1975163071",
+    "https://openalex.org/W1977068559",
+    "https://openalex.org/W1977442524",
+    "https://openalex.org/W1983954943",
+    "https://openalex.org/W2010053310",
+    "https://openalex.org/W2015795886",
+    "https://openalex.org/W2037077174",
+    "https://openalex.org/W2068613117",
+    "https://openalex.org/W2075967609",
+    "https://openalex.org/W2121519719",
+    "https://openalex.org/W2129974232",
+    "https://openalex.org/W2131461328",
+    "https://openalex.org/W2139434546",
+    "https://openalex.org/W2151721827",
+    "https://openalex.org/W2157355736",
+    "https://openalex.org/W2161362717",
+    "https://openalex.org/W2228006807",
+    "https://openalex.org/W225706379",
+    "https://openalex.org/W2499766206",
+    "https://openalex.org/W2615190415",
+    "https://openalex.org/W2729420672",
+    "https://openalex.org/W2948055752",
+    "https://openalex.org/W4233270210",
+    "https://openalex.org/W4234944919",
+    "https://openalex.org/W4319590799",
+    "https://openalex.org/W62598396"
+  ]
+}

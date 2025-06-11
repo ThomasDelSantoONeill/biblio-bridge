@@ -1,0 +1,42 @@
+{
+  "id": "https://openalex.org/W2034994370",
+  "title": "A General Framework for Analyzing Sustainability of Social-Ecological Systems",
+  "abstract": "A major problem worldwide is the potential loss of fisheries, forests, and water resources. Understanding of the processes that lead to improvements in or deterioration of natural resources is limited, because scientific disciplines use different concepts and languages to describe and explain complex social-ecological systems (SESs). Without a common framework to organize findings, isolated knowledge does not cumulate. Until recently, accepted theory has assumed that resource users will never self-organize to maintain their resources and that governments must impose solutions. Research in multiple disciplines, however, has found that some government policies accelerate resource destruction, whereas some resource users have invested their time and energy to achieve sustainability. A general framework is used to identify 10 subsystem variables that affect the likelihood of self-organization in efforts to achieve a sustainable SES.",
+  "authors": [
+    {
+      "name": "Элинор Остром"
+    }
+  ],
+  "publication_year": 2009,
+  "cited_by_count": 7118,
+  "referenced_works": [
+    "https://openalex.org/W1516231616",
+    "https://openalex.org/W1521043632",
+    "https://openalex.org/W1564805497",
+    "https://openalex.org/W1607170611",
+    "https://openalex.org/W1964996957",
+    "https://openalex.org/W1977201968",
+    "https://openalex.org/W1980003788",
+    "https://openalex.org/W1999653899",
+    "https://openalex.org/W2001546067",
+    "https://openalex.org/W2010924763",
+    "https://openalex.org/W2012653382",
+    "https://openalex.org/W2027278335",
+    "https://openalex.org/W2033148381",
+    "https://openalex.org/W2040712382",
+    "https://openalex.org/W2048058487",
+    "https://openalex.org/W2071962320",
+    "https://openalex.org/W2083158692",
+    "https://openalex.org/W2163327711",
+    "https://openalex.org/W2165702945",
+    "https://openalex.org/W2226396244",
+    "https://openalex.org/W2322480672",
+    "https://openalex.org/W2495855620",
+    "https://openalex.org/W2530653605",
+    "https://openalex.org/W3025349344",
+    "https://openalex.org/W3121351373",
+    "https://openalex.org/W4210788696",
+    "https://openalex.org/W4235636171",
+    "https://openalex.org/W43234740"
+  ]
+}

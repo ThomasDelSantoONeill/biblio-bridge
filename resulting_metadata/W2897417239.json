@@ -1,0 +1,72 @@
+{
+  "id": "https://openalex.org/W2897417239",
+  "title": "Comparing the steady state results of a range of multispecies models between and across geographical areas by the use of the jacobian matrix of yield on fishing mortality rate",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "John G. Pope"
+    },
+    {
+      "name": "Valerio Bartolino"
+    },
+    {
+      "name": "Nataliia Kulatska"
+    },
+    {
+      "name": "Barbara Bauer"
+    },
+    {
+      "name": "Jan Horbowy"
+    },
+    {
+      "name": "Joana P.C. Ribeiro"
+    },
+    {
+      "name": "Erla Sturludóttir"
+    },
+    {
+      "name": "Robert Thorpe"
+    }
+  ],
+  "publication_year": 2018,
+  "cited_by_count": 15,
+  "referenced_works": [
+    "https://openalex.org/W1524760816",
+    "https://openalex.org/W1966695144",
+    "https://openalex.org/W1968466770",
+    "https://openalex.org/W1974969369",
+    "https://openalex.org/W1990566709",
+    "https://openalex.org/W1997699070",
+    "https://openalex.org/W2003647390",
+    "https://openalex.org/W2025552145",
+    "https://openalex.org/W2028717723",
+    "https://openalex.org/W2030232515",
+    "https://openalex.org/W2034469479",
+    "https://openalex.org/W2039498209",
+    "https://openalex.org/W2039826300",
+    "https://openalex.org/W2045114377",
+    "https://openalex.org/W2060920808",
+    "https://openalex.org/W2081050205",
+    "https://openalex.org/W2103037732",
+    "https://openalex.org/W2116422701",
+    "https://openalex.org/W2128713868",
+    "https://openalex.org/W2141613880",
+    "https://openalex.org/W2145378599",
+    "https://openalex.org/W2154277394",
+    "https://openalex.org/W2166614543",
+    "https://openalex.org/W2311736766",
+    "https://openalex.org/W2312518378",
+    "https://openalex.org/W2344012003",
+    "https://openalex.org/W2610642213",
+    "https://openalex.org/W2730092946",
+    "https://openalex.org/W2762984108",
+    "https://openalex.org/W2785556626",
+    "https://openalex.org/W2805089928",
+    "https://openalex.org/W2899508278",
+    "https://openalex.org/W2903672692",
+    "https://openalex.org/W2978784674",
+    "https://openalex.org/W3150234440",
+    "https://openalex.org/W345080406",
+    "https://openalex.org/W4253624884"
+  ]
+}

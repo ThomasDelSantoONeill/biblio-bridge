@@ -1,0 +1,79 @@
+{
+  "id": "https://openalex.org/W4283451609",
+  "title": "Incorporating knowledge of changes in climatic, oceanographic and ecological conditions in Canadian stock assessments",
+  "abstract": "Abstract Environmental impacts on fisheries are pervasive, yet methods to account for them in stock assessments and management decisions vary in rigour and quality. The prevalence and efficacy of methods to account for environmental impacts are not well documented, limiting our ability to adequately respond to future environmental and climate changes for adaptive resource management. In Canada, legislation now requires that environmental conditions are considered in the management of fish stocks, yet the current extent of implementation in assessment processes is poorly understood. We assessed the use of climate, oceanographic and ecological considerations in science advisory processes for 178 stock assessments by Fisheries and Oceans Canada. We evaluated whether these considerations were included in conceptual hypotheses about broad‐scale mechanisms, quantitative or qualitative analyses, and the development of management advice on current or future stock status. Conceptual hypotheses were included in 46% of assessments; quantitative inclusions occurred in 21% of assessments, while qualitative interpretations appeared in 31% of assessments; and 27% of assessments included climate, oceanographic and/or ecological considerations in the advice. Assessments of salmonids, invertebrates and pelagic taxa more frequently made use of environmental data than those for groundfish and elasmobranchs. Comparing our findings with assessments in other jurisdictions highlighted a gap in Canada's ability to respond to environmental changes and a need to develop integrated management approaches, such as regional ecosystem assessments and approaches that combine modelling and empirical analyses, with socio‐economic analysis within interdisciplinary teams.",
+  "authors": [
+    {
+      "name": "Pierre Pepin"
+    },
+    {
+      "name": "Jacquelyne King"
+    },
+    {
+      "name": "Carrie A. Holt"
+    },
+    {
+      "name": "Helen Gurney‐Smith"
+    },
+    {
+      "name": "Nancy L. Shackell"
+    },
+    {
+      "name": "Kevin J. Hedges"
+    },
+    {
+      "name": "Alida Bundy"
+    }
+  ],
+  "publication_year": 2022,
+  "cited_by_count": 20,
+  "referenced_works": [
+    "https://openalex.org/W1999802734",
+    "https://openalex.org/W2003899690",
+    "https://openalex.org/W2021308021",
+    "https://openalex.org/W2027740187",
+    "https://openalex.org/W2038512291",
+    "https://openalex.org/W2051208206",
+    "https://openalex.org/W2087029171",
+    "https://openalex.org/W2088153285",
+    "https://openalex.org/W2097583503",
+    "https://openalex.org/W2103982618",
+    "https://openalex.org/W2105876425",
+    "https://openalex.org/W2110180213",
+    "https://openalex.org/W2117740907",
+    "https://openalex.org/W2122397795",
+    "https://openalex.org/W2128180742",
+    "https://openalex.org/W2161233862",
+    "https://openalex.org/W2179406720",
+    "https://openalex.org/W2232666231",
+    "https://openalex.org/W2256116549",
+    "https://openalex.org/W2295177640",
+    "https://openalex.org/W2322130052",
+    "https://openalex.org/W2580730601",
+    "https://openalex.org/W2789284862",
+    "https://openalex.org/W2808115461",
+    "https://openalex.org/W2809745194",
+    "https://openalex.org/W2898461106",
+    "https://openalex.org/W2906182840",
+    "https://openalex.org/W2913707456",
+    "https://openalex.org/W2914252064",
+    "https://openalex.org/W2971683364",
+    "https://openalex.org/W3001204776",
+    "https://openalex.org/W3006605618",
+    "https://openalex.org/W3007890094",
+    "https://openalex.org/W3010628852",
+    "https://openalex.org/W3029446257",
+    "https://openalex.org/W3033001947",
+    "https://openalex.org/W3071131253",
+    "https://openalex.org/W3088821346",
+    "https://openalex.org/W3093023487",
+    "https://openalex.org/W3117404627",
+    "https://openalex.org/W3124278310",
+    "https://openalex.org/W3130187639",
+    "https://openalex.org/W3150130998",
+    "https://openalex.org/W3174698974",
+    "https://openalex.org/W3192756356",
+    "https://openalex.org/W4224250585",
+    "https://openalex.org/W633484475"
+  ]
+}

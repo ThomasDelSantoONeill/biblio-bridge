@@ -1,0 +1,22 @@
+{
+  "id": "https://openalex.org/W2089649903",
+  "title": "Equilibrium Points of Bimatrix Games",
+  "abstract": "An algebraic proof is given of the existence of equilibrium points for bimatrix (or two-person, non-zero-sum) games. The proof is constructive, leading to an efficient scheme for computing an equilibrium point. In a nondegenerate case, the number of equilibrium points is finite and odd. The proof is valid for any ordered field.",
+  "authors": [
+    {
+      "name": "C. E. Lemke"
+    },
+    {
+      "name": "Joseph T. Howson"
+    }
+  ],
+  "publication_year": 1964,
+  "cited_by_count": 1262,
+  "referenced_works": [
+    "https://openalex.org/W1980955342",
+    "https://openalex.org/W1994401526",
+    "https://openalex.org/W2167303093",
+    "https://openalex.org/W4234761190",
+    "https://openalex.org/W4299309618"
+  ]
+}

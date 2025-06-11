@@ -1,0 +1,110 @@
+{
+  "id": "https://openalex.org/W2511382731",
+  "title": "Quantitative criteria for choosing targets and indicators for sustainable use of ecosystems",
+  "abstract": "Wide-ranging, indicator-based assessments of large, complex ecosystems are playing an increasing role in guiding environmental policy and management. An example is the EU's Marine Strategy Framework Directive, which requires Member States to take measures to reach \"good environmental status\" (GES) in European marine waters. However, formulation of indicator targets consistent with the Directive's high-level policy goal of sustainable use has proven challenging. We develop a specific, quantitative interpretation of the concepts of GES and sustainable use in terms of indicators and associated targets, by sharply distinguishing between current uses to satisfy current societal needs and preferences, and unknown future uses. We argue that consistent targets to safeguard future uses derive from a requirement that any environmental state indicator should recover within a defined time (e.g. 30 years) to its pressure-free range of variation when all pressures are hypothetically removed. Within these constraints, specific targets for current uses should be set. Routes to implementation of this proposal for indicators of fish-community size structure, population size of selected species, eutrophication, impacts of non-indigenous species, and genetic diversity are discussed. Important policy implications are that (a) indicator target ranges, which may be wider than natural ranges, systematically and rationally derive from our proposal; (b) because relevant state indicators tend to respond slowly, corresponding pressures should also be monitored and assessed;",
+  "authors": [
+    {
+      "name": "Axel G. Rossberg"
+    },
+    {
+      "name": "Laura Uusitalo"
+    },
+    {
+      "name": "Torsten Berg"
+    },
+    {
+      "name": "Anastasija Zaiko"
+    },
+    {
+      "name": "Anne Chenuil"
+    },
+    {
+      "name": "María C. Uyarra"
+    },
+    {
+      "name": "Ángel Borja"
+    },
+    {
+      "name": "Christopher P. Lynam"
+    }
+  ],
+  "publication_year": 2016,
+  "cited_by_count": 67,
+  "referenced_works": [
+    "https://openalex.org/W1025478071",
+    "https://openalex.org/W1484033701",
+    "https://openalex.org/W1502039323",
+    "https://openalex.org/W1545604506",
+    "https://openalex.org/W1581171156",
+    "https://openalex.org/W1973782178",
+    "https://openalex.org/W1983254330",
+    "https://openalex.org/W1988834830",
+    "https://openalex.org/W1994552281",
+    "https://openalex.org/W1996022725",
+    "https://openalex.org/W1999761133",
+    "https://openalex.org/W2009525638",
+    "https://openalex.org/W2019784560",
+    "https://openalex.org/W2021092900",
+    "https://openalex.org/W2021394842",
+    "https://openalex.org/W2021736518",
+    "https://openalex.org/W2024672600",
+    "https://openalex.org/W2027891744",
+    "https://openalex.org/W2033142198",
+    "https://openalex.org/W2033887246",
+    "https://openalex.org/W2035503922",
+    "https://openalex.org/W2037082846",
+    "https://openalex.org/W2039898243",
+    "https://openalex.org/W2045391589",
+    "https://openalex.org/W2047137951",
+    "https://openalex.org/W2048030587",
+    "https://openalex.org/W2054374369",
+    "https://openalex.org/W2063391935",
+    "https://openalex.org/W2075401723",
+    "https://openalex.org/W2075541348",
+    "https://openalex.org/W2078987654",
+    "https://openalex.org/W2083494857",
+    "https://openalex.org/W2083914339",
+    "https://openalex.org/W2084156540",
+    "https://openalex.org/W2088123491",
+    "https://openalex.org/W2093858899",
+    "https://openalex.org/W2096121416",
+    "https://openalex.org/W2098685046",
+    "https://openalex.org/W2105155852",
+    "https://openalex.org/W2112159517",
+    "https://openalex.org/W2120830385",
+    "https://openalex.org/W2122665442",
+    "https://openalex.org/W2126812600",
+    "https://openalex.org/W2129778069",
+    "https://openalex.org/W2139832281",
+    "https://openalex.org/W2140813774",
+    "https://openalex.org/W2141353459",
+    "https://openalex.org/W2150628319",
+    "https://openalex.org/W2152378712",
+    "https://openalex.org/W2158218660",
+    "https://openalex.org/W2160436099",
+    "https://openalex.org/W2162911488",
+    "https://openalex.org/W2169856238",
+    "https://openalex.org/W2172567673",
+    "https://openalex.org/W2173931972",
+    "https://openalex.org/W2178653278",
+    "https://openalex.org/W2178748253",
+    "https://openalex.org/W2268825115",
+    "https://openalex.org/W2316508456",
+    "https://openalex.org/W2339785477",
+    "https://openalex.org/W2404474129",
+    "https://openalex.org/W2464860068",
+    "https://openalex.org/W2513013402",
+    "https://openalex.org/W2583028826",
+    "https://openalex.org/W2803738061",
+    "https://openalex.org/W3122457992",
+    "https://openalex.org/W3123451662",
+    "https://openalex.org/W345079997",
+    "https://openalex.org/W4231321897",
+    "https://openalex.org/W4238251099",
+    "https://openalex.org/W4240345219",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W4302974299",
+    "https://openalex.org/W610900426",
+    "https://openalex.org/W616776945"
+  ]
+}

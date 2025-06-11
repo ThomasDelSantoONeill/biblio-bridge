@@ -1,0 +1,20 @@
+{
+  "id": "https://openalex.org/W2056005351",
+  "title": "Is MSY an Adequate Foundation for Optimum Yield?",
+  "abstract": "Traditionally, maximum sustained yield (MSY) has been estimated from surplus production models. A second approach has been to calculate MSY as the product of average recruitment and maximum yield per recruit. These approaches to MSY are an inadequate foundation for optimum yield. Surplus production models are fit to catch and effort data under the assumption that the rate of expenditure of effort is proportional to fishing mortality rate. Often, this assumption is not valid. Furthermore, the most common method of fitting surplus production models to data may falsely indicate that the model satisfactorily describes the fishery. Because of the random fluctuations in productivity of fisheries, the fishing mortality rate corresponding to MSY will produce an average yield less than MSY. Maximizing yield per recruit may lead to a severe depletion of spawning stock size and recruitment failure. For multispecies fisheries, independent management of several species aimed at achieving MSY for each may be self-defeating. The concept of MSY implies constancy in yield. A constant yield can be achieved by setting annual catch at a low enough level to assure conservation of the fishery resource even during a series of years of low productivity (the a priori definition of MSY), but during years of higher productivity yield may be lower than is necessary to achieve conservation objectives. Greater utilization of a fishery resource may be effected by adjusting yield in response to fluctuations in productivity and the current status of the resource.",
+  "authors": [
+    {
+      "name": "Michael P. Sissenwine"
+    }
+  ],
+  "publication_year": 1978,
+  "cited_by_count": 74,
+  "referenced_works": [
+    "https://openalex.org/W2035058341",
+    "https://openalex.org/W2057805880",
+    "https://openalex.org/W2061427426",
+    "https://openalex.org/W2107601624",
+    "https://openalex.org/W2182817873",
+    "https://openalex.org/W4285719527"
+  ]
+}
