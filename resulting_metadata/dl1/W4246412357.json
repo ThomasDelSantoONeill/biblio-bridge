@@ -1,0 +1,17 @@
+{
+  "id": "https://openalex.org/W4246412357",
+  "title": "Satisficing Games and Decision Making",
+  "abstract": "In our day-to-day lives we constantly make decisions which are simply 'good enough' rather than optimal. Most computer-based decision-making algorithms, on the other hand, doggedly seek only the optimal solution based on rigid criteria and reject any others. In this book, Professor Stirling outlines an alternative approach, using novel algorithms and techniques which can be used to find satisficing solutions. Building on traditional decision and game theory, these techniques allow decision-making systems to cope with more subtle situations where self and group interests conflict, perfect solutions can't be found and human issues need to be taken into account - in short, more closely modelling the way humans make decisions. The book will therefore be of great interest to engineers, computer scientists and mathematicians working on artificial intelligence and expert systems.",
+  "authors": [
+    {
+      "name": "Wynn C. Stirling"
+    }
+  ],
+  "publication_year": 2003,
+  "cited_by_count": 88,
+  "primary_topic": "Unknown topic",
+  "subfield_topic": "Unknown subfield",
+  "field_topic": "Unknown field",
+  "domain_topic": "Unknown domain",
+  "referenced_works": []
+}

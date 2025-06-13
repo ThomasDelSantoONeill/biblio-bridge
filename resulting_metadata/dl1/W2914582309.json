@@ -1,0 +1,43 @@
+{
+  "id": "https://openalex.org/W2914582309",
+  "title": "All ecological models are wrong, but some are useful",
+  "abstract": "Abstract In Focus: Curtsdotter , A. , Banks , H. T. , Banks , J. E. , Jonsson , M. , Jonsson , T. , Laubmeier , A. N. , … Bommarco , R. ( 2019 ). . Journal of Animal Ecology , 88 , https://doi.org/10.1111/1365-2656.12892 Species’ population dynamics are influenced by a variety of abiotic and biotic factors. Curtsdotter et al. (2019) used a food web model to investigate the role of predator–prey interactions in the population dynamics of the bird cherry‐oat aphid Rhopalosiphum padi . Their analysis hinged on linking the observed population dynamics to a mathematical description of the multi‐species system via inverse methods—an approach less utilized in ecology but that allows one to search a wide space of possible parameterizations and identify best‐fit model parameters. By scrutinizing the fit of this model to observed aphid population dynamics in 10 separate barley fields, they identified fields in which predation was the key driving force; in others, they found that accurate predictions depended on the existence of an unpredictable and unidentified extrinsic driver of aphid mortality. By scrutinizing areas where the model gave poor or biologically counterintuitive fits, their study provides a path forward to better link ecological theory to ecosystem function.",
+  "authors": [
+    {
+      "name": "Daniel B. Stouffer"
+    }
+  ],
+  "publication_year": 2019,
+  "cited_by_count": 12,
+  "primary_topic": "Plant and animal studies",
+  "subfield_topic": "Ecology, Evolution, Behavior and Systematics",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1512208174",
+    "https://openalex.org/W1944780056",
+    "https://openalex.org/W1996005503",
+    "https://openalex.org/W1999034136",
+    "https://openalex.org/W2001155312",
+    "https://openalex.org/W2023655396",
+    "https://openalex.org/W2026269078",
+    "https://openalex.org/W2041919248",
+    "https://openalex.org/W2045890179",
+    "https://openalex.org/W2073537300",
+    "https://openalex.org/W2105320140",
+    "https://openalex.org/W2106276251",
+    "https://openalex.org/W2106745149",
+    "https://openalex.org/W2111614905",
+    "https://openalex.org/W2114079981",
+    "https://openalex.org/W2114427645",
+    "https://openalex.org/W2115760600",
+    "https://openalex.org/W2158406456",
+    "https://openalex.org/W2256238626",
+    "https://openalex.org/W2346537720",
+    "https://openalex.org/W2757232235",
+    "https://openalex.org/W2791756676",
+    "https://openalex.org/W2843676080",
+    "https://openalex.org/W2887763862",
+    "https://openalex.org/W4236990395"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "https://openalex.org/W2030914480",
+  "title": "The price of selfish routing",
+  "abstract": "We study the problem of routing traffic through a congested network. We focus on the simplest case of a network consisting of m parallel links. We assume a collection of n network users, each employing a mixed strategy which is a probability distribution over links, to control the shipping of its own assigned traffic. Given a capacity for each link specifying the rate at which the link processes traffic, the objective is to route traffic so that the maximum expected latency over all links is minimized. We consider both uniform and non-uniform link capacities.",
+  "authors": [
+    {
+      "name": "Marios Mavronicolas"
+    },
+    {
+      "name": "Paul G. Spirakis"
+    }
+  ],
+  "publication_year": 2001,
+  "cited_by_count": 184,
+  "primary_topic": "Optimization and Search Problems",
+  "subfield_topic": "Computer Networks and Communications",
+  "field_topic": "Computer Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1486613786",
+    "https://openalex.org/W1512531990",
+    "https://openalex.org/W1526250527",
+    "https://openalex.org/W1552828154",
+    "https://openalex.org/W1578630563",
+    "https://openalex.org/W17078302",
+    "https://openalex.org/W1753330597",
+    "https://openalex.org/W1928381443",
+    "https://openalex.org/W1976625337",
+    "https://openalex.org/W1978388770",
+    "https://openalex.org/W1996507077",
+    "https://openalex.org/W2042587503",
+    "https://openalex.org/W2059879891",
+    "https://openalex.org/W2061145134",
+    "https://openalex.org/W2061496873",
+    "https://openalex.org/W2067050450",
+    "https://openalex.org/W2080128220",
+    "https://openalex.org/W2088559962",
+    "https://openalex.org/W2091289602",
+    "https://openalex.org/W2099139738",
+    "https://openalex.org/W2099699159",
+    "https://openalex.org/W2102562355",
+    "https://openalex.org/W2105327614",
+    "https://openalex.org/W2109006960",
+    "https://openalex.org/W2109100253",
+    "https://openalex.org/W2112269231",
+    "https://openalex.org/W2113692632",
+    "https://openalex.org/W2118480861",
+    "https://openalex.org/W2125537511",
+    "https://openalex.org/W2137560895",
+    "https://openalex.org/W2147368141",
+    "https://openalex.org/W2151359428",
+    "https://openalex.org/W2151387317",
+    "https://openalex.org/W2151960821",
+    "https://openalex.org/W2155361616",
+    "https://openalex.org/W2156816884",
+    "https://openalex.org/W2175706438",
+    "https://openalex.org/W2295428206",
+    "https://openalex.org/W2330024298",
+    "https://openalex.org/W2912437396",
+    "https://openalex.org/W3124735991",
+    "https://openalex.org/W4234761190"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "https://openalex.org/W2103423125",
+  "title": "The evaluation of two management strategies for the Gulf of Alaska walleye pollock fishery under climate change",
+  "abstract": "Abstract A’mar, Z. T., Punt, A. E., and Dorn, M. W. 2009. The evaluation of two management strategies for the Gulf of Alaska walleye pollock fishery under climate change. – ICES Journal of Marine Science, 66: 1614–1632. Management strategy evaluation (MSE) is the process of using simulation testing with feedback to examine the robustness of candidate management strategies to error and uncertainty. The structure of the management strategy can be selected to attempt to satisfy desired (but conflicting) management objectives. MSE was used to assess the performance of the current management strategy and an alternative management strategy (the “dynamic B0” strategy) for the fishery for walleye pollock (Theragra chalcogramma) in the Gulf of Alaska (GOA), when age-1 recruitment was driven by climate. The relationships between age-1 abundance and climate indices (and the uncertainties associated with these relationships) were characterized within an age-structured operating model that was fitted to the data for GOA walleye pollock. Projections into the future were based on the fitted relationships and predictions of those indices from the Intergovernmental Panel on Climate Change (IPCC) models, using the current or the alternative management strategy to determine catch limits. Management performance (the ability to leave the stock close to the management reference level and achieve high and stable catches) deteriorated when age-1 recruitment was forced by climate, although stocks were kept near the reference level on average. In addition, the ability to estimate management-related quantities, such as spawning biomass, deteriorated markedly when recruitment was forced by climate. Performance was sensitive to the choice of IPCC dataset and, in particular, estimation and management performance was poorest (outcomes most variable) for the IPCC datasets that led to the greatest variation in recruitment to the fishery. Although basing management on a “dynamic B0” management strategy led to improved management and estimation performance, the magnitude of the improvement was slight.",
+  "authors": [
+    {
+      "name": "Z. Teresa A’mar"
+    },
+    {
+      "name": "André E. Punt"
+    },
+    {
+      "name": "Martin W. Dorn"
+    }
+  ],
+  "publication_year": 2009,
+  "cited_by_count": 94,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1520428197",
+    "https://openalex.org/W1705762375",
+    "https://openalex.org/W1979765650",
+    "https://openalex.org/W1990484562",
+    "https://openalex.org/W2003899690",
+    "https://openalex.org/W2006959528",
+    "https://openalex.org/W2020046994",
+    "https://openalex.org/W2035882042",
+    "https://openalex.org/W2045656233",
+    "https://openalex.org/W2053869171",
+    "https://openalex.org/W2058514690",
+    "https://openalex.org/W2058815839",
+    "https://openalex.org/W2061328952",
+    "https://openalex.org/W2062657361",
+    "https://openalex.org/W2080720675",
+    "https://openalex.org/W2101842079",
+    "https://openalex.org/W2120186285",
+    "https://openalex.org/W2126215608",
+    "https://openalex.org/W2138309709",
+    "https://openalex.org/W2143707047",
+    "https://openalex.org/W2147731173",
+    "https://openalex.org/W2149567119",
+    "https://openalex.org/W2162575138",
+    "https://openalex.org/W2167131604",
+    "https://openalex.org/W2168208734",
+    "https://openalex.org/W2317905012",
+    "https://openalex.org/W2574956073",
+    "https://openalex.org/W2914252064",
+    "https://openalex.org/W2939474406",
+    "https://openalex.org/W2991460120",
+    "https://openalex.org/W3035941750",
+    "https://openalex.org/W4232383088",
+    "https://openalex.org/W4285719527"
+  ]
+}

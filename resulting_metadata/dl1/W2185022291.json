@@ -1,0 +1,36 @@
+{
+  "id": "https://openalex.org/W2185022291",
+  "title": "A MULTISPECIES ANALYSIS OF THE COMMERCIAL DEEP-SEA HANDLINE FISHERY IN HAWAll",
+  "abstract": "In the Hawaiian Islands 13 species of bottom fish are commonly harvested in the commercial deep­ sea handline fishery. These are all high-level carnivores, including snappers, jacks, and a species of grouper, which are sought in water depths ranging from 60 to 350 m. Cluster analyses performed on the Hawaii Division of Fish and Game commercial catch report data suggest the existence of three bottom fish species groups which apparently segregate on the basis of depth distribution. These groups seem to be stable through time and similar among differing geographic localities. Two measures of fishing effort, catch-records and fisherman-days, were compared to determine which is more suitable for use in stock-production analyses. Fisherman-days was selected because, among other reasons, it repeatedly demonstrates a stronger negative correlation with catch per unit effort. Application of the Schaefer stock-production model to this multispecies fishery on a species-by­ species basis provides an inadequate description of productivity. When catch statistics are aggregated according to the three cluster analysis species groups the results are much improved. In this regard consistently significant results and production estimates were obtained from the Maui­ Lanai-Kahoolawe-Molokai bank, a region which presently accounts for about half of the total Hawaii catch. No significant interaction amongthe cluster groups was detected. When all 13 bottom fish species are analyzed together, the results are in agreement with the preceding analysis. Examining the aggregation process suggests that the model based on the intermediate level of aggregation (cluster groups) explains slightly more of the variation in total catch than does the model which treats all 13 species together. We estimate the annual maximumsustainable yield of the commercial deep-sea handline fishery around the Maui-Lanai-Kahoolawe-Molokai bank to be 106 metric tons or about 272 kg/nmi of 100­ fathom isobath. Because recreational catch is unaccounted for these figures are considered lower bounds for the gross production obtainable from this type of fishery although currently the commercial fishery is operating close to this maximum-sustainable-yield level.",
+  "authors": [
+    {
+      "name": "Jeffrey J. Polovina"
+    }
+  ],
+  "publication_year": 1982,
+  "cited_by_count": 52,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1985342263",
+    "https://openalex.org/W1992590998",
+    "https://openalex.org/W1999748030",
+    "https://openalex.org/W2005615963",
+    "https://openalex.org/W2016244228",
+    "https://openalex.org/W2017549609",
+    "https://openalex.org/W2024353499",
+    "https://openalex.org/W2027191688",
+    "https://openalex.org/W2060987421",
+    "https://openalex.org/W2069460986",
+    "https://openalex.org/W2080170901",
+    "https://openalex.org/W2107601624",
+    "https://openalex.org/W2182817873",
+    "https://openalex.org/W2236039724",
+    "https://openalex.org/W2282176172",
+    "https://openalex.org/W2326537485",
+    "https://openalex.org/W2797953954",
+    "https://openalex.org/W422947340"
+  ]
+}

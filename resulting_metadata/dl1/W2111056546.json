@@ -1,0 +1,58 @@
+{
+  "id": "https://openalex.org/W2111056546",
+  "title": "Climate, zooplankton, and pelagic fish growth in the central Baltic Sea",
+  "abstract": "Abstract Oceanographic conditions in the brackish central Baltic Sea are strongly linked to atmospheric forcing and the unusual period of persistently strong westerlies that, since the late 1980s, have resulted in an increase in average water temperatures and decreasing salinity. These changes in temperature and salinity resulted in a change in the dominance of the mesozooplankton community from Pseudocalanus sp. to Temora longicornis and Acartia spp. Similar to the copepod community, the central Baltic fish community shifted from cod (Gadus morhua), dominant during the 1980s, to sprat (Sprattus sprattus), dominant during the 1990s. Further, the commercially important pelagic fish species herring (Clupea harengus) and sprat exhibited reductions in growth. Using Principal Component and Correlation Analyses we investigated the temporal variability in the importance of the food supply as well as competition on condition of central Baltic pelagic fish species. Our results indicate that herring condition results from a combined effect of changes in the food environment and increased competition with sprat, while sprat condition appeared to be primarily determined by intra-specific competition.",
+  "authors": [
+    {
+      "name": "Christian Möllmann"
+    },
+    {
+      "name": "Georgs Kornilovs"
+    },
+    {
+      "name": "M. Fetter"
+    },
+    {
+      "name": "Friedrich W. Köster"
+    }
+  ],
+  "publication_year": 2005,
+  "cited_by_count": 150,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1520884514",
+    "https://openalex.org/W1967879296",
+    "https://openalex.org/W1969174463",
+    "https://openalex.org/W1979589182",
+    "https://openalex.org/W1989978375",
+    "https://openalex.org/W1999666074",
+    "https://openalex.org/W2010934531",
+    "https://openalex.org/W2018114254",
+    "https://openalex.org/W2023633889",
+    "https://openalex.org/W2027137210",
+    "https://openalex.org/W2029544389",
+    "https://openalex.org/W2067375304",
+    "https://openalex.org/W2073289890",
+    "https://openalex.org/W2082776215",
+    "https://openalex.org/W2083966614",
+    "https://openalex.org/W2085196599",
+    "https://openalex.org/W2114155478",
+    "https://openalex.org/W2116946539",
+    "https://openalex.org/W2126912169",
+    "https://openalex.org/W2142052460",
+    "https://openalex.org/W2151482884",
+    "https://openalex.org/W2171303770",
+    "https://openalex.org/W2185656495",
+    "https://openalex.org/W2529421521",
+    "https://openalex.org/W2600086799",
+    "https://openalex.org/W2615180781",
+    "https://openalex.org/W2995431673",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W607422201",
+    "https://openalex.org/W756658810",
+    "https://openalex.org/W966618925"
+  ]
+}

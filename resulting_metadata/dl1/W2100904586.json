@@ -1,0 +1,27 @@
+{
+  "id": "https://openalex.org/W2100904586",
+  "title": "Use of Risk Analysis to Assess Fishery Management Strategies: A Case Study using Orange Roughy (<i>Hoplostethus atlanticus</i>) on the Chatham Rise, New Zealand",
+  "abstract": "Risk analysis can enhance the value of scientific advice to fishery managers by expressing the uncertainty inherent in stock assessments in terms of biological risk. I present a case study involving an overexploited population of orange roughy (Hoplostethus atlanticus) on the Chatham Rise, New Zealand. This analysis quantifies the risk to the fishery and shows how this decreases as the rate of reduction in total allowble catch increases. The technique helps fishery managers balance biological risk against economic risk. Ways of generalizing the technique are discussed.",
+  "authors": [
+    {
+      "name": "R. I. C. C. Francis"
+    }
+  ],
+  "publication_year": 1992,
+  "cited_by_count": 215,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1987841672",
+    "https://openalex.org/W1989050709",
+    "https://openalex.org/W1991567646",
+    "https://openalex.org/W2007654960",
+    "https://openalex.org/W2037212479",
+    "https://openalex.org/W2044941497",
+    "https://openalex.org/W2143942463",
+    "https://openalex.org/W2611591252",
+    "https://openalex.org/W2801840425"
+  ]
+}

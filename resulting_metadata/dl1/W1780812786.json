@@ -1,0 +1,25 @@
+{
+  "id": "https://openalex.org/W1780812786",
+  "title": "Implementing Ecosystem‐Based Fisheries Management: Advances, Challenges and Emerging Tools",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Timothy E. Essington"
+    },
+    {
+      "name": "André E. Punt"
+    }
+  ],
+  "publication_year": 2011,
+  "cited_by_count": 52,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1543409689",
+    "https://openalex.org/W2057332804",
+    "https://openalex.org/W2141684699",
+    "https://openalex.org/W2163492266"
+  ]
+}

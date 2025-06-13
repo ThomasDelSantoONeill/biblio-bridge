@@ -1,0 +1,23 @@
+{
+  "id": "https://openalex.org/W2326421121",
+  "title": "The Mathematical Theory of the Dynamics of Biological Populations.",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Richard F. Green"
+    },
+    {
+      "name": "M. S. Bartlett"
+    },
+    {
+      "name": "R. W. Hiorns"
+    }
+  ],
+  "publication_year": 1974,
+  "cited_by_count": 288,
+  "primary_topic": "Mathematical Biology Tumor Growth",
+  "subfield_topic": "Modeling and Simulation",
+  "field_topic": "Mathematics",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": []
+}

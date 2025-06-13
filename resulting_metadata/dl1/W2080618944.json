@@ -1,0 +1,17 @@
+{
+  "id": "https://openalex.org/W2080618944",
+  "title": "Natural selection in the wild",
+  "abstract": "Natural selection is an immense and important subject, yet there have been few attempts to summarize its effects on natural populations, and fewer still which discuss the problems of working with natural selection in the wild. These are the purposes of John Endler's book. In it, he discusses the methods and problems involved in the demonstration and measurement of natural selection, presents the critical evidence for its existence, and places it in an evolutionary perspective. Professor Endler finds that there are a remarkable number of direct demonstrations of selection in a wide variety of animals and plants. The distribution of observed magnitudes of selection in natural populations is surprisingly broad, and it overlaps extensively the range of values found in artificial selection. He argues that the common assumption that selection is usually weak in natural populations is no longer tenable, but that natural selection is only one component of the process of evolution; natural selection can explain the change of frequencies of variants, but not their origins.",
+  "authors": [
+    {
+      "name": "John A. Endler"
+    }
+  ],
+  "publication_year": 1986,
+  "cited_by_count": 3138,
+  "primary_topic": "Evolution and Genetic Dynamics",
+  "subfield_topic": "Genetics",
+  "field_topic": "Biochemistry, Genetics and Molecular Biology",
+  "domain_topic": "Life Sciences",
+  "referenced_works": []
+}

@@ -1,0 +1,63 @@
+{
+  "id": "https://openalex.org/W1581171156",
+  "title": "THE ECONOMICS OF CONFLICTING INTERESTS: NORTHERN BALTIC SALMON FISHERY ADAPTION TO GRAY SEAL ABUNDANCE",
+  "abstract": "Abstract The successful conservation of gray seals has led to increased seal‐induced damage to the Atlantic salmon fisheries of the Baltic Sea. This paper addresses the conflict between the conservation of a formerly endangered species, the gray seal, and professional fishermen, whose livelihoods are affected by both seal‐induced damage and salmon fisheries management. We develop a bioeconomic model that incorporates the age structure of Atlantic salmon and gray seal populations. To determine the social optimum, we maximize the discounted net present value of the trap net fishery, taking into account the presence of seals in the form of seal‐induced losses, which we describe using a damage function. By choosing the optimal combination of fishing gear over time, we obtain the socially optimal fishing efforts, salmon stock size, and salmon catch. In addition, we study the private effects of introducing a technology subsidy aimed at mitigating the seal‐salmon conflict. The results suggest that technological adaptation would effectively reduce the cause of the conflict, while a technology subsidy encouraging such adaptation would shift the economic responsibility from individual fishermen to the broader public.",
+  "authors": [
+    {
+      "name": "Maija Holma"
+    },
+    {
+      "name": "Marko Lindroos"
+    },
+    {
+      "name": "Soile Oinonen"
+    }
+  ],
+  "publication_year": 2014,
+  "cited_by_count": 17,
+  "primary_topic": "Marine animal studies overview",
+  "subfield_topic": "Ecology",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1537827134",
+    "https://openalex.org/W1541663461",
+    "https://openalex.org/W1553785015",
+    "https://openalex.org/W1570544289",
+    "https://openalex.org/W1969314674",
+    "https://openalex.org/W2001451047",
+    "https://openalex.org/W2010362952",
+    "https://openalex.org/W2012357422",
+    "https://openalex.org/W2016992533",
+    "https://openalex.org/W2025376222",
+    "https://openalex.org/W2027222857",
+    "https://openalex.org/W2033575832",
+    "https://openalex.org/W2040858502",
+    "https://openalex.org/W2047319191",
+    "https://openalex.org/W2064441428",
+    "https://openalex.org/W2072000751",
+    "https://openalex.org/W2075983648",
+    "https://openalex.org/W2081852122",
+    "https://openalex.org/W2088123491",
+    "https://openalex.org/W2092494720",
+    "https://openalex.org/W2107958188",
+    "https://openalex.org/W2108477734",
+    "https://openalex.org/W2133595076",
+    "https://openalex.org/W2134153903",
+    "https://openalex.org/W2137185521",
+    "https://openalex.org/W2140813774",
+    "https://openalex.org/W2144717685",
+    "https://openalex.org/W2156592557",
+    "https://openalex.org/W2176997672",
+    "https://openalex.org/W2179926237",
+    "https://openalex.org/W2186978037",
+    "https://openalex.org/W2247448727",
+    "https://openalex.org/W2311585723",
+    "https://openalex.org/W2314017270",
+    "https://openalex.org/W2513013402",
+    "https://openalex.org/W3125009268",
+    "https://openalex.org/W3200363049",
+    "https://openalex.org/W4233084132",
+    "https://openalex.org/W646023791"
+  ]
+}

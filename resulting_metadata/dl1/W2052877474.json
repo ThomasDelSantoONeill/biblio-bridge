@@ -1,0 +1,31 @@
+{
+  "id": "https://openalex.org/W2052877474",
+  "title": "Predicted extirpation of the dominant demersal fish in a large marine ecosystem: Atlantic cod (Gadus morhua) in the southern Gulf of St. Lawrence",
+  "abstract": "Atlantic cod ( Gadus morhua ) was the dominant demersal fish and most important predator in the southern Gulf of St. Lawrence ecosystem as recently as the 1980s. However, productivity of southern Gulf cod has declined, and the population is no longer viable even in the absence of fishing. We conducted population projections taking into account uncertainty in current abundance-at-age and uncertainty or variability in each of the components of population productivity (i.e., rates of recruitment, individual growth, and adult natural mortality). We defined extirpation as a spawning stock biomass less than 1000 t (&lt;0.3% of historical levels). Based on these projections, at its current level of productivity, this population is certain to be extirpated within 40 years in the absence of fishing and in 20 years with fishery removals at the level of the total allowable catch in 2007 and 2008 (2000 t). Elevated natural mortality of adult cod (M) is the main factor contributing to the low productivity of this stock. Because M appears to be increasing, our projections are likely overly optimistic.",
+  "authors": [
+    {
+      "name": "Douglas P. Swain"
+    },
+    {
+      "name": "G. A. Chouinard"
+    }
+  ],
+  "publication_year": 2008,
+  "cited_by_count": 86,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W2001699177",
+    "https://openalex.org/W2015925167",
+    "https://openalex.org/W2025673240",
+    "https://openalex.org/W2026090622",
+    "https://openalex.org/W2070457290",
+    "https://openalex.org/W2116149176",
+    "https://openalex.org/W2137019082",
+    "https://openalex.org/W2152659696",
+    "https://openalex.org/W2161739278",
+    "https://openalex.org/W4243811796"
+  ]
+}

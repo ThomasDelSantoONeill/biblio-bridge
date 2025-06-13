@@ -1,0 +1,71 @@
+{
+  "id": "https://openalex.org/W1972379970",
+  "title": "North Sea cod and climate change – modelling the effects of temperature on population dynamics",
+  "abstract": "Abstract In order to examine the likely impacts of climate change on fish stocks, it is necessary to couple the output from large‐scale climate models to fisheries population simulations. Using projections of future North Sea surface temperatures for the period 2000–2050 from the Hadley General Circulation Model, we estimate the likely effects of climate change on the North Sea cod population. Output from the model suggests that increasing temperatures will lead to an increased rate of decline in the North Sea cod population compared with simulations that ignore environmental change. Although the simulation developed here is relatively simplistic, we demonstrate that inclusion of environmental factors in population models can markedly alter one's perception of how the population will behave. The development of simulations incorporating environment effects will become increasingly important as the impacts of climate change on the marine ecosystem become more pronounced.",
+  "authors": [
+    {
+      "name": "Robin A. Clark"
+    },
+    {
+      "name": "Clive J. Fox"
+    },
+    {
+      "name": "David Viner"
+    },
+    {
+      "name": "Matthew Livermore"
+    }
+  ],
+  "publication_year": 2003,
+  "cited_by_count": 158,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W13545993",
+    "https://openalex.org/W1551423425",
+    "https://openalex.org/W1555781909",
+    "https://openalex.org/W1589375716",
+    "https://openalex.org/W159485531",
+    "https://openalex.org/W1759754829",
+    "https://openalex.org/W192835503",
+    "https://openalex.org/W1966396962",
+    "https://openalex.org/W1968202291",
+    "https://openalex.org/W1971313627",
+    "https://openalex.org/W1972313692",
+    "https://openalex.org/W1977212456",
+    "https://openalex.org/W1978061315",
+    "https://openalex.org/W1979765650",
+    "https://openalex.org/W1985332233",
+    "https://openalex.org/W2004504974",
+    "https://openalex.org/W2010654495",
+    "https://openalex.org/W2016855479",
+    "https://openalex.org/W2021382234",
+    "https://openalex.org/W2037263669",
+    "https://openalex.org/W2039685996",
+    "https://openalex.org/W2040433396",
+    "https://openalex.org/W2046875510",
+    "https://openalex.org/W2059661065",
+    "https://openalex.org/W2069269964",
+    "https://openalex.org/W2069835089",
+    "https://openalex.org/W2080593797",
+    "https://openalex.org/W2093978482",
+    "https://openalex.org/W2098271919",
+    "https://openalex.org/W2104149027",
+    "https://openalex.org/W2110011277",
+    "https://openalex.org/W2114100737",
+    "https://openalex.org/W2114600193",
+    "https://openalex.org/W2155955654",
+    "https://openalex.org/W2156359632",
+    "https://openalex.org/W2168114634",
+    "https://openalex.org/W2591766463",
+    "https://openalex.org/W2603306123",
+    "https://openalex.org/W2768991103",
+    "https://openalex.org/W3112983059",
+    "https://openalex.org/W4210260625",
+    "https://openalex.org/W4248747530",
+    "https://openalex.org/W4250376476",
+    "https://openalex.org/W773065715"
+  ]
+}

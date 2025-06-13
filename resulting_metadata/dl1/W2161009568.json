@@ -1,0 +1,102 @@
+{
+  "id": "https://openalex.org/W2161009568",
+  "title": "Guidance for implementation of integrated ecosystem assessments: a US perspective",
+  "abstract": "Abstract Ecosystem-based management (EBM) has emerged as a basic approach for managing human activities in marine ecosystems, with the aim of recovering and conserving marine ecosystems and the services they deliver. Integrated ecosystem assessments (IEAs) further the transition of EBM from principle to practice by providing an efficient, transparent means of summarizing the status of ecosystem components, screening and prioritizing potential risks, and evaluating alternative management strategies against a backdrop of environmental variability. In this paper, we draw upon lessons learned from the US National Oceanic and Atmospheric Administration's IEA programme to outline steps required for IEA implementation. We provide an overview of the conceptual framework for IEAs, the practical constraints that shape the structure of individual IEAs, and the uses and outcomes of IEAs in support of EBM.",
+  "authors": [
+    {
+      "name": "Phillip S. Levin"
+    },
+    {
+      "name": "Christopher R. Kelble"
+    },
+    {
+      "name": "Rebecca Shuford"
+    },
+    {
+      "name": "Cameron H. Ainsworth"
+    },
+    {
+      "name": "Yvonne L. deReynier"
+    },
+    {
+      "name": "Rikki Dunsmore"
+    },
+    {
+      "name": "Michael J. Fogarty"
+    },
+    {
+      "name": "Kirstin K. Holsman"
+    },
+    {
+      "name": "Evan A. Howell"
+    },
+    {
+      "name": "Mark E. Monaco"
+    },
+    {
+      "name": "Stephanie A. Oakes"
+    },
+    {
+      "name": "Francisco E. Werner"
+    }
+  ],
+  "publication_year": 2013,
+  "cited_by_count": 135,
+  "primary_topic": "Coastal and Marine Management",
+  "subfield_topic": "Management, Monitoring, Policy and Law",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1499928184",
+    "https://openalex.org/W1518829702",
+    "https://openalex.org/W1551533759",
+    "https://openalex.org/W1564478303",
+    "https://openalex.org/W1967422864",
+    "https://openalex.org/W1968233295",
+    "https://openalex.org/W1990241575",
+    "https://openalex.org/W1991927421",
+    "https://openalex.org/W2004037061",
+    "https://openalex.org/W2007881614",
+    "https://openalex.org/W2011067938",
+    "https://openalex.org/W2013717106",
+    "https://openalex.org/W2029687457",
+    "https://openalex.org/W2032020911",
+    "https://openalex.org/W2040011903",
+    "https://openalex.org/W2051904778",
+    "https://openalex.org/W2057573228",
+    "https://openalex.org/W2069484868",
+    "https://openalex.org/W2097151205",
+    "https://openalex.org/W2099421102",
+    "https://openalex.org/W2110310854",
+    "https://openalex.org/W2111333045",
+    "https://openalex.org/W2120830385",
+    "https://openalex.org/W2122505518",
+    "https://openalex.org/W2127032204",
+    "https://openalex.org/W2131372243",
+    "https://openalex.org/W2137523123",
+    "https://openalex.org/W2139591947",
+    "https://openalex.org/W2139658635",
+    "https://openalex.org/W2141684699",
+    "https://openalex.org/W2145350205",
+    "https://openalex.org/W2147542652",
+    "https://openalex.org/W2151029324",
+    "https://openalex.org/W2156363773",
+    "https://openalex.org/W2158622585",
+    "https://openalex.org/W2158662288",
+    "https://openalex.org/W2161880071",
+    "https://openalex.org/W2163492266",
+    "https://openalex.org/W2163685009",
+    "https://openalex.org/W2170532735",
+    "https://openalex.org/W2265957756",
+    "https://openalex.org/W2397383529",
+    "https://openalex.org/W2618972019",
+    "https://openalex.org/W2620958647",
+    "https://openalex.org/W2622946719",
+    "https://openalex.org/W2745380401",
+    "https://openalex.org/W2761302781",
+    "https://openalex.org/W4214907165",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W612272006",
+    "https://openalex.org/W773734042"
+  ]
+}

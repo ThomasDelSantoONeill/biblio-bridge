@@ -1,0 +1,61 @@
+{
+  "id": "https://openalex.org/W2498384772",
+  "title": "Ensemble ecosystem modeling for predicting ecosystem response to predator reintroduction",
+  "abstract": "Introducing a new or extirpated species to an ecosystem is risky, and managers need quantitative methods that can predict the consequences for the recipient ecosystem. Proponents of keystone predator reintroductions commonly argue that the presence of the predator will restore ecosystem function, but this has not always been the case, and mathematical modeling has an important role to play in predicting how reintroductions will likely play out. We devised an ensemble modeling method that integrates species interaction networks and dynamic community simulations and used it to describe the range of plausible consequences of 2 keystone-predator reintroductions: wolves (Canis lupus) to Yellowstone National Park and dingoes (Canis dingo) to a national park in Australia. Although previous methods for predicting ecosystem responses to such interventions focused on predicting changes around a given equilibrium, we used Lotka-Volterra equations to predict changing abundances through time. We applied our method to interaction networks for wolves in Yellowstone National Park and for dingoes in Australia. Our model replicated the observed dynamics in Yellowstone National Park and produced a larger range of potential outcomes for the dingo network. However, we also found that changes in small vertebrates or invertebrates gave a good indication about the potential future state of the system. Our method allowed us to predict when the systems were far from equilibrium. Our results showed that the method can also be used to predict which species may increase or decrease following a reintroduction and can identify species that are important to monitor (i.e., species whose changes in abundance give extra insight into broad changes in the system). Ensemble ecosystem modeling can also be applied to assess the ecosystem-wide implications of other types of interventions including assisted migration, biocontrol, and invasive species eradication.",
+  "authors": [
+    {
+      "name": "Christopher M. Baker"
+    },
+    {
+      "name": "Ascelin Gordon"
+    },
+    {
+      "name": "Michael Bode"
+    }
+  ],
+  "publication_year": 2016,
+  "cited_by_count": 78,
+  "primary_topic": "Wildlife Ecology and Conservation",
+  "subfield_topic": "Ecology",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1557000715",
+    "https://openalex.org/W1565205733",
+    "https://openalex.org/W1877187717",
+    "https://openalex.org/W1979067480",
+    "https://openalex.org/W1989126396",
+    "https://openalex.org/W1995141963",
+    "https://openalex.org/W2000256297",
+    "https://openalex.org/W2020221052",
+    "https://openalex.org/W2026037302",
+    "https://openalex.org/W2034967469",
+    "https://openalex.org/W2042504207",
+    "https://openalex.org/W2045973738",
+    "https://openalex.org/W2048486904",
+    "https://openalex.org/W2057113846",
+    "https://openalex.org/W2061040423",
+    "https://openalex.org/W2061430939",
+    "https://openalex.org/W2074845317",
+    "https://openalex.org/W2090072901",
+    "https://openalex.org/W2094023494",
+    "https://openalex.org/W2115734666",
+    "https://openalex.org/W2117191808",
+    "https://openalex.org/W2122055675",
+    "https://openalex.org/W2128462586",
+    "https://openalex.org/W2128868249",
+    "https://openalex.org/W2129579381",
+    "https://openalex.org/W2129849322",
+    "https://openalex.org/W2146381121",
+    "https://openalex.org/W2152801747",
+    "https://openalex.org/W2156150000",
+    "https://openalex.org/W2159345720",
+    "https://openalex.org/W2163744914",
+    "https://openalex.org/W2274426048",
+    "https://openalex.org/W2314505124",
+    "https://openalex.org/W2321937847",
+    "https://openalex.org/W2587826151",
+    "https://openalex.org/W4237997615",
+    "https://openalex.org/W4243237916"
+  ]
+}

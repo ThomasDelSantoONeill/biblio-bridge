@@ -1,0 +1,54 @@
+{
+  "id": "https://openalex.org/W2079946206",
+  "title": "Path Analysis: A Critical Evaluation Using Long-Term Experimental Data",
+  "abstract": "We evaluated the ability of path analysis to characterize direct and indirect interactions in a natural ecological system. Based on previous experimental work, we constructed a path diagram reflecting presumed relationships between kangaroo rats (Dipodomys spp.) and two other small rodent species. The technique was applied to examine the direct effects of competition and indirect effects mediated through vegetation. Path analysis gave varying and sometimes uninterpretable results when applied to data collected from unmanipulated and manipulated systems. The variation most likely can be attributed to some combination of inadequate specification of the path diagram, differences between unmanipulated and manipulated systems, varying responses to experiments of different duration, and natural temporal variation. Because these issues are applicable to many kinds of complex systems, we suggest caution before applying and when interpreting the results of path analysis.",
+  "authors": [
+    {
+      "name": "Felisa A. Smith"
+    },
+    {
+      "name": "James H. Brown"
+    },
+    {
+      "name": "Thomas J. Valone"
+    }
+  ],
+  "publication_year": 1997,
+  "cited_by_count": 59,
+  "primary_topic": "Animal Ecology and Behavior Studies",
+  "subfield_topic": "Ecology",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1538865557",
+    "https://openalex.org/W1965780536",
+    "https://openalex.org/W1972382451",
+    "https://openalex.org/W1973349764",
+    "https://openalex.org/W1979783913",
+    "https://openalex.org/W1984492382",
+    "https://openalex.org/W1986452628",
+    "https://openalex.org/W1987759914",
+    "https://openalex.org/W1990143735",
+    "https://openalex.org/W1999047637",
+    "https://openalex.org/W2012874045",
+    "https://openalex.org/W2016946203",
+    "https://openalex.org/W2033274712",
+    "https://openalex.org/W2049053063",
+    "https://openalex.org/W2052184582",
+    "https://openalex.org/W2055509010",
+    "https://openalex.org/W2064894212",
+    "https://openalex.org/W2082168070",
+    "https://openalex.org/W2093260247",
+    "https://openalex.org/W2142872516",
+    "https://openalex.org/W2146602246",
+    "https://openalex.org/W2149049530",
+    "https://openalex.org/W2150649398",
+    "https://openalex.org/W2158747611",
+    "https://openalex.org/W2180513534",
+    "https://openalex.org/W2322847402",
+    "https://openalex.org/W2330682456",
+    "https://openalex.org/W2795611891",
+    "https://openalex.org/W4243212781",
+    "https://openalex.org/W90474522"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "https://openalex.org/W2035559558",
+  "title": "The Stability of Large Random Matrices and Their Products",
+  "abstract": "Let $A(1), A(2), \\cdots$ be a sequence of independent identically distributed (i.i.d.) random real $n \\times n$ matrices and let $x(t) = A(t)x(t - 1), t = 1, 2, \\cdots$. Define $\\bar{\\lambda}_n = \\sup\\{\\lim_{t \\uparrow \\infty}\\|x(t)\\|^{1/t}: 0 \\neq x(0) \\in R^n\\}$ where $\\|\\cdot\\|$ denotes, e.g. the Euclidean norm, providing the limit exists almost surely (a.s.) and is nonrandom, and define $\\underline\\lambda_n$ analogously with sup replaced by inf. If all $n^2$ entries of each $A(t)$ are i.i.d. standard symmetric stable random variables of exponent $\\alpha$, then $\\underline\\lambda_n = \\overline\\lambda_n = \\lambda_n(\\alpha)$. In the standard normal case $(\\alpha = 2), \\lambda_n(2) = (2 \\exp\\lbrack\\psi(n/2)\\rbrack)^{1/2}$, where $\\psi$ is the digamma function, and $n^{-1/2}\\lambda_n(2) \\rightarrow 1$; for $0 < \\alpha < 2, (n \\log n)^{-1/\\alpha}\\lambda_n(\\alpha)$ converges to $\\{2 \\Gamma(\\alpha) \\sin(\\alpha\\pi/2)/\\lbrack\\alpha\\pi\\rbrack\\}^{1/2}$. Criteria for stability $(\\overline\\lambda_n < 1)$ and instability $(\\underline\\lambda_n > 1)$ are investigated for more general distributions of $A(t)$. We obtain, for example, the general bound, $\\overline\\lambda_n \\leq \\{r\\lbrack E(A(1)^T A(1))\\rbrack\\}^{1/2}$, where $A^T$ is the transpose of $A$ and $r$ denotes the spectral radius. In the case of independent entries of mean zero and common variance $s^2/n$, this leads to $\\lim \\sup_n \\overline\\lambda_n \\leq s$. If the entries of $A(t)$ are i.i.d. and distributed as $W/n^{1/2}$ where $W$ is independent of $n$, has mean zero, variance $s^2$ and satisfies $E(\\exp\\lbrack iuW\\rbrack) = O(|u|^{-\\delta})$ as $|u| \\uparrow \\infty$ for some $\\delta > 0$, then $\\lim \\inf_n\\bar\\lambda_n \\geq s$. These conditions for the asymptotic stability or instability of a product of random matrices are of the form originally proposed by May for differential equations governed by a single random matrix. We give counterexamples to show that May's criteria for the system of linear ordinary differential equations that he considered are not valid in the generality originally proposed, nor are they valid for the related system of difference equations considered by Hastings. The validity of May's criteria for these systems under more restrictive hypotheses remains an open question.",
+  "authors": [
+    {
+      "name": "Joel E. Cohen"
+    },
+    {
+      "name": "Charles M. Newman"
+    }
+  ],
+  "publication_year": 1984,
+  "cited_by_count": 127,
+  "primary_topic": "Random Matrices and Applications",
+  "subfield_topic": "Statistics and Probability",
+  "field_topic": "Mathematics",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": []
+}

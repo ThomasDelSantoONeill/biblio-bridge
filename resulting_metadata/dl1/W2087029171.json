@@ -1,0 +1,73 @@
+{
+  "id": "https://openalex.org/W2087029171",
+  "title": "Thermal Habitat Index of Many Northwest Atlantic Temperate Species Stays Neutral under Warming Projected for 2030 but Changes Radically by 2060",
+  "abstract": "Global scale forecasts of range shifts in response to global warming have provided vital insight into predicted species redistribution. We build on that insight by examining whether local warming will affect habitat on spatiotemporal scales relevant to regional agencies. We used generalized additive models to quantify the realized habitat of 46 temperate/boreal marine species using 41+ years of survey data from 35°N–48°N in the Northwest Atlantic. We then estimated change in a \"realized thermal habitat index\" under short-term (2030) and long-term (2060) warming scenarios. Under the 2030 scenario, ∼10% of species will lose realized thermal habitat at the national scale (USA and Canada) but planktivores are expected to lose significantly in both countries which may result in indirect changes in their predators' distribution. In contrast, by 2060 in Canada, the realized habitat of 76% of species will change (55% will lose, 21% will gain) while in the USA, the realized habitat of 85% of species will change (65% will lose, 20% will gain). If all else were held constant, the ecosystem is projected to change radically based on thermal habitat alone. The magnitude of the 2060 warming projection (∼1.5–3°C) was observed in 2012 affirming that research is needed on effects of extreme \"weather\" in addition to increasing mean temperature. Our approach can be used to aggregate at smaller spatial scales where temperate/boreal species are hypothesized to have a greater loss at ∼40°N. The uncertainty associated with climate change forecasts is large, yet resource management agencies still have to address climate change. How? Since many fishery agencies do not plan beyond 5 years, a logical way forward is to incorporate a \"realized thermal habitat index\" into the stock assessment process. Over time, decisions would be influenced by the amount of suitable thermal habitat, in concert with gradual or extreme warming.",
+  "authors": [
+    {
+      "name": "Nancy L. Shackell"
+    },
+    {
+      "name": "D. Ricard"
+    },
+    {
+      "name": "Christine Stortini"
+    }
+  ],
+  "publication_year": 2014,
+  "cited_by_count": 52,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1507156144",
+    "https://openalex.org/W1519463881",
+    "https://openalex.org/W1556631438",
+    "https://openalex.org/W1643377195",
+    "https://openalex.org/W1896641750",
+    "https://openalex.org/W1967552950",
+    "https://openalex.org/W1969940436",
+    "https://openalex.org/W1970127053",
+    "https://openalex.org/W1979956873",
+    "https://openalex.org/W1980969789",
+    "https://openalex.org/W1988201788",
+    "https://openalex.org/W2007173289",
+    "https://openalex.org/W2024649846",
+    "https://openalex.org/W2026178092",
+    "https://openalex.org/W2028787031",
+    "https://openalex.org/W2033963424",
+    "https://openalex.org/W2038340071",
+    "https://openalex.org/W2050858470",
+    "https://openalex.org/W2068029846",
+    "https://openalex.org/W2082730693",
+    "https://openalex.org/W2098876115",
+    "https://openalex.org/W2099320848",
+    "https://openalex.org/W2104652168",
+    "https://openalex.org/W2123299783",
+    "https://openalex.org/W2123337039",
+    "https://openalex.org/W2130354003",
+    "https://openalex.org/W2132644644",
+    "https://openalex.org/W2133501143",
+    "https://openalex.org/W2133966170",
+    "https://openalex.org/W2135136334",
+    "https://openalex.org/W2137598290",
+    "https://openalex.org/W2138372616",
+    "https://openalex.org/W2138933233",
+    "https://openalex.org/W2139620033",
+    "https://openalex.org/W2140534668",
+    "https://openalex.org/W2142733079",
+    "https://openalex.org/W2154103419",
+    "https://openalex.org/W2157355630",
+    "https://openalex.org/W2160935513",
+    "https://openalex.org/W2162186175",
+    "https://openalex.org/W2163816695",
+    "https://openalex.org/W2163833366",
+    "https://openalex.org/W2164289655",
+    "https://openalex.org/W2168909889",
+    "https://openalex.org/W2170590389",
+    "https://openalex.org/W2171660312",
+    "https://openalex.org/W2582743722",
+    "https://openalex.org/W2797583072",
+    "https://openalex.org/W4298870098"
+  ]
+}

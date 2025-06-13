@@ -1,0 +1,51 @@
+{
+  "id": "https://openalex.org/W1142113990",
+  "title": "Autocorrelated error in stock assessment estimates: Implications for management strategy evaluation",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "John Wiedenmann"
+    },
+    {
+      "name": "Michael J. Wilberg"
+    },
+    {
+      "name": "Andrea Sylvia"
+    },
+    {
+      "name": "Thomas J. Miller"
+    }
+  ],
+  "publication_year": 2015,
+  "cited_by_count": 16,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1589375716",
+    "https://openalex.org/W1981412285",
+    "https://openalex.org/W1988235095",
+    "https://openalex.org/W1988802816",
+    "https://openalex.org/W2020063839",
+    "https://openalex.org/W2046464500",
+    "https://openalex.org/W2072079115",
+    "https://openalex.org/W2075605723",
+    "https://openalex.org/W2079864325",
+    "https://openalex.org/W2080155770",
+    "https://openalex.org/W2084448489",
+    "https://openalex.org/W2103423125",
+    "https://openalex.org/W2103927431",
+    "https://openalex.org/W2124923456",
+    "https://openalex.org/W2128619673",
+    "https://openalex.org/W2130763242",
+    "https://openalex.org/W2145297870",
+    "https://openalex.org/W2145664016",
+    "https://openalex.org/W2148311895",
+    "https://openalex.org/W2152353861",
+    "https://openalex.org/W2153960004",
+    "https://openalex.org/W2161540652",
+    "https://openalex.org/W2319483496",
+    "https://openalex.org/W2577040454"
+  ]
+}

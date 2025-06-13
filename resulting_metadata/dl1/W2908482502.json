@@ -1,0 +1,30 @@
+{
+  "id": "https://openalex.org/W2908482502",
+  "title": "Delimiting Marine Areas: Ecosystem Approach(es?) in EU Marine Management",
+  "abstract": "Marine management is a question of delimitations. The sea is a large ecosystem, which, for functional governance, needs to be broken down into smaller, more manageable, units. A central issue for such governance is: what are the appropriate geographic delimitations in terms of ecosystem functionality? A related and equally important question is: what management level within the administrative system is best suited for such governance? The chapter examines how three different EU directives, all pertaining to the marine environment, use different methodologies to identify relevant ecosystem scales, and management levels. Using the Swedish legal system as an example, the results show that there are multiple authorities in charge of marine management, as well as a number of different geographic delimitations of the sea, all within a single member state. These findings are used to inform a discussion on the how the different interpretations of the ecosystem approach create challenges for a coherent and functional management of the coastal and marine environment of the EU.",
+  "authors": [
+    {
+      "name": "Aron Westholm"
+    }
+  ],
+  "publication_year": 2018,
+  "cited_by_count": 5,
+  "primary_topic": "Coastal and Marine Management",
+  "subfield_topic": "Management, Monitoring, Policy and Law",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1484518917",
+    "https://openalex.org/W187738781",
+    "https://openalex.org/W2021736518",
+    "https://openalex.org/W2071905823",
+    "https://openalex.org/W2077251198",
+    "https://openalex.org/W2139608255",
+    "https://openalex.org/W2142979610",
+    "https://openalex.org/W2155382837",
+    "https://openalex.org/W2248060495",
+    "https://openalex.org/W2347321010",
+    "https://openalex.org/W2482272193",
+    "https://openalex.org/W2799363044"
+  ]
+}

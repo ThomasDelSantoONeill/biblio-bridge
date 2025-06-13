@@ -1,0 +1,48 @@
+{
+  "id": "https://openalex.org/W2130944026",
+  "title": "Interdisciplinary Modeling for an Ecosystem Approach to Management in Marine Social‐Ecological Systems",
+  "abstract": "Interdisciplinary research to address global change is essential but inherently difficult. Modeling is a necessary component of many interdisciplinary projects; the way in which modelers approach their work and think about modeling can have a profound effect on the success of the project as a whole. This contribution discusses crucial considerations for interdisciplinary modeling: setting of clear system objectives generated from the interdisciplinary problem; identification of an appropriate level of resolution and its maintenance through all aspects of model design; selection of collaborators genuinely interested in interdisciplinarity while well-grounded in their disciplines; maintained focus on communication; rapid prototyping as an approach to develop the project as understanding increases; and choice of a modeling paradigm that focuses on objectives and leads to a balanced contribution from each discipline. Frame-based modeling is introduced as an example of a modeling paradigm suitable to address long-term changes in social-ecological systems.",
+  "authors": [
+    {
+      "name": "Anthony M. Starfield"
+    },
+    {
+      "name": "Astrid Jarre"
+    }
+  ],
+  "publication_year": 2011,
+  "cited_by_count": 11,
+  "primary_topic": "Climate change impacts on agriculture",
+  "subfield_topic": "Ecology, Evolution, Behavior and Systematics",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W119378269",
+    "https://openalex.org/W1572629122",
+    "https://openalex.org/W1965902399",
+    "https://openalex.org/W1966484805",
+    "https://openalex.org/W1992277109",
+    "https://openalex.org/W2007815471",
+    "https://openalex.org/W2048736896",
+    "https://openalex.org/W2080901608",
+    "https://openalex.org/W2084185819",
+    "https://openalex.org/W2091255721",
+    "https://openalex.org/W2095562325",
+    "https://openalex.org/W2101746047",
+    "https://openalex.org/W2102000815",
+    "https://openalex.org/W2125300320",
+    "https://openalex.org/W2129593914",
+    "https://openalex.org/W2133246621",
+    "https://openalex.org/W2138409528",
+    "https://openalex.org/W2138980903",
+    "https://openalex.org/W2141731740",
+    "https://openalex.org/W2145735916",
+    "https://openalex.org/W2159207742",
+    "https://openalex.org/W2301774880",
+    "https://openalex.org/W2316847558",
+    "https://openalex.org/W2322383103",
+    "https://openalex.org/W2325066045",
+    "https://openalex.org/W3145213279",
+    "https://openalex.org/W4380235011"
+  ]
+}

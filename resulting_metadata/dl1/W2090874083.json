@@ -1,0 +1,21 @@
+{
+  "id": "https://openalex.org/W2090874083",
+  "title": "A Simplified Model for Portfolio Analysis",
+  "abstract": "This paper describes the advantages of using a particular model of the relationships among securities for practical applications of the Markowitz portfolio analysis technique. A computer program has been developed to take full advantage of the model: 2,000 securities can be analyzed at an extremely low cost—as little as 2% of that associated with standard quadratic programming codes. Moreover, preliminary evidence suggests that the relatively few parameters used by the model can lead to very nearly the same results obtained with much larger sets of relationships among securities. The possibility of low-cost analysis, coupled with a likelihood that a relatively small amount of information need be sacrificed make the model an attractive candidate for initial practical applications of the Markowitz technique.",
+  "authors": [
+    {
+      "name": "William F. Sharpe"
+    }
+  ],
+  "publication_year": 1963,
+  "cited_by_count": 2692,
+  "primary_topic": "Financial Markets and Investment Strategies",
+  "subfield_topic": "Finance",
+  "field_topic": "Economics, Econometrics and Finance",
+  "domain_topic": "Social Sciences",
+  "referenced_works": [
+    "https://openalex.org/W2062866389",
+    "https://openalex.org/W2093629426",
+    "https://openalex.org/W2795413297"
+  ]
+}

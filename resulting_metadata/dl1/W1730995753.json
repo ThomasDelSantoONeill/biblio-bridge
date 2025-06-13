@@ -1,0 +1,57 @@
+{
+  "id": "https://openalex.org/W1730995753",
+  "title": "EwE-F 1.0: an implementation of Ecopath with Ecosim in Fortran 95/2003 for coupling and integration with other models",
+  "abstract": "Abstract. Societal and scientific challenges foster the implementation of the ecosystem approach to marine ecosystem analysis and management, which is a comprehensive means of integrating the direct and indirect effects of multiple stressors on the different components of ecosystems, from physical to chemical and biological and from viruses to fishes and marine mammals. Ecopath with Ecosim (EwE) is a widely used software package, which offers capability for a dynamic description of the multiple interactions occurring within a food web, and, potentially, a crucial component of an integrated platform supporting the ecosystem approach. However, being written for the Microsoft .NET framework, seamless integration of this code with Fortran-based physical and/or biogeochemical oceanographic models is technically not straightforward. In this work we release a re-coding of EwE in Fortran (EwE-F). We believe that the availability of a Fortran version of EwE is an important step towards setting up coupled/integrated modelling schemes utilising this widely adopted software because it (i) increases portability of the EwE models and (ii) provides additional flexibility towards integrating EwE with Fortran-based modelling schemes. Furthermore, EwE-F might help modellers using the Fortran programming language to get close to the EwE approach. In the present work, first fundamentals of EwE-F are introduced, followed by validation of EwE-F against standard EwE utilising sample models. Afterwards, an end-to-end (E2E) ecological representation of the Gulf of Trieste (northern Adriatic Sea) ecosystem is presented as an example of online two-way coupling between an EwE-F food web model and a biogeochemical model. Finally, the possibilities that having EwE-F opens up are discussed.",
+  "authors": [
+    {
+      "name": "Ekin Akoğlu"
+    },
+    {
+      "name": "Simone Libralato"
+    },
+    {
+      "name": "Barış Salihoğlu"
+    },
+    {
+      "name": "Temel Oǧuz"
+    },
+    {
+      "name": "Cosimo Solidoro"
+    }
+  ],
+  "publication_year": 2015,
+  "cited_by_count": 8,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1482738407",
+    "https://openalex.org/W1524760816",
+    "https://openalex.org/W1599127549",
+    "https://openalex.org/W1963765483",
+    "https://openalex.org/W1975128847",
+    "https://openalex.org/W1984493675",
+    "https://openalex.org/W1990566709",
+    "https://openalex.org/W1995176198",
+    "https://openalex.org/W1996547985",
+    "https://openalex.org/W1999642158",
+    "https://openalex.org/W2002642012",
+    "https://openalex.org/W2003647390",
+    "https://openalex.org/W2007757375",
+    "https://openalex.org/W204940627",
+    "https://openalex.org/W2054838530",
+    "https://openalex.org/W2057486193",
+    "https://openalex.org/W2077769416",
+    "https://openalex.org/W2079791672",
+    "https://openalex.org/W2091884289",
+    "https://openalex.org/W2095060666",
+    "https://openalex.org/W2100986500",
+    "https://openalex.org/W2104194276",
+    "https://openalex.org/W2105451160",
+    "https://openalex.org/W2116082578",
+    "https://openalex.org/W2132087433",
+    "https://openalex.org/W2169043969",
+    "https://openalex.org/W4210260625"
+  ]
+}

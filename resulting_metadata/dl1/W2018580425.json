@@ -1,0 +1,35 @@
+{
+  "id": "https://openalex.org/W2018580425",
+  "title": "Bottom-Up Ecosystem Trophic Dynamics Determine Fish Production in the Northeast Pacific",
+  "abstract": "We addressed the question of bottom-up versus top-down control of marine ecosystem trophic interactions by using annual fish catch data and satellite-derived (SeaWiFS) chlorophyll a measurements for the continental margin of western North America. Findings reveal a marked alongshore variation in retained primary production that is highly correlated with the alongshore variation in resident fish yield. The highest productivity occurs off the coasts of Washington and southern British Columbia. Zooplankton data for coastal British Columbia confirm strong bottom-up trophic linkages between phytoplankton, zooplankton, and resident fish, extending to regional areas as small as 10,000 square kilometers.",
+  "authors": [
+    {
+      "name": "D. M. Ware"
+    },
+    {
+      "name": "Richard E. Thomson"
+    }
+  ],
+  "publication_year": 2005,
+  "cited_by_count": 647,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1827528604",
+    "https://openalex.org/W1974360063",
+    "https://openalex.org/W1978254281",
+    "https://openalex.org/W2016637157",
+    "https://openalex.org/W2039181990",
+    "https://openalex.org/W2048336613",
+    "https://openalex.org/W2069845172",
+    "https://openalex.org/W2085432755",
+    "https://openalex.org/W2096626691",
+    "https://openalex.org/W2099509111",
+    "https://openalex.org/W2145411765",
+    "https://openalex.org/W2151567220",
+    "https://openalex.org/W2159669130",
+    "https://openalex.org/W2169373787"
+  ]
+}

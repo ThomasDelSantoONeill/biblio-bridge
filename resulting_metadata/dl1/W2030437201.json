@@ -1,0 +1,23 @@
+{
+  "id": "https://openalex.org/W2030437201",
+  "title": "Extended survivors analysis: An improved method for the analysis of catch-at-age data and abundance indices",
+  "abstract": "Conventional methods for the tuning of virtual population analysis using abundance indices are particularly sensitive to observation error in the final year, because they treat these data as though they were exact. They also fail to make efficient use of all available data, because they ignore previous estimates of year-class strength. The Survivors method of Doubleday addresses these deficiencies, but suffers from a number of technical shortcomings, and has not become widely used. A modified treatment of the problem is presented, which leads to a consistent least squares solution. This is an extension of Doubleday's original method in three respects: (1) It generates non-negative results for the survivors, without arbitrary censorship; (2) it allows for the simultaneous analysis of several sets of abundance indices (such as catch per unit effort data); (3) it allows for a non-linear relationship between abundance indices and population size for the younger age groups. The method has been shown to perform better than the older tuning methods in simulation tests. It incorporates some of the important features of full integrated statistical methods, but is computationally less demanding. It would be expected to perform well unless the precision of the catch-at-age data is substantially worse than that of the best abundance index available, and should therefore be useful in many practical situations. It does not however allow for the full statistical complexity of the problem, and may be regarded as a useful practical method of intermediate complexity.",
+  "authors": [
+    {
+      "name": "J. G. Shepherd"
+    }
+  ],
+  "publication_year": 1999,
+  "cited_by_count": 218,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W2083854664",
+    "https://openalex.org/W2110618586",
+    "https://openalex.org/W2118086935",
+    "https://openalex.org/W2158727013",
+    "https://openalex.org/W2444417684"
+  ]
+}

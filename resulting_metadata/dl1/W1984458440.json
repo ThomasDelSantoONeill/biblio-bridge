@@ -1,0 +1,33 @@
+{
+  "id": "https://openalex.org/W1984458440",
+  "title": "The potential for community level evaluations based on loop analysis",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Ron Pilette"
+    },
+    {
+      "name": "Ron Sigal"
+    },
+    {
+      "name": "John Blamire"
+    }
+  ],
+  "publication_year": 1987,
+  "cited_by_count": 6,
+  "primary_topic": "Plant and animal studies",
+  "subfield_topic": "Ecology, Evolution, Behavior and Systematics",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1541067559",
+    "https://openalex.org/W1978137995",
+    "https://openalex.org/W1996223682",
+    "https://openalex.org/W1998882515",
+    "https://openalex.org/W2000256297",
+    "https://openalex.org/W2061144016",
+    "https://openalex.org/W2065781956",
+    "https://openalex.org/W2321937847",
+    "https://openalex.org/W79881952"
+  ]
+}

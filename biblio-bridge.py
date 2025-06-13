@@ -1,7 +1,6 @@
 import requests
 import json
 from tqdm import tqdm
-import time
 
 def fetch_openalex_data(identifier, email=None):
     """Fetch metadata from OpenAlex API for a given DOI or OpenAlex ID.
@@ -13,18 +12,16 @@ def fetch_openalex_data(identifier, email=None):
     
     Returns:
         dict: Metadata like title, abstract, authors, or an error message.
+              Returns {"error": "No authors available for <identifier>"} if authors list is empty.
     """
     # Determine the base URL and ID based on the identifier format
     if identifier.startswith("https://openalex.org/"):
-        # Extract the work ID (e.g., W1183577688) from any OpenAlex URL format
-        work_id = identifier.split("/")[-1]  # Extract the last part (W-number)
+        work_id = identifier.split("/")[-1]
         base_url = f"https://api.openalex.org/works/{work_id}"
     else:
-        # Assume it's a DOI, use the search endpoint
         base_url = "https://api.openalex.org/works"
         params = {"filter": f"doi:{identifier}"}
     
-    # Add email for polite pool if provided
     params = params if "params" in locals() else {}
     if email:
         params["mailto"] = email
@@ -35,11 +32,11 @@ def fetch_openalex_data(identifier, email=None):
         response.encoding = "utf-8"
         data = response.json()
         
-        if data.get("results") or (isinstance(data, dict) and "id" in data):  # Handle both search and direct access
+        if data.get("results") or (isinstance(data, dict) and "id" in data):
             work = data if "id" in data else data["results"][0]
             abstract_index = work.get("abstract_inverted_index", {})
             words_with_positions = []
-            if abstract_index is not None:  # Check if abstract_index is not None
+            if abstract_index is not None:
                 for word, positions in abstract_index.items():
                     for pos in positions:
                         words_with_positions.append((pos, word))
@@ -47,18 +44,45 @@ def fetch_openalex_data(identifier, email=None):
                 words = [word for pos, word in words_with_positions]
                 abstract_text = " ".join(words) if words else "No abstract available"
             else:
-                abstract_text = "No abstract available"  # Set to placeholder if None
+                abstract_text = "No abstract available"
             
-            result = {
-                "id": work.get("id"),
-                "title": work.get("title", "No title available"),
-                "abstract": abstract_text,
-                "authors": [{"name": author.get("author", {}).get("display_name", "Unknown")} 
-                           for author in work.get("authorships", [])],
-                "publication_year": work.get("publication_year"),
-                "cited_by_count": work.get("cited_by_count", 0),
-                "referenced_works": work.get("referenced_works", [])  # Include referenced works
-            }
+            authors = [{"name": author.get("author", {}).get("display_name", "Unknown")} 
+                       for author in work.get("authorships", [])]
+            
+            if not authors:
+                return {"error": f"No authors available for {identifier}"}
+            
+            # Ensure work_data is always a dictionary
+            work_data = work if work is not None and isinstance(work, dict) else {}
+            try:
+                result = {
+                    "id": work_data.get("id"),
+                    "title": work_data.get("title", "No title available"),
+                    "abstract": abstract_text,
+                    "authors": authors,
+                    "publication_year": work_data.get("publication_year"),
+                    "cited_by_count": work_data.get("cited_by_count", 0),
+                    "primary_topic": work_data.get("primary_topic", {"display_name": "Unknown topic"}).get("display_name", "Unknown topic"),
+                    "subfield_topic": work_data.get("primary_topic", {"subfield": {"display_name": "Unknown subfield"}}).get("subfield", {}).get("display_name", "Unknown subfield"),
+                    "field_topic": work_data.get("primary_topic", {"field": {"display_name": "Unknown field"}}).get("field", {}).get("display_name", "Unknown field"),
+                    "domain_topic": work_data.get("primary_topic", {"domain": {"display_name": "Unknown domain"}}).get("domain", {}).get("display_name", "Unknown domain"),
+                    "referenced_works": work_data.get("referenced_works", [])
+                }
+            except AttributeError as e:
+                print(f"Failed item ID: {identifier}")
+                result = {
+                    "id": work_data.get("id"),
+                    "title": work_data.get("title", "No title available"),
+                    "abstract": abstract_text,
+                    "authors": authors,
+                    "publication_year": work_data.get("publication_year"),
+                    "cited_by_count": work_data.get("cited_by_count", 0),
+                    "primary_topic": "Unknown topic",
+                    "subfield_topic": "Unknown subfield",
+                    "field_topic": "Unknown field",
+                    "domain_topic": "Unknown domain",
+                    "referenced_works": work_data.get("referenced_works", [])
+                }
             return result
         else:
             return {"error": f"No results found for {identifier}"}
@@ -69,7 +93,7 @@ def fetch_openalex_data(identifier, email=None):
         return {"error": f"API request failed for {identifier}: {str(e)}"}
     except ValueError as e:
         return {"error": f"Invalid JSON response for {identifier}: {str(e)}"}
-
+      
 # Example usage
 doi = "10.1111/faf.12817"
 email = "delsantooneillthomas@gmail.com"
@@ -85,23 +109,49 @@ with open(f"resulting_metadata/initial_data_{doi.replace('/', '_')}.json", "w", 
     json.dump(initial_data, f, ensure_ascii=False, indent=2)
 print(f"Initial data saved to resulting_metadata/initial_data_{doi.replace('/', '_')}.json")
 
-# Fetch and save data for each referenced work with a clean progress bar
+# Fetch and save data for first-level referenced works with a clean progress bar
 referenced_ids = initial_data.get("referenced_works", [])
 if not referenced_ids:
     print("No referenced works found.")
 else:
-    # Use tqdm with a single-line progress bar
-    with tqdm(total=len(referenced_ids), desc="Fetching referenced works", unit="item", 
-                 bar_format="{l_bar}{bar}| {n_fmt}/{total_fmt} [{elapsed}<{remaining}, {rate_fmt}{postfix}]") as pbar:
+    # Initialize processed_ids as a set
+    processed_ids = set(referenced_ids)  # Start with first-level references
+    second_level_refs = []
+    with tqdm(total=len(referenced_ids), desc="Fetching first-level referenced works", unit="item", 
+              bar_format="{l_bar}{bar}| {n_fmt}/{total_fmt} [{elapsed}<{remaining}, {rate_fmt}{postfix}]") as pbar:
         for ref_id in referenced_ids:
             ref_data = fetch_openalex_data(ref_id, email)
             if "error" not in ref_data:
-                file_name = f"resulting_metadata/{ref_id.split('/')[-1]}.json"
+                file_name = f"resulting_metadata/dl0/{ref_id.split('/')[-1]}.json"
                 with open(file_name, "w", encoding="utf-8") as f:
                     json.dump(ref_data, f, ensure_ascii=False, indent=2)
+                second_level_refs.extend(ref_data.get("referenced_works", []))
             else:
-                pbar.set_postfix({"last_error": ref_data["error"].split(":")[0]})  # Show brief error summary
-            time.sleep(1)  # Add delay to respect API rate limits
+                pbar.set_postfix({"last_error": ref_data["error"].split(":")[0]})
             pbar.update(1)
 
-print("All referenced works data saved to resulting_metadata folder.")
+    print("All first-level referenced works data saved to resulting_metadata folder.")
+
+    # Fetch and save data for second-level referenced works
+    if second_level_refs:
+        unique_second_level_refs = list(set(second_level_refs) - processed_ids)  # Remove duplicates and already processed IDs
+        if unique_second_level_refs:
+            with tqdm(total=len(unique_second_level_refs), desc="Fetching second-level referenced works", unit="item",
+                      bar_format="{l_bar}{bar}| {n_fmt}/{total_fmt} [{elapsed}<{remaining}, {rate_fmt}{postfix}]") as pbar:
+                for ref_id in unique_second_level_refs:
+                    ref_data = fetch_openalex_data(ref_id, email)
+                    if "error" not in ref_data:
+                        file_name = f"resulting_metadata/dl1/{ref_id.split('/')[-1]}.json"
+                        with open(file_name, "w", encoding="utf-8") as f:
+                            json.dump(ref_data, f, ensure_ascii=False, indent=2)
+                        processed_ids.add(ref_id)  # Update processed_ids
+                    else:
+                        pbar.set_postfix({"last_error": ref_data["error"].split(":")[0]})
+                    pbar.update(1)
+            print("All second-level referenced works data saved to resulting_metadata folder.")
+        else:
+            print("No unique second-level referenced works found.")
+    else:
+        print("No second-level referenced works found.")
+
+print("All data processing complete.")

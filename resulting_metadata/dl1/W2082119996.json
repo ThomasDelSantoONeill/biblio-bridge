@@ -1,0 +1,46 @@
+{
+  "id": "https://openalex.org/W2082119996",
+  "title": "Local trophodynamics and the interaction of marine mammals and fisheries in the Benguela ecosystem",
+  "abstract": "1. A method for finding the consequences of long‐term generalized press perturbations in multispecies ecological communities, with relatively modest requirements for data, is explicated. The approach uses energetic and allometric reasoning to set some parameter values for which data are not available. The remaining unknown parameters are treated as random variables, enabling the calculation of probability distributions for the outcomes that are of interest. 2. The method is used to investigate the effect of a cull of fur seals on fisheries in the Benguela ecosystem, using a 29‐species foodweb for that system. In the case of Cape fur seals treated here, it is found that a cull of seals is more likely to be detrimental to total yields from all exploited species than it is to be beneficial. 3. The influence of weak links on the effects of a cull is investigated. Using both consumption by each species and consumption of each species to define link strength, a clear threshold in link strength is found, indicating that 44% of all links could be deleted from the foodweb without affecting the predictions significantly. Even using a criterion based on consumption by each species alone (conventional dietary proportion data), about the same number of links can be deleted without seriously affecting the predictions of the model. This is a very helpful (and encouraging) result for the design of an observational protocol for systematic efforts to gather data for multispecies modelling.",
+  "authors": [
+    {
+      "name": "Peter Yodzis"
+    }
+  ],
+  "publication_year": 1998,
+  "cited_by_count": 267,
+  "primary_topic": "Genetic diversity and population structure",
+  "subfield_topic": "Genetics",
+  "field_topic": "Biochemistry, Genetics and Molecular Biology",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1597871704",
+    "https://openalex.org/W1968979361",
+    "https://openalex.org/W1980618012",
+    "https://openalex.org/W1983073397",
+    "https://openalex.org/W1985342263",
+    "https://openalex.org/W1988201445",
+    "https://openalex.org/W1997893826",
+    "https://openalex.org/W2004270844",
+    "https://openalex.org/W2006230309",
+    "https://openalex.org/W2010981035",
+    "https://openalex.org/W2013181570",
+    "https://openalex.org/W2017234882",
+    "https://openalex.org/W2021360088",
+    "https://openalex.org/W2026269078",
+    "https://openalex.org/W2055665225",
+    "https://openalex.org/W2062990483",
+    "https://openalex.org/W2065433900",
+    "https://openalex.org/W2072364936",
+    "https://openalex.org/W2078728032",
+    "https://openalex.org/W2081161046",
+    "https://openalex.org/W2094881695",
+    "https://openalex.org/W2105450066",
+    "https://openalex.org/W2181199992",
+    "https://openalex.org/W2207468033",
+    "https://openalex.org/W2312401788",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W597477253",
+    "https://openalex.org/W93423279"
+  ]
+}

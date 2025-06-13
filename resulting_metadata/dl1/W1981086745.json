@@ -1,0 +1,64 @@
+{
+  "id": "https://openalex.org/W1981086745",
+  "title": "The Web as a graph",
+  "abstract": "The pages and hyperlinks of the World-Wide Web may be viewed as nodes and edges in a directed graph. This graph has about a billion nodes today, several billion links, and appears to grow exponentially with time. There are many reasons—mathematical, sociological, and commercial—for studying the evolution of this graph. We first review a set of algorithms that operate on the Web graph, addressing problems from Web search, automatic community discovery, and classification. We then recall a number of measurements and properties of the Web graph. Noting that traditional random graph models do not explain these observations, we propose a new family of random graph models.",
+  "authors": [
+    {
+      "name": "Ravi Kumar"
+    },
+    {
+      "name": "Prabhakar Raghavan"
+    },
+    {
+      "name": "Sridhar Rajagopalan"
+    },
+    {
+      "name": "D. Sivakumar"
+    },
+    {
+      "name": "Andrew Tompkins"
+    },
+    {
+      "name": "Eli Upfal"
+    }
+  ],
+  "publication_year": 2000,
+  "cited_by_count": 299,
+  "primary_topic": "Complex Network Analysis Techniques",
+  "subfield_topic": "Statistical and Nonlinear Physics",
+  "field_topic": "Physics and Astronomy",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1489992655",
+    "https://openalex.org/W1605217017",
+    "https://openalex.org/W1969750686",
+    "https://openalex.org/W1970859146",
+    "https://openalex.org/W1984066943",
+    "https://openalex.org/W2000119792",
+    "https://openalex.org/W2006119904",
+    "https://openalex.org/W2028406909",
+    "https://openalex.org/W2053549370",
+    "https://openalex.org/W2059275719",
+    "https://openalex.org/W2066636486",
+    "https://openalex.org/W2072881690",
+    "https://openalex.org/W2076008912",
+    "https://openalex.org/W2079656678",
+    "https://openalex.org/W2079672501",
+    "https://openalex.org/W2082751088",
+    "https://openalex.org/W2087060113",
+    "https://openalex.org/W2097147952",
+    "https://openalex.org/W2100620806",
+    "https://openalex.org/W2124812961",
+    "https://openalex.org/W2134122907",
+    "https://openalex.org/W2135282325",
+    "https://openalex.org/W2138621811",
+    "https://openalex.org/W2145311040",
+    "https://openalex.org/W2151626491",
+    "https://openalex.org/W2329233980",
+    "https://openalex.org/W2463095032",
+    "https://openalex.org/W2769133055",
+    "https://openalex.org/W2798909945",
+    "https://openalex.org/W2905110430",
+    "https://openalex.org/W3007065685"
+  ]
+}

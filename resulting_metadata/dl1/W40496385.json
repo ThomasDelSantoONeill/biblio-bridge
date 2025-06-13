@@ -1,0 +1,35 @@
+{
+  "id": "https://openalex.org/W40496385",
+  "title": "Algorithms for selfish agents mechanism design for distributed computation",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Noam Nisan"
+    }
+  ],
+  "publication_year": 1999,
+  "cited_by_count": 82,
+  "primary_topic": "Auction Theory and Applications",
+  "subfield_topic": "Management Science and Operations Research",
+  "field_topic": "Decision Sciences",
+  "domain_topic": "Social Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1574410118",
+    "https://openalex.org/W2006453614",
+    "https://openalex.org/W2015007620",
+    "https://openalex.org/W2027302359",
+    "https://openalex.org/W2078040677",
+    "https://openalex.org/W2078213222",
+    "https://openalex.org/W2080911030",
+    "https://openalex.org/W2099699159",
+    "https://openalex.org/W2109100253",
+    "https://openalex.org/W2119083120",
+    "https://openalex.org/W2120100612",
+    "https://openalex.org/W2131801993",
+    "https://openalex.org/W2135954328",
+    "https://openalex.org/W2148373594",
+    "https://openalex.org/W2152192334",
+    "https://openalex.org/W3123838313",
+    "https://openalex.org/W59059920"
+  ]
+}

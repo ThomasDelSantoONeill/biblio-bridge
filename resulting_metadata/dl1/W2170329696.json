@@ -1,0 +1,30 @@
+{
+  "id": "https://openalex.org/W2170329696",
+  "title": "Fish Wars: Cooperative and Non-Cooperative Approaches",
+  "abstract": "Mirman (1979) and Levhari and Mirman (1980) suggested a simple two person mul- tistage game-theoretical model which sheds some light on the economic implications inherent in the fishing conflicts where the decisions of the competitors have an effect on the evolution of the fish population and so, on the future expected profit of the competitors. I n this paper we consider a generalization of the Levhari and Mirman Fish War Game for the case of n participants of the conflict for different scenarios of hierarchical and coalition structur es of countries. We derive the equilibrium and its steady-state behavior for all these scenarios and an alyze the impact which the hierarchical and coalition structures can have on fishery and ecolog y.",
+  "authors": [
+    {
+      "name": "Andrey Garnaev"
+    },
+    {
+      "name": "Elena Denisova"
+    }
+  ],
+  "publication_year": 2008,
+  "cited_by_count": 7,
+  "primary_topic": "Economic theories and models",
+  "subfield_topic": "Economics and Econometrics",
+  "field_topic": "Economics, Econometrics and Finance",
+  "domain_topic": "Social Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1539143523",
+    "https://openalex.org/W1560715361",
+    "https://openalex.org/W1575538511",
+    "https://openalex.org/W1588406297",
+    "https://openalex.org/W1989522140",
+    "https://openalex.org/W1998601819",
+    "https://openalex.org/W2002259885",
+    "https://openalex.org/W2067065433",
+    "https://openalex.org/W3121256932"
+  ]
+}

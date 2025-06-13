@@ -1,0 +1,79 @@
+{
+  "id": "https://openalex.org/W2471309530",
+  "title": "Fishing for MSY: using “pretty good yield” ranges without impairing recruitment",
+  "abstract": "Pretty good yield (PGY) is a sustainable fish yield corresponding to obtaining no less than a specified large percentage of the maximum sustainable yield (MSY). We investigated 19 European fish stocks to test the hypothesis that the 95% PGY yield range is inherently precautionary with respect to impairing recruitment. An FMSY range was calculated for each stock as the range of fishing mortalities (F) that lead to an average catch of at least 95% of MSY in long-term simulations. Further, a precautionary reference point for each stock (FP.05) was defined as the F resulting in a 5% probability of the spawning-stock biomass falling below an agreed biomass limit below which recruitment is impaired (Blim) in long-term simulations. For the majority of the stocks analysed, the upper bound of the FMSY range exceeded the estimated FP.05. However, larger fish species had higher precautionary limits to fishing mortality, and species with larger asymptotic length were less likely to have FMSY ranges impairing recruitment. Our study shows that fishing at FMSY generally is precautionary with respect to impairing recruitment for highly exploited teleost species in northern European waters, whereas the upper part of the range providing 95% of MSY is not necessarily precautionary for small- and medium-sized teleosts.",
+  "authors": [
+    {
+      "name": "Anna Rindorf"
+    },
+    {
+      "name": "Massimiliano Cardinale"
+    },
+    {
+      "name": "Samuel Shephard"
+    },
+    {
+      "name": "José A. A. De Oliveira"
+    },
+    {
+      "name": "Einar Hjörleifsson"
+    },
+    {
+      "name": "Alexander Kempf"
+    },
+    {
+      "name": "Anna Luzeńczyk"
+    },
+    {
+      "name": "Colin Millar"
+    },
+    {
+      "name": "David C Miller"
+    },
+    {
+      "name": "Coby L. Needle"
+    },
+    {
+      "name": "Simmonds John"
+    },
+    {
+      "name": "Morten Vinther"
+    }
+  ],
+  "publication_year": 2016,
+  "cited_by_count": 32,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1528905581",
+    "https://openalex.org/W1994672023",
+    "https://openalex.org/W2023979861",
+    "https://openalex.org/W2026789678",
+    "https://openalex.org/W2028717723",
+    "https://openalex.org/W2048020255",
+    "https://openalex.org/W2055402323",
+    "https://openalex.org/W2060930016",
+    "https://openalex.org/W2062473510",
+    "https://openalex.org/W2100891518",
+    "https://openalex.org/W2105716715",
+    "https://openalex.org/W2105755511",
+    "https://openalex.org/W2109619252",
+    "https://openalex.org/W2111284967",
+    "https://openalex.org/W2125509445",
+    "https://openalex.org/W2132312820",
+    "https://openalex.org/W2134764708",
+    "https://openalex.org/W2145378599",
+    "https://openalex.org/W2153506831",
+    "https://openalex.org/W2154474189",
+    "https://openalex.org/W2156523992",
+    "https://openalex.org/W2161425101",
+    "https://openalex.org/W2162912608",
+    "https://openalex.org/W2167231262",
+    "https://openalex.org/W2171655237",
+    "https://openalex.org/W2175647504",
+    "https://openalex.org/W2363261994",
+    "https://openalex.org/W4301861531"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "https://openalex.org/W2571955540",
+  "title": "The changing contribution of top‐down and bottom‐up limitation of mesopredators during 220 years of land use and climate change",
+  "abstract": "Apex predators may buffer bottom-up driven ecosystem change, as top-down suppression may dampen herbivore and mesopredator responses to increased resource availability. However, theory suggests that for this buffering capacity to be realized, the equilibrium abundance of apex predators must increase. This raises the question: will apex predators maintain herbivore/mesopredator limitation, if bottom-up change relaxes resource constraints? Here, we explore changes in mesopredator (red fox Vulpes vulpes) abundance over 220 years in response to eradication and recovery of an apex predator (Eurasian lynx Lynx lynx), and changes in land use and climate which are linked to resource availability. A three-step approach was used. First, recent data from Finland and Sweden were modelled to estimate linear effects of lynx density, land use and winter temperature on fox density. Second, lynx density, land use and winter temperature was estimated in a 22 650 km2 focal area in boreal and boreo-nemoral Sweden in the years 1830, 1920, 2010 and 2050. Third, the models and estimates were used to project historic and future fox densities in the focal area. Projected fox density was lowest in 1830 when lynx density was high, winters cold and the proportion of cropland low. Fox density peaked in 1920 due to lynx eradication, a mesopredator release boosted by favourable bottom-up changes - milder winters and cropland expansion. By 2010, lynx recolonization had reduced fox density, but it remained higher than in 1830, partly due to the bottom-up changes. Comparing 1830 to 2010, the contribution of top-down limitation decreased, while environment enrichment relaxed bottom-up limitation. Future scenarios indicated that by 2050, lynx density would have to increase by 79% to compensate for a projected climate-driven increase in fox density. We highlight that although top-down limitation in theory can buffer bottom-up change, this requires compensatory changes in apex predator abundance. Hence apex predator recolonization/recovery to historical levels would not be sufficient to compensate for widespread changes in climate and land use, which have relaxed the resource constraints for many herbivores and mesopredators. Variation in bottom-up conditions may also contribute to context dependence in apex predator effects.",
+  "authors": [
+    {
+      "name": "Marianne Pasanen‐Mortensen"
+    },
+    {
+      "name": "Bodil Elmhagen"
+    },
+    {
+      "name": "Harto Lindén"
+    },
+    {
+      "name": "Roger Bergström"
+    },
+    {
+      "name": "Märtha Wallgren"
+    },
+    {
+      "name": "Ype van der Velde"
+    },
+    {
+      "name": "Sara A. O. Cousins"
+    }
+  ],
+  "publication_year": 2017,
+  "cited_by_count": 24,
+  "primary_topic": "Wildlife Ecology and Conservation",
+  "subfield_topic": "Ecology",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1518897246",
+    "https://openalex.org/W1542532100",
+    "https://openalex.org/W1591830752",
+    "https://openalex.org/W1644145788",
+    "https://openalex.org/W182917257",
+    "https://openalex.org/W1860836819",
+    "https://openalex.org/W1867005924",
+    "https://openalex.org/W1961700859",
+    "https://openalex.org/W1965122835",
+    "https://openalex.org/W1988921989",
+    "https://openalex.org/W2004827430",
+    "https://openalex.org/W2006672256",
+    "https://openalex.org/W2007873570",
+    "https://openalex.org/W2008019499",
+    "https://openalex.org/W2012410669",
+    "https://openalex.org/W2020409231",
+    "https://openalex.org/W2030083060",
+    "https://openalex.org/W2032889070",
+    "https://openalex.org/W2034672914",
+    "https://openalex.org/W2036875091",
+    "https://openalex.org/W2039697646",
+    "https://openalex.org/W2042504207",
+    "https://openalex.org/W2043613912",
+    "https://openalex.org/W2052479643",
+    "https://openalex.org/W2060806362",
+    "https://openalex.org/W2064347409",
+    "https://openalex.org/W2074036896",
+    "https://openalex.org/W2079079887",
+    "https://openalex.org/W2079837640",
+    "https://openalex.org/W2087775304",
+    "https://openalex.org/W2099086055",
+    "https://openalex.org/W2100100997",
+    "https://openalex.org/W2100927103",
+    "https://openalex.org/W2107140090",
+    "https://openalex.org/W2107777804",
+    "https://openalex.org/W2108706053",
+    "https://openalex.org/W2131430025",
+    "https://openalex.org/W2136305173",
+    "https://openalex.org/W2146381121",
+    "https://openalex.org/W2151211764",
+    "https://openalex.org/W2153820558",
+    "https://openalex.org/W2163744914",
+    "https://openalex.org/W2167694028",
+    "https://openalex.org/W2171239124",
+    "https://openalex.org/W2171448721",
+    "https://openalex.org/W2172297071",
+    "https://openalex.org/W2175427911",
+    "https://openalex.org/W2313575369",
+    "https://openalex.org/W2412441931",
+    "https://openalex.org/W2582743722",
+    "https://openalex.org/W2767010609",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W429885054",
+    "https://openalex.org/W564774894",
+    "https://openalex.org/W99030810"
+  ]
+}

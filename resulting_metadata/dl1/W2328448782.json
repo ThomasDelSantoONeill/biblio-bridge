@@ -1,0 +1,28 @@
+{
+  "id": "https://openalex.org/W2328448782",
+  "title": "On the Hazards of Overemphasizing Numerical Fluctuations in Studies of \"Cyclic\" Phenomena in Muskrat Populations",
+  "abstract": "The past quarter-century has been one of accelerating scientific interest in fluctuations of wild populations, and this acceleration does not seem to be over. More and more investigators, especially zoologists and wildlife managers, have been concerning themselves with the so-called cyclic changes shown by this or that species. The resulting literature has become so voluminous in the English, German, and Scandinavian languages alone, that I doubt that any one person could now truly master it in a lifetime, even if he were competent in all of the fields of science contributing. Its scientifically reputable authors include not only bi1Journal Paper No. J-2392 of the Iowa Agricultural Experiment Station, Ames, Iowa, Project No. 1217. A contribution from the Iowa Cooperative Wildlife Research Unit. The Fish and Wildlife Service (United States Department of the Interior), Iowa State College, Iowa State Conservation Commission, and the Wildlife Management Institute, cooperating.",
+  "authors": [
+    {
+      "name": "Paul L. Errington"
+    }
+  ],
+  "publication_year": 1954,
+  "cited_by_count": 36,
+  "primary_topic": "Mathematical and Theoretical Epidemiology and Ecology Models",
+  "subfield_topic": "Public Health, Environmental and Occupational Health",
+  "field_topic": "Medicine",
+  "domain_topic": "Health Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1981930443",
+    "https://openalex.org/W2010941810",
+    "https://openalex.org/W2073842107",
+    "https://openalex.org/W2095124622",
+    "https://openalex.org/W2314998020",
+    "https://openalex.org/W2316357389",
+    "https://openalex.org/W2324851947",
+    "https://openalex.org/W2332819101",
+    "https://openalex.org/W2335619544",
+    "https://openalex.org/W2407416659"
+  ]
+}

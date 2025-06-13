@@ -1,0 +1,42 @@
+{
+  "id": "https://openalex.org/W1979765650",
+  "title": "Climate-forcing effects on trophically linked groundfish populations: implications for fisheries management",
+  "abstract": "Commercially important groundfish populations in the Bering Sea are connected through the food web as predators and prey. In addition to having different trophic roles, the recruitment of these species varies on interdecadal time scales and may be related to climate forcing. We simulate the effects of fishing mortality on eight trophically linked species under two scenarios of climate regimes using the multispecies virtual population analysis (MSVPA) model and the multispecies forecasting model (MSFOR). Species respond differently to climate change assumptions and fishing mortality depending on their position in the food web. Results suggest that the assumptions regarding climate regime shifts on mean recruitment may produce effects comparable to the ones produced by fishing and predation interactions. Therefore, accurate models for fisheries management would require considering these factors and their potential interactions. Because responses are complex and difficult to predict, it is necessary to take a risk-averse approach in managing the species with the largest potential variation. The incorporation of climate regime shifts in fisheries management will require a better understanding of recruitment during a particular regime and a reliable way to identify regime shifts based on biological and (or) physical indices.",
+  "authors": [
+    {
+      "name": "Jesús Jurado‐Molina"
+    },
+    {
+      "name": "P Livingston"
+    }
+  ],
+  "publication_year": 2002,
+  "cited_by_count": 27,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1542077477",
+    "https://openalex.org/W1568730408",
+    "https://openalex.org/W1975933594",
+    "https://openalex.org/W1999309435",
+    "https://openalex.org/W2006959528",
+    "https://openalex.org/W2033895056",
+    "https://openalex.org/W2040605600",
+    "https://openalex.org/W2061328952",
+    "https://openalex.org/W2065729125",
+    "https://openalex.org/W2070660989",
+    "https://openalex.org/W2086394467",
+    "https://openalex.org/W2093401535",
+    "https://openalex.org/W2147741964",
+    "https://openalex.org/W2150203206",
+    "https://openalex.org/W2174892202",
+    "https://openalex.org/W2319252967",
+    "https://openalex.org/W2479378631",
+    "https://openalex.org/W2616690807",
+    "https://openalex.org/W2787125890",
+    "https://openalex.org/W55778338",
+    "https://openalex.org/W573554582"
+  ]
+}

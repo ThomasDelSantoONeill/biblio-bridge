@@ -1,0 +1,71 @@
+{
+  "id": "https://openalex.org/W2129001831",
+  "title": "HOW POPULATION DYNAMICS SHAPE THE FUNCTIONAL RESPONSE IN A ONE-PREDATOR–TWO-PREY SYSTEM",
+  "abstract": "The type III functional response has historically been associated with switching predators; when there is a choice of prey the predator favors the more abundant prey type. Although this functional response has been found in experiments where both prey densities are manipulated, in real world studies the type II functional response is more commonly found. In modeling, the type III functional response is often used in systems where the second prey type is, implicitly, assumed to be constant. Here we define a functional response that takes into account both prey densities. This causes the functional response to show both type II and type III behavior, dependent on the interaction between the two prey densities. If we take into account population dynamics, we find a type II functional response in most cases, because predation regulates the relative prey densities. This explains why type III functional responses are found in experiments where both prey densities are manipulated, but type II functional responses occur when the feedback of population dynamics on the functional response is important. Furthermore, the results show that switching can have a stabilizing or destabilizing effect and can even lead to predator extinction.",
+  "authors": [
+    {
+      "name": "Edwin van Leeuwen"
+    },
+    {
+      "name": "Vincent A. A. Jansen"
+    },
+    {
+      "name": "P. W. Bright"
+    }
+  ],
+  "publication_year": 2007,
+  "cited_by_count": 107,
+  "primary_topic": "Mathematical and Theoretical Epidemiology and Ecology Models",
+  "subfield_topic": "Public Health, Environmental and Occupational Health",
+  "field_topic": "Medicine",
+  "domain_topic": "Health Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1499247386",
+    "https://openalex.org/W1514623197",
+    "https://openalex.org/W1523856098",
+    "https://openalex.org/W1590339108",
+    "https://openalex.org/W1906551997",
+    "https://openalex.org/W1965868683",
+    "https://openalex.org/W1966546224",
+    "https://openalex.org/W1967201268",
+    "https://openalex.org/W1969027200",
+    "https://openalex.org/W1975472370",
+    "https://openalex.org/W2002521962",
+    "https://openalex.org/W2008710214",
+    "https://openalex.org/W2024882325",
+    "https://openalex.org/W2027665073",
+    "https://openalex.org/W2032645635",
+    "https://openalex.org/W2032839068",
+    "https://openalex.org/W2033226389",
+    "https://openalex.org/W2042375615",
+    "https://openalex.org/W2043487490",
+    "https://openalex.org/W2044308796",
+    "https://openalex.org/W2046903736",
+    "https://openalex.org/W2051879153",
+    "https://openalex.org/W2052125279",
+    "https://openalex.org/W2060771839",
+    "https://openalex.org/W2062071747",
+    "https://openalex.org/W2065760645",
+    "https://openalex.org/W2076661162",
+    "https://openalex.org/W2081101724",
+    "https://openalex.org/W2081622073",
+    "https://openalex.org/W2082737249",
+    "https://openalex.org/W2088753554",
+    "https://openalex.org/W2090711619",
+    "https://openalex.org/W2104740526",
+    "https://openalex.org/W2112937332",
+    "https://openalex.org/W2114208341",
+    "https://openalex.org/W2119422035",
+    "https://openalex.org/W2131915744",
+    "https://openalex.org/W2133205565",
+    "https://openalex.org/W2140611459",
+    "https://openalex.org/W2145051248",
+    "https://openalex.org/W2146673745",
+    "https://openalex.org/W2153567632",
+    "https://openalex.org/W2181078307",
+    "https://openalex.org/W2317745308",
+    "https://openalex.org/W2327683988",
+    "https://openalex.org/W2335234714",
+    "https://openalex.org/W3021359596"
+  ]
+}

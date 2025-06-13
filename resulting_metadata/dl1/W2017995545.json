@@ -1,0 +1,39 @@
+{
+  "id": "https://openalex.org/W2017995545",
+  "title": "End-to-end models for marine ecosystems: Are we on the precipice of a significant advance or just putting lipstick on a pig?",
+  "abstract": "There has been a rapid rise in the development of end-to-end models for marine ecosystems over the past decade. Some reasons for this rise include need for predicting effects of climate change on biota and dissatisfaction with existing models. While the benefits of a well-implemented end-to-end model are straightforward, there are many challenges. In the short term, my view is that the major role of end-to-end models is to push the modelling community forward, and to identify critical data so that these data can be collected now and thus be available for the next generation of end-to-end models. I think we should emulate physicists and build theoretically-oriented models first, and then collect the data. In the long-term, end-to-end models will increase their skill, data collection will catch up, and end-to-end models will move towards site-specific applications with forecasting and management capabilities. One pathway into the future is individual efforts, over-promise, and repackaging of poorly performing component submodels (“lipstick on a pig”). The other pathway is a community-based collaborative effort, with appropriate caution and thoughtfulness, so that the needed improvements are achieved (“significant advance”). The promise of end-to-end modelling is great. We should act now to avoid missing a great opportunity.",
+  "authors": [
+    {
+      "name": "Kenneth A. Rose"
+    }
+  ],
+  "publication_year": 2012,
+  "cited_by_count": 42,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1505286062",
+    "https://openalex.org/W1532516291",
+    "https://openalex.org/W1975360915",
+    "https://openalex.org/W2042924629",
+    "https://openalex.org/W2048736896",
+    "https://openalex.org/W2051741859",
+    "https://openalex.org/W2091884289",
+    "https://openalex.org/W2094906335",
+    "https://openalex.org/W2101204002",
+    "https://openalex.org/W2103037732",
+    "https://openalex.org/W2114548855",
+    "https://openalex.org/W2116422701",
+    "https://openalex.org/W2120624796",
+    "https://openalex.org/W2132380992",
+    "https://openalex.org/W2139897544",
+    "https://openalex.org/W2143797502",
+    "https://openalex.org/W2156523992",
+    "https://openalex.org/W2161496325",
+    "https://openalex.org/W2162204164",
+    "https://openalex.org/W2497256735",
+    "https://openalex.org/W3150234440"
+  ]
+}

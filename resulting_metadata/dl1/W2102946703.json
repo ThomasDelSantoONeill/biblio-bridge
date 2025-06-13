@@ -1,0 +1,40 @@
+{
+  "id": "https://openalex.org/W2102946703",
+  "title": "Cryptic planktonic diatom challenges phytoplankton ecologists",
+  "abstract": "Planktonic diatoms are of major biogeochemical importance in the sea; their photosynthesis contributes 40% of the total annual marine production (1). Their distinguishing feature is an areolated cell wall (frustule) composed of hydrated silicon dioxide and a small amount of organic matter organized as two unequally sized, overlapping valves (thecae) similar to a Petri dish. Growth proceeds through progressive vertical separation of the thecae, culminating in an asexual division that produces two differently sized daughter cells, one of which is always smaller than the parent cell, resulting in a progressive diminution in cell size (1, 2). Cell size must be periodically restored through sexual reproduction or asexual cell enlargement (3) to prevent morbidity leading to extinction of the reproducing clone.",
+  "authors": [
+    {
+      "name": "Theodore J. Smayda"
+    }
+  ],
+  "publication_year": 2011,
+  "cited_by_count": 31,
+  "primary_topic": "Diatoms and Algae Research",
+  "subfield_topic": "Biomaterials",
+  "field_topic": "Materials Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1506571333",
+    "https://openalex.org/W1538194277",
+    "https://openalex.org/W1855158498",
+    "https://openalex.org/W1973295722",
+    "https://openalex.org/W1984389717",
+    "https://openalex.org/W2012955722",
+    "https://openalex.org/W2027553174",
+    "https://openalex.org/W2027880636",
+    "https://openalex.org/W2036118382",
+    "https://openalex.org/W2042764062",
+    "https://openalex.org/W2060843426",
+    "https://openalex.org/W2064609248",
+    "https://openalex.org/W2091378927",
+    "https://openalex.org/W2094230315",
+    "https://openalex.org/W2095582073",
+    "https://openalex.org/W2101370661",
+    "https://openalex.org/W2103740336",
+    "https://openalex.org/W2118166105",
+    "https://openalex.org/W2120175253",
+    "https://openalex.org/W2145573696",
+    "https://openalex.org/W2158468158",
+    "https://openalex.org/W2386208197"
+  ]
+}

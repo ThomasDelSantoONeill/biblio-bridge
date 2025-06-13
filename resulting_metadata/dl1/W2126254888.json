@@ -1,0 +1,72 @@
+{
+  "id": "https://openalex.org/W2126254888",
+  "title": "Food web complexity and higher‐level ecosystem services",
+  "abstract": "Abstract Studies mostly focused on communities of primary producers have shown that species richness provides and promotes fundamental ecosystem services. However, we know very little about the factors influencing ecosystem services provided by higher trophic levels in natural food webs. Here we present evidence that differences in food web structure and the richness of herbivores in 19 plant‐herbivore‐parasitoid food webs influence the service supplied by natural enemies, namely, the parasitism rates on hosts. Specifically, we find that parasitoids function better in simple food webs than in complex ones, a result relevant to biological control practice. More generally, we show that species richness per se only contributes partially to the understanding of higher‐level ecosystem services in multitrophic communities, and that changes in food web complexity should also be taken into account when predicting the effects of human‐driven disturbances in natural communities.",
+  "authors": [
+    {
+      "name": "José M. Montoya"
+    },
+    {
+      "name": "Miguel Á. Rodrı́guez"
+    },
+    {
+      "name": "Bradford A. Hawkins"
+    }
+  ],
+  "publication_year": 2003,
+  "cited_by_count": 131,
+  "primary_topic": "Plant and animal studies",
+  "subfield_topic": "Ecology, Evolution, Behavior and Systematics",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1500048837",
+    "https://openalex.org/W1534447835",
+    "https://openalex.org/W1597871704",
+    "https://openalex.org/W1860498595",
+    "https://openalex.org/W1967577453",
+    "https://openalex.org/W1967901188",
+    "https://openalex.org/W1972753341",
+    "https://openalex.org/W1984555757",
+    "https://openalex.org/W1986706966",
+    "https://openalex.org/W1993920730",
+    "https://openalex.org/W2014611299",
+    "https://openalex.org/W2016418366",
+    "https://openalex.org/W2016851692",
+    "https://openalex.org/W2020335469",
+    "https://openalex.org/W2021677512",
+    "https://openalex.org/W2022480405",
+    "https://openalex.org/W2030784825",
+    "https://openalex.org/W2034562813",
+    "https://openalex.org/W2036314458",
+    "https://openalex.org/W2044299526",
+    "https://openalex.org/W2049546703",
+    "https://openalex.org/W2055630785",
+    "https://openalex.org/W2068349998",
+    "https://openalex.org/W2079914122",
+    "https://openalex.org/W2083473081",
+    "https://openalex.org/W2091719578",
+    "https://openalex.org/W2092590782",
+    "https://openalex.org/W2100927103",
+    "https://openalex.org/W2112090702",
+    "https://openalex.org/W2115004610",
+    "https://openalex.org/W2116625389",
+    "https://openalex.org/W2120387950",
+    "https://openalex.org/W2120665364",
+    "https://openalex.org/W2121660347",
+    "https://openalex.org/W2124637492",
+    "https://openalex.org/W2144845076",
+    "https://openalex.org/W2148507011",
+    "https://openalex.org/W2154222678",
+    "https://openalex.org/W2154782058",
+    "https://openalex.org/W2172722994",
+    "https://openalex.org/W2316056528",
+    "https://openalex.org/W2327171991",
+    "https://openalex.org/W3150269605",
+    "https://openalex.org/W3206872583",
+    "https://openalex.org/W414869197",
+    "https://openalex.org/W4214601597",
+    "https://openalex.org/W4230871231",
+    "https://openalex.org/W4300945981"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "https://openalex.org/W50289043",
+  "title": "FISHRENT; Bio-economic simulation and optimisation model",
+  "abstract": "Key findings: The FISHRENT model is a major step forward in bio-economic model-ling, combining features that have not been fully integrated in earlier models: 1- Incorporation of any number of species (or stock) and/or fleets 2- Integration of simulation and optimisation over a period of 25 years 3- Integration of effort and TAC-driven management policies 4- Three independent relations for stock growth, production and investments. The feedbacks within the model allow for a dynamic simulation. The main application of the model is scenario analysis of policy options. Complementary findings: The model formulates a complete set of mathematical relations, but it also con-tains a number of important assumptions, which remain to be tested empirically. Therefore the model presents a challenging agenda for empirical research, which should lead to further qualitative and quantitative improvements of the in-dividual mathematical equations and parameter values. Method: This model was developed during the EU-funded project 'Remuneration of spawning stock biomass'. Its aim was to generate consistent sets of scenarios for an assessment of potential resource rents in different EU fisheries. The model comprises six modules, each focussing on a different aspect of the functioning of the fisheries system: biology (stocks), economy (costs, earnings and profits), policy (TACs, effort and access fees), behaviour (investments), prices (fish and fuel) and an interface linking the modules together. Input, calculation and output are clearly separated. The model produces a standard set of graphics, which provide a quick insight into the results of any model run. All output of the model runs can be exported to database software for further analysis. The model has been built in Excel, which makes it accessible for most us-ers. It has been used in new applications and even translated to other software. The model is continually further developed.",
+  "authors": [
+    {
+      "name": "P. Salz"
+    },
+    {
+      "name": "F.C. Buisman"
+    },
+    {
+      "name": "Katrine Soma"
+    },
+    {
+      "name": "Hans Frost"
+    },
+    {
+      "name": "Paolo Accadia"
+    },
+    {
+      "name": "Raúl Prellezo"
+    }
+  ],
+  "publication_year": 2011,
+  "cited_by_count": 14,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": []
+}

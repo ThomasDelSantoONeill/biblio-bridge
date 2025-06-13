@@ -1,0 +1,65 @@
+{
+  "id": "https://openalex.org/W2066348961",
+  "title": "Inferring Multiple Causality: The Limitations of Path Analysis",
+  "abstract": "1. Review of published ecological studies using path analysis suggests that path analysis is often misused and collinearity is a moderate to severe problem in a majority of the analyses. 2. Multiple regression is shown to be related to path analysis, and thus collinearity, which is a well-known problem in regression analysis, can also be a problem in path analysis. Collinearity occurs when independent variables are highly correlated and causes estimates of standardized partial regression coefficients and of path coefficients to be less precise, less accurate and prone to rounding error. 3. A review of 24 path analyses in 12 papers revealed incorrectly calculated path coefficients in 13 cases and problems with collinearity in 15 cases. Estimates of path coefficients are biased and lack precision if there is collinearity. 4. An additional 40 path analyses could not be evaluated because of incomplete information. Most studies lack sufficient sample size to justify the use of path analysis. Problems associated with the use of categorical variables, which were used in six cases, are unappreciated. 5. These problems suggest that path coefficients may often mislead ecologists about the relative importance of ecological processes.",
+  "authors": [
+    {
+      "name": "Peter S. Petraitis"
+    },
+    {
+      "name": "Amy E. Dunham"
+    },
+    {
+      "name": "Peter H. Niewiarowski"
+    }
+  ],
+  "publication_year": 1996,
+  "cited_by_count": 327,
+  "primary_topic": "Ecology and Vegetation Dynamics Studies",
+  "subfield_topic": "Nature and Landscape Conservation",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1964915882",
+    "https://openalex.org/W1972382451",
+    "https://openalex.org/W1973349764",
+    "https://openalex.org/W1979783913",
+    "https://openalex.org/W1983444779",
+    "https://openalex.org/W2000652018",
+    "https://openalex.org/W2002447523",
+    "https://openalex.org/W2006666561",
+    "https://openalex.org/W2007325036",
+    "https://openalex.org/W2012874045",
+    "https://openalex.org/W2016946203",
+    "https://openalex.org/W2041018918",
+    "https://openalex.org/W2044765353",
+    "https://openalex.org/W2051004220",
+    "https://openalex.org/W2055509010",
+    "https://openalex.org/W2062412201",
+    "https://openalex.org/W2064894212",
+    "https://openalex.org/W2071358057",
+    "https://openalex.org/W2076082790",
+    "https://openalex.org/W2082168070",
+    "https://openalex.org/W2082331803",
+    "https://openalex.org/W2090892077",
+    "https://openalex.org/W2093260247",
+    "https://openalex.org/W2096260439",
+    "https://openalex.org/W2105496432",
+    "https://openalex.org/W2115879110",
+    "https://openalex.org/W2139156166",
+    "https://openalex.org/W2141327354",
+    "https://openalex.org/W2152351489",
+    "https://openalex.org/W2180769203",
+    "https://openalex.org/W2189185632",
+    "https://openalex.org/W2314045446",
+    "https://openalex.org/W2317569767",
+    "https://openalex.org/W2321886676",
+    "https://openalex.org/W2322847402",
+    "https://openalex.org/W2323172758",
+    "https://openalex.org/W2328755255",
+    "https://openalex.org/W2801840425",
+    "https://openalex.org/W2898519191",
+    "https://openalex.org/W2978908610",
+    "https://openalex.org/W3157264244"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "https://openalex.org/W2004235950",
+  "title": "Maximum sustained yield: a policy disguised as science",
+  "abstract": "Abstract Finley, C. and Oreskes, N. 2013. Maximum sustained yield: a policy disguised as science. – ICES Journal of Marine Science, 70: 245–250. Overfishing is most commonly explained as an example of the tragedy of the commons, where individuals are unable to control their activities, leading to the destruction of the resource they are dependent on. The historical record suggests otherwise. Between1949 and 1958, the US State Department used fisheries science, and especially the concept of maximum sustained yield (MSY) as a political tool to achieve its foreign policy objectives. During the Cold War, the Department thought that if countries were allowed to restrict fishing in their waters, it might lead to restrictions on passage of military vessels. While there has been much criticism of MSY and its failure to conserve fish stocks, there has been little attention paid to the political context in which MSY was adopted.",
+  "authors": [
+    {
+      "name": "Carmel Finley"
+    },
+    {
+      "name": "Наоми Орескес"
+    }
+  ],
+  "publication_year": 2013,
+  "cited_by_count": 60,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W119107250",
+    "https://openalex.org/W1483677947",
+    "https://openalex.org/W1523082412",
+    "https://openalex.org/W1556033051",
+    "https://openalex.org/W1580741480",
+    "https://openalex.org/W1972064083",
+    "https://openalex.org/W1981139618",
+    "https://openalex.org/W2011292626",
+    "https://openalex.org/W2035058341",
+    "https://openalex.org/W2048020255",
+    "https://openalex.org/W2052072334",
+    "https://openalex.org/W2055937146",
+    "https://openalex.org/W2059892270",
+    "https://openalex.org/W2061300007",
+    "https://openalex.org/W2100891518",
+    "https://openalex.org/W2102853812",
+    "https://openalex.org/W2142602254",
+    "https://openalex.org/W2147807123",
+    "https://openalex.org/W2150270004",
+    "https://openalex.org/W2156709416",
+    "https://openalex.org/W2165265203",
+    "https://openalex.org/W2226396244",
+    "https://openalex.org/W2252743057",
+    "https://openalex.org/W2314671003",
+    "https://openalex.org/W2326630123",
+    "https://openalex.org/W2334359902",
+    "https://openalex.org/W249441269",
+    "https://openalex.org/W2509726878",
+    "https://openalex.org/W2612928657",
+    "https://openalex.org/W2666467921",
+    "https://openalex.org/W2755421633",
+    "https://openalex.org/W2799252147",
+    "https://openalex.org/W3088713371",
+    "https://openalex.org/W331798839",
+    "https://openalex.org/W4250030403",
+    "https://openalex.org/W4292411114",
+    "https://openalex.org/W596596220",
+    "https://openalex.org/W618525942"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "https://openalex.org/W2058757045",
+  "title": "Predators that Benefit Prey and Prey that Harm Predators: Unusual Effects of Interacting Foraging Adaptation",
+  "abstract": "This article explores models of four-species food chains in which two species adaptively balance food intake and risk o e predation. The purpose is to determine how the interaction of adaptive foraging behaviors in two or more species influences the interactions in the entire food chain. It is shown first that such interacting behaviors will often reach a stable equilibrium. Differential equations are then derived to describe population dynamics when the behaviors remain close to their optima. These equations are very different from Lotka-Volterra-type food web models. The per capita growth rate of each species is affected by the density of every other species in the food chain, and the largest effects may be caused by the species that are most distant in the food chain. Increased predator density may increase the fitness of their prey, while increased prey density may decrease the fitness of their predator. Such unusual interactions are most likely when the adaptive species increase foraging effort in response to increased food availability. The nature of the indirect effects can often be deduced from knowing the sign of the second derivative of foraging cost-and-benefit functions.",
+  "authors": [
+    {
+      "name": "Peter A. Abrams"
+    }
+  ],
+  "publication_year": 1992,
+  "cited_by_count": 199,
+  "primary_topic": "Evolution and Genetic Dynamics",
+  "subfield_topic": "Genetics",
+  "field_topic": "Biochemistry, Genetics and Molecular Biology",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1522708322",
+    "https://openalex.org/W1545824766",
+    "https://openalex.org/W1969145542",
+    "https://openalex.org/W1981592605",
+    "https://openalex.org/W1982083978",
+    "https://openalex.org/W1983357412",
+    "https://openalex.org/W1988201445",
+    "https://openalex.org/W1988338276",
+    "https://openalex.org/W1991992709",
+    "https://openalex.org/W2006265485",
+    "https://openalex.org/W2008019499",
+    "https://openalex.org/W2010981035",
+    "https://openalex.org/W2026724928",
+    "https://openalex.org/W2030605515",
+    "https://openalex.org/W2044306042",
+    "https://openalex.org/W2045020259",
+    "https://openalex.org/W2071963339",
+    "https://openalex.org/W2078154956",
+    "https://openalex.org/W2083628088",
+    "https://openalex.org/W2103341633",
+    "https://openalex.org/W2128895864",
+    "https://openalex.org/W2133245701",
+    "https://openalex.org/W2149049530",
+    "https://openalex.org/W2165111556",
+    "https://openalex.org/W2178504862",
+    "https://openalex.org/W2236294416",
+    "https://openalex.org/W2323917976",
+    "https://openalex.org/W2327359159",
+    "https://openalex.org/W3045904299"
+  ]
+}

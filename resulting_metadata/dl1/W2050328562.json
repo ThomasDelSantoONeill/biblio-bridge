@@ -1,0 +1,82 @@
+{
+  "id": "https://openalex.org/W2050328562",
+  "title": "Level spacings for weakly asymmetric real random matrices and application to two-color QCD with chemical potential",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Jacques Bloch"
+    },
+    {
+      "name": "Falk Bruckmann"
+    },
+    {
+      "name": "Nils Meyer"
+    },
+    {
+      "name": "Sebastian Schierenberg"
+    }
+  ],
+  "publication_year": 2012,
+  "cited_by_count": 5,
+  "primary_topic": "Random Matrices and Applications",
+  "subfield_topic": "Statistics and Probability",
+  "field_topic": "Mathematics",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1811746605",
+    "https://openalex.org/W1834106819",
+    "https://openalex.org/W1963641960",
+    "https://openalex.org/W1977021605",
+    "https://openalex.org/W1978864992",
+    "https://openalex.org/W1979951950",
+    "https://openalex.org/W2000898529",
+    "https://openalex.org/W2001095588",
+    "https://openalex.org/W2004547602",
+    "https://openalex.org/W2004857006",
+    "https://openalex.org/W2005031553",
+    "https://openalex.org/W2005412770",
+    "https://openalex.org/W2006118563",
+    "https://openalex.org/W2010965814",
+    "https://openalex.org/W2013810140",
+    "https://openalex.org/W2014931551",
+    "https://openalex.org/W2019083359",
+    "https://openalex.org/W2022335071",
+    "https://openalex.org/W2023517857",
+    "https://openalex.org/W2027283275",
+    "https://openalex.org/W2027472711",
+    "https://openalex.org/W2035825545",
+    "https://openalex.org/W2064773170",
+    "https://openalex.org/W2074393408",
+    "https://openalex.org/W2074508748",
+    "https://openalex.org/W2075947579",
+    "https://openalex.org/W2081380079",
+    "https://openalex.org/W2082523211",
+    "https://openalex.org/W2086756423",
+    "https://openalex.org/W2087579479",
+    "https://openalex.org/W2091120479",
+    "https://openalex.org/W2100549486",
+    "https://openalex.org/W2102046746",
+    "https://openalex.org/W2118939464",
+    "https://openalex.org/W2131709148",
+    "https://openalex.org/W2135985420",
+    "https://openalex.org/W2154188087",
+    "https://openalex.org/W2790037546",
+    "https://openalex.org/W2798909945",
+    "https://openalex.org/W3014519296",
+    "https://openalex.org/W3014594013",
+    "https://openalex.org/W3021486130",
+    "https://openalex.org/W3034625624",
+    "https://openalex.org/W3084278030",
+    "https://openalex.org/W3098029079",
+    "https://openalex.org/W3100889430",
+    "https://openalex.org/W3100890624",
+    "https://openalex.org/W3102442796",
+    "https://openalex.org/W3103333767",
+    "https://openalex.org/W3104033981",
+    "https://openalex.org/W4234228411",
+    "https://openalex.org/W4240917246",
+    "https://openalex.org/W4252596967",
+    "https://openalex.org/W4255873917",
+    "https://openalex.org/W4298241147"
+  ]
+}

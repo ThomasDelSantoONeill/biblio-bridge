@@ -1,0 +1,69 @@
+{
+  "id": "https://openalex.org/W2946006416",
+  "title": "Threat webs: Reframing the co‐occurrence and interactions of threats to biodiversity",
+  "abstract": "Abstract Interactions between threatening processes and their effects on biodiversity are a major focus of ecological research and management. Threat interactions arise when threats or their effects co‐occur spatially and temporally. Whether the associations between threats are coincidental or causally linked is poorly understood, but has fundamental impacts on how, when and where threats should be managed. We propose that examining threat co‐occurrence, supplemented by experiments and triangulation of evidence, can help identify when and where threats interact causally, informing pressing biodiversity management goals. Using case studies, we demonstrate how co‐occurring and interacting threats can be visualized as networks (threat webs) and how this could guide conservation interventions at local, regional and global scales. Synthesis and applications. Recognizing that threats co‐occur and interact as networks, and are potentially driven by multiple agents (e.g. other threats, shared environmental drivers), helps us understand their dynamics and impacts on ecosystems. This greater understanding can help facilitate more targeted, efficient and effective environmental management.",
+  "authors": [
+    {
+      "name": "William L. Geary"
+    },
+    {
+      "name": "Dale G. Nimmo"
+    },
+    {
+      "name": "Tim S. Doherty"
+    },
+    {
+      "name": "Euan G. Ritchie"
+    },
+    {
+      "name": "Ayesha Tulloch"
+    }
+  ],
+  "publication_year": 2019,
+  "cited_by_count": 62,
+  "primary_topic": "Species Distribution and Climate Change",
+  "subfield_topic": "Ecological Modeling",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1633999785",
+    "https://openalex.org/W1726096731",
+    "https://openalex.org/W1926612890",
+    "https://openalex.org/W1964136345",
+    "https://openalex.org/W1975587767",
+    "https://openalex.org/W1975626823",
+    "https://openalex.org/W1976969031",
+    "https://openalex.org/W1989126396",
+    "https://openalex.org/W1994045615",
+    "https://openalex.org/W1996857237",
+    "https://openalex.org/W2035537103",
+    "https://openalex.org/W2046401599",
+    "https://openalex.org/W2068031289",
+    "https://openalex.org/W2080748515",
+    "https://openalex.org/W2085927787",
+    "https://openalex.org/W2116237369",
+    "https://openalex.org/W2124598518",
+    "https://openalex.org/W2136004980",
+    "https://openalex.org/W2147323780",
+    "https://openalex.org/W2179545636",
+    "https://openalex.org/W2216219315",
+    "https://openalex.org/W2265312118",
+    "https://openalex.org/W2272096331",
+    "https://openalex.org/W2339910054",
+    "https://openalex.org/W2342268295",
+    "https://openalex.org/W2517342784",
+    "https://openalex.org/W2519759789",
+    "https://openalex.org/W2549693404",
+    "https://openalex.org/W2550223228",
+    "https://openalex.org/W2593603005",
+    "https://openalex.org/W2605712044",
+    "https://openalex.org/W2767398209",
+    "https://openalex.org/W2775180067",
+    "https://openalex.org/W2782594421",
+    "https://openalex.org/W2791587754",
+    "https://openalex.org/W2792330247",
+    "https://openalex.org/W2920836276",
+    "https://openalex.org/W2921057995",
+    "https://openalex.org/W2963584447"
+  ]
+}

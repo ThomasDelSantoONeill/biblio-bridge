@@ -1,0 +1,54 @@
+{
+  "id": "https://openalex.org/W763007321",
+  "title": "How will fisheries management measures contribute towards the attainment of Good Environmental Status for the North Sea ecosystem?",
+  "abstract": "European fisheries management have adopted maximum sustainable yield (MSY) targets for fishing mortality on commercial species to maximise the provision of food. EU member states are also committed to reach Good Environmental Status by 2020 through the Marine Strategy Framework Directive which aims to protect all ecosystem services. So, how will fisheries management measures contribute to ecosystem functioning and the attainment of environmental objectives as measured by improvements in indicators of biodiversity and food webs? We model ecosystem effects of fishing in the North Sea using food web model projections incorporating fishing effort strategies consistent with MSY targets. Correlations between modelled indicators and survey data were significant (p≤0.02). Reduced fishing effort led to increases in size-based indicators and biomasses of benthivores, planktivores and piscivores. However, predation by piscivores depressed bentho-piscivore biomass. Climate warming may also decrease biomasses of bentho-piscivores and piscivores, while planktivores, benthivores and state indicators of size and trophic level may increase. Fisheries management measures will benefit the biodiversity of the fish community in terms of size structure, but not necessarily the food web since decreases in relative biomass of some trophic guilds are expected.",
+  "authors": [
+    {
+      "name": "Christopher P. Lynam"
+    },
+    {
+      "name": "Steven Mackinson"
+    }
+  ],
+  "publication_year": 2015,
+  "cited_by_count": 32,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W163013491",
+    "https://openalex.org/W1977828535",
+    "https://openalex.org/W1987756633",
+    "https://openalex.org/W1993185463",
+    "https://openalex.org/W2011067938",
+    "https://openalex.org/W2016293090",
+    "https://openalex.org/W2023474632",
+    "https://openalex.org/W2068635251",
+    "https://openalex.org/W2075420070",
+    "https://openalex.org/W2077092969",
+    "https://openalex.org/W2077751192",
+    "https://openalex.org/W2099309663",
+    "https://openalex.org/W2121910286",
+    "https://openalex.org/W2122338940",
+    "https://openalex.org/W2129778069",
+    "https://openalex.org/W2136507145",
+    "https://openalex.org/W2139832281",
+    "https://openalex.org/W2140613131",
+    "https://openalex.org/W2142830409",
+    "https://openalex.org/W2143578174",
+    "https://openalex.org/W2144872997",
+    "https://openalex.org/W2146598093",
+    "https://openalex.org/W2150709601",
+    "https://openalex.org/W2157366903",
+    "https://openalex.org/W2158521569",
+    "https://openalex.org/W2164877071",
+    "https://openalex.org/W2166614543",
+    "https://openalex.org/W2372033137",
+    "https://openalex.org/W2582743722",
+    "https://openalex.org/W2600265759",
+    "https://openalex.org/W2733863179",
+    "https://openalex.org/W2796233506",
+    "https://openalex.org/W4285719527"
+  ]
+}

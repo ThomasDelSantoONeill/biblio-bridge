@@ -1,0 +1,38 @@
+{
+  "id": "https://openalex.org/W2792088475",
+  "title": "An Introduction to the EcoTroph R Package: Analyzing Aquatic Ecosystem Trophic Networks",
+  "abstract": "Recent advances in aquatic ecosystem modelling have particularly focused on trophic network analysis through trophodynamic models.We present here a R package devoted to a recently developed model, EcoTroph.This model enables the analysis of aquatic ecological networks and the related impacts of fisheries.It was available through a plug-in in the well-known Ecopath with Ecosim software or through implementations in Excel sheets.The R package we developed simplifies the access to the EcoTroph model and offers a new interfacing between two widely used software, Ecopath and R.",
+  "authors": [
+    {
+      "name": "Mathieu Colléter"
+    },
+    {
+      "name": "Jérôme Guitton"
+    },
+    {
+      "name": "Didier Gascuel"
+    }
+  ],
+  "publication_year": 2013,
+  "cited_by_count": 33,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1532352693",
+    "https://openalex.org/W2029348353",
+    "https://openalex.org/W2081050205",
+    "https://openalex.org/W2096623946",
+    "https://openalex.org/W2105280308",
+    "https://openalex.org/W2141072849",
+    "https://openalex.org/W2145183290",
+    "https://openalex.org/W2151589195",
+    "https://openalex.org/W2161776242",
+    "https://openalex.org/W2162504131",
+    "https://openalex.org/W2317845212",
+    "https://openalex.org/W2328983363",
+    "https://openalex.org/W2344271502",
+    "https://openalex.org/W4399611364"
+  ]
+}

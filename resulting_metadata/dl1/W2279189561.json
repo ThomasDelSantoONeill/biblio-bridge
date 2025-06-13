@@ -1,0 +1,20 @@
+{
+  "id": "https://openalex.org/W2279189561",
+  "title": "What makes an optimization problem hand?",
+  "abstract": "Abstract We address the question: “Are some classes of combinatorial optimization problems intrinsically harder than others, without regard to the algorithm one uses, or can difficulty only be assessed relative to particular algorithms?” We provide a measure of the hardness of a particular optimization problem for a particular optimization algorithm and present two algorithm‐independent quantities that use this measure to provide answers to our question. In the first of these we average hardness over all possible algorithms and show that according to this quantity, there are no distinctions between optimization problems. In this sense no problems are intrinsically harder than others. For the second quantity, rather than average over all algorithms, we consider the level of hardness of a problem (or class of problems) for the associated optimal algorithm. By this criteria there are classes of problems that are intrinsically harder than others.",
+  "authors": [
+    {
+      "name": "William G. Macready"
+    },
+    {
+      "name": "David H. Wolpert"
+    }
+  ],
+  "publication_year": 1996,
+  "cited_by_count": 55,
+  "primary_topic": "Advanced Graph Theory Research",
+  "subfield_topic": "Computational Theory and Mathematics",
+  "field_topic": "Computer Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": []
+}

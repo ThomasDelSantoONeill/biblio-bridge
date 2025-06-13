@@ -1,0 +1,46 @@
+{
+  "id": "https://openalex.org/W2104175411",
+  "title": "Is scientific inquiry incompatible with government information control?",
+  "abstract": "Government-administered science in Canada, and its potential for bureaucratic and political interference, merits examination in the wake of the biological and socioeconomic catastrophes associated with recent fishery collapses. We cite specific research on Atlantic cod (Gadus morhua) and Pacific salmon (Oncorhynchus spp.) habitat to illustrate how nonscience influences can interfere with the dissemination of scientific information and the conduct of science in the Canadian Department of Fisheries and Oceans. The present framework for linking fisheries science with fisheries management has permitted, intentionally or unintentionally, a suppression of scientific uncertainty and a failure to document comprehensively legitimate differences in scientific opinion. We suggest that the conservation of natural resources is not facilitated by science integrated within a political body. The formation of a politically independent organization of fisheries scientists, or some such reorganization of the link between scientific research and the management of natural resources, merits serious and open debate.",
+  "authors": [
+    {
+      "name": "Jeffrey A. Hutchings"
+    },
+    {
+      "name": "Carl J. Walters"
+    },
+    {
+      "name": "R L Haedrich"
+    }
+  ],
+  "publication_year": 1997,
+  "cited_by_count": 158,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1531013200",
+    "https://openalex.org/W1967982085",
+    "https://openalex.org/W1968202291",
+    "https://openalex.org/W2000696368",
+    "https://openalex.org/W2006844559",
+    "https://openalex.org/W2018780210",
+    "https://openalex.org/W2026090622",
+    "https://openalex.org/W2038801236",
+    "https://openalex.org/W2042796530",
+    "https://openalex.org/W2048923420",
+    "https://openalex.org/W204940627",
+    "https://openalex.org/W2056330815",
+    "https://openalex.org/W2070827230",
+    "https://openalex.org/W2081137926",
+    "https://openalex.org/W2089022458",
+    "https://openalex.org/W2102855961",
+    "https://openalex.org/W2909916310",
+    "https://openalex.org/W2916540077",
+    "https://openalex.org/W3008165624",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W597340168",
+    "https://openalex.org/W602115423"
+  ]
+}

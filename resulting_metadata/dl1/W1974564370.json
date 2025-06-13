@@ -1,0 +1,82 @@
+{
+  "id": "https://openalex.org/W1974564370",
+  "title": "Interactions Among Gypsy Moths, White‐footed Mice, and Acorns",
+  "abstract": "Low—density populations of gypsy moth, Lymantria dispar, were studied over a 10—yr period in Massachusetts. Increases in gypsy moth density were associated with declines in density of the white—footed mouse, Peromyscus leucopus, a principal predator. Furthermore, changes in density of P. leucopus populations were positively correlated with the density of acorn crops, a dominant winter food source for these mice. To demonstrate these effects we used a novel bootstrap regression method that adjusts for spatial and temporal autocorrelation in the time series data. The findings are compatible with a dual equilibrium model of gypsy moth population dynamics, in which low densities are regulated by mice and high densities are regulated by other factors, notably a virus disease.",
+  "authors": [
+    {
+      "name": "Joseph S. Elkinton"
+    },
+    {
+      "name": "William M. Healy"
+    },
+    {
+      "name": "John P. Buonaccorsi"
+    },
+    {
+      "name": "George H. Boettner"
+    },
+    {
+      "name": "Anne M. Hazzard"
+    },
+    {
+      "name": "H. R. Smith"
+    }
+  ],
+  "publication_year": 1996,
+  "cited_by_count": 319,
+  "primary_topic": "Animal Ecology and Behavior Studies",
+  "subfield_topic": "Ecology",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W154621860",
+    "https://openalex.org/W1950464255",
+    "https://openalex.org/W1973343200",
+    "https://openalex.org/W1974281082",
+    "https://openalex.org/W1978948864",
+    "https://openalex.org/W1980818764",
+    "https://openalex.org/W1984978672",
+    "https://openalex.org/W1987571285",
+    "https://openalex.org/W1992647799",
+    "https://openalex.org/W1995250234",
+    "https://openalex.org/W1995672586",
+    "https://openalex.org/W1995945562",
+    "https://openalex.org/W2002181185",
+    "https://openalex.org/W2041357136",
+    "https://openalex.org/W2047831247",
+    "https://openalex.org/W2057952273",
+    "https://openalex.org/W2068598632",
+    "https://openalex.org/W2074051766",
+    "https://openalex.org/W2077826565",
+    "https://openalex.org/W2078707176",
+    "https://openalex.org/W2079828645",
+    "https://openalex.org/W2093481701",
+    "https://openalex.org/W2145616090",
+    "https://openalex.org/W2262954636",
+    "https://openalex.org/W2313991893",
+    "https://openalex.org/W2314513712",
+    "https://openalex.org/W2314882840",
+    "https://openalex.org/W2318190399",
+    "https://openalex.org/W2319304170",
+    "https://openalex.org/W2320350052",
+    "https://openalex.org/W2322950453",
+    "https://openalex.org/W2322970402",
+    "https://openalex.org/W2324415972",
+    "https://openalex.org/W2328712260",
+    "https://openalex.org/W2328923078",
+    "https://openalex.org/W2329694122",
+    "https://openalex.org/W2331249488",
+    "https://openalex.org/W2331386123",
+    "https://openalex.org/W2332144804",
+    "https://openalex.org/W2332872148",
+    "https://openalex.org/W2333790574",
+    "https://openalex.org/W2467548743",
+    "https://openalex.org/W2902462733",
+    "https://openalex.org/W2969634305",
+    "https://openalex.org/W2969658949",
+    "https://openalex.org/W2969982387",
+    "https://openalex.org/W3208018609",
+    "https://openalex.org/W320952070",
+    "https://openalex.org/W4285719527"
+  ]
+}

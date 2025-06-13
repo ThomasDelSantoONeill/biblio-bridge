@@ -1,0 +1,32 @@
+{
+  "id": "https://openalex.org/W2153330861",
+  "title": "Gauging the impact of fishing mortality on non-target species",
+  "abstract": "The most obvious effect of fishing on non-target species is direct mortality. To quantify this effect on the vulnerability of species requires measurement of the current fishing mortality rate and of the tolerance of the species to fishing mortality. These are difficult to estimate for the little-studied non-target species. We describe two potential methods for estimating current fishing mortality rate when data are limited. Their application is illustrated for dab (Limanda limanda) and grey gurnard (Eutrigula gurnardus), two common non-target species in the North Sea. We also develop approaches to define tolerance levels for fishing mortality for little-studied and rare species, based on the potential jeopardy level: the fishing mortality that causes a reduction in spawning stock biomass per recruit relative to the unexploited situation. We propose that for non-target species, models founded on basic knowledge of life history parameters, and on generally established relationships between these parameters, may offer the only practical approach.",
+  "authors": [
+    {
+      "name": "John G. Pope"
+    }
+  ],
+  "publication_year": 2000,
+  "cited_by_count": 91,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1513136390",
+    "https://openalex.org/W1975416477",
+    "https://openalex.org/W2014954234",
+    "https://openalex.org/W2035058341",
+    "https://openalex.org/W2059068077",
+    "https://openalex.org/W2130305318",
+    "https://openalex.org/W2157938652",
+    "https://openalex.org/W2345446740",
+    "https://openalex.org/W2587781542",
+    "https://openalex.org/W2610772497",
+    "https://openalex.org/W2920947707",
+    "https://openalex.org/W3002341712",
+    "https://openalex.org/W4292411114",
+    "https://openalex.org/W4388299665"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "https://openalex.org/W2087007059",
+  "title": "A Stochastic Model for the Management of the Northwestern Atlantic Harp Seal (<i>Pagophilus groenlandicus</i>) Population",
+  "abstract": "Advice from the scientific advisers under the auspices of ICNAF to the international commissioners for 1977 was that the total allowable catch (TAC) for harp seals (Pagophilus groenlandicus) should not exceed 170,000. This advice, in part, was based on the scientific arguments presented in this paper. A stochastic model is developed that takes into account the variations in natural mortality and the landsmen's high arctic and Greenland catches. The Canadian–Norwegian large vessel hunt is controlled under quota regulations. The model is nonlinear, a result of changes in fertility and fecundity rates in response to shifts in population size. The maximum sustainable yield (MSY) 1 + population size is determined to be 1.6 million seals, or a breeding stock size of 375,000 seals. The MSY is approximately 240,000 seals assuming the hunt continues its present pattern. The 240,000 can further be split into 200,000 pups and 40,000 1 + seals. Present stock size is approximately 1.2 million and a TAC of 170,000 seals will allow the population size to reach to MSY level in 10–15 yr. A number of other management strategies are considered, in addition to prospects for future research.",
+  "authors": [
+    {
+      "name": "Patrick F. Lett"
+    },
+    {
+      "name": "Terje Benjaminsen"
+    }
+  ],
+  "publication_year": 1977,
+  "cited_by_count": 23,
+  "primary_topic": "Marine animal studies overview",
+  "subfield_topic": "Ecology",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": []
+}

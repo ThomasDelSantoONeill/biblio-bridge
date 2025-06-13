@@ -1,0 +1,34 @@
+{
+  "id": "https://openalex.org/W1999882000",
+  "title": "A General Model for Simulation of Stock and Fleet Dynamics in Spatially Heterogeneous Fisheries",
+  "abstract": "A simple simulation model of stock and fleet dynamics is described that allows rapid exploration of the dynamics of fisheries in a spatially heterogeneous environment. The model simulates how fishermen allocate their search effort among spatial areas in relation to differential catch rates, prices, or area-specific desirabilities. The model runs in a few seconds per simulated year on an IBM microcomputer in interpreted BASIC, although both age structure and space are explicitly represented. The importance of exploring dynamic behavior of fisheries systems is discussed.",
+  "authors": [
+    {
+      "name": "Ray Hilborn"
+    },
+    {
+      "name": "Carl J. Walters"
+    }
+  ],
+  "publication_year": 1987,
+  "cited_by_count": 144,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1976524920",
+    "https://openalex.org/W1983053179",
+    "https://openalex.org/W2002460828",
+    "https://openalex.org/W2007546218",
+    "https://openalex.org/W2014995883",
+    "https://openalex.org/W2018996600",
+    "https://openalex.org/W2030739388",
+    "https://openalex.org/W2036431711",
+    "https://openalex.org/W2059848411",
+    "https://openalex.org/W2076153258",
+    "https://openalex.org/W2118285775",
+    "https://openalex.org/W2119193905",
+    "https://openalex.org/W2158261246"
+  ]
+}

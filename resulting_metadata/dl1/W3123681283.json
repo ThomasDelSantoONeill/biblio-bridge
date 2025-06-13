@@ -1,0 +1,39 @@
+{
+  "id": "https://openalex.org/W3123681283",
+  "title": "Approach and process for stock assessment in the South East Fishery, Australia: a perspective",
+  "abstract": "The stock assessment process in the South East Fishery involves scientists, industry, fishery managers, economists and non-government organizations. A comparison with such processes in other countries, where stakeholder involvement ranges from government scientists only to involvement of scientists, industry and conservation non-government organizations, suggests that Australia is the only country in which fishery managers are active and integral stock-assessment participants. In Australia, as in several other countries, the form of advice is comparative (consequences of alternative decisions) rather than prescriptive. Although all approaches have advantages and disadvantages, the South East Fishery process has advantages that appear to clearly outweigh the disadvantages. The advantages include better communication among interest groups, improved ownership of and hence support for outcomes and better interactions among groups. The disadvantages include the cost of the process, lack of consistency among assessments, vulnerability of scientists and the frustrations of industry.",
+  "authors": [
+    {
+      "name": "David C. Smith"
+    },
+    {
+      "name": "Anthony D. M. Smith"
+    },
+    {
+      "name": "André E. Punt"
+    }
+  ],
+  "publication_year": 2001,
+  "cited_by_count": 21,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1582073618",
+    "https://openalex.org/W1602637469",
+    "https://openalex.org/W1668540824",
+    "https://openalex.org/W1975250828",
+    "https://openalex.org/W2006031742",
+    "https://openalex.org/W2008357944",
+    "https://openalex.org/W2020647615",
+    "https://openalex.org/W2072885894",
+    "https://openalex.org/W2083854664",
+    "https://openalex.org/W2088144762",
+    "https://openalex.org/W2100012356",
+    "https://openalex.org/W2126475261",
+    "https://openalex.org/W2128013562",
+    "https://openalex.org/W2495292174",
+    "https://openalex.org/W915892698"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "https://openalex.org/W1978553021",
+  "title": "Estimability of natural mortality and other population parameters in a length-based model: <i>Pandalus borealis</i> in Kachemak Bay, Alaska",
+  "abstract": "Because stock-assessment models have become more complex, the question of estimability of population parameters is important. We conducted simulation-estimation experiments with a length-based model of the pink shrimp (Pandalus borealis Krøyer) population in Kachemak Bay, Alaska, to compare the robustness of various modeling approaches to specifications of natural mortality (M), catchability (q), a survey gear selectivity parameter (L 50 ), and data imprecision. Our goal was to determine the estimability of various parameters, particularly M, q, and L 50 . Simulation results suggest that interannual variations in M and L 50 could be estimated, if the underlying values have a trend over time. However, parameter q should be fixed at a chosen value, even when it varies over time. Estimated M for the Kachemak Bay P. borealis population increased in the 1980s, perhaps owing to increased predation mortality by groundfish.",
+  "authors": [
+    {
+      "name": "Caihong Fu"
+    },
+    {
+      "name": "Terrance J. Quinn"
+    }
+  ],
+  "publication_year": 2000,
+  "cited_by_count": 68,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1589375716",
+    "https://openalex.org/W1967103426",
+    "https://openalex.org/W1967982085",
+    "https://openalex.org/W1968538133",
+    "https://openalex.org/W1975250828",
+    "https://openalex.org/W1995945562",
+    "https://openalex.org/W2013115424",
+    "https://openalex.org/W2022832113",
+    "https://openalex.org/W2027269672",
+    "https://openalex.org/W2077959816",
+    "https://openalex.org/W2078952311",
+    "https://openalex.org/W2081137926",
+    "https://openalex.org/W2089267627",
+    "https://openalex.org/W2093318465",
+    "https://openalex.org/W2166796600",
+    "https://openalex.org/W2324654292",
+    "https://openalex.org/W2334543285",
+    "https://openalex.org/W2400264012",
+    "https://openalex.org/W2475808220",
+    "https://openalex.org/W2791348016",
+    "https://openalex.org/W2941736620",
+    "https://openalex.org/W83481625"
+  ]
+}

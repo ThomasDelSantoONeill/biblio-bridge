@@ -1,0 +1,17 @@
+{
+  "id": "https://openalex.org/W3045904299",
+  "title": "On the relative importance of direct versus indirect effects in ecological communities",
+  "abstract": "Abstract The science of ecology is becoming increasingly complex. Theoreticians are telling us that we can expect a variety of important indirect effects in food webs, some of them over fairly long pathways, at least in models with random interaction coefficients and sometimes with real ones. Experimentalists, discovering new techniques and working harder and longer, are beginning to uncover indirect effects in fair number. Although they will never be able to investigate the full scope of complexity available to theoreticians, there is some feeling, perhaps fear, that this is the tip of the iceberg We are presently trying to determine how important indirect effects are, and how indirect they can be and still be important. This issue can be cast precisely in two ways First, pick two species in a community of interacting species. To what extent does the net or total effect of one on the other, in terms of sign and magnitude, depend on a direct effect component v. effect components of varying degrees of indirectness — how much do distant species matter? Secondly, perturb a given species.",
+  "authors": [
+    {
+      "name": "Thomas W. Schoener"
+    }
+  ],
+  "publication_year": 1993,
+  "cited_by_count": 166,
+  "primary_topic": "Plant and animal studies",
+  "subfield_topic": "Ecology, Evolution, Behavior and Systematics",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": []
+}

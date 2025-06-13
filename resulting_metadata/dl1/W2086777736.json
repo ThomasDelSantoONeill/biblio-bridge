@@ -1,0 +1,158 @@
+{
+  "id": "https://openalex.org/W2086777736",
+  "title": "Lessons learned from stock collapse and recovery of North Sea herring: a review",
+  "abstract": "Abstract Dickey-Collas, M., Nash, R. D. M., Brunel, T., van Damme, C. J. G., Marshall, C. T., Payne, M. R., Corten, A., Geffen, A. J., Peck, M. A., Hatfield, E. M. C., Hintzen, N. T., Enberg, K., Kell, L. T., and Simmonds, E. J. 2010. Lessons learned from stock collapse and recovery of North Sea herring: a review. – ICES Journal of Marine Science, 67: 1875–1886. The collapse and recovery of North Sea herring in the latter half of the 20th century had both ecological and economic consequences. We review the effect of the collapse and investigate whether the increased understanding about the biology, ecology, and stock dynamics gained in the past three decades can aid management to prevent further collapses and improve projections of recovery. Recruitment adds the most uncertainty to estimates of future yield and the potential to reach biomass reference points within a specified time-frame. Stock–recruitment relationships must be viewed as being fluid and dependent on ecosystem change. Likewise, predation mortality changes over time. Management aimed at maximum sustainable yield (MSY) fishing mortality targets implies interannual variation in TACs, and variability in supply is therefore unavoidable. Harvest control rules, when adhered to, aid management greatly. We advocate that well-founded science can substantially contribute to management through improved confidence and increased transparency. At present, we cannot predict the effects of collapse or recovery of a single stock on the ecosystem as a whole. Moreover, as managers try to reconcile commitments to single-species MSY targets with the ecosystem-based approach, they must consider the appropriate management objectives for the North Sea ecosystem as a whole.",
+  "authors": [
+    {
+      "name": "Mark Dickey‐Collas"
+    },
+    {
+      "name": "Richard D.M. Nash"
+    },
+    {
+      "name": "Thomas Brunel"
+    },
+    {
+      "name": "C.J.G. van Damme"
+    },
+    {
+      "name": "C. Tara Marshall"
+    },
+    {
+      "name": "Mark Payne"
+    },
+    {
+      "name": "Ad Corten"
+    },
+    {
+      "name": "Audrey J. Geffen"
+    },
+    {
+      "name": "Myron A. Peck"
+    },
+    {
+      "name": "Emma Hatfield"
+    },
+    {
+      "name": "Niels T. Hintzen"
+    },
+    {
+      "name": "Katja Enberg"
+    },
+    {
+      "name": "Laurence T. Kell"
+    },
+    {
+      "name": "E. John Simmonds"
+    }
+  ],
+  "publication_year": 2010,
+  "cited_by_count": 184,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1203321603",
+    "https://openalex.org/W1486453136",
+    "https://openalex.org/W161955062",
+    "https://openalex.org/W1635275753",
+    "https://openalex.org/W1830805930",
+    "https://openalex.org/W1964096783",
+    "https://openalex.org/W1965736986",
+    "https://openalex.org/W1967004615",
+    "https://openalex.org/W1968083688",
+    "https://openalex.org/W1969198586",
+    "https://openalex.org/W1972610317",
+    "https://openalex.org/W1972672556",
+    "https://openalex.org/W1972959761",
+    "https://openalex.org/W1974516707",
+    "https://openalex.org/W1975589992",
+    "https://openalex.org/W1978923989",
+    "https://openalex.org/W1979507406",
+    "https://openalex.org/W1983407253",
+    "https://openalex.org/W1986027376",
+    "https://openalex.org/W1986134528",
+    "https://openalex.org/W1986204716",
+    "https://openalex.org/W1986534059",
+    "https://openalex.org/W1989050709",
+    "https://openalex.org/W1989594892",
+    "https://openalex.org/W1994250687",
+    "https://openalex.org/W1995222156",
+    "https://openalex.org/W2002852465",
+    "https://openalex.org/W2005795200",
+    "https://openalex.org/W2009940243",
+    "https://openalex.org/W2010763272",
+    "https://openalex.org/W2012821161",
+    "https://openalex.org/W2018968294",
+    "https://openalex.org/W2023474632",
+    "https://openalex.org/W2029686884",
+    "https://openalex.org/W2032570276",
+    "https://openalex.org/W2038445130",
+    "https://openalex.org/W2039213946",
+    "https://openalex.org/W2039685996",
+    "https://openalex.org/W2039835467",
+    "https://openalex.org/W2040024079",
+    "https://openalex.org/W2040568973",
+    "https://openalex.org/W2044895721",
+    "https://openalex.org/W2046576554",
+    "https://openalex.org/W2047790857",
+    "https://openalex.org/W2053398330",
+    "https://openalex.org/W2054968548",
+    "https://openalex.org/W2058112171",
+    "https://openalex.org/W2074832189",
+    "https://openalex.org/W2078038992",
+    "https://openalex.org/W2081183483",
+    "https://openalex.org/W2081374010",
+    "https://openalex.org/W2081425666",
+    "https://openalex.org/W2083521481",
+    "https://openalex.org/W2087298264",
+    "https://openalex.org/W2089360104",
+    "https://openalex.org/W2096380953",
+    "https://openalex.org/W2098040315",
+    "https://openalex.org/W2098165869",
+    "https://openalex.org/W2100431068",
+    "https://openalex.org/W2102063347",
+    "https://openalex.org/W2115415514",
+    "https://openalex.org/W2116988540",
+    "https://openalex.org/W2119142468",
+    "https://openalex.org/W2120169444",
+    "https://openalex.org/W2122242997",
+    "https://openalex.org/W2122403693",
+    "https://openalex.org/W2124718796",
+    "https://openalex.org/W2126244938",
+    "https://openalex.org/W2127491394",
+    "https://openalex.org/W2127643189",
+    "https://openalex.org/W2131302185",
+    "https://openalex.org/W2131746234",
+    "https://openalex.org/W2134550513",
+    "https://openalex.org/W2135505355",
+    "https://openalex.org/W2135920095",
+    "https://openalex.org/W2136168956",
+    "https://openalex.org/W2138566854",
+    "https://openalex.org/W2141158179",
+    "https://openalex.org/W2144241251",
+    "https://openalex.org/W2146330604",
+    "https://openalex.org/W2151139060",
+    "https://openalex.org/W2161786378",
+    "https://openalex.org/W2163670392",
+    "https://openalex.org/W2170000714",
+    "https://openalex.org/W2170248636",
+    "https://openalex.org/W2171447143",
+    "https://openalex.org/W2189611294",
+    "https://openalex.org/W2317944518",
+    "https://openalex.org/W2463801860",
+    "https://openalex.org/W2491669099",
+    "https://openalex.org/W2492025157",
+    "https://openalex.org/W2578066627",
+    "https://openalex.org/W2772515088",
+    "https://openalex.org/W3126098724",
+    "https://openalex.org/W4229818260",
+    "https://openalex.org/W4243372666",
+    "https://openalex.org/W4247342598",
+    "https://openalex.org/W4251181991",
+    "https://openalex.org/W4252017076",
+    "https://openalex.org/W593213498",
+    "https://openalex.org/W9864361"
+  ]
+}

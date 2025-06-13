@@ -1,0 +1,23 @@
+{
+  "id": "https://openalex.org/W4243465176",
+  "title": "Regularization Operators",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Heinz W. Engl"
+    },
+    {
+      "name": "Martin Hanke"
+    },
+    {
+      "name": "Andreas Neubauer"
+    }
+  ],
+  "publication_year": 2000,
+  "cited_by_count": 114,
+  "primary_topic": "Numerical methods in inverse problems",
+  "subfield_topic": "Mathematical Physics",
+  "field_topic": "Mathematics",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": []
+}

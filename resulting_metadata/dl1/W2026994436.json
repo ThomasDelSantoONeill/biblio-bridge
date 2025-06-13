@@ -1,0 +1,38 @@
+{
+  "id": "https://openalex.org/W2026994436",
+  "title": "Environmental Control of Food Web Structure",
+  "abstract": "The structure of 40 real food webs, representing aquatic and terrestrial communities from all latitudes, is found to be markedly affected by the degree of variability of the physical environment. In particular, food webs in fluctuating ecosystems are characterized by a significantly lower connectance than webs representative of more constant systems. This is interpreted within the context of stability theory as a means to optimize feeding in the face of increasing disturbance. It is shown further than the nature of the habitat itself imposes additional constraints on food web structure in intertidal, pelagic, estuarine, and forest ecosystems.",
+  "authors": [
+    {
+      "name": "Frédéric Briand"
+    }
+  ],
+  "publication_year": 1983,
+  "cited_by_count": 235,
+  "primary_topic": "Plant and animal studies",
+  "subfield_topic": "Ecology, Evolution, Behavior and Systematics",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1518487408",
+    "https://openalex.org/W1859637882",
+    "https://openalex.org/W1991187030",
+    "https://openalex.org/W1997888227",
+    "https://openalex.org/W2027990961",
+    "https://openalex.org/W2029671727",
+    "https://openalex.org/W2043231452",
+    "https://openalex.org/W2049318236",
+    "https://openalex.org/W2052231134",
+    "https://openalex.org/W2079325186",
+    "https://openalex.org/W2081721410",
+    "https://openalex.org/W2119545319",
+    "https://openalex.org/W2131699403",
+    "https://openalex.org/W2145061157",
+    "https://openalex.org/W231326429",
+    "https://openalex.org/W2319669105",
+    "https://openalex.org/W2327253068",
+    "https://openalex.org/W2495768216",
+    "https://openalex.org/W2612686521",
+    "https://openalex.org/W4285719527"
+  ]
+}

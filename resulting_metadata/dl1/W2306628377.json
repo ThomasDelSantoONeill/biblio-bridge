@@ -1,0 +1,82 @@
+{
+  "id": "https://openalex.org/W2306628377",
+  "title": "Evaluating marine spatial closures with conflicting fisheries and conservation objectives",
+  "abstract": "Summary 1. Spatial management is used extensively in natural resource management to address sustainability and biodiversity issues, for example through declaration of terrestrial National Parks and marine protected areas (MPAs). 2. Spatial management is used also to optimize yields or protect key parts of the life cycle of species that are utilized (hunted, farmed or fished), for example through rotational harvesting. 3. To evaluate the effectiveness of marine spatial closures with conflicting fisheries and conservation objectives, a series of marine fisheries closures are here analysed using an integrative modelling tool known as management strategy evaluation (MSE). 4. This modelling framework combines a food web model of a tropical ecosystem fished by a prawn (shrimp) fishery that emulates the resource being managed, together with the present management system and risk-based tools of fishing the prawn species at maximum economic yield. 5. A series of spatial closures are designed and tested with the aim of investigating trade-offs among biodiversity (MPA), benthic impacts, ecosystem function, key species at risk to fishing, economic and sustainability objectives. 6. Synthesis and applications. This paper illustrates that existing tools often available in actively managed fisheries can be linked together into an effective management strategy evaluation framework. Spatial closures tended to succeed with respect to their specific design objective, but this benefit did not necessarily flow to other broad-scale objectives. This demonstrates that there is no single management tool which satisfies all objectives, and that a suite of management tools is needed.",
+  "authors": [
+    {
+      "name": "Catherine M. Dichmont"
+    },
+    {
+      "name": "Nick Ellis"
+    },
+    {
+      "name": "Rodrigo H. Bustamante"
+    },
+    {
+      "name": "Roy A. Deng"
+    },
+    {
+      "name": "Sharon Tickell"
+    },
+    {
+      "name": "Ricardo Pascual"
+    },
+    {
+      "name": "Hector Lozano‐Montes"
+    },
+    {
+      "name": "Shane P. Griffiths"
+    }
+  ],
+  "publication_year": 2013,
+  "cited_by_count": 38,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1543409689",
+    "https://openalex.org/W1561851113",
+    "https://openalex.org/W1952752159",
+    "https://openalex.org/W1975128847",
+    "https://openalex.org/W1975591252",
+    "https://openalex.org/W1975669628",
+    "https://openalex.org/W1975720284",
+    "https://openalex.org/W1979720362",
+    "https://openalex.org/W1990566709",
+    "https://openalex.org/W1994896462",
+    "https://openalex.org/W1996840708",
+    "https://openalex.org/W2005356875",
+    "https://openalex.org/W2005365919",
+    "https://openalex.org/W2010791548",
+    "https://openalex.org/W2010925004",
+    "https://openalex.org/W2014715016",
+    "https://openalex.org/W2021841429",
+    "https://openalex.org/W2022295935",
+    "https://openalex.org/W2038610293",
+    "https://openalex.org/W2040321346",
+    "https://openalex.org/W2041272308",
+    "https://openalex.org/W2047928207",
+    "https://openalex.org/W2075314043",
+    "https://openalex.org/W2075388586",
+    "https://openalex.org/W2076064384",
+    "https://openalex.org/W2084330510",
+    "https://openalex.org/W2094303499",
+    "https://openalex.org/W2094632727",
+    "https://openalex.org/W2110310854",
+    "https://openalex.org/W2110989197",
+    "https://openalex.org/W2114525352",
+    "https://openalex.org/W2116422701",
+    "https://openalex.org/W2122505518",
+    "https://openalex.org/W2124182976",
+    "https://openalex.org/W2125509445",
+    "https://openalex.org/W2139658635",
+    "https://openalex.org/W2140103666",
+    "https://openalex.org/W2152295386",
+    "https://openalex.org/W2157286477",
+    "https://openalex.org/W2158409479",
+    "https://openalex.org/W2184194150",
+    "https://openalex.org/W28525873",
+    "https://openalex.org/W3088713371"
+  ]
+}

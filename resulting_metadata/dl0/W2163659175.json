@@ -1,0 +1,176 @@
+{
+  "id": "https://openalex.org/W2163659175",
+  "title": "Social-ecological systems as complex adaptive systems: modeling and policy implications",
+  "abstract": "Abstract Systems linking people and nature, known as social-ecological systems, are increasingly understood as complex adaptive systems. Essential features of these complex adaptive systems – such as nonlinear feedbacks, strategic interactions, individual and spatial heterogeneity, and varying time scales – pose substantial challenges for modeling. However, ignoring these characteristics can distort our picture of how these systems work, causing policies to be less effective or even counterproductive. In this paper we present recent developments in modeling social-ecological systems, illustrate some of these challenges with examples related to coral reefs and grasslands, and identify the implications for economic and policy analysis.",
+  "authors": [
+    {
+      "name": "Simon A. Levin"
+    },
+    {
+      "name": "Tasos Xepapadeas"
+    },
+    {
+      "name": "Anne‐Sophie Crépin"
+    },
+    {
+      "name": "Jon Norberg"
+    },
+    {
+      "name": "Aart de Zeeuw"
+    },
+    {
+      "name": "Carl Folke"
+    },
+    {
+      "name": "Terry P. Hughes"
+    },
+    {
+      "name": "Kenneth J. Arrow"
+    },
+    {
+      "name": "Scott Barrett"
+    },
+    {
+      "name": "Gretchen C. Daily"
+    },
+    {
+      "name": "Paul R. Ehrlich"
+    },
+    {
+      "name": "Nils Kautsky"
+    },
+    {
+      "name": "Karl-Göran Mäler"
+    },
+    {
+      "name": "Steve Polasky"
+    },
+    {
+      "name": "Max Troell"
+    },
+    {
+      "name": "Jeffrey R. Vincent"
+    },
+    {
+      "name": "Brian Walker"
+    }
+  ],
+  "publication_year": 2012,
+  "cited_by_count": 730,
+  "primary_topic": "Economic and Environmental Valuation",
+  "subfield_topic": "Economics and Econometrics",
+  "field_topic": "Economics, Econometrics and Finance",
+  "domain_topic": "Social Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1483113211",
+    "https://openalex.org/W1488679353",
+    "https://openalex.org/W1490210902",
+    "https://openalex.org/W1503276823",
+    "https://openalex.org/W1513198557",
+    "https://openalex.org/W1526813172",
+    "https://openalex.org/W1573084417",
+    "https://openalex.org/W1578630563",
+    "https://openalex.org/W1579344322",
+    "https://openalex.org/W1586286259",
+    "https://openalex.org/W1593939215",
+    "https://openalex.org/W1601736244",
+    "https://openalex.org/W1602569008",
+    "https://openalex.org/W1618587029",
+    "https://openalex.org/W1803117247",
+    "https://openalex.org/W1968786866",
+    "https://openalex.org/W1971699712",
+    "https://openalex.org/W1972294015",
+    "https://openalex.org/W1975318518",
+    "https://openalex.org/W1978649216",
+    "https://openalex.org/W1980177068",
+    "https://openalex.org/W1980661496",
+    "https://openalex.org/W1989974377",
+    "https://openalex.org/W1993542943",
+    "https://openalex.org/W1993561604",
+    "https://openalex.org/W1994338042",
+    "https://openalex.org/W1995558779",
+    "https://openalex.org/W2000577034",
+    "https://openalex.org/W2005629649",
+    "https://openalex.org/W2007426838",
+    "https://openalex.org/W2011303397",
+    "https://openalex.org/W2011866841",
+    "https://openalex.org/W2016297777",
+    "https://openalex.org/W2016469924",
+    "https://openalex.org/W2016767879",
+    "https://openalex.org/W2019543296",
+    "https://openalex.org/W2021468335",
+    "https://openalex.org/W2023294122",
+    "https://openalex.org/W2024504939",
+    "https://openalex.org/W2025599809",
+    "https://openalex.org/W2031277570",
+    "https://openalex.org/W2031672097",
+    "https://openalex.org/W2034878206",
+    "https://openalex.org/W2042736787",
+    "https://openalex.org/W2043882198",
+    "https://openalex.org/W2045213575",
+    "https://openalex.org/W2046477495",
+    "https://openalex.org/W2051602007",
+    "https://openalex.org/W2060197083",
+    "https://openalex.org/W2065832347",
+    "https://openalex.org/W2066921242",
+    "https://openalex.org/W2067474368",
+    "https://openalex.org/W2077945009",
+    "https://openalex.org/W2078888397",
+    "https://openalex.org/W2084177163",
+    "https://openalex.org/W2084927133",
+    "https://openalex.org/W2085892427",
+    "https://openalex.org/W2087957847",
+    "https://openalex.org/W2088194699",
+    "https://openalex.org/W2089265619",
+    "https://openalex.org/W2090582958",
+    "https://openalex.org/W2095395460",
+    "https://openalex.org/W2096885696",
+    "https://openalex.org/W2097960776",
+    "https://openalex.org/W2097961800",
+    "https://openalex.org/W2102348315",
+    "https://openalex.org/W2108320756",
+    "https://openalex.org/W2116199452",
+    "https://openalex.org/W2123610169",
+    "https://openalex.org/W2127569725",
+    "https://openalex.org/W2130513524",
+    "https://openalex.org/W2133300765",
+    "https://openalex.org/W2134157983",
+    "https://openalex.org/W2149482661",
+    "https://openalex.org/W2150414509",
+    "https://openalex.org/W2150704630",
+    "https://openalex.org/W2150918587",
+    "https://openalex.org/W2156709416",
+    "https://openalex.org/W2158956153",
+    "https://openalex.org/W2161890892",
+    "https://openalex.org/W2164830900",
+    "https://openalex.org/W2165603404",
+    "https://openalex.org/W2168487879",
+    "https://openalex.org/W2172255526",
+    "https://openalex.org/W2318477088",
+    "https://openalex.org/W2322847136",
+    "https://openalex.org/W2324882973",
+    "https://openalex.org/W2326421121",
+    "https://openalex.org/W2548334029",
+    "https://openalex.org/W2795928389",
+    "https://openalex.org/W3021059853",
+    "https://openalex.org/W3103966169",
+    "https://openalex.org/W3121411296",
+    "https://openalex.org/W3121580816",
+    "https://openalex.org/W3122657271",
+    "https://openalex.org/W3124511878",
+    "https://openalex.org/W3125667316",
+    "https://openalex.org/W3125823935",
+    "https://openalex.org/W3125924440",
+    "https://openalex.org/W330247109",
+    "https://openalex.org/W4205303371",
+    "https://openalex.org/W4250716583",
+    "https://openalex.org/W4254416362",
+    "https://openalex.org/W4299610040",
+    "https://openalex.org/W4299870202",
+    "https://openalex.org/W4301440515",
+    "https://openalex.org/W4405295185",
+    "https://openalex.org/W45825450",
+    "https://openalex.org/W47437515",
+    "https://openalex.org/W76152643"
+  ]
+}

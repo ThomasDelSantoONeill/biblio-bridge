@@ -1,0 +1,35 @@
+{
+  "id": "https://openalex.org/W2015834129",
+  "title": "Stability regions and transition phenomena for harvested predator-prey systems",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Fred Brauer"
+    },
+    {
+      "name": "A.C. Soudack"
+    }
+  ],
+  "publication_year": 1979,
+  "cited_by_count": 142,
+  "primary_topic": "Mathematical and Theoretical Epidemiology and Ecology Models",
+  "subfield_topic": "Public Health, Environmental and Occupational Health",
+  "field_topic": "Medicine",
+  "domain_topic": "Health Sciences",
+  "referenced_works": [
+    "https://openalex.org/W162901799",
+    "https://openalex.org/W1968982590",
+    "https://openalex.org/W1982653032",
+    "https://openalex.org/W1982688091",
+    "https://openalex.org/W2004066353",
+    "https://openalex.org/W2021468335",
+    "https://openalex.org/W2027665073",
+    "https://openalex.org/W2043397430",
+    "https://openalex.org/W2067265108",
+    "https://openalex.org/W2090359786",
+    "https://openalex.org/W2121710369",
+    "https://openalex.org/W240029891",
+    "https://openalex.org/W4297440205",
+    "https://openalex.org/W4299993032"
+  ]
+}

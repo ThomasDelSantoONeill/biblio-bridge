@@ -1,0 +1,47 @@
+{
+  "id": "https://openalex.org/W2108366440",
+  "title": "Report of the National Ecosystem Modeling Workshop (NEMoW)",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Howard Townsend"
+    },
+    {
+      "name": "Jason S. Link"
+    },
+    {
+      "name": "Kenric E. Osgood"
+    },
+    {
+      "name": "Todd Gedamke"
+    },
+    {
+      "name": "George M. Watters"
+    },
+    {
+      "name": "Jeffrey J. Polovina"
+    },
+    {
+      "name": "Phillip S. Levin"
+    },
+    {
+      "name": "Edward Christopher Cyr"
+    },
+    {
+      "name": "Kerim Aydin"
+    }
+  ],
+  "publication_year": 2008,
+  "cited_by_count": 13,
+  "primary_topic": "Soil and Water Nutrient Dynamics",
+  "subfield_topic": "Environmental Chemistry",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W2022826301",
+    "https://openalex.org/W2122505518",
+    "https://openalex.org/W2148311895",
+    "https://openalex.org/W2312401788",
+    "https://openalex.org/W255661142"
+  ]
+}

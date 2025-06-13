@@ -1,0 +1,70 @@
+{
+  "id": "https://openalex.org/W2023740039",
+  "title": "The value of ecosystem services: putting the issues in perspective",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Robert Costanza"
+    },
+    {
+      "name": "Ralph C. d’Arge"
+    },
+    {
+      "name": "R.S. de Groot"
+    },
+    {
+      "name": "Stephen Färber"
+    },
+    {
+      "name": "Monica Grasso"
+    },
+    {
+      "name": "Bruce Hannon"
+    },
+    {
+      "name": "Karin E. Limburg"
+    },
+    {
+      "name": "Shahid Naeem"
+    },
+    {
+      "name": "Robert V. O’Neill"
+    },
+    {
+      "name": "José M. Paruelo"
+    },
+    {
+      "name": "R. Raskin"
+    },
+    {
+      "name": "Paul C. Sutton"
+    },
+    {
+      "name": "Marjan van den Belt"
+    }
+  ],
+  "publication_year": 1998,
+  "cited_by_count": 312,
+  "primary_topic": "Land Use and Ecosystem Services",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1504076883",
+    "https://openalex.org/W1555168533",
+    "https://openalex.org/W1599878228",
+    "https://openalex.org/W1980963389",
+    "https://openalex.org/W1996670866",
+    "https://openalex.org/W2003605835",
+    "https://openalex.org/W2023983158",
+    "https://openalex.org/W2058059170",
+    "https://openalex.org/W2077293631",
+    "https://openalex.org/W2078851046",
+    "https://openalex.org/W2140367737",
+    "https://openalex.org/W2207468033",
+    "https://openalex.org/W2226489716",
+    "https://openalex.org/W222966551",
+    "https://openalex.org/W2746485780",
+    "https://openalex.org/W2929332228"
+  ]
+}

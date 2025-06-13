@@ -1,0 +1,105 @@
+{
+  "id": "https://openalex.org/W2019098807",
+  "title": "Non‐linearity in ecosystem services: temporal and spatial variability in coastal protection",
+  "abstract": "Natural processes tend to vary over time and space, as well as between species. The ecosystem services these natural processes provide are therefore also highly variable. It is often assumed that ecosystem services are provided linearly (unvaryingly, at a steady rate), but natural processes are characterized by thresholds and limiting functions. In this paper, we describe the variability observed in wave attenuation provided by marshes, mangroves, seagrasses, and coral reefs and therefore also in coastal protection. We calculate the economic consequences of assuming coastal protection to be linear. We suggest that, in order to refine ecosystem‐based management practices, it is essential that natural variability and cumulative effects be considered in the valuation of ecosystem services.",
+  "authors": [
+    {
+      "name": "Evamaria W. Koch"
+    },
+    {
+      "name": "Edward B. Barbier"
+    },
+    {
+      "name": "Brian R. Silliman"
+    },
+    {
+      "name": "Denise J. Reed"
+    },
+    {
+      "name": "Gerardo M. E. Perillo"
+    },
+    {
+      "name": "Sally D. Hacker"
+    },
+    {
+      "name": "Elise F. Granek"
+    },
+    {
+      "name": "Jurgenne H. Primavera"
+    },
+    {
+      "name": "Nyawira A. Muthiga"
+    },
+    {
+      "name": "Stephen Polasky"
+    },
+    {
+      "name": "Benjamin S. Halpern"
+    },
+    {
+      "name": "Chris Kennedy"
+    },
+    {
+      "name": "Carrie V. Kappel"
+    },
+    {
+      "name": "Eric Wolanski"
+    }
+  ],
+  "publication_year": 2009,
+  "cited_by_count": 774,
+  "primary_topic": "Coastal and Marine Management",
+  "subfield_topic": "Management, Monitoring, Policy and Law",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1507156144",
+    "https://openalex.org/W1513492960",
+    "https://openalex.org/W1886910106",
+    "https://openalex.org/W1907983814",
+    "https://openalex.org/W1974474807",
+    "https://openalex.org/W1984911988",
+    "https://openalex.org/W1986632228",
+    "https://openalex.org/W1988558671",
+    "https://openalex.org/W1990147491",
+    "https://openalex.org/W2010796942",
+    "https://openalex.org/W2018510572",
+    "https://openalex.org/W2025037046",
+    "https://openalex.org/W2027002551",
+    "https://openalex.org/W2034077112",
+    "https://openalex.org/W2038963019",
+    "https://openalex.org/W2040698592",
+    "https://openalex.org/W2043287762",
+    "https://openalex.org/W2043376746",
+    "https://openalex.org/W2057607752",
+    "https://openalex.org/W2081623219",
+    "https://openalex.org/W2081639757",
+    "https://openalex.org/W2085103365",
+    "https://openalex.org/W2087712544",
+    "https://openalex.org/W2088294808",
+    "https://openalex.org/W2096786997",
+    "https://openalex.org/W2108033376",
+    "https://openalex.org/W2111124924",
+    "https://openalex.org/W2114056667",
+    "https://openalex.org/W2114683865",
+    "https://openalex.org/W2119487893",
+    "https://openalex.org/W2124565737",
+    "https://openalex.org/W2125617946",
+    "https://openalex.org/W2134281994",
+    "https://openalex.org/W2140209244",
+    "https://openalex.org/W2141091805",
+    "https://openalex.org/W2165859084",
+    "https://openalex.org/W2169417004",
+    "https://openalex.org/W2177164090",
+    "https://openalex.org/W2241745449",
+    "https://openalex.org/W2323215489",
+    "https://openalex.org/W26050582",
+    "https://openalex.org/W2800772809",
+    "https://openalex.org/W3021940636",
+    "https://openalex.org/W3023183749",
+    "https://openalex.org/W4230875150",
+    "https://openalex.org/W4239606631",
+    "https://openalex.org/W4249179842",
+    "https://openalex.org/W4249946239"
+  ]
+}

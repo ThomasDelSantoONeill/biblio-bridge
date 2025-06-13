@@ -1,0 +1,33 @@
+{
+  "id": "https://openalex.org/W2165608822",
+  "title": "Role of microbes in pelagic food webs: A revised concept",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Evelyn B. Sherr"
+    },
+    {
+      "name": "Barry F. Sherr"
+    }
+  ],
+  "publication_year": 1988,
+  "cited_by_count": 496,
+  "primary_topic": "Microbial Community Ecology and Physiology",
+  "subfield_topic": "Ecology",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1967933487",
+    "https://openalex.org/W1980409396",
+    "https://openalex.org/W1997593401",
+    "https://openalex.org/W2016789875",
+    "https://openalex.org/W2044809680",
+    "https://openalex.org/W2045246443",
+    "https://openalex.org/W2046402607",
+    "https://openalex.org/W2065687701",
+    "https://openalex.org/W2075410326",
+    "https://openalex.org/W2076314333",
+    "https://openalex.org/W2139640059",
+    "https://openalex.org/W4285719527"
+  ]
+}

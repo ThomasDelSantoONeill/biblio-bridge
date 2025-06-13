@@ -1,0 +1,60 @@
+{
+  "id": "https://openalex.org/W2119831767",
+  "title": "A Community Matrix Analysis of Heliconia Insect Communities",
+  "abstract": "Field manipulations were designed to determine interspecific interaction coefficients (α's) for insect species living in the water-holding bracts of Heliconia wagneriana and H. imbricata. Community stability was investigated by the analysis of species equilibrium densities and the matrix of regression coefficients of mortality rate on the density of each species. 1. Both positive and negative coefficients of interspecific interaction (α's) exist, meaning that both competitive and symbiotic effects occur. Some α's are not statistically significant, indicating no interspecies effects. 2. Occasional positive and nonsignificant intraspecies coefficients were found, meaning that over the densities studied intraspecific competition was not occurring for some species in one or the other Heliconia community. In the two cases of positive intraspecific coefficients, negative intraspecific coefficients occurred in the other Heliconia community. 3. Each community matrix is dominated by two α's which have high absolute values. The mean α for each community is negative, indicating the symbiotic nature of these communities. 4. The Levins (1968) estimate of α gave results which were not comparable with those α's generated from the field experiments. The Levins measure is deemed inadequate because it cannot estimate symbiotic relationships. 5. Neither the H. wagneriana community nor the H. imbricata community is stable as estimated by the equilibrium densities and by the eigenvalues of the Jacobian matrix (the unnormalized interaction matrix of partial regression coefficients times their equilibrium densities). 6. Migration, oviposition, and local extinction processes, which were not measured, may be important in structuring these communities.",
+  "authors": [
+    {
+      "name": "Richard P. Seifert"
+    },
+    {
+      "name": "Florence Hammett Seifert"
+    }
+  ],
+  "publication_year": 1976,
+  "cited_by_count": 131,
+  "primary_topic": "Plant and animal studies",
+  "subfield_topic": "Ecology, Evolution, Behavior and Systematics",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1968786866",
+    "https://openalex.org/W1969297769",
+    "https://openalex.org/W1972861805",
+    "https://openalex.org/W1973383209",
+    "https://openalex.org/W1977912400",
+    "https://openalex.org/W1978357827",
+    "https://openalex.org/W1990763602",
+    "https://openalex.org/W2003471882",
+    "https://openalex.org/W2004388993",
+    "https://openalex.org/W2010429517",
+    "https://openalex.org/W2016470634",
+    "https://openalex.org/W2021796170",
+    "https://openalex.org/W2035085260",
+    "https://openalex.org/W2036403147",
+    "https://openalex.org/W2038891875",
+    "https://openalex.org/W2047129502",
+    "https://openalex.org/W2051891570",
+    "https://openalex.org/W2051895482",
+    "https://openalex.org/W2055364874",
+    "https://openalex.org/W2060850618",
+    "https://openalex.org/W2065660320",
+    "https://openalex.org/W2068211543",
+    "https://openalex.org/W2071208757",
+    "https://openalex.org/W2080804980",
+    "https://openalex.org/W2100672209",
+    "https://openalex.org/W2113893367",
+    "https://openalex.org/W2119591225",
+    "https://openalex.org/W2131900269",
+    "https://openalex.org/W2133341571",
+    "https://openalex.org/W2142587829",
+    "https://openalex.org/W2171299208",
+    "https://openalex.org/W2326596212",
+    "https://openalex.org/W2327161309",
+    "https://openalex.org/W2556167680",
+    "https://openalex.org/W2606347989",
+    "https://openalex.org/W2796187961",
+    "https://openalex.org/W2971318137",
+    "https://openalex.org/W3119010615",
+    "https://openalex.org/W4299993032"
+  ]
+}

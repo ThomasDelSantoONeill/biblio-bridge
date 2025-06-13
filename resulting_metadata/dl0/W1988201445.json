@@ -1,0 +1,29 @@
+{
+  "id": "https://openalex.org/W1988201445",
+  "title": "The Indeterminacy of Ecological Interactions as Perceived Through Perturbation Experiments",
+  "abstract": "Press perturbation experiments, in which individuals of a particular species are continually added to or removed from an ecosystem and the responses of other species' densities are observed, are discussed in the context of whole systems. When the sizes of direct interactions are determined to within an order of magnitude, the long—term outcomes of press pertubations are highly indeterminate, in terms both of whether species densities increase or decrease and of which interactions have the largest effects. It is emphasized that short—term observations of systems subject to press perturbations (e.g., toxin additions to ecosystems, or experimental manipulations of species using exclosures) are not useful for estimating long—term impacts. The difference between long— and short—term responses is detailed, and a rule of thumb is given for what constitutes \"long—term\" in this context.",
+  "authors": [
+    {
+      "name": "Peter Yodzis"
+    }
+  ],
+  "publication_year": 1988,
+  "cited_by_count": 525,
+  "primary_topic": "Plant and animal studies",
+  "subfield_topic": "Ecology, Evolution, Behavior and Systematics",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1982178304",
+    "https://openalex.org/W1993587084",
+    "https://openalex.org/W1998245410",
+    "https://openalex.org/W2004211008",
+    "https://openalex.org/W2006265485",
+    "https://openalex.org/W2026994436",
+    "https://openalex.org/W2064242117",
+    "https://openalex.org/W2141552878",
+    "https://openalex.org/W2149049530",
+    "https://openalex.org/W2318286566",
+    "https://openalex.org/W4299993032"
+  ]
+}

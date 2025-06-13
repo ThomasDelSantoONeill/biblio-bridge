@@ -1,0 +1,59 @@
+{
+  "id": "https://openalex.org/W2141353459",
+  "title": "Identifying Populations for Conservation on the Basis of Genetic Markers",
+  "abstract": "To select candidate populations of wild species to be given priority for conservation, genetic criteria gained from the study of molecular markers may be useful. Traditionally, diversity measures such as expected heterozygosity or percentage of polymorphic loci have been considered. For conservation we propose instead that priority should be given to measures of allelic richness. To standardize the results of allelic richness across populations, we used the technique of rarefaction. This technique allows evaluation of the expected number of different alleles among equal‐sized samples drawn from several different populations. We also show how the contribution of each population to total diversity can be partitioned into two components. The first is related to the level of diversity of the population and the second to its divergence from the other populations. For conservation purposes the uniqueness of a population—in terms of its allelic composition—may be at least as important as its diversity level. These new descriptors are illustrated by means of isozyme and chloroplast DNA data obtained for an endangered tree species, the argan tree of Morocco ( Argania spinosa (L.) Skeels). With these analyses the conservation value of the argan tree populations, especially those of two isolates present in the north of the country, can be better appreciated. The methods proposed to identify priority areas for conservation of the genetic resources of the argan tree are compared to those sometimes advocated in the case of reserve design, where one of the goals is to maximize species richness. Identificacón de Poblaciones para su Conservación en Base a Marcadores Genéticos Los criterios genéticos obtenidos del estudio de marcadores moleculares podrían ser útiles para seleccionar poblaciones de vida silvestre como candidatos con prioridad para su conservación. Tradicionalmente se consideran medidas de la diversidad como son la heterocigocidad esperada, o el porcentaje de loci polimórficos. Para medidas de conservación, nosotros proponemos en su lugar que la prioridad se enfoque en medidas de riqueza alélica. Para estandarizar los resultados de riqueza alélica entre problaciones, utilizamos una técnica de vacuidad. Esta técnica permite evaluar el número esperado de alelos entre muestras de igual tamaño obtenidas de diferentes poblaciones. Mostramos como la contribución de cada población a la diversidad total puede ser repartida en dos componentes; el primero esta relacionado con el nivel de diversidad de la población y el segundo con su divergencia de las otras poblaciones. Para propósitos de conservación, la singularidad de una población (en forma de composición alélica) puede ser por lo menos tan importante como lo es su nivel de diversidad, Estos nuevos elementos descriptivos son ilustrados mediante el uso de datos de DNA de isozima y cloroplasto para una especie de árbol en peligro, el árbol argan de Morocco ( Argania spinosa (L.) Skeels). Con estos análisis, el valor de conservación de las poblaciones del árbol argan puede ser apreciado mejor, especialmente para aquellas provenientes de dos grupos aislados del norte del país. Los métodos propuestos para la identificación de áreas prioritarias para la conservación de los recursos genéticos del árbol argan son comparados con aquellos utilizados en el diseño de reservas, donde una de las metas es la maximización de la riqueza de especies.",
+  "authors": [
+    {
+      "name": "Rémy J. Petit"
+    },
+    {
+      "name": "Abdelhamid El Mousadik"
+    },
+    {
+      "name": "Odile Pons"
+    }
+  ],
+  "publication_year": 1998,
+  "cited_by_count": 1533,
+  "primary_topic": "Genetic diversity and population structure",
+  "subfield_topic": "Genetics",
+  "field_topic": "Biochemistry, Genetics and Molecular Biology",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1500851886",
+    "https://openalex.org/W1582290417",
+    "https://openalex.org/W1904783420",
+    "https://openalex.org/W1940374053",
+    "https://openalex.org/W1969115130",
+    "https://openalex.org/W1973245710",
+    "https://openalex.org/W1973626514",
+    "https://openalex.org/W1982388116",
+    "https://openalex.org/W1983313096",
+    "https://openalex.org/W1988182864",
+    "https://openalex.org/W2021098202",
+    "https://openalex.org/W2023822819",
+    "https://openalex.org/W2024057387",
+    "https://openalex.org/W2033419275",
+    "https://openalex.org/W2035164312",
+    "https://openalex.org/W2037882155",
+    "https://openalex.org/W2038087782",
+    "https://openalex.org/W2039606448",
+    "https://openalex.org/W2039907346",
+    "https://openalex.org/W2052968675",
+    "https://openalex.org/W2087189381",
+    "https://openalex.org/W2092512759",
+    "https://openalex.org/W2104767862",
+    "https://openalex.org/W2108057700",
+    "https://openalex.org/W2111188806",
+    "https://openalex.org/W2114248003",
+    "https://openalex.org/W2138534491",
+    "https://openalex.org/W2152378728",
+    "https://openalex.org/W2158612790",
+    "https://openalex.org/W2163451462",
+    "https://openalex.org/W2167780330",
+    "https://openalex.org/W2584441611",
+    "https://openalex.org/W391295904",
+    "https://openalex.org/W4230318085",
+    "https://openalex.org/W4388251203"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "https://openalex.org/W2122665442",
+  "title": "A Generic Impact‐Scoring System Applied to Alien Mammals in Europe",
+  "abstract": "We present a generic scoring system that compares the impact of alien species among members of large taxonomic groups. This scoring can be used to identify the most harmful alien species so that conservation measures to ameliorate their negative effects can be prioritized. For all alien mammals in Europe, we assessed impact reports as completely as possible. Impact was classified as either environmental or economic. We subdivided each of these categories into five subcategories (environmental: impact through competition, predation, hybridization, transmission of disease, and herbivory; economic: impact on agriculture, livestock, forestry, human health, and infrastructure). We assigned all impact reports to one of these 10 categories. All categories had impact scores that ranged from zero (minimal) to five (maximal possible impact at a location). We summed all impact scores for a species to calculate \"potential impact\" scores. We obtained \"actual impact\" scores by multiplying potential impact scores by the percentage of area occupied by the respective species in Europe. Finally, we correlated species' ecological traits with the derived impact scores. Alien mammals from the orders Rodentia, Artiodactyla, and Carnivora caused the highest impact. In particular, the brown rat (Rattus norvegicus), muskrat (Ondathra zibethicus), and sika deer (Cervus nippon) had the highest overall scores. Species with a high potential environmental impact also had a strong potential economic impact. Potential impact also correlated with the distribution of a species in Europe. Ecological flexibility (measured as number of different habitats a species occupies) was strongly related to impact. The scoring system was robust to uncertainty in knowledge of impact and could be adjusted with weight scores to account for specific value systems of particular stakeholder groups (e.g., agronomists or environmentalists). Finally, the scoring system is easily applicable and adaptable to other taxonomic groups.",
+  "authors": [
+    {
+      "name": "Wolfgang Nentwig"
+    },
+    {
+      "name": "Elfi Kühnel"
+    },
+    {
+      "name": "Sven Bacher"
+    }
+  ],
+  "publication_year": 2009,
+  "cited_by_count": 172,
+  "primary_topic": "Animal Ecology and Behavior Studies",
+  "subfield_topic": "Ecology",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1505278245",
+    "https://openalex.org/W1529623398",
+    "https://openalex.org/W1549580616",
+    "https://openalex.org/W1550717289",
+    "https://openalex.org/W1920066055",
+    "https://openalex.org/W1997398150",
+    "https://openalex.org/W2001411022",
+    "https://openalex.org/W2003054415",
+    "https://openalex.org/W2035426436",
+    "https://openalex.org/W2047137951",
+    "https://openalex.org/W2062330384",
+    "https://openalex.org/W2099376388",
+    "https://openalex.org/W2101280078",
+    "https://openalex.org/W2111489497",
+    "https://openalex.org/W2112388438",
+    "https://openalex.org/W2138947006",
+    "https://openalex.org/W2142799762",
+    "https://openalex.org/W2151044998",
+    "https://openalex.org/W2154112743",
+    "https://openalex.org/W2160617029",
+    "https://openalex.org/W2163614163",
+    "https://openalex.org/W2555377774",
+    "https://openalex.org/W2560487589",
+    "https://openalex.org/W2582743722",
+    "https://openalex.org/W2975741437",
+    "https://openalex.org/W342315738",
+    "https://openalex.org/W4232681566",
+    "https://openalex.org/W4246450807",
+    "https://openalex.org/W4252186328"
+  ]
+}

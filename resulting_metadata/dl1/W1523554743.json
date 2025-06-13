@@ -1,0 +1,68 @@
+{
+  "id": "https://openalex.org/W1523554743",
+  "title": "Accounting for Complementarity to Maximize Monitoring Power for Species Management",
+  "abstract": "Abstract To choose among conservation actions that may benefit many species, managers need to monitor the consequences of those actions. Decisions about which species to monitor from a suite of different species being managed are hindered by natural variability in populations and uncertainty in several factors: the ability of the monitoring to detect a change, the likelihood of the management action being successful for a species, and how representative species are of one another. However, the literature provides little guidance about how to account for these uncertainties when deciding which species to monitor to determine whether the management actions are delivering outcomes. We devised an approach that applies decision science and selects the best complementary suite of species to monitor to meet specific conservation objectives. We created an index for indicator selection that accounts for the likelihood of successfully detecting a real trend due to a management action and whether that signal provides information about other species. We illustrated the benefit of our approach by analyzing a monitoring program for invasive predator management aimed at recovering 14 native Australian mammals of conservation concern. Our method selected the species that provided more monitoring power at lower cost relative to the current strategy and traditional approaches that consider only a subset of the important considerations. Our benefit function accounted for natural variability in species growth rates, uncertainty in the responses of species to the prescribed action, and how well species represent others. Monitoring programs that ignore uncertainty, likelihood of detecting change, and complementarity between species will be more costly and less efficient and may waste funding that could otherwise be used for management. Contabilización de la Complementariedad para Maximizar el Poder de Monitoreo para el Manejo de Especies",
+  "authors": [
+    {
+      "name": "Ayesha Tulloch"
+    },
+    {
+      "name": "Iadine Chadès"
+    },
+    {
+      "name": "Hugh P. Possingham"
+    }
+  ],
+  "publication_year": 2013,
+  "cited_by_count": 36,
+  "primary_topic": "Species Distribution and Climate Change",
+  "subfield_topic": "Ecological Modeling",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1481546449",
+    "https://openalex.org/W1586620267",
+    "https://openalex.org/W1869680905",
+    "https://openalex.org/W1959589527",
+    "https://openalex.org/W1965522606",
+    "https://openalex.org/W1971406989",
+    "https://openalex.org/W1987127720",
+    "https://openalex.org/W1991799868",
+    "https://openalex.org/W2015403526",
+    "https://openalex.org/W2018510844",
+    "https://openalex.org/W2026416225",
+    "https://openalex.org/W2030391896",
+    "https://openalex.org/W2039849853",
+    "https://openalex.org/W2060068258",
+    "https://openalex.org/W2064694179",
+    "https://openalex.org/W2072568153",
+    "https://openalex.org/W2074232328",
+    "https://openalex.org/W2074395147",
+    "https://openalex.org/W2076513897",
+    "https://openalex.org/W2081616166",
+    "https://openalex.org/W2086047015",
+    "https://openalex.org/W2095253435",
+    "https://openalex.org/W2098863507",
+    "https://openalex.org/W2100798282",
+    "https://openalex.org/W2104017557",
+    "https://openalex.org/W2105385879",
+    "https://openalex.org/W2105513050",
+    "https://openalex.org/W2109840457",
+    "https://openalex.org/W2111905987",
+    "https://openalex.org/W2116032914",
+    "https://openalex.org/W2118536610",
+    "https://openalex.org/W2120830385",
+    "https://openalex.org/W2124516299",
+    "https://openalex.org/W2131500751",
+    "https://openalex.org/W2137158059",
+    "https://openalex.org/W2138587186",
+    "https://openalex.org/W2146998097",
+    "https://openalex.org/W2148874431",
+    "https://openalex.org/W2151543947",
+    "https://openalex.org/W2165722726",
+    "https://openalex.org/W2336498061",
+    "https://openalex.org/W2595174916",
+    "https://openalex.org/W3211914286",
+    "https://openalex.org/W4230428419"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "https://openalex.org/W2331645885",
+  "title": "Man as a Predator in the Intertidal Zone of Southern Chile",
+  "abstract": "Examen des interactions entre trois niveaux trophiques et de leurs consequences sur la distribution et l'abondance des Algues, principalement Iridaea boryana",
+  "authors": [
+    {
+      "name": "Carlos A. Moreno"
+    },
+    {
+      "name": "John P. Sutherland"
+    },
+    {
+      "name": "H. Fernando Jara"
+    }
+  ],
+  "publication_year": 1984,
+  "cited_by_count": 199,
+  "primary_topic": "Marine and coastal plant biology",
+  "subfield_topic": "Oceanography",
+  "field_topic": "Earth and Planetary Sciences",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1972933912",
+    "https://openalex.org/W1973406031",
+    "https://openalex.org/W1990655580",
+    "https://openalex.org/W2041491516",
+    "https://openalex.org/W2041800983",
+    "https://openalex.org/W2099836766",
+    "https://openalex.org/W2141826759",
+    "https://openalex.org/W2154833888",
+    "https://openalex.org/W2207737743",
+    "https://openalex.org/W2312913755",
+    "https://openalex.org/W2325586542",
+    "https://openalex.org/W2746598226",
+    "https://openalex.org/W581131226"
+  ]
+}

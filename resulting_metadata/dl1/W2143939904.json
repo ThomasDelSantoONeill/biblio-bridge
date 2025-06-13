@@ -1,0 +1,37 @@
+{
+  "id": "https://openalex.org/W2143939904",
+  "title": "The concept of environmental function and its valuation",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Roefie Hueting"
+    },
+    {
+      "name": "L. Reijnders"
+    },
+    {
+      "name": "Bart de Boer"
+    },
+    {
+      "name": "J.G. Lambooy"
+    },
+    {
+      "name": "Huib Jansen"
+    }
+  ],
+  "publication_year": 1998,
+  "cited_by_count": 59,
+  "primary_topic": "Economic and Environmental Valuation",
+  "subfield_topic": "Economics and Econometrics",
+  "field_topic": "Economics, Econometrics and Finance",
+  "domain_topic": "Social Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1552033100",
+    "https://openalex.org/W1996803886",
+    "https://openalex.org/W2084219765",
+    "https://openalex.org/W2164460314",
+    "https://openalex.org/W2499097865",
+    "https://openalex.org/W2731590253",
+    "https://openalex.org/W2947979185"
+  ]
+}

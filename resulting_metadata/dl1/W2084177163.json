@@ -1,0 +1,58 @@
+{
+  "id": "https://openalex.org/W2084177163",
+  "title": "Bioeconomics of Spatial Exploitation in a Patchy Environment",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "James N. Sanchirico"
+    },
+    {
+      "name": "James E. Wilen"
+    }
+  ],
+  "publication_year": 1999,
+  "cited_by_count": 436,
+  "primary_topic": "Animal Ecology and Behavior Studies",
+  "subfield_topic": "Ecology",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1539285921",
+    "https://openalex.org/W1574331326",
+    "https://openalex.org/W1967677891",
+    "https://openalex.org/W1968786866",
+    "https://openalex.org/W1976228208",
+    "https://openalex.org/W1985151017",
+    "https://openalex.org/W1987433172",
+    "https://openalex.org/W1988383593",
+    "https://openalex.org/W1994343518",
+    "https://openalex.org/W1997052747",
+    "https://openalex.org/W1999572886",
+    "https://openalex.org/W2001691516",
+    "https://openalex.org/W2002461627",
+    "https://openalex.org/W2016461900",
+    "https://openalex.org/W2017450885",
+    "https://openalex.org/W2029070458",
+    "https://openalex.org/W2044765403",
+    "https://openalex.org/W2046268078",
+    "https://openalex.org/W2052766910",
+    "https://openalex.org/W2066347815",
+    "https://openalex.org/W2071400553",
+    "https://openalex.org/W2071577284",
+    "https://openalex.org/W2085920164",
+    "https://openalex.org/W2086652952",
+    "https://openalex.org/W2091192181",
+    "https://openalex.org/W2103675362",
+    "https://openalex.org/W2103907214",
+    "https://openalex.org/W2109019741",
+    "https://openalex.org/W2109031733",
+    "https://openalex.org/W2176997672",
+    "https://openalex.org/W2222099510",
+    "https://openalex.org/W2669489566",
+    "https://openalex.org/W3088713371",
+    "https://openalex.org/W3124556932",
+    "https://openalex.org/W3125009268",
+    "https://openalex.org/W4256617386",
+    "https://openalex.org/W4285719527"
+  ]
+}

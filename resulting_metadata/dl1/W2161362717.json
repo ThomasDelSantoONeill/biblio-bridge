@@ -1,0 +1,37 @@
+{
+  "id": "https://openalex.org/W2161362717",
+  "title": "Sustainability Impact Assessment of Land Use Changes",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Katharina Helming"
+    },
+    {
+      "name": "Marta Pérez‐Soba"
+    },
+    {
+      "name": "Paul Tabbush"
+    }
+  ],
+  "publication_year": 2008,
+  "cited_by_count": 285,
+  "primary_topic": "Sustainable Development and Environmental Policy",
+  "subfield_topic": "Management, Monitoring, Policy and Law",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W121311783",
+    "https://openalex.org/W1560617638",
+    "https://openalex.org/W1834341954",
+    "https://openalex.org/W1992988088",
+    "https://openalex.org/W1998725014",
+    "https://openalex.org/W2026995726",
+    "https://openalex.org/W2072193253",
+    "https://openalex.org/W2103948957",
+    "https://openalex.org/W2117851366",
+    "https://openalex.org/W2143291245",
+    "https://openalex.org/W2169715400",
+    "https://openalex.org/W225706379",
+    "https://openalex.org/W287753394"
+  ]
+}

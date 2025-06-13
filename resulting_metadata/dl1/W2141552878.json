@@ -1,0 +1,40 @@
+{
+  "id": "https://openalex.org/W2141552878",
+  "title": "Granivory in a Desert Ecosystem: Experimental Evidence for Indirect Facilitation of Ants by Rodents",
+  "abstract": "Two major groups of desert granivores, ants and rodents, coexist as permanent residents of local desert habitats in southwestern North America. At our Sonoran Desert Study site, both of the major taxa exhibited short—term increase in density when the other taxon was experimentally removed. Over the longer term, density compensation continued at a relatively constant level for rodents in the absence of ants. In contrast, beginning 82 yr after initiation of experiments, ant populations on rodent removal plots showed a gradual but significant decline relative to densities on control plots. Indirect interactions, mediated through ant and rodent resources, may account for these differences. Removal of harvester ants leads to higher annual plant densities only in small—seeded species. These plants are relatively poor competitors and do not displace the large—seeded annuals, on whose seeds rodents specialize. In contrast, rodent removal leads to a differential increase in large—seeded annuals, which competitively displace the small—seeded resource species of ants. The decline of ant populations on rodent removal plots preceded by several years the first detectable evidence for competitive suppression of small—seeded annuals. Because ants do not excavate buried seed, they probably experienced resource depression before buried seed reserves were exhausted through germination and subsequent competitive inhibition.",
+  "authors": [
+    {
+      "name": "Diane W. Davidson"
+    },
+    {
+      "name": "Richard S. Inouye"
+    },
+    {
+      "name": "James H. Brown"
+    }
+  ],
+  "publication_year": 1984,
+  "cited_by_count": 194,
+  "primary_topic": "Animal Ecology and Behavior Studies",
+  "subfield_topic": "Ecology",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1982640007",
+    "https://openalex.org/W1992419320",
+    "https://openalex.org/W2000649166",
+    "https://openalex.org/W2004988428",
+    "https://openalex.org/W2010750055",
+    "https://openalex.org/W2010981035",
+    "https://openalex.org/W2013945534",
+    "https://openalex.org/W2039173319",
+    "https://openalex.org/W2054637019",
+    "https://openalex.org/W2065194032",
+    "https://openalex.org/W2071031095",
+    "https://openalex.org/W2083896953",
+    "https://openalex.org/W2123227406",
+    "https://openalex.org/W2128569550",
+    "https://openalex.org/W2151934472",
+    "https://openalex.org/W2168699166"
+  ]
+}

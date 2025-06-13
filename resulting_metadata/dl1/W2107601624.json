@@ -1,0 +1,29 @@
+{
+  "id": "https://openalex.org/W2107601624",
+  "title": "FITTING THE GENERALIZED STOCK PRODUCTION MODEL BY LEAST-SQUARES AND EQUILIBRIUM APPROXIMATION!",
+  "abstract": "A least-squares method for fitting the generalized stock production to fishery catch and fishing effort data which utilizes the equilibrium approximation approach is described. A weighting procedure for providing improved estimates of equilibrium fishing effort and an estimator of the catchability coefficient are developed. A computer program PRODFPT for performing the calculations is presented. The utility and performance of PRODFIT is illustrated with data from a simulated pandalid shrimp population. The production model approach to fish stock assessment is simply an adaptation of the LotkaVolterra population equations into the situation of a population exploited by man. The earliest such adaptation was by Graham (1935) in assessing the potential production from North Sea fish stocks. The major development of this approach in fisheries management, though, is due to Schaefer (1954,1957) who initiated it as a management tool for the yellowfin tuna fishery of the eastern tropical Pacific Ocean. While there has been an attempt at a detailed extention of the production model approach to multispecies fisheries (Lord 19711, the usual application has been on a single species stock. Mathematical formulation of the production model begins with the general differential equation",
+  "authors": [
+    {
+      "name": "William W. Fox"
+    }
+  ],
+  "publication_year": 1975,
+  "cited_by_count": 90,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W119366826",
+    "https://openalex.org/W1967439750",
+    "https://openalex.org/W1986476998",
+    "https://openalex.org/W2034562813",
+    "https://openalex.org/W2035058341",
+    "https://openalex.org/W2067941803",
+    "https://openalex.org/W2088555714",
+    "https://openalex.org/W2121688201",
+    "https://openalex.org/W2122419153",
+    "https://openalex.org/W2255055832",
+    "https://openalex.org/W3098668365"
+  ]
+}

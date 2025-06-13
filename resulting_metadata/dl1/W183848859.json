@@ -1,0 +1,34 @@
+{
+  "id": "https://openalex.org/W183848859",
+  "title": "Utilization of the Icelandic Cod Stock in a Multispecies Context",
+  "abstract": "The purpose of this paper is to discuss rules for deciding Total Allowable Catch (TAC) for Icelandic cod. For this purpose, a bioeconomic model describing harvesting and processing of cod, capelin, and shrimp in the Icelandic marine ecosystem is constructed and estimated. The model is used to analyze the probable effects of harvesting strategies on biomass, catch, and economic benefits from the exploitation of these species. Simulations are used to investigate probability profiles of biological and economic variables, taking into account inaccuracies in assessments and uncertainties in predictions. Optimal harvesting strategies are also investigated using a deterministic version of the model and taking into account problems of unemployment, overcapacity, and aversion to fluctuations in consumption. The analysis shows that it is beneficial to reduce fishing from the cod stock in order to allow the stock to recover to its optimum size. This increase in the cod stock will result in big decreases in the catch of capelin and shrimp.",
+  "authors": [
+    {
+      "name": "Ásgeir Daníelsson"
+    },
+    {
+      "name": "Gunnar Stefánsson"
+    },
+    {
+      "name": "Fridrik M. Baldursson"
+    },
+    {
+      "name": "Kristján Thórarinsson"
+    }
+  ],
+  "publication_year": 1997,
+  "cited_by_count": 41,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W156230102",
+    "https://openalex.org/W2035058341",
+    "https://openalex.org/W2061044658",
+    "https://openalex.org/W2100891518",
+    "https://openalex.org/W2185921616",
+    "https://openalex.org/W2334359902",
+    "https://openalex.org/W2471785856"
+  ]
+}

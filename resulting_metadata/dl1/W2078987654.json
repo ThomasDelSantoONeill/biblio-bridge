@@ -1,0 +1,49 @@
+{
+  "id": "https://openalex.org/W2078987654",
+  "title": "Calibration of FISK, an Invasiveness Screening Tool for Nonnative Freshwater Fishes",
+  "abstract": "Adapted from the weed risk assessment (WRA) of Pheloung, Williams, and Halloy, the fish invasiveness scoring kit (FISK) was proposed as a screening tool for freshwater fishes. This article describes improvements to FISK, in particular the incorporation of confidence (certainty/uncertainty) ranking of the assessors' responses, and reports on the calibration of the score system, specifically: determination of most appropriate score thresholds for classifying nonnative species into low-, medium-, and high-risk categories, assessment of the patterns of assessors' confidences in their responses in the FISK assessments. Using receiver operating characteristic (ROC) curves, FISK was demonstrated to distinguish accurately (and with statistical confidence) between potentially invasive and noninvasive species of nonnative fishes, with the statistically appropriate threshold score for high-risk species scores being >/=19. Within the group of species classed as high risk using this new threshold, a \"higher risk\" category could be visually identified, at present consisting of two species (topmouth gudgeon Pseudorasbora parva and gibel carp Carassius gibelio). FISK represents a useful and viable tool to aid decision- and policymakers in assessing and classifying freshwater fishes according to their potential invasiveness.",
+  "authors": [
+    {
+      "name": "Gordon H. Copp"
+    },
+    {
+      "name": "Lorenzo Vilizzi"
+    },
+    {
+      "name": "John Mumford"
+    },
+    {
+      "name": "Gemma V. Fenwick"
+    },
+    {
+      "name": "Michael Godard"
+    },
+    {
+      "name": "Rodolphe E. Gozlan"
+    }
+  ],
+  "publication_year": 2008,
+  "cited_by_count": 204,
+  "primary_topic": "Fish Ecology and Management Studies",
+  "subfield_topic": "Nature and Landscape Conservation",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1583158561",
+    "https://openalex.org/W2013543122",
+    "https://openalex.org/W2066927317",
+    "https://openalex.org/W2068914352",
+    "https://openalex.org/W2115689975",
+    "https://openalex.org/W2143730261",
+    "https://openalex.org/W2150992761",
+    "https://openalex.org/W2157674269",
+    "https://openalex.org/W2158262405",
+    "https://openalex.org/W2160617029",
+    "https://openalex.org/W2170713776",
+    "https://openalex.org/W2170841283",
+    "https://openalex.org/W2794997669",
+    "https://openalex.org/W310325098",
+    "https://openalex.org/W4230486136",
+    "https://openalex.org/W4285719527"
+  ]
+}

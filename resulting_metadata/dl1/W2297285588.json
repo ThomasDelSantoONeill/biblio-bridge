@@ -1,0 +1,69 @@
+{
+  "id": "https://openalex.org/W2297285588",
+  "title": "Compensatory dynamics stabilize aggregate community properties in response to multiple types of perturbations",
+  "abstract": "Compensatory dynamics are an important suite of mechanisms that can stabilize community and ecosystem attributes in systems subject to environmental fluctuations. However, few experimental investigations of compensatory dynamics have addressed these mechanisms in systems of real-world complexity, and existing evidence relies heavily on correlative analyses, retrospective examination, and experiments in simple systems. We investigated the potential for compensatory dynamics to stabilize plankton communities in plankton mesocosm systems of real-world complexity. We employed four types of perturbations including two types of nutrient pulses, shading, and acidification. To quantify how communities responded to these perturbations, we used a measure of community-wide synchrony combined with spectral analysis that allowed us to assess timescale-specific community dynamics, for example, whether dynamics were synchronous at some timescales but compensatory at others. The 150-d experiment produced 32-point time series of all zooplankton taxa in the mesocosms. We then used those time series to evaluate total zooplankton biomass as an aggregate property and to evaluate community dynamics. For three of our four perturbation types, total zooplankton biomass was significantly less variable in systems with environmental variation than in constant environments. For the same three perturbation types, community-wide synchrony was much lower in fluctuating environments than in the constant environment, particularly at longer timescales (periods ≈ 60 d). Additionally, there were strong negative correlations between population temporal variances and the level of community-wide synchrony. Taken together, these results strongly imply that compensatory interactions between species stabilized total biomass in response to perturbations. Diversity did not differ significantly across either treatments or perturbation types, thus ruling out several classes of mechanisms driven by changes in diversity. We also used several pieces of secondary evidence to evaluate the particular mechanism behind compensatory responses since a wide variety of mechanisms are hypothesized to produce compensatory dynamics. We concluded that fluctuation dependent endogenous cycles that occur as a consequence of consumer-resource interactions in competitive communities were the most likely explanation for the compensatory dynamics observed in our experiment. As with our previous work, scale-dependent dynamics were also a key to understanding compensatory dynamics in these experimental communities.",
+  "authors": [
+    {
+      "name": "Bryan L. Brown"
+    },
+    {
+      "name": "Amy L. Downing"
+    },
+    {
+      "name": "Mathew A. Leibold"
+    }
+  ],
+  "publication_year": 2016,
+  "cited_by_count": 51,
+  "primary_topic": "Animal Ecology and Behavior Studies",
+  "subfield_topic": "Ecology",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1591843008",
+    "https://openalex.org/W1966735690",
+    "https://openalex.org/W1973311669",
+    "https://openalex.org/W1973539614",
+    "https://openalex.org/W1977200897",
+    "https://openalex.org/W1978993533",
+    "https://openalex.org/W1988387288",
+    "https://openalex.org/W1992118159",
+    "https://openalex.org/W2000730813",
+    "https://openalex.org/W2008883926",
+    "https://openalex.org/W2011303397",
+    "https://openalex.org/W2011919173",
+    "https://openalex.org/W2024408306",
+    "https://openalex.org/W2045621286",
+    "https://openalex.org/W2047152814",
+    "https://openalex.org/W2050781579",
+    "https://openalex.org/W2051629491",
+    "https://openalex.org/W2051701238",
+    "https://openalex.org/W2053756591",
+    "https://openalex.org/W2079772313",
+    "https://openalex.org/W2081348703",
+    "https://openalex.org/W2083519365",
+    "https://openalex.org/W2086093821",
+    "https://openalex.org/W2095481932",
+    "https://openalex.org/W2102897448",
+    "https://openalex.org/W2106114765",
+    "https://openalex.org/W2110322488",
+    "https://openalex.org/W2124459709",
+    "https://openalex.org/W2126123219",
+    "https://openalex.org/W2127831748",
+    "https://openalex.org/W2129539949",
+    "https://openalex.org/W2130385086",
+    "https://openalex.org/W2133696499",
+    "https://openalex.org/W2137919132",
+    "https://openalex.org/W2138325285",
+    "https://openalex.org/W2144022382",
+    "https://openalex.org/W2147641504",
+    "https://openalex.org/W2150597302",
+    "https://openalex.org/W2156480673",
+    "https://openalex.org/W2162790191",
+    "https://openalex.org/W2165559634",
+    "https://openalex.org/W2231806170",
+    "https://openalex.org/W2335392891",
+    "https://openalex.org/W2582743722",
+    "https://openalex.org/W83726805"
+  ]
+}

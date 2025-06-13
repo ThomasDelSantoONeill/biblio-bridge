@@ -1,0 +1,64 @@
+{
+  "id": "https://openalex.org/W633484475",
+  "title": "Seasonal forecasting of tuna habitat in the Great Australian Bight",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "J. Paige Eveson"
+    },
+    {
+      "name": "Alistair J. Hobday"
+    },
+    {
+      "name": "Jason R. Hartog"
+    },
+    {
+      "name": "Claire M. Spillman"
+    },
+    {
+      "name": "Kirsten Rough"
+    }
+  ],
+  "publication_year": 2015,
+  "cited_by_count": 102,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1523828400",
+    "https://openalex.org/W1549082088",
+    "https://openalex.org/W1562155162",
+    "https://openalex.org/W1965898538",
+    "https://openalex.org/W1966182791",
+    "https://openalex.org/W1972783203",
+    "https://openalex.org/W1973602084",
+    "https://openalex.org/W1973673289",
+    "https://openalex.org/W1991007586",
+    "https://openalex.org/W2011596561",
+    "https://openalex.org/W2016129915",
+    "https://openalex.org/W2021752720",
+    "https://openalex.org/W2026178092",
+    "https://openalex.org/W2028163390",
+    "https://openalex.org/W2034476238",
+    "https://openalex.org/W2034715976",
+    "https://openalex.org/W2036141926",
+    "https://openalex.org/W2037871102",
+    "https://openalex.org/W2038782284",
+    "https://openalex.org/W2041443775",
+    "https://openalex.org/W2059370262",
+    "https://openalex.org/W2082512038",
+    "https://openalex.org/W2085197013",
+    "https://openalex.org/W2096299353",
+    "https://openalex.org/W2097668422",
+    "https://openalex.org/W2103342231",
+    "https://openalex.org/W2113192283",
+    "https://openalex.org/W2134613036",
+    "https://openalex.org/W2150633385",
+    "https://openalex.org/W2174610466",
+    "https://openalex.org/W2179355966",
+    "https://openalex.org/W2312332094",
+    "https://openalex.org/W2317974489",
+    "https://openalex.org/W2543180075"
+  ]
+}

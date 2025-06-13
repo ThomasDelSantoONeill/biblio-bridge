@@ -1,0 +1,71 @@
+{
+  "id": "https://openalex.org/W2397301053",
+  "title": "Modelling multiple management objectives in fisheries: Australian experiences",
+  "abstract": "Incorporating social and economic relationships, together with ecological sustainability objectives into models to provide management advice creates a number of challenges, particularly when this advice requires complex trade-offs between objectives. This is further complicated by differences in quality and quantity of data across fisheries, and difficulties in quantifying some measures, particularly around social objectives and outcomes. Internationally, a wide variety of approaches have been used, some as part of the formal management strategy evaluation process, and others more exploratory. In this paper, we outline the general challenges around incorporating multiple objectives into models for management advice under different levels of data availability. We present three case Australian study fisheries where different approaches have been used to include social, economic and ecological considerations, reflecting the differences in data types and availability. We focus on Australian fisheries as these were among the first in the world to embrace a management objective of maximizing net economic returns as the primary objective of fisheries management, and, more recently, social objectives have increasingly been promoted in fisheries management. Quantifying the latter has created challenges for the development of fisheries models, requiring innovate ways to link the different components.",
+  "authors": [
+    {
+      "name": "Sean Pascoe"
+    },
+    {
+      "name": "Éva E. Plagányi"
+    },
+    {
+      "name": "Catherine M. Dichmont"
+    }
+  ],
+  "publication_year": 2016,
+  "cited_by_count": 37,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1578453044",
+    "https://openalex.org/W1592169906",
+    "https://openalex.org/W1971860428",
+    "https://openalex.org/W1983950287",
+    "https://openalex.org/W1986428488",
+    "https://openalex.org/W1988767555",
+    "https://openalex.org/W1990566709",
+    "https://openalex.org/W1990678981",
+    "https://openalex.org/W1994023912",
+    "https://openalex.org/W1995732114",
+    "https://openalex.org/W2005356875",
+    "https://openalex.org/W2009382980",
+    "https://openalex.org/W2010548171",
+    "https://openalex.org/W2011468414",
+    "https://openalex.org/W2020581422",
+    "https://openalex.org/W2022295935",
+    "https://openalex.org/W2023505837",
+    "https://openalex.org/W2030531882",
+    "https://openalex.org/W2033500981",
+    "https://openalex.org/W2051806801",
+    "https://openalex.org/W2061960490",
+    "https://openalex.org/W2063340586",
+    "https://openalex.org/W2066927312",
+    "https://openalex.org/W2067957050",
+    "https://openalex.org/W2075314043",
+    "https://openalex.org/W2088448122",
+    "https://openalex.org/W2092768221",
+    "https://openalex.org/W2120883475",
+    "https://openalex.org/W2121556051",
+    "https://openalex.org/W2125656394",
+    "https://openalex.org/W2132102506",
+    "https://openalex.org/W2134764708",
+    "https://openalex.org/W2139412812",
+    "https://openalex.org/W2140103666",
+    "https://openalex.org/W2148707062",
+    "https://openalex.org/W2153506831",
+    "https://openalex.org/W2160799324",
+    "https://openalex.org/W2165177948",
+    "https://openalex.org/W2168936936",
+    "https://openalex.org/W2233368448",
+    "https://openalex.org/W2246540144",
+    "https://openalex.org/W2254531936",
+    "https://openalex.org/W2306628377",
+    "https://openalex.org/W2337375611",
+    "https://openalex.org/W2971699162",
+    "https://openalex.org/W36209408",
+    "https://openalex.org/W4242366549"
+  ]
+}

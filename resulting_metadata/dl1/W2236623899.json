@@ -1,0 +1,26 @@
+{
+  "id": "https://openalex.org/W2236623899",
+  "title": "The Levenberg-Marquardt algorithm: Implementation and theory",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Jorge J. Morè"
+    }
+  ],
+  "publication_year": 1978,
+  "cited_by_count": 5233,
+  "primary_topic": "Neural Networks and Applications",
+  "subfield_topic": "Artificial Intelligence",
+  "field_topic": "Computer Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1485207068",
+    "https://openalex.org/W2008623081",
+    "https://openalex.org/W2022772618",
+    "https://openalex.org/W2028484327",
+    "https://openalex.org/W2087070363",
+    "https://openalex.org/W2164422015",
+    "https://openalex.org/W2256578114",
+    "https://openalex.org/W2986444355"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "https://openalex.org/W2566775566",
+  "title": "Predicting ecosystem responses to changes in fisheries catch, temperature, and primary productivity with a dynamic Bayesian network model",
+  "abstract": "Abstract The recent adoption of Bayesian networks (BNs) in ecology provides an opportunity to make advances because complex interactions can be recovered from field data and then used to predict the environmental response to changes in climate and biodiversity. In this study, we use a dynamic BN model with a hidden variable and spatial autocorrelation to explore the future of different fish and zooplankton species, given alternate scenarios, and across spatial scales within the North Sea. For most fish species, we were able to predict a trend of increase or decline in response to change in fisheries catch; however, this varied across the different areas, outlining the importance of trophic interactions and the spatial relationship between neighbouring areas. We were able to predict trends in zooplankton biomass in response to temperature change, with the spatial patterns of these effects varying by species. In contrast, there was high variability in terms of response to productivity changes and consequently knock-on effects on higher level trophic species. Finally, we were able to provide a new data-driven modelling approach that accounts for multispecies associations and interactions and their changes over space and time, which might be beneficial to give strategic advice on potential response of the system to pressure.",
+  "authors": [
+    {
+      "name": "Neda Trifonova"
+    },
+    {
+      "name": "David Maxwell"
+    },
+    {
+      "name": "John K. Pinnegar"
+    },
+    {
+      "name": "Andrew Kenny"
+    },
+    {
+      "name": "Allan Tucker"
+    }
+  ],
+  "publication_year": 2016,
+  "cited_by_count": 42,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1513136390",
+    "https://openalex.org/W1575368434",
+    "https://openalex.org/W1880007300",
+    "https://openalex.org/W1980938073",
+    "https://openalex.org/W1988201788",
+    "https://openalex.org/W2022903714",
+    "https://openalex.org/W2023474632",
+    "https://openalex.org/W2048076161",
+    "https://openalex.org/W2067428662",
+    "https://openalex.org/W2083996271",
+    "https://openalex.org/W2121465111",
+    "https://openalex.org/W2122338940",
+    "https://openalex.org/W2124565737",
+    "https://openalex.org/W2126895474",
+    "https://openalex.org/W2130025826",
+    "https://openalex.org/W2135136334",
+    "https://openalex.org/W2136402371",
+    "https://openalex.org/W2139460942",
+    "https://openalex.org/W2149876375",
+    "https://openalex.org/W2150798249",
+    "https://openalex.org/W2151707732",
+    "https://openalex.org/W2158227275",
+    "https://openalex.org/W2160436099",
+    "https://openalex.org/W292639247",
+    "https://openalex.org/W2979006918",
+    "https://openalex.org/W584175391",
+    "https://openalex.org/W763007321"
+  ]
+}

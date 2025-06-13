@@ -1,0 +1,23 @@
+{
+  "id": "https://openalex.org/W2000151369",
+  "title": "The Linear Complementarity Problem",
+  "abstract": "Introduction. Background. Existence and Multiplicity. Pivoting Methods. Iterative Methods. Geometry and Degree Theory. Sensitivity and Stability Analysis. Chapter Notes and References. Bibliography. Index.",
+  "authors": [
+    {
+      "name": "Richard W. Cottle"
+    },
+    {
+      "name": "Jong‐Shi Pang"
+    },
+    {
+      "name": "Richard Stone"
+    }
+  ],
+  "publication_year": 2009,
+  "cited_by_count": 2842,
+  "primary_topic": "Advanced Optimization Algorithms Research",
+  "subfield_topic": "Numerical Analysis",
+  "field_topic": "Mathematics",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": []
+}

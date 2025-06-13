@@ -1,0 +1,17 @@
+{
+  "id": "https://openalex.org/W72463757",
+  "title": "Fish Population Regulation Beyond \"Stock and Recruitment\": The Role of Density-Dependent Growth in the Recruited Stock",
+  "abstract": "Most fisheries models are based on the assumption that population regulation occurs exclusively in the prerecruit phase of the life cycle, but increasing evidence indicates that density-dependent body growth in the recruited phase and its interaction with size-dependent reproductive development can play an important role in regulation. I use comparative analyses and population modeling to explore the respective roles in regulation, and the interactions between density-dependent processes in pre- and postrecruit phases of the life cycle. Of 16 study populations, 14 show significant density dependence and therefore regulation in either (9) or both (5) phases. when standardized by habitat area, the density-dependent parameters of both phases are correlated, but the density-dependent growth parameter is a better predictor of average biomass density than the equivalent parameter of the spawner-recruit relationship. Population modeling shows that, in the absence of exploitation (i.e., near carrying capacity), 11 of the 16 populations respond most strongly to relaxation of prerecruit density dependence, whereas 5 respond most strongly to relaxation of density-dependence in postrecruit growth. Growth regulation is less important when population density is reduced below carrying capacity. Fishing erodes compensatory reserve in the recruited phase by truncating the age and size distribution. The spawner-recruit relationship therefore dominates compensation in heavily exploited populations. Growth-mediated regulation in the recruited phase is likely to be important when populations are closer to carrying capacity and therefore particularly relevant to the assessment of harvest reserves, stock rebuilding measures, and fisheries enhancements.",
+  "authors": [
+    {
+      "name": "Kai Lorenzen"
+    }
+  ],
+  "publication_year": 2008,
+  "cited_by_count": 72,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": []
+}

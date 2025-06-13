@@ -1,0 +1,21 @@
+{
+  "id": "https://openalex.org/W2069460986",
+  "title": "Interspecific Competition and Exploitation",
+  "abstract": "The consequences of exploitation of either or both of a pair of competing species are examined using the Lotka-Volterra equations. The removal of a fixed proportion of a population on an instantaneous basis shifts the equilibrium population sizes for both the exploited species and its competitor. Similar shifts occur when both species are exploited. The maximum sustained yield of a species can be estimated under various degrees of exploitation of its competitor. The maximum combined sustained yield can be estimated for various relative values of the two species. From this analysis it is observed (1) harvesting only one species may provide a mistaken underestimate of capacity for sustained yield, (2) harvesting two species but relating yield to the fishing mortality rate of only one of the two may give a misleading overestimate of further capacity for sustained yield. Similar conclusions can be drawn if exploitation rate is proportional to abundance. A stochastic version of the model is given for study of the effects of exploitation on small populations of competitors.Fixed percentage exploitation and abundance proportional exploitation may be considered as depicting respectively the mode of action of density-independent and density-dependent factors. Accepting these parallels, the model may demonstrate some widely discussed properties of mechanisms of population regulation. Variability in factors both density dependent and density independent which are extrinsic to the biological system can be simulated in the model by random variates.A discrete time model is described which was used with a computer for study of transitions from one steady state to another and extinction probabilities. The computer results confirm the theoretical predictions of the model. In addition it is suggested that there is no apparent difference in the result when competitors are exposed to the same or different random sequences of environmental effects of the same average intensity.It is concluded that this formulation of interspecific competition together with variations should be applied to laboratory or natural situations to test its usefulness as a basis for prediction.",
+  "authors": [
+    {
+      "name": "Peter Larkin"
+    }
+  ],
+  "publication_year": 1963,
+  "cited_by_count": 57,
+  "primary_topic": "Mathematical and Theoretical Epidemiology and Ecology Models",
+  "subfield_topic": "Public Health, Environmental and Occupational Health",
+  "field_topic": "Medicine",
+  "domain_topic": "Health Sciences",
+  "referenced_works": [
+    "https://openalex.org/W2017479345",
+    "https://openalex.org/W2037030167",
+    "https://openalex.org/W2323358873"
+  ]
+}

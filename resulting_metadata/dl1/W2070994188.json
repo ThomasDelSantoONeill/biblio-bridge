@@ -1,0 +1,32 @@
+{
+  "id": "https://openalex.org/W2070994188",
+  "title": "Homotopies for computation of fixed points",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "B. Curtis Eaves"
+    }
+  ],
+  "publication_year": 1972,
+  "cited_by_count": 327,
+  "primary_topic": "Advanced Optimization Algorithms Research",
+  "subfield_topic": "Numerical Analysis",
+  "field_topic": "Mathematics",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1500527815",
+    "https://openalex.org/W1557822959",
+    "https://openalex.org/W1969768653",
+    "https://openalex.org/W2050984357",
+    "https://openalex.org/W2051879293",
+    "https://openalex.org/W2060186712",
+    "https://openalex.org/W2089649903",
+    "https://openalex.org/W2105207928",
+    "https://openalex.org/W2127470768",
+    "https://openalex.org/W2149164022",
+    "https://openalex.org/W2152122625",
+    "https://openalex.org/W3123022539",
+    "https://openalex.org/W4214508989",
+    "https://openalex.org/W4301216918"
+  ]
+}

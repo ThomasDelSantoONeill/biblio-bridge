@@ -1,0 +1,68 @@
+{
+  "id": "https://openalex.org/W2128713868",
+  "title": "Modelling an exploited marine fish community with 15 parameters – results from a simple size-based model",
+  "abstract": "Abstract To measure and predict the response of fish communities to exploitation, it is necessary to understand how the direct and indirect effects of fishing interact. Because fishing and predation are size-selective processes, the potential response can be explored with size-based models. We use a simulation approach to describe the relationship between size spectrum slope and overall fishing mortality and to try to understand how a linear spectrum might be maintained. The model uses 15 parameters to describe a 13-“species” fish community, where species are defined by their maximum body size and the general relationship between size and life-history characteristics. The simulations allow us to assess the role of changes in the strength and type of density dependence in controlling the response to fishing, and to investigate the trade-off between catches and stock status of the different species. The outputs showed that the linear slope of the size spectrum was a function of community exploitation rate. Density-dependent controls, specifically predation mortality and the extent of compensation in the stock-recruit relationship, were key mechanisms in maintaining a linear spectrum. A linear spectrum emerged independent of the rate of compensation in the stock-recruit relationship. When this rate was low, the effects of changes in fishing mortality on predator abundance dominated those on spawning-stock biomass, whereas the dominance was reversed when the compensation rate in the stock-recruit relationship was high. The approach allows us to explore the effects of different fishing mortality schedules on properties of the fish community, to assess how fishing affects species with different life histories in mixed fisheries, and to assess the effects of selectively fishing different size classes. The simulations indicate that the size classes to be included when developing and interpreting size-based metrics must be carefully considered in relation to the trophic structure and likely strength of predatory interactions in the community. Runs with different fishing mortality by size suggest that the dynamics of predation cannot compensate fully for changing rates and patterns of exploitation, implying that the effects of selectively fishing different size classes should be assessed on a case-by-case basis.",
+  "authors": [
+    {
+      "name": "John G. Pope"
+    },
+    {
+      "name": "Jake Rice"
+    },
+    {
+      "name": "N. Daan"
+    },
+    {
+      "name": "Simon Jennings"
+    },
+    {
+      "name": "Henrik Gislason"
+    }
+  ],
+  "publication_year": 2006,
+  "cited_by_count": 129,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1522629818",
+    "https://openalex.org/W1543409689",
+    "https://openalex.org/W1544815196",
+    "https://openalex.org/W1561283990",
+    "https://openalex.org/W1568026218",
+    "https://openalex.org/W1593139096",
+    "https://openalex.org/W1599127549",
+    "https://openalex.org/W1968027662",
+    "https://openalex.org/W1988265452",
+    "https://openalex.org/W2032753567",
+    "https://openalex.org/W2040114842",
+    "https://openalex.org/W2047989966",
+    "https://openalex.org/W204940627",
+    "https://openalex.org/W2055024990",
+    "https://openalex.org/W2065619652",
+    "https://openalex.org/W2090062393",
+    "https://openalex.org/W2090603305",
+    "https://openalex.org/W2105385194",
+    "https://openalex.org/W2111673492",
+    "https://openalex.org/W2114795157",
+    "https://openalex.org/W2117918005",
+    "https://openalex.org/W2118496962",
+    "https://openalex.org/W2120830385",
+    "https://openalex.org/W2124394919",
+    "https://openalex.org/W2127032204",
+    "https://openalex.org/W2128574279",
+    "https://openalex.org/W2131129168",
+    "https://openalex.org/W2147690605",
+    "https://openalex.org/W2151445478",
+    "https://openalex.org/W2153161865",
+    "https://openalex.org/W2162997053",
+    "https://openalex.org/W2317234531",
+    "https://openalex.org/W2526359917",
+    "https://openalex.org/W4210260625",
+    "https://openalex.org/W4320398404",
+    "https://openalex.org/W4388299665",
+    "https://openalex.org/W50460735",
+    "https://openalex.org/W573554582"
+  ]
+}

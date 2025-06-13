@@ -1,0 +1,117 @@
+{
+  "id": "https://openalex.org/W2096845593",
+  "title": "Complex dynamics may limit prediction in marine fisheries",
+  "abstract": "Abstract Complex nonlinear dynamics in marine fisheries create challenges for prediction and management, yet the extent to which they occur in fisheries is not well known. Using nonlinear forecasting models, we analysed over 200 time series of survey abundance and landings from two distinct ecosystems for patterns of dynamic complexity (dimensionality and nonlinear dynamics) and predictability. Differences in system dimensionality and nonlinear dynamics were associated with time series that reflected human intervention via fishing effort, implying the coupling between human and natural systems generated dynamics distinct from those detected in the natural resource subsystem alone. Estimated dimensionality was highest for landings and higher in abundance indices of unfished species than fished species. Fished species were more likely to display nonlinear dynamics than unfished species, and landings were significantly less predictable than abundance indices. Results were robust to variation in life history characteristics. Dynamics were predictable over a 1‐year time horizon in seventy percent of time series, but predictability declined exponentially over a 5‐year horizon. The ability to make predictions in fisheries systems is therefore extremely limited. To our knowledge, this is the first cross‐system comparative study, and the first at the scale of individual species, to analyse empirically the dynamic complexity observed in fisheries data and to quantify predictability broadly. We outline one application of short‐term forecasts to a precautionary approach to fisheries management that could improve how uncertainty and forecast error are incorporated into assessment through catch limit buffers.",
+  "authors": [
+    {
+      "name": "Sarah M. Glaser"
+    },
+    {
+      "name": "Michael J. Fogarty"
+    },
+    {
+      "name": "Hui Liu"
+    },
+    {
+      "name": "Irit Altman"
+    },
+    {
+      "name": "Chih‐hao Hsieh"
+    },
+    {
+      "name": "Les Kaufman"
+    },
+    {
+      "name": "Alec D. MacCall"
+    },
+    {
+      "name": "Andrew A. Rosenberg"
+    },
+    {
+      "name": "Hao Ye"
+    },
+    {
+      "name": "George Sugihara"
+    }
+  ],
+  "publication_year": 2013,
+  "cited_by_count": 111,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1488679353",
+    "https://openalex.org/W1498759836",
+    "https://openalex.org/W1549386224",
+    "https://openalex.org/W1760106602",
+    "https://openalex.org/W1965357685",
+    "https://openalex.org/W1967501923",
+    "https://openalex.org/W1968304602",
+    "https://openalex.org/W1980008615",
+    "https://openalex.org/W1984391316",
+    "https://openalex.org/W1998367480",
+    "https://openalex.org/W1998370195",
+    "https://openalex.org/W2008536883",
+    "https://openalex.org/W2010365184",
+    "https://openalex.org/W2012923647",
+    "https://openalex.org/W2017551155",
+    "https://openalex.org/W2018466316",
+    "https://openalex.org/W2018523216",
+    "https://openalex.org/W2023952535",
+    "https://openalex.org/W2028184537",
+    "https://openalex.org/W2028377451",
+    "https://openalex.org/W2030080051",
+    "https://openalex.org/W2034994370",
+    "https://openalex.org/W2038096128",
+    "https://openalex.org/W2044257293",
+    "https://openalex.org/W2053059880",
+    "https://openalex.org/W2055155561",
+    "https://openalex.org/W2056942998",
+    "https://openalex.org/W2061448580",
+    "https://openalex.org/W2068844879",
+    "https://openalex.org/W2069576558",
+    "https://openalex.org/W2074813355",
+    "https://openalex.org/W2076175735",
+    "https://openalex.org/W2081759880",
+    "https://openalex.org/W2087829358",
+    "https://openalex.org/W2094273895",
+    "https://openalex.org/W2096331765",
+    "https://openalex.org/W2097265482",
+    "https://openalex.org/W2100891518",
+    "https://openalex.org/W2103948957",
+    "https://openalex.org/W2108079236",
+    "https://openalex.org/W2111064727",
+    "https://openalex.org/W2116199452",
+    "https://openalex.org/W2121855838",
+    "https://openalex.org/W2123730929",
+    "https://openalex.org/W2123897439",
+    "https://openalex.org/W2139220821",
+    "https://openalex.org/W2139281484",
+    "https://openalex.org/W2141394518",
+    "https://openalex.org/W2144018038",
+    "https://openalex.org/W2147505534",
+    "https://openalex.org/W2148828128",
+    "https://openalex.org/W2152434909",
+    "https://openalex.org/W2159500183",
+    "https://openalex.org/W2163253248",
+    "https://openalex.org/W2164123259",
+    "https://openalex.org/W2168487879",
+    "https://openalex.org/W2174152302",
+    "https://openalex.org/W2179763161",
+    "https://openalex.org/W2274815048",
+    "https://openalex.org/W2312840467",
+    "https://openalex.org/W2560876123",
+    "https://openalex.org/W2586886342",
+    "https://openalex.org/W3123679197",
+    "https://openalex.org/W3124661333",
+    "https://openalex.org/W3127325877",
+    "https://openalex.org/W4206511281",
+    "https://openalex.org/W4253175466",
+    "https://openalex.org/W4299429830",
+    "https://openalex.org/W43414141",
+    "https://openalex.org/W4388318273",
+    "https://openalex.org/W55778338",
+    "https://openalex.org/W592942356"
+  ]
+}

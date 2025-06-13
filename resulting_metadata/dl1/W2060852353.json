@@ -1,0 +1,25 @@
+{
+  "id": "https://openalex.org/W2060852353",
+  "title": "Paradox of Enrichment: Destabilization of Exploitation Ecosystems in Ecological Time",
+  "abstract": "Six reasonable models of trophic exploitation in a two-species ecosystem whose exploiters compete only by depleting each other's resource supply are presented. In each case, increasing the supply of limiting nutrients or energy tends to destroy the steady state. Thus man must be very careful in attempting to enrich an ecosystem in order to increase its food yield. There is a real chance that such activity may result in decimation of the food species that are wanted in greater abundance.",
+  "authors": [
+    {
+      "name": "Michael L. Rosenzweig"
+    }
+  ],
+  "publication_year": 1971,
+  "cited_by_count": 1886,
+  "primary_topic": "Mathematical and Theoretical Epidemiology and Ecology Models",
+  "subfield_topic": "Public Health, Environmental and Occupational Health",
+  "field_topic": "Medicine",
+  "domain_topic": "Health Sciences",
+  "referenced_works": [
+    "https://openalex.org/W2021796170",
+    "https://openalex.org/W2038891875",
+    "https://openalex.org/W2052125279",
+    "https://openalex.org/W2062733557",
+    "https://openalex.org/W2331610309",
+    "https://openalex.org/W2485626290",
+    "https://openalex.org/W4248709400"
+  ]
+}

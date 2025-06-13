@@ -1,0 +1,42 @@
+{
+  "id": "https://openalex.org/W2122284694",
+  "title": "THE EVOLUTION OF QUANTITATIVE MARINE FISHERIES MANAGEMENT 1985–2010",
+  "abstract": "Abstract This paper reviews the changes in quantitative marine fisheries management between 1985 and 2010. The two primary areas where quantitative methods have been employed are in the assessment of stock size and exploitation rates, and in the design and evaluation of harvest strategies. In 1985, some areas had well established assessment programs in place, and the assessment methods have been relatively stable over the 25 years in question. In other places, the evolution of methods has been much more dramatic, and where there were either no assessments performed or early virtual population analysis (VPA) was done using mainly catch‐at‐age data, complex statistical models using maximum likelihood or Bayesian statistics are now common. Harvest strategies have generally evolved even more. In 1985, most harvest strategies were based on fixed exploitation rates from yield‐per‐recruit analyses. By 2010, most agencies had adopted harvest strategies that specifically reduced exploitation rates as abundance dropped below the biomass that will produce maximum sustainable yield. Simulation testing of these harvest strategies has become an integral part of their design, often using the uncertainty from the assessments to bound the robustness trials for the harvest strategy. Two major areas of new quantitative methods are (i) spatially explicit models that can be used for marine spatial planning, and (ii) in ecosystem models to evaluate ecosystem wide impacts of fishing.",
+  "authors": [
+    {
+      "name": "Ray Hilborn"
+    }
+  ],
+  "publication_year": 2011,
+  "cited_by_count": 63,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1887592563",
+    "https://openalex.org/W1975250828",
+    "https://openalex.org/W1990566709",
+    "https://openalex.org/W1993730300",
+    "https://openalex.org/W2003421999",
+    "https://openalex.org/W2006647779",
+    "https://openalex.org/W2024760721",
+    "https://openalex.org/W2072079115",
+    "https://openalex.org/W2075314043",
+    "https://openalex.org/W2083854664",
+    "https://openalex.org/W2094423082",
+    "https://openalex.org/W2100012356",
+    "https://openalex.org/W2103037732",
+    "https://openalex.org/W2103423125",
+    "https://openalex.org/W2114364088",
+    "https://openalex.org/W2128013562",
+    "https://openalex.org/W2137744274",
+    "https://openalex.org/W2152634574",
+    "https://openalex.org/W2162787361",
+    "https://openalex.org/W2171113886",
+    "https://openalex.org/W2171785206",
+    "https://openalex.org/W2183465203",
+    "https://openalex.org/W2737869235",
+    "https://openalex.org/W4246346907"
+  ]
+}

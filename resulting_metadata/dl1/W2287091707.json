@@ -1,0 +1,23 @@
+{
+  "id": "https://openalex.org/W2287091707",
+  "title": "Designing a Scalable Distributed Tabletop System for Collocated and Remote Collaboration",
+  "abstract": "The scalable distributed tabletop system uses multiple tabletop tiled display systems connected over the network to create a large tabletop surface. It allows collocated users or remotely located groups of users to share and interact with the artifacts on the table. In this paper, we present a novel Scalable-EBITA (Environment for Building Interactive Tabletop Applications) framework, which is designed to support interactive tabletop tiled display applications scalably extended for both collocated and remote collaboration. This paper describes the design and detail implementations of the Scalable-EBITA framework and its applications as well as the performance evaluation on the current prototype of the scalable distributed tabletop system.",
+  "authors": [
+    {
+      "name": "Min-Young Kim"
+    },
+    {
+      "name": "Yongjoo Cho"
+    },
+    {
+      "name": "Kyoung Shin Park"
+    }
+  ],
+  "publication_year": 2012,
+  "cited_by_count": 1,
+  "primary_topic": "Multimedia Communication and Technology",
+  "subfield_topic": "Sociology and Political Science",
+  "field_topic": "Social Sciences",
+  "domain_topic": "Social Sciences",
+  "referenced_works": []
+}

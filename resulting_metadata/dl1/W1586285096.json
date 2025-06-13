@@ -1,0 +1,22 @@
+{
+  "id": "https://openalex.org/W1586285096",
+  "title": "Untangling ecological complexity: The macroscopic perspective",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Brian A. Maurer"
+    }
+  ],
+  "publication_year": 1999,
+  "cited_by_count": 205,
+  "primary_topic": "Ecology and Vegetation Dynamics Studies",
+  "subfield_topic": "Nature and Landscape Conservation",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1555844407",
+    "https://openalex.org/W2051420339",
+    "https://openalex.org/W2795509008",
+    "https://openalex.org/W2799077938"
+  ]
+}

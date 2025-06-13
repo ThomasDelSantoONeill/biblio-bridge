@@ -1,0 +1,39 @@
+{
+  "id": "https://openalex.org/W1504076883",
+  "title": "Dealing with the “Mixed Units” Problem in Ecosystem Network Analysis",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Robert Costanza"
+    },
+    {
+      "name": "Bruce Hannon"
+    }
+  ],
+  "publication_year": 1989,
+  "cited_by_count": 36,
+  "primary_topic": "Sustainability and Ecological Systems Analysis",
+  "subfield_topic": "Environmental Engineering",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W126267522",
+    "https://openalex.org/W1575711739",
+    "https://openalex.org/W1981073837",
+    "https://openalex.org/W1990758398",
+    "https://openalex.org/W1999344864",
+    "https://openalex.org/W2002645277",
+    "https://openalex.org/W2005119427",
+    "https://openalex.org/W2031015101",
+    "https://openalex.org/W2038921758",
+    "https://openalex.org/W2041940984",
+    "https://openalex.org/W2057174889",
+    "https://openalex.org/W2084049626",
+    "https://openalex.org/W2089406628",
+    "https://openalex.org/W2093706695",
+    "https://openalex.org/W2109863430",
+    "https://openalex.org/W2141720165",
+    "https://openalex.org/W2313544393",
+    "https://openalex.org/W4300543912"
+  ]
+}

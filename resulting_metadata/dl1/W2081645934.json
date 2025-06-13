@@ -1,0 +1,84 @@
+{
+  "id": "https://openalex.org/W2081645934",
+  "title": "Sequential megafaunal collapse in the North Pacific Ocean: An ongoing legacy of industrial whaling?",
+  "abstract": "Populations of seals, sea lions, and sea otters have sequentially collapsed over large areas of the northern North Pacific Ocean and southern Bering Sea during the last several decades. A bottom-up nutritional limitation mechanism induced by physical oceanographic change or competition with fisheries was long thought to be largely responsible for these declines. The current weight of evidence is more consistent with top-down forcing. Increased predation by killer whales probably drove the sea otter collapse and may have been responsible for the earlier pinniped declines as well. We propose that decimation of the great whales by post-World War II industrial whaling caused the great whales' foremost natural predators, killer whales, to begin feeding more intensively on the smaller marine mammals, thus “fishing-down” this element of the marine food web. The timing of these events, information on the abundance, diet, and foraging behavior of both predators and prey, and feasibility analyses based on demographic and energetic modeling are all consistent with this hypothesis.",
+  "authors": [
+    {
+      "name": "Alan M. Springer"
+    },
+    {
+      "name": "James A. Estes"
+    },
+    {
+      "name": "Gus B. van Vliet"
+    },
+    {
+      "name": "Terrie M. Williams"
+    },
+    {
+      "name": "Daniel F. Doak"
+    },
+    {
+      "name": "Eric M. Danner"
+    },
+    {
+      "name": "Karin A. Forney"
+    },
+    {
+      "name": "B. Pfister"
+    }
+  ],
+  "publication_year": 2003,
+  "cited_by_count": 483,
+  "primary_topic": "Marine animal studies overview",
+  "subfield_topic": "Ecology",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1569304905",
+    "https://openalex.org/W1606102885",
+    "https://openalex.org/W1972706389",
+    "https://openalex.org/W1980853237",
+    "https://openalex.org/W1985342263",
+    "https://openalex.org/W1999204252",
+    "https://openalex.org/W2006959528",
+    "https://openalex.org/W2007263482",
+    "https://openalex.org/W2023261182",
+    "https://openalex.org/W2024265912",
+    "https://openalex.org/W2031539711",
+    "https://openalex.org/W2035019851",
+    "https://openalex.org/W2036334853",
+    "https://openalex.org/W2040313546",
+    "https://openalex.org/W2042043994",
+    "https://openalex.org/W2049730646",
+    "https://openalex.org/W2050335052",
+    "https://openalex.org/W2063961989",
+    "https://openalex.org/W2070911389",
+    "https://openalex.org/W2075097011",
+    "https://openalex.org/W2100927103",
+    "https://openalex.org/W2101842079",
+    "https://openalex.org/W2104474860",
+    "https://openalex.org/W2106428552",
+    "https://openalex.org/W2108686496",
+    "https://openalex.org/W2121311135",
+    "https://openalex.org/W2128789358",
+    "https://openalex.org/W2129114444",
+    "https://openalex.org/W2131926214",
+    "https://openalex.org/W2132008384",
+    "https://openalex.org/W2135071215",
+    "https://openalex.org/W2144742292",
+    "https://openalex.org/W2147807123",
+    "https://openalex.org/W2154264431",
+    "https://openalex.org/W2159575103",
+    "https://openalex.org/W2168208734",
+    "https://openalex.org/W2325989619",
+    "https://openalex.org/W2475939738",
+    "https://openalex.org/W2503301075",
+    "https://openalex.org/W2557786763",
+    "https://openalex.org/W2577040454",
+    "https://openalex.org/W3036056273",
+    "https://openalex.org/W4205586053",
+    "https://openalex.org/W423489212",
+    "https://openalex.org/W576488343"
+  ]
+}

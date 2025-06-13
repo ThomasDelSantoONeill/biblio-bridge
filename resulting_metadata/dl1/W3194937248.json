@@ -1,0 +1,65 @@
+{
+  "id": "https://openalex.org/W3194937248",
+  "title": "Harvest strategies for climate-resilient fisheries",
+  "abstract": "Abstract A pressing challenge for climate-vulnerable fisheries is how to manage now for present and future climate change. In contrast to climate forecasting approaches, we track integrated signals of change for example populations in a climatically forced region and use stochastic dynamic programming to compare the performance of a range of management-ready policies over all possible future states. Our main results highlight: (i) that biomass-linked harvest control rules (HCRs) can partially compensate for changing production, even if the HCR is time invariant; and (ii) that the form of utility (e.g. risk neutral or risk averse) can result in remarkably different optimal decision paths. Performance over future horizons degrades marginally from dynamic HCRs to static HCRs (except at low productivity where differences are more pronounced) but markedly when the biomass level is ignored altogether, as is the case in many managed fish populations globally. Understanding the processes whereby climate affects productivity is important for interpreting past data, but forecasts are not needed for tactical decision making now. Instead, we argue that the priorities for managing fish stocks influenced by climate change are to: measure the current productivity, assess the current abundance of the stock, and respond with a dynamic HCR.",
+  "authors": [
+    {
+      "name": "Jeremy S. Collie"
+    },
+    {
+      "name": "Richard J. Bell"
+    },
+    {
+      "name": "Samuel B Collie"
+    },
+    {
+      "name": "Cóilín Minto"
+    }
+  ],
+  "publication_year": 2021,
+  "cited_by_count": 19,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1918069932",
+    "https://openalex.org/W1980700305",
+    "https://openalex.org/W1998653339",
+    "https://openalex.org/W2007173289",
+    "https://openalex.org/W2007585118",
+    "https://openalex.org/W2018585498",
+    "https://openalex.org/W2042464037",
+    "https://openalex.org/W2045299376",
+    "https://openalex.org/W2050761907",
+    "https://openalex.org/W2057805880",
+    "https://openalex.org/W2076153258",
+    "https://openalex.org/W2083290876",
+    "https://openalex.org/W2084828496",
+    "https://openalex.org/W2089452263",
+    "https://openalex.org/W2091964226",
+    "https://openalex.org/W2118154372",
+    "https://openalex.org/W2134841119",
+    "https://openalex.org/W2153277552",
+    "https://openalex.org/W2160216363",
+    "https://openalex.org/W2197567846",
+    "https://openalex.org/W2256116549",
+    "https://openalex.org/W2295177640",
+    "https://openalex.org/W2341171179",
+    "https://openalex.org/W2582025998",
+    "https://openalex.org/W2608202490",
+    "https://openalex.org/W2616686337",
+    "https://openalex.org/W2634955313",
+    "https://openalex.org/W2789012968",
+    "https://openalex.org/W2889256707",
+    "https://openalex.org/W2900955981",
+    "https://openalex.org/W2902581108",
+    "https://openalex.org/W2918046171",
+    "https://openalex.org/W2924251988",
+    "https://openalex.org/W2931984287",
+    "https://openalex.org/W2953029132",
+    "https://openalex.org/W2994580640",
+    "https://openalex.org/W3096722008",
+    "https://openalex.org/W4210260625"
+  ]
+}

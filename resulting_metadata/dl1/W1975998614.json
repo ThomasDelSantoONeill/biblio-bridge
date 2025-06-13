@@ -1,0 +1,28 @@
+{
+  "id": "https://openalex.org/W1975998614",
+  "title": "HOW TO MANAGE FISHERIES",
+  "abstract": "A review of developments in marine ecology and economic theory suggests that fishery management should: make determining process-based production functions the central goal of fishery science, establish three-fourths of the average unharvested abundance as the target stock, and tax revenues from any fish caught when the stock is below target.",
+  "authors": [
+    {
+      "name": "Jonathan Roughgarden"
+    }
+  ],
+  "publication_year": 1998,
+  "cited_by_count": 21,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1986088328",
+    "https://openalex.org/W1988997784",
+    "https://openalex.org/W2011734261",
+    "https://openalex.org/W2012819751",
+    "https://openalex.org/W2026290501",
+    "https://openalex.org/W2049562067",
+    "https://openalex.org/W2319054367",
+    "https://openalex.org/W3094266064",
+    "https://openalex.org/W3122560929",
+    "https://openalex.org/W77134577"
+  ]
+}

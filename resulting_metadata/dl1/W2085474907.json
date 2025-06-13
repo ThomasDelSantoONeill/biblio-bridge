@@ -1,0 +1,49 @@
+{
+  "id": "https://openalex.org/W2085474907",
+  "title": "The impact of regime shifts on the performance of management strategies for the Gulf of Alaska walleye pollock (Theragra chalcogramma) fishery",
+  "abstract": "Climate variability affects marine ecosystems. The mechanisms relating low-frequency environmental fluctuations (regime shifts) and their impacts on marine populations are not well established for most species, but there is an expectation that the accuracy of scientific advice provided to fisheries management would be improved if management strategies incorporated the effects of regime shifts on stocks. Management strategy evaluation is used to examine the impact of regime shifts in average recruitment on the performance of management strategies for the fishery for walleye pollock, Theragra chalcogramma , in the Gulf of Alaska. The current and four alternative management strategies are evaluated. The alternatives include management strategies with different definitions of the average recruitment used when calculating management reference points, e.g., a 25-year sliding-window method and a “dynamic B 0 ” method. The current management strategy, which ignores the possibility of future regime shifts, kept the spawning biomass higher relative to the target level than the other management strategies and had the lowest risk of fishing mortality exceeding the overfishing limit. The sliding-window management strategy achieved the highest catches and the lowest interannual variation in catch, although at the cost of a higher risk of the fishing mortality exceeding the overfishing limit.",
+  "authors": [
+    {
+      "name": "Z. Teresa A’mar"
+    },
+    {
+      "name": "André E. Punt"
+    },
+    {
+      "name": "Martin W. Dorn"
+    }
+  ],
+  "publication_year": 2009,
+  "cited_by_count": 51,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1760106602",
+    "https://openalex.org/W1963959286",
+    "https://openalex.org/W1964736243",
+    "https://openalex.org/W1979765650",
+    "https://openalex.org/W2006315423",
+    "https://openalex.org/W2006959528",
+    "https://openalex.org/W2020328572",
+    "https://openalex.org/W2061328952",
+    "https://openalex.org/W2062657361",
+    "https://openalex.org/W2094414211",
+    "https://openalex.org/W2101842079",
+    "https://openalex.org/W2107114857",
+    "https://openalex.org/W2111714961",
+    "https://openalex.org/W2138309709",
+    "https://openalex.org/W2147731173",
+    "https://openalex.org/W2149567119",
+    "https://openalex.org/W2153196636",
+    "https://openalex.org/W2153729162",
+    "https://openalex.org/W2168208734",
+    "https://openalex.org/W2172526819",
+    "https://openalex.org/W2521213035",
+    "https://openalex.org/W2786549815",
+    "https://openalex.org/W2794808469",
+    "https://openalex.org/W2914252064",
+    "https://openalex.org/W4232383088"
+  ]
+}

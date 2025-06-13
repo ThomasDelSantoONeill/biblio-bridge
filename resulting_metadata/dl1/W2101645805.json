@@ -1,0 +1,61 @@
+{
+  "id": "https://openalex.org/W2101645805",
+  "title": "Estimating larval production of a broadcast spawner: the influence of density, aggregation, and the fertilization Allee effect",
+  "abstract": "The effect of fishing on reproduction is typically quantified by computing the effects of changes in the species abundance and age structure on egg production. For broadcast spawners, reproduction also depends on the local spatial distribution of individuals. Broadcast spawners exhibit an Allee effect at low density: a decline in the fertilization of eggs, owing to increased distance between spawners. We present a method for assessing the likely impact of a fishery on broadcast spawners, based on gamete dispersion dynamics and individual spatial distributions. We use an individual-based model to simulate larval production over a range of uncertainties in dispersion characteristics. We illustrate our method for the red sea urchin, Strongylocentrotus franciscanus , fishery in northern California, USA. The density of red sea urchins varied over space (0.1–1.6·m –2 ), and indices of aggregation were highest at low densities. As gamete dispersion distances increased, larval production exhibited a more linear relationship with density. Average larval production in 1996–1998 was 33.8% of production near the inception of the fishery. After accounting for decreases in mean density, the fertilization Allee effect accounted for 21.7 ± 4.1% of the decrease in larval production, and 45.2 ± 21.7% if sea urchins were not aggregated.",
+  "authors": [
+    {
+      "name": "Carolyn J. Lundquist"
+    },
+    {
+      "name": "Louis W. Botsford"
+    }
+  ],
+  "publication_year": 2011,
+  "cited_by_count": 34,
+  "primary_topic": "Marine and coastal plant biology",
+  "subfield_topic": "Oceanography",
+  "field_topic": "Earth and Planetary Sciences",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1808840932",
+    "https://openalex.org/W1967733654",
+    "https://openalex.org/W1982434306",
+    "https://openalex.org/W1982523367",
+    "https://openalex.org/W1994761733",
+    "https://openalex.org/W1999854490",
+    "https://openalex.org/W2004239114",
+    "https://openalex.org/W2007782476",
+    "https://openalex.org/W2020728050",
+    "https://openalex.org/W2024351902",
+    "https://openalex.org/W2027720933",
+    "https://openalex.org/W2033887978",
+    "https://openalex.org/W2038986765",
+    "https://openalex.org/W2043377131",
+    "https://openalex.org/W2047477651",
+    "https://openalex.org/W2054014123",
+    "https://openalex.org/W2057846259",
+    "https://openalex.org/W2058529508",
+    "https://openalex.org/W2065465815",
+    "https://openalex.org/W2070418664",
+    "https://openalex.org/W2071856933",
+    "https://openalex.org/W2075177263",
+    "https://openalex.org/W2075866446",
+    "https://openalex.org/W2090301862",
+    "https://openalex.org/W2108221888",
+    "https://openalex.org/W2124729228",
+    "https://openalex.org/W2128696065",
+    "https://openalex.org/W2134409447",
+    "https://openalex.org/W2166796600",
+    "https://openalex.org/W2258428114",
+    "https://openalex.org/W2259129931",
+    "https://openalex.org/W2290838760",
+    "https://openalex.org/W2486709807",
+    "https://openalex.org/W2517407588",
+    "https://openalex.org/W255404087",
+    "https://openalex.org/W2618994766",
+    "https://openalex.org/W2729644264",
+    "https://openalex.org/W2767219921",
+    "https://openalex.org/W3015535145",
+    "https://openalex.org/W4285719527"
+  ]
+}

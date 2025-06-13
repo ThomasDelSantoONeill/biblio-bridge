@@ -1,0 +1,47 @@
+{
+  "id": "https://openalex.org/W2013386180",
+  "title": "Using Length, Age and Tagging Data in a Stock Assessment of a Length Selective Fishery for Gummy Shark (<i>Mustelus antarcticus</i>)",
+  "abstract": "Gummy shark (Mustelus antarcticus Günther) populations in Bass Strait and off South Australia are assessed using a variant of the Integrated Analysis method of fisheries stock assessment.The assessment model is age-and sex-structured, takes account of gear selectivity and explicitly considers the peculiarities of the pupping process.Catch, catch-rate, length-frequency, age-composition and tagging data are used within a maximum-likelihood estimation framework to estimate the free parameters of the model.The current pup production is estimated to be in excess of conventional target and limit levels.The relationship between fishing effort and fishing mortality is estimated to saturate at high levels of fishing effort.The availability of gummy sharks to fishers is estimated to be non-uniform.The use of length-and age-composition data allow estimation of year-class strength and also the potential to provide support for more complicated model structures.In this case, the support for the hypothesis that availability is not the same for all gummy sharks rests on evidence in the length-frequency data.Whether any one data source may be providing misleading impressions regarding population trends can be examined only if the assessment includes several data sources.In the case of gummy shark in Bass Strait, estimates of productivity and natural mortality are sensitive to whether the tagging or length-frequency data are included in the assessment.",
+  "authors": [
+    {
+      "name": "Fred Pribac"
+    },
+    {
+      "name": "André E. Punt"
+    },
+    {
+      "name": "B L Taylor"
+    },
+    {
+      "name": "Terence I. Walker"
+    }
+  ],
+  "publication_year": 2005,
+  "cited_by_count": 33,
+  "primary_topic": "Ichthyology and Marine Biology",
+  "subfield_topic": "Nature and Landscape Conservation",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1582073618",
+    "https://openalex.org/W1969769143",
+    "https://openalex.org/W1978714254",
+    "https://openalex.org/W1978739354",
+    "https://openalex.org/W1991360742",
+    "https://openalex.org/W1994583872",
+    "https://openalex.org/W1996325709",
+    "https://openalex.org/W2051066668",
+    "https://openalex.org/W2051454226",
+    "https://openalex.org/W2063287582",
+    "https://openalex.org/W2126475261",
+    "https://openalex.org/W2134443582",
+    "https://openalex.org/W2153685600",
+    "https://openalex.org/W2169615663",
+    "https://openalex.org/W2495292174",
+    "https://openalex.org/W3123681283",
+    "https://openalex.org/W3154931750",
+    "https://openalex.org/W3197107240",
+    "https://openalex.org/W4251568698",
+    "https://openalex.org/W4285719527"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "https://openalex.org/W2168739862",
+  "title": "Patterns of population variability in marine fish stocks",
+  "abstract": "Exploited marine fish and invertebrate stocks fluctuate in a myriad of complex patterns, exhibiting variability on interannual, decadal, and longer time scales. To characterize various patterns of variation, time series of catch, catch per unit effort, or biomass from 30 stocks were examined with a variety of statistical methods including autocorrelation analysis and Lowess smoothing. A hierarchical cluster analysis classified the stocks into six identifiable groups: steady‐state; low‐variation, low‐frequency; cyclic; irregular; high‐variation, high‐frequency; and spasmodic. The observed patterns are consistent with life history traits; for example, stocks with high variability are generally small, pelagic species whereas low‐variability stocks are generally slow‐growing, demersal fish. Each of the six general patterns of variability can be produced from a simple multiple‐equilibrium population model by varying the intrinsic rate of population growth, and the time scale and amplitude of environmental variability. Suitable management policies depend on the type of variation observed, and the vast majority of stocks examined do not correspond to the steady‐state assumptions of classical fisheries models. For example, management of spasmodic stocks may alternate between periods of active exploitation and periods of rebuilding, a process enhanced by the existence of alternative fisheries.",
+  "authors": [
+    {
+      "name": "Paul D. Spencer"
+    },
+    {
+      "name": "Jeremy S. Collie"
+    }
+  ],
+  "publication_year": 1997,
+  "cited_by_count": 93,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": []
+}

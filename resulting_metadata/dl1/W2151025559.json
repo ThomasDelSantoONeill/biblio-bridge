@@ -1,0 +1,156 @@
+{
+  "id": "https://openalex.org/W2151025559",
+  "title": "Implementing ecosystem-based fisheries management: from single-species to integrated ecosystem assessment and advice for Baltic Sea fish stocks",
+  "abstract": "Abstract Theory behind ecosystem-based management (EBM) and ecosystem-based fisheries management (EBFM) is now well developed. However, the implementation of EBFM exemplified by fisheries management in Europe is still largely based on single-species assessments and ignores the wider ecosystem context and impact. The reason for the lack or slow implementation of EBM and specifically EBFM is a lack of a coherent strategy. Such a strategy is offered by recently developed integrated ecosystem assessments (IEAs), a formal synthesis tool to quantitatively analyse information on relevant natural and socio-economic factors, in relation to specified management objectives. Here, we focus on implementing the IEA approach for Baltic Sea fish stocks. We combine both tactical and strategic management aspects into a single strategy that supports the present Baltic Sea fish stock advice, conducted by the International Council for the Exploration of the Sea (ICES). We first review the state of the art in the development of IEA within the current management framework. We then outline and discuss an approach that integrates fish stock advice and IEAs for the Baltic Sea. We intentionally focus on the central Baltic Sea and its three major fish stocks cod (Gadus morhua), herring (Clupea harengus), and sprat (Sprattus sprattus), but emphasize that our approach may be applied to other parts and stocks of the Baltic, as well as other ocean areas.",
+  "authors": [
+    {
+      "name": "Christian Möllmann"
+    },
+    {
+      "name": "Martin Lindegren"
+    },
+    {
+      "name": "Thorsten Blenckner"
+    },
+    {
+      "name": "Lena Bergström"
+    },
+    {
+      "name": "Michele Casini"
+    },
+    {
+      "name": "Rabea Diekmann"
+    },
+    {
+      "name": "Juha Flinkman"
+    },
+    {
+      "name": "Bärbel Müller‐Karulis"
+    },
+    {
+      "name": "Stefan Neuenfeldt"
+    },
+    {
+      "name": "Jörn Schmidt"
+    },
+    {
+      "name": "Maciej T. Tomczak"
+    },
+    {
+      "name": "R. Voss"
+    },
+    {
+      "name": "Anna Gårdmark"
+    }
+  ],
+  "publication_year": 2013,
+  "cited_by_count": 111,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W123777686",
+    "https://openalex.org/W1543409689",
+    "https://openalex.org/W1551533759",
+    "https://openalex.org/W1564478303",
+    "https://openalex.org/W1591495672",
+    "https://openalex.org/W1665468083",
+    "https://openalex.org/W1968466770",
+    "https://openalex.org/W1977500850",
+    "https://openalex.org/W1978938324",
+    "https://openalex.org/W1982191767",
+    "https://openalex.org/W1985634755",
+    "https://openalex.org/W1988390317",
+    "https://openalex.org/W1990566709",
+    "https://openalex.org/W1991927421",
+    "https://openalex.org/W1993185463",
+    "https://openalex.org/W1993920411",
+    "https://openalex.org/W1997730191",
+    "https://openalex.org/W2006959528",
+    "https://openalex.org/W2007173289",
+    "https://openalex.org/W2007881614",
+    "https://openalex.org/W2012740428",
+    "https://openalex.org/W2018523216",
+    "https://openalex.org/W2029479648",
+    "https://openalex.org/W2029687457",
+    "https://openalex.org/W2030437201",
+    "https://openalex.org/W2040011903",
+    "https://openalex.org/W2041879029",
+    "https://openalex.org/W2050370095",
+    "https://openalex.org/W2052437231",
+    "https://openalex.org/W2057573228",
+    "https://openalex.org/W2060920808",
+    "https://openalex.org/W2062031940",
+    "https://openalex.org/W2063236099",
+    "https://openalex.org/W2065635880",
+    "https://openalex.org/W2072935983",
+    "https://openalex.org/W2074248086",
+    "https://openalex.org/W2077092969",
+    "https://openalex.org/W2080169924",
+    "https://openalex.org/W2081656950",
+    "https://openalex.org/W2083473729",
+    "https://openalex.org/W2090820972",
+    "https://openalex.org/W2091255721",
+    "https://openalex.org/W2099421102",
+    "https://openalex.org/W2101369997",
+    "https://openalex.org/W2102221182",
+    "https://openalex.org/W2103948957",
+    "https://openalex.org/W2105331081",
+    "https://openalex.org/W2109046958",
+    "https://openalex.org/W2111714961",
+    "https://openalex.org/W2114364088",
+    "https://openalex.org/W2114651886",
+    "https://openalex.org/W2116199452",
+    "https://openalex.org/W2119070620",
+    "https://openalex.org/W2123712988",
+    "https://openalex.org/W2124104310",
+    "https://openalex.org/W2124718796",
+    "https://openalex.org/W2127042341",
+    "https://openalex.org/W2128092399",
+    "https://openalex.org/W2128695422",
+    "https://openalex.org/W2128793109",
+    "https://openalex.org/W2131804271",
+    "https://openalex.org/W2137523123",
+    "https://openalex.org/W2141684699",
+    "https://openalex.org/W2142289369",
+    "https://openalex.org/W2143566537",
+    "https://openalex.org/W2143578174",
+    "https://openalex.org/W2145139762",
+    "https://openalex.org/W2145617198",
+    "https://openalex.org/W2145995404",
+    "https://openalex.org/W2148350562",
+    "https://openalex.org/W2148828128",
+    "https://openalex.org/W2152100187",
+    "https://openalex.org/W2152590961",
+    "https://openalex.org/W2153268540",
+    "https://openalex.org/W2155623260",
+    "https://openalex.org/W2156298348",
+    "https://openalex.org/W2156623230",
+    "https://openalex.org/W2158956153",
+    "https://openalex.org/W2160537686",
+    "https://openalex.org/W2163492266",
+    "https://openalex.org/W2166987133",
+    "https://openalex.org/W2168966891",
+    "https://openalex.org/W2170759554",
+    "https://openalex.org/W2172093503",
+    "https://openalex.org/W2183858587",
+    "https://openalex.org/W2205468074",
+    "https://openalex.org/W2481182535",
+    "https://openalex.org/W2502486770",
+    "https://openalex.org/W2622946719",
+    "https://openalex.org/W2738316210",
+    "https://openalex.org/W2739880501",
+    "https://openalex.org/W2741670892",
+    "https://openalex.org/W2741931777",
+    "https://openalex.org/W2788660638",
+    "https://openalex.org/W2794865475",
+    "https://openalex.org/W2797581504",
+    "https://openalex.org/W3206086938",
+    "https://openalex.org/W345080406",
+    "https://openalex.org/W4237015956",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W44866302",
+    "https://openalex.org/W641791307"
+  ]
+}

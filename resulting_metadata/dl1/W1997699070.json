@@ -1,0 +1,63 @@
+{
+  "id": "https://openalex.org/W1997699070",
+  "title": "Evaluation and management implications of uncertainty in a multispecies size‐structured model of population and community responses to fishing",
+  "abstract": "Implementation of an ecosystem approach to fisheries requires advice on trade-offs among fished species and between fisheries yields and biodiversity or food web properties. However, the lack of explicit representation, analysis and consideration of uncertainty in most multispecies models has limited their application in analyses that could support management advice.We assessed the consequences of parameter uncertainty by developing 78 125 multispecies size-structured fish community models, with all combinations of parameters drawn from ranges that spanned parameter values estimated from data and literature. This unfiltered ensemble was reduced to 188 plausible models, the filtered ensemble (FE), by screening outputs against fish abundance data and ecological principles such as requiring species' persistence.Effects of parameter uncertainty on estimates of single-species management reference points for fishing mortality (FMSY, fishing mortality rate providing MSY, the maximum sustainable yield) and biomass (BMSY, biomass at MSY) were evaluated by calculating probability distributions of estimated reference points with the FE. There was a 50% probability that multispecies FMSY could be estimated to within ±25% of its actual value, and a 50% probability that BMSY could be estimated to within ±40% of its actual value.Signal-to-noise ratio was assessed for four community indicators when mortality rates were reduced from current rates to FMSY. The slope of the community size spectrum showed the greatest signal-to-noise ratio, indicating that it would be the most responsive indicator to the change in fishing mortality F. Further, the power of an ongoing international monitoring survey to detect predicted responses of size spectrum slope was higher than for other size-based metrics.Synthesis and applications: Application of the ensemble model approach allows explicit representation of parameter uncertainty and supports advice and management by (i) providing uncertainty intervals for management reference points, (ii) estimating working values of reference points that achieve a defined reduction in risk of not breaching the true reference point, (iii) estimating the responsiveness of population, community, food web and biodiversity indicators to changes in F, (iv) assessing the performance of indicators and monitoring programmes and (v) identifying priorities for data collection and changes to model structure to reduce uncertainty.",
+  "authors": [
+    {
+      "name": "Robert Thorpe"
+    },
+    {
+      "name": "Will J. F. Le Quesne"
+    },
+    {
+      "name": "Fay Luxford"
+    },
+    {
+      "name": "Jeremy S. Collie"
+    },
+    {
+      "name": "Simon Jennings"
+    }
+  ],
+  "publication_year": 2014,
+  "cited_by_count": 86,
+  "primary_topic": "Fish Ecology and Management Studies",
+  "subfield_topic": "Nature and Landscape Conservation",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1872767830",
+    "https://openalex.org/W1882133131",
+    "https://openalex.org/W1969952399",
+    "https://openalex.org/W1973933025",
+    "https://openalex.org/W1991560151",
+    "https://openalex.org/W2017148881",
+    "https://openalex.org/W2037322179",
+    "https://openalex.org/W2038512291",
+    "https://openalex.org/W2072760418",
+    "https://openalex.org/W2095414997",
+    "https://openalex.org/W2100629188",
+    "https://openalex.org/W2116815273",
+    "https://openalex.org/W2118496962",
+    "https://openalex.org/W2122782653",
+    "https://openalex.org/W2122974269",
+    "https://openalex.org/W2124394919",
+    "https://openalex.org/W2125640780",
+    "https://openalex.org/W2128860815",
+    "https://openalex.org/W2129374692",
+    "https://openalex.org/W2136362512",
+    "https://openalex.org/W2139832281",
+    "https://openalex.org/W2141613880",
+    "https://openalex.org/W2153330861",
+    "https://openalex.org/W2154277394",
+    "https://openalex.org/W2155667586",
+    "https://openalex.org/W2157676007",
+    "https://openalex.org/W2162997053",
+    "https://openalex.org/W2164647633",
+    "https://openalex.org/W2607828866",
+    "https://openalex.org/W3144859586",
+    "https://openalex.org/W3150234440",
+    "https://openalex.org/W3206086938",
+    "https://openalex.org/W4243910461"
+  ]
+}

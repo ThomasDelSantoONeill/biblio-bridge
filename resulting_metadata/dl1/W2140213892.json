@@ -1,0 +1,55 @@
+{
+  "id": "https://openalex.org/W2140213892",
+  "title": "The Value of Coastal Wetlands for Hurricane Protection",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Robert Costanza"
+    },
+    {
+      "name": "Octavio Pérez-Maqueo"
+    },
+    {
+      "name": "M. Luisa Martínez"
+    },
+    {
+      "name": "Paul C. Sutton"
+    },
+    {
+      "name": "Sharolyn Anderson"
+    },
+    {
+      "name": "Kenneth Mulder"
+    }
+  ],
+  "publication_year": 2008,
+  "cited_by_count": 706,
+  "primary_topic": "Coastal wetland ecosystem dynamics",
+  "subfield_topic": "Ecology",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1588320409",
+    "https://openalex.org/W1970324677",
+    "https://openalex.org/W1986632228",
+    "https://openalex.org/W2000362707",
+    "https://openalex.org/W2006240637",
+    "https://openalex.org/W2012997843",
+    "https://openalex.org/W2019248682",
+    "https://openalex.org/W2021403177",
+    "https://openalex.org/W2059312122",
+    "https://openalex.org/W2072109965",
+    "https://openalex.org/W2076977109",
+    "https://openalex.org/W2078851046",
+    "https://openalex.org/W2083549445",
+    "https://openalex.org/W2105785737",
+    "https://openalex.org/W2120568583",
+    "https://openalex.org/W2126424704",
+    "https://openalex.org/W2133298001",
+    "https://openalex.org/W2150199809",
+    "https://openalex.org/W2150258239",
+    "https://openalex.org/W2157015782",
+    "https://openalex.org/W2176202906",
+    "https://openalex.org/W2746485780"
+  ]
+}

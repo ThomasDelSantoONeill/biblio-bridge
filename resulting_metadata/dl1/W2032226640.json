@@ -1,0 +1,71 @@
+{
+  "id": "https://openalex.org/W2032226640",
+  "title": "The Multiscale Integrated Model of Ecosystem Services (MIMES): Simulating the interactions of coupled human and natural systems",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Roelof Boumans"
+    },
+    {
+      "name": "Joe Roman"
+    },
+    {
+      "name": "Irit Altman"
+    },
+    {
+      "name": "Les Kaufman"
+    }
+  ],
+  "publication_year": 2015,
+  "cited_by_count": 230,
+  "primary_topic": "Land Use and Ecosystem Services",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W107540533",
+    "https://openalex.org/W145633909",
+    "https://openalex.org/W1551533759",
+    "https://openalex.org/W1557200796",
+    "https://openalex.org/W1567685706",
+    "https://openalex.org/W1731457293",
+    "https://openalex.org/W1990855960",
+    "https://openalex.org/W1994485043",
+    "https://openalex.org/W1998722558",
+    "https://openalex.org/W2003605835",
+    "https://openalex.org/W2006970256",
+    "https://openalex.org/W2008024582",
+    "https://openalex.org/W2010365184",
+    "https://openalex.org/W2012599101",
+    "https://openalex.org/W2020137928",
+    "https://openalex.org/W2037057272",
+    "https://openalex.org/W2052673460",
+    "https://openalex.org/W2061580705",
+    "https://openalex.org/W2064074064",
+    "https://openalex.org/W2077570405",
+    "https://openalex.org/W2080216388",
+    "https://openalex.org/W2089855169",
+    "https://openalex.org/W2095818013",
+    "https://openalex.org/W2098825804",
+    "https://openalex.org/W2101342564",
+    "https://openalex.org/W2102200338",
+    "https://openalex.org/W2107082646",
+    "https://openalex.org/W2111871793",
+    "https://openalex.org/W2124255358",
+    "https://openalex.org/W2124565737",
+    "https://openalex.org/W2130257376",
+    "https://openalex.org/W2147961693",
+    "https://openalex.org/W2153820558",
+    "https://openalex.org/W2158633297",
+    "https://openalex.org/W2163744914",
+    "https://openalex.org/W2165338797",
+    "https://openalex.org/W2183929563",
+    "https://openalex.org/W2286957030",
+    "https://openalex.org/W2548764084",
+    "https://openalex.org/W2776273767",
+    "https://openalex.org/W2915157699",
+    "https://openalex.org/W3121503710",
+    "https://openalex.org/W385698999",
+    "https://openalex.org/W4240011456"
+  ]
+}

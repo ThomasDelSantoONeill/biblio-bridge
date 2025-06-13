@@ -1,0 +1,38 @@
+{
+  "id": "https://openalex.org/W2082195378",
+  "title": "Transition to an alternate state in a continental shelf ecosystem",
+  "abstract": "The collapse of Atlantic cod (Gadus morhua) stocks in the northwest Atlantic Ocean ranks among the most dramatic and widely known ecological changes of the 20th century. Less widely known are the systemic changes that occurred within these areas prior to and coincident with the cod collapse. Our analysis of a fishery-independent, long-term, standardized database collected on the eastern Scotian Shelf off Nova Scotia revealed that during the past four decades, coherent, community-level reductions in body size, biomass, and physiological condition have occurred in the resident demersal fish species. The changes occurred over large spatial (&gt;10 4 km 2 ) and short temporal (&lt;10 years) scales, suggesting a progressive decline in the nature and extent of the energy flow through the benthic system. The unexpected and persistent poor condition of a variety of morphologically and functionally dissimilar demersal fish species, living in an environment of reduced intra- and inter-specific competition, suggests a decoupling of the benthic pelagic systems. This decoupling appears to be attributable to a cascading series of processes involving the cumulative removal of biomass resulting from commercial fishing, compensatory and self-stabilizing increases in pelagic fish biomass, and a decline in groundfish productivity exacerbated by decadal scale variability in water temperature and stratification.",
+  "authors": [
+    {
+      "name": "Jae S. Choi"
+    },
+    {
+      "name": "Kenneth T. Frank"
+    },
+    {
+      "name": "William C. Leggett"
+    },
+    {
+      "name": "Ken Drinkwater"
+    }
+  ],
+  "publication_year": 2004,
+  "cited_by_count": 145,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W101672606",
+    "https://openalex.org/W1976194229",
+    "https://openalex.org/W2004305729",
+    "https://openalex.org/W2015823673",
+    "https://openalex.org/W2041893300",
+    "https://openalex.org/W2060789210",
+    "https://openalex.org/W2077873856",
+    "https://openalex.org/W2110011277",
+    "https://openalex.org/W2117702587",
+    "https://openalex.org/W2127995473",
+    "https://openalex.org/W4245772992"
+  ]
+}

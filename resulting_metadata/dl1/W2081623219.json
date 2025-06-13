@@ -1,0 +1,79 @@
+{
+  "id": "https://openalex.org/W2081623219",
+  "title": "Coastal Ecosystem-Based Management with Nonlinear Ecological Functions and Values",
+  "abstract": "A common assumption is that ecosystem services respond linearly to changes in habitat size. This assumption leads frequently to an “all or none” choice of either preserving coastal habitats or converting them to human use. However, our survey of wave attenuation data from field studies of mangroves, salt marshes, seagrass beds, nearshore coral reefs, and sand dunes reveals that these relationships are rarely linear. By incorporating nonlinear wave attenuation in estimating coastal protection values of mangroves in Thailand, we show that the optimal land use option may instead be the integration of development and conservation consistent with ecosystem-based management goals. This result suggests that reconciling competing demands on coastal habitats should not always result in stark preservation-versus-conversion choices.",
+  "authors": [
+    {
+      "name": "Edward B. Barbier"
+    },
+    {
+      "name": "Evamaria W. Koch"
+    },
+    {
+      "name": "Brian R. Silliman"
+    },
+    {
+      "name": "Sally D. Hacker"
+    },
+    {
+      "name": "Eric Wolanski"
+    },
+    {
+      "name": "Jurgenne H. Primavera"
+    },
+    {
+      "name": "Elise F. Granek"
+    },
+    {
+      "name": "Stephen Polasky"
+    },
+    {
+      "name": "Shankar Aswani"
+    },
+    {
+      "name": "Lori A. Cramer"
+    },
+    {
+      "name": "David M. Stoms"
+    },
+    {
+      "name": "Chris Kennedy"
+    },
+    {
+      "name": "David Bael"
+    },
+    {
+      "name": "Carrie V. Kappel"
+    },
+    {
+      "name": "Gerardo M. E. Perillo"
+    },
+    {
+      "name": "Denise J. Reed"
+    }
+  ],
+  "publication_year": 2008,
+  "cited_by_count": 1017,
+  "primary_topic": "Coastal wetland ecosystem dynamics",
+  "subfield_topic": "Ecology",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1507156144",
+    "https://openalex.org/W1585295794",
+    "https://openalex.org/W1974474807",
+    "https://openalex.org/W1986632228",
+    "https://openalex.org/W2003636998",
+    "https://openalex.org/W2006540127",
+    "https://openalex.org/W2007541774",
+    "https://openalex.org/W2057739493",
+    "https://openalex.org/W2087712544",
+    "https://openalex.org/W2108173127",
+    "https://openalex.org/W2150199809",
+    "https://openalex.org/W2177164090",
+    "https://openalex.org/W2261764510",
+    "https://openalex.org/W2613321825",
+    "https://openalex.org/W4237981427",
+    "https://openalex.org/W48355205"
+  ]
+}

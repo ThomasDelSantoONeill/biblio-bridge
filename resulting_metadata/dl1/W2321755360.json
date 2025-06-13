@@ -1,0 +1,110 @@
+{
+  "id": "https://openalex.org/W2321755360",
+  "title": "Temporal shifts in recruitment dynamics of North Atlantic fish stocks: effects of spawning stock and temperature",
+  "abstract": "MEPS Marine Ecology Progress Series Contact the journal Facebook Twitter RSS Mailing List Subscribe to our mailing list via Mailchimp HomeLatest VolumeAbout the JournalEditorsTheme Sections MEPS 480:205-225 (2013) - DOI: https://doi.org/10.3354/meps10249 Temporal shifts in recruitment dynamics of North Atlantic fish stocks: effects of spawning stock and temperature Geir Ottersen1,2,*, Leif Christian Stige2, Joël M. Durant2, Kung-Sik Chan3, Tristan A. Rouyer2,6, Kenneth F. Drinkwater4, Nils Chr. Stenseth2,5 1Institute of Marine Research, Gaustadalléen 21, 0349 Oslo, Norway 2Centre for Ecological and Evolutionary Synthesis (CEES), Department of Biology, University of Oslo, PO Box 1066 Blindern, 0316 Oslo, Norway 3Department of Statistics and Actuarial Science, University of Iowa, Iowa City, Iowa 52242, USA 4Institute of Marine Research, PB 1870 Nordnes, 5817 Bergen, Norway 5Institute of Marine Research, Flødevigen Marine Research Station, 4817 His, Norway 6Present address: IFREMER, UMR EME 212, Sète, France *Email: geir.ottersen@imr.no ABSTRACT: Effects of variation in spawning stock and sea temperature on long-term temporal patterns in recruitment dynamics of 38 commercially harvested fish stocks in the northern North Atlantic were studied. Different statistical models were explored within a Ricker stock-recruitment framework. This includes, in order of complexity, adding a linear temperature term, a nonlinear (smooth) temperature effect, and non-stationarities (trends in intercept or in temperature effect) and finally allowing for a stepwise change (a threshold). The different models were compared in a uniform approach using Akaike’s information criterion corrected for small sample size as the model selection criterion. The relationship between recruitment, spawning stock biomass and temperature varied over time. The most frequent alteration in the non-stationary linear models was, for 14 stocks, in the intercept in recruitment success, suggesting a change in pre-recruit mortality over time. Threshold models performed better than the best linear or nonlinear stationary models for 27 of the stocks, suggesting that abrupt changes (maybe even regime shifts) are common. For half of the stocks studied, the temperature effect was statistically significant when added to the model of the relationship between recruitment success and spawning stock biomass. This includes all 6 of the herring stocks studied, with a positive effect for cold-water stocks and negative effect for stocks in the more temperate southern areas. For the 4 plaice stocks analysed, all located towards the centre of the overall distribution range of plaice, a tendency toward recruitment being favoured by lower temperatures was found. KEY WORDS: Recruitment · Spawning stock biomass · Temperature · North Atlantic · Statistical modelling · Non-stationarity · Climate Full text in pdf format PreviousNextCite this article as: Ottersen G, Stige LC, Durant JM, Chan KS, Rouyer TA, Drinkwater KF, Stenseth NC (2013) Temporal shifts in recruitment dynamics of North Atlantic fish stocks: effects of spawning stock and temperature. Mar Ecol Prog Ser 480:205-225. https://doi.org/10.3354/meps10249 Export citation RSS - Facebook - Tweet - linkedIn Cited by Published in MEPS Vol. 480. Online publication date: April 22, 2013 Print ISSN: 0171-8630; Online ISSN: 1616-1599 Copyright © 2013 Inter-Research.",
+  "authors": [
+    {
+      "name": "Geir Ottersen"
+    },
+    {
+      "name": "Leif Christian Stige"
+    },
+    {
+      "name": "Joël M. Durant"
+    },
+    {
+      "name": "KS Chan"
+    },
+    {
+      "name": "TA Rouyer"
+    },
+    {
+      "name": "K.F. Drinkwater"
+    },
+    {
+      "name": "Nils Chr. Stenseth"
+    }
+  ],
+  "publication_year": 2013,
+  "cited_by_count": 78,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1556631438",
+    "https://openalex.org/W189277694",
+    "https://openalex.org/W192835503",
+    "https://openalex.org/W193576094",
+    "https://openalex.org/W1965952188",
+    "https://openalex.org/W1968371014",
+    "https://openalex.org/W1971313627",
+    "https://openalex.org/W1972313692",
+    "https://openalex.org/W1972464384",
+    "https://openalex.org/W1973942973",
+    "https://openalex.org/W1974398569",
+    "https://openalex.org/W1981053734",
+    "https://openalex.org/W1982336379",
+    "https://openalex.org/W1988201788",
+    "https://openalex.org/W1988532893",
+    "https://openalex.org/W1990549477",
+    "https://openalex.org/W1992768901",
+    "https://openalex.org/W1993957455",
+    "https://openalex.org/W1996618370",
+    "https://openalex.org/W1998002175",
+    "https://openalex.org/W1998939568",
+    "https://openalex.org/W2001699177",
+    "https://openalex.org/W2003362006",
+    "https://openalex.org/W2008598417",
+    "https://openalex.org/W2013021956",
+    "https://openalex.org/W2022667217",
+    "https://openalex.org/W2023218960",
+    "https://openalex.org/W2027157108",
+    "https://openalex.org/W2030437201",
+    "https://openalex.org/W2042796856",
+    "https://openalex.org/W2047176627",
+    "https://openalex.org/W2048337304",
+    "https://openalex.org/W2048577087",
+    "https://openalex.org/W2049002706",
+    "https://openalex.org/W204940627",
+    "https://openalex.org/W2050811280",
+    "https://openalex.org/W2053720880",
+    "https://openalex.org/W2056133203",
+    "https://openalex.org/W2056950715",
+    "https://openalex.org/W2065328481",
+    "https://openalex.org/W2074248086",
+    "https://openalex.org/W2081425666",
+    "https://openalex.org/W2088239592",
+    "https://openalex.org/W2088865141",
+    "https://openalex.org/W2099967344",
+    "https://openalex.org/W2100891518",
+    "https://openalex.org/W2110747406",
+    "https://openalex.org/W2112653668",
+    "https://openalex.org/W2114100737",
+    "https://openalex.org/W2122005067",
+    "https://openalex.org/W2122334340",
+    "https://openalex.org/W2127643189",
+    "https://openalex.org/W2128793109",
+    "https://openalex.org/W2133165195",
+    "https://openalex.org/W2137609827",
+    "https://openalex.org/W2142602254",
+    "https://openalex.org/W2142635246",
+    "https://openalex.org/W2143566537",
+    "https://openalex.org/W2145729265",
+    "https://openalex.org/W2153196636",
+    "https://openalex.org/W2157609210",
+    "https://openalex.org/W2158526314",
+    "https://openalex.org/W2160956348",
+    "https://openalex.org/W2167131604",
+    "https://openalex.org/W2168487879",
+    "https://openalex.org/W2170169136",
+    "https://openalex.org/W2170759554",
+    "https://openalex.org/W2183086892",
+    "https://openalex.org/W2466838009",
+    "https://openalex.org/W2914252064",
+    "https://openalex.org/W4210260625",
+    "https://openalex.org/W4241838270",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W610857469"
+  ]
+}

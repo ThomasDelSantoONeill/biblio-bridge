@@ -1,0 +1,25 @@
+{
+  "id": "https://openalex.org/W2001104673",
+  "title": "A versatile new stock-recruitment relationship for fisheries, and the construction of sustainable yield curves",
+  "abstract": "A versatile functional form relating recruitment to spawning stock biomass for fisheries is proposed. The non-negative, three-parameter form distinguishes resilience and degree of compensation as two aspects of the density dependence of recruitment, and permits the representation of non-asymptotic, asymptotic, and domed stock-recruitment relationships by parameter variation within the same functional form. Simple methods for parameter estimation are discussed.",
+  "authors": [
+    {
+      "name": "J. G. Shepherd"
+    }
+  ],
+  "publication_year": 1982,
+  "cited_by_count": 342,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W119366826",
+    "https://openalex.org/W1981930327",
+    "https://openalex.org/W1999748030",
+    "https://openalex.org/W2109763083",
+    "https://openalex.org/W2316812274",
+    "https://openalex.org/W2334981212",
+    "https://openalex.org/W4292411114"
+  ]
+}

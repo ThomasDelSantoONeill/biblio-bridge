@@ -1,0 +1,17 @@
+{
+  "id": "https://openalex.org/W2332774295",
+  "title": "Mathematical Bioeconomics: The Optimal Management of Renewable Resources.",
+  "abstract": "Introduction. 1. Elementary Dynamics of Exploited Populations. 1.1 The Logistic Growth Model. 1.2 Generalized Logistic Models: Depensation. 1.3 Summary and Critique. 2. Economic Models of Renewable-Resource Harvesting. 2.1 The Open-Access Fishery. 2.2 Economic Overfishing. 2.3 Biological Overfishing. 2.4 Optimal Fishery Management. 2.5 The Optimal Harvest Policy. 2.6 Examples Based on the Schaefer Model. 2.7 Linear Variational Problems. 2.8 The Possibility of Extinction. 2.9 Summary and Critique. 3. Capital-Theoretic Aspects of Resource Management. 3.1 Interest and Discount Rates. 3.2 Capital Theory and Renewable Resources. 3.3 Nonautonomous Models. 3.4 Applications to Policy Problems: Labor Mobility in the Fishery. 4. Optimal Control Theory. 4.1 One-Dimensional Control Problems. 4.2 A Nonlinear Fishery Model. 4.3 Economic Interpretation of the Maximum Principle. 4.4 Multidimensional Optimal Control Problem. 4.5 Optimal Investment in Renewable-Resource Harvesting. 5. Supply and Demand: Nonlinear Models. 5.1 The Elementary Theory of Supply and Demand. 5.2 Supply and Demand in Fisheries. 5.3 Nonlinear Cost Effects: Pulse Fishing. 5.4 Game-Theoretic Models. 5.5 Transboundary Fishery Resources: A Further Application of the Theory. 5.6 Summary and Critique. 6. Dynamical Systems. 6.1 Basic Theory. 6.2 Dynamical Systems in the Plane: Linear Theory. 6.3 Isoclines. 6.4 Nonlinear Plane-Autonomous Systems. 6.5 Limit Cycles. 6.6 Gause's Model of Interspecific Competition. 7. Discrete-Time and Metered Models. 7.1 A General Metered Stock-Recruitment Model. 7.2 The Beverton-Holt Stock-Recruitment Model. 7.3 Depensation Models. 7.4 Overcompensation. 7.5 A Simple Cohort Model. 7.6 The Production Function of a Fishery. 7.7 Optimal Harvest Policies. 7.8 The Discrete Maximum Principle. 7.9 Dynamic Programming. 8. The Theory of Resource Regulation. 8.1 A Behavioral Model. 8.2 Optimization Analysis. 8.3 Limited Entry. 8.4 Taxes and Allocated Transferable Quotas. 8.5 Total Catch Quotas. 8.6 Summary and Critique. 9. Growth and Aging. 9.1 Forestry Management: The Faustmann Model. 9.2 The Beverton-Holt Fisheries Model. 9.3 Dynamic Optimization in the Beverton-Holt Model. 9.4 The Case of Bounded F. 9.5 Multiple, Cohorts: Nonselective Gear. 9.6 Pulse Fishing. 9.7 Multiple Cohorts: Selective Gear. 9.8 Regulation. 9.9 Summary and Critique. 10. Multispecies Models. 10.1 Differential Productivity. 10.2 Harvesting Competing Populations. 10.3 Selective Harvesting. 10.4 A Diffusion Model: The Inshore-Offshore Fishery. 10.5 Summary and Critique. 11. Stochastic Resource Models. 11.1 Stochastic Dynamic Programming. 11.2 A Stochastic Forest Rotation Model. 11.3 Uncertainty and Learning. 11.4 Searching for Fish. 11.5 Summary and Critique. Supplementary Reading. References. Index.",
+  "authors": [
+    {
+      "name": "C. Stuart Clark"
+    }
+  ],
+  "publication_year": 1993,
+  "cited_by_count": 546,
+  "primary_topic": "Economic theories and models",
+  "subfield_topic": "Economics and Econometrics",
+  "field_topic": "Economics, Econometrics and Finance",
+  "domain_topic": "Social Sciences",
+  "referenced_works": []
+}

@@ -1,0 +1,74 @@
+{
+  "id": "https://openalex.org/W2119350048",
+  "title": "TRAJECTORIES AND CORRELATES OF COMMUNITY CHANGE IN NO-TAKE MARINE RESERVES",
+  "abstract": "Marine reserves are a spatial approach to marine management and conservation aimed at protecting and restoring multispecies assemblages and the structure and function of marine ecosystems. We used meta-analyses of published data to address the questions of how and over what time frames marine assemblages change within no-take marine reserves as they recover from fishing and other human uses. We used 20 studies of coastal fish assemblages from 31 temperate and tropical locations, reporting abundances, and in some cases biomass, of 10–134 species from reserve and reference conditions (i.e., conditions in nearby fished sites or before reserve establishment) spanning 1–25 years of protection. Synthesis of data from these diverse sets of assemblages showed that: (1) a species' level of exploitation, trophic level, and the duration of protection through the no-take reserve explain small but significant amounts of variation in individual species responses to protection, with only species that are targeted by fishing or by aquarium trade showing overall enhanced abundances in protected areas, and increasing positive effects of protection on abundances at top trophic levels through time; (2) up to a third of species in different studies (19% on average) appeared to be negatively affected by protection, indicating that indirect effects of protection through competitive or predatory interactions may be common; and (3) variation and lags in species responses to protection resulted in protected assemblages diverging from reference conditions, with greater proportions of total fish biomass at top trophic levels in protected compared to fished assemblages. These results indicate that marine reserves are effective in enhancing local abundances of exploited species and restoring the structure of whole communities, though these changes occur through a series of transient states and, for some communities, over long time frames (decades). In contrast with the more predictable increases of aggregate community variables such as total abundance and biomass, individual species and community structure exhibited broad variation in their responses to protection. Marine protected areas represent multiple human-exclusion \"experiments,\" replicated in a variety of ecosystem types and geographic locations, providing key insights on community-wide impacts of the removal of human extraction. Long-term monitoring of community trajectories in marine protected areas and modeling studies scaling up local effects to relevant spatial and temporal scales are needed to increase our ability to protect and restore whole marine systems and to set realistic targets for the conservation and restoration of specific assemblages.",
+  "authors": [
+    {
+      "name": "Fiorenza Micheli"
+    },
+    {
+      "name": "Benjamin S. Halpern"
+    },
+    {
+      "name": "Louis W. Botsford"
+    },
+    {
+      "name": "Robert R. Warner"
+    }
+  ],
+  "publication_year": 2004,
+  "cited_by_count": 418,
+  "primary_topic": "Coral and Marine Ecosystems Studies",
+  "subfield_topic": "Ecology",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W114226098",
+    "https://openalex.org/W12294379",
+    "https://openalex.org/W1588961245",
+    "https://openalex.org/W1969891888",
+    "https://openalex.org/W1975511510",
+    "https://openalex.org/W1983298147",
+    "https://openalex.org/W1991624639",
+    "https://openalex.org/W1992089967",
+    "https://openalex.org/W1993151010",
+    "https://openalex.org/W1993883561",
+    "https://openalex.org/W1999649023",
+    "https://openalex.org/W2000105870",
+    "https://openalex.org/W2003273412",
+    "https://openalex.org/W2006014174",
+    "https://openalex.org/W2007263482",
+    "https://openalex.org/W2010394253",
+    "https://openalex.org/W2011237386",
+    "https://openalex.org/W2015934477",
+    "https://openalex.org/W2021563346",
+    "https://openalex.org/W2023493166",
+    "https://openalex.org/W2023749885",
+    "https://openalex.org/W2028683987",
+    "https://openalex.org/W2033973361",
+    "https://openalex.org/W2037365820",
+    "https://openalex.org/W2041342278",
+    "https://openalex.org/W2043395827",
+    "https://openalex.org/W2043778196",
+    "https://openalex.org/W2055959583",
+    "https://openalex.org/W2063590059",
+    "https://openalex.org/W2079670301",
+    "https://openalex.org/W2085454828",
+    "https://openalex.org/W2089410711",
+    "https://openalex.org/W2108579795",
+    "https://openalex.org/W2121052692",
+    "https://openalex.org/W2124658853",
+    "https://openalex.org/W2130925314",
+    "https://openalex.org/W2138786953",
+    "https://openalex.org/W2143114357",
+    "https://openalex.org/W2146393371",
+    "https://openalex.org/W2147618390",
+    "https://openalex.org/W2147807123",
+    "https://openalex.org/W2157439660",
+    "https://openalex.org/W2167340783",
+    "https://openalex.org/W2317045971",
+    "https://openalex.org/W2334256381",
+    "https://openalex.org/W2587823826",
+    "https://openalex.org/W4285719527"
+  ]
+}

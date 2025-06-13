@@ -1,0 +1,59 @@
+{
+  "id": "https://openalex.org/W2166614543",
+  "title": "Using AMOEBAs to display multispecies, multifleet fisheries advice",
+  "abstract": "Abstract In multispecies fish communities, predation levels change dynamically in response to changes in the abundance of predator and prey species, as influenced by the fisheries that exploit them. In addition to community-level metrics, it remains necessary to track the abundance of each species relative to its biological reference point. In situations with many interacting species, exploited by multiple fishing fleets, it can be complicated to illustrate how the effort of each fleet will affect the abundance of each species. We have adapted the AMOEBA approach to graph the reference levels of multiple interacting species exploited by multiple fleets. This method is illustrated with 10 species and eight fishing fleets in the North Sea. We fit a relatively simple response-surface model to the predictions of a fully age-structured multispecies model. The response-surface model links the AMOEBA for fishing effort to separate AMOEBAs for spawning stock biomass, fishing mortality, and yield. Ordination is used to give the shape of the AMOEBAs functional meaning by relating fish species to the fleets that catch them. The aim is to present the results of dynamic multispecies models in a format that can be readily understood by decision makers. Interactive versions of the AMOEBAs can be used to identify desirable combinations of effort levels and to test the compatibility of the set of single-species biological reference points.",
+  "authors": [
+    {
+      "name": "Jeremy S. Collie"
+    },
+    {
+      "name": "Henrik Gislason"
+    },
+    {
+      "name": "Morten Vinther"
+    }
+  ],
+  "publication_year": 2003,
+  "cited_by_count": 30,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1499748197",
+    "https://openalex.org/W1552348493",
+    "https://openalex.org/W1567110536",
+    "https://openalex.org/W1982456720",
+    "https://openalex.org/W1985342263",
+    "https://openalex.org/W1985750732",
+    "https://openalex.org/W2005212304",
+    "https://openalex.org/W2025552145",
+    "https://openalex.org/W2030764027",
+    "https://openalex.org/W2054297660",
+    "https://openalex.org/W2056902286",
+    "https://openalex.org/W2059068077",
+    "https://openalex.org/W2061672217",
+    "https://openalex.org/W2077092969",
+    "https://openalex.org/W2089817345",
+    "https://openalex.org/W2122987875",
+    "https://openalex.org/W2131343358",
+    "https://openalex.org/W2137345678",
+    "https://openalex.org/W2138829457",
+    "https://openalex.org/W2155843307",
+    "https://openalex.org/W2163263963",
+    "https://openalex.org/W2322154153",
+    "https://openalex.org/W2327525319",
+    "https://openalex.org/W2618814260",
+    "https://openalex.org/W2772318667",
+    "https://openalex.org/W2797068747",
+    "https://openalex.org/W3002341712",
+    "https://openalex.org/W3021074502",
+    "https://openalex.org/W3046789933",
+    "https://openalex.org/W4235047410",
+    "https://openalex.org/W4243416268",
+    "https://openalex.org/W4253624884",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W568800101",
+    "https://openalex.org/W944054744"
+  ]
+}

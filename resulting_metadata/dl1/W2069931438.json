@@ -1,0 +1,17 @@
+{
+  "id": "https://openalex.org/W2069931438",
+  "title": "Describing and quantifying interspecific interactions: a commentary on recent approaches",
+  "abstract": "There has been a recent resurgence of attempts to measure the strengths of interspecific interactions in biological communities. Two recent reviews have compared the performances of different measures of interaction strength using simulations. The goal of obtaining measures of interaction strength is based on the premise that such measures will achieve a closer connection between theory and experiment in community ecology. The present article disputes this premise. Because interactions are typically nonlinear, single numerical measures are generally poor characterizations. Typically, the functional dependencies of growth rates on population densities are unknown. Lacking more information about the form of these functions, the results of most population manipulations make very limited contributions to the construction of dynamic models of communities. Even if all effects of population densities on per capita growth rates were linear, performing all possible removal experiments will frequently fail to identify the constants of proportionality. Many misconceptions about the meaning and measurement of interaction coefficient persist. More extensive natural history observations and use of more flexible short‐term experiments are advocated as approaches that will aid in constructing mathematical models of interspecific interactions.",
+  "authors": [
+    {
+      "name": "Peter A. Abrams"
+    }
+  ],
+  "publication_year": 2001,
+  "cited_by_count": 137,
+  "primary_topic": "Plant and animal studies",
+  "subfield_topic": "Ecology, Evolution, Behavior and Systematics",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": []
+}

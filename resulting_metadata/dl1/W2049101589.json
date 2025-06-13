@@ -1,0 +1,43 @@
+{
+  "id": "https://openalex.org/W2049101589",
+  "title": "Fish in Offshore Kelp Forests Affect Recruitment to Intertidal Barnacle Populations",
+  "abstract": "Kelp forests along the coast of central California harbor juvenile rockfish that prey on the larvae of invertebrates from the rocky intertidal zone. This predation reduces recruitment to barnacle populations to 1/50 of the level in the absence of fish. The dynamics of the intertidal community are thus strongly coupled to the dynamics of the offshore kelp community.",
+  "authors": [
+    {
+      "name": "Steven D. Gaines"
+    },
+    {
+      "name": "Jonathan Roughgarden"
+    }
+  ],
+  "publication_year": 1987,
+  "cited_by_count": 211,
+  "primary_topic": "Marine and coastal plant biology",
+  "subfield_topic": "Oceanography",
+  "field_topic": "Earth and Planetary Sciences",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1527378398",
+    "https://openalex.org/W1976714871",
+    "https://openalex.org/W1979503339",
+    "https://openalex.org/W1980177068",
+    "https://openalex.org/W1988997784",
+    "https://openalex.org/W2016744291",
+    "https://openalex.org/W2025355611",
+    "https://openalex.org/W2028099602",
+    "https://openalex.org/W2035995452",
+    "https://openalex.org/W2036668103",
+    "https://openalex.org/W2039105257",
+    "https://openalex.org/W2052956504",
+    "https://openalex.org/W2058945678",
+    "https://openalex.org/W2075644307",
+    "https://openalex.org/W2081011385",
+    "https://openalex.org/W2089979745",
+    "https://openalex.org/W2098973466",
+    "https://openalex.org/W211026333",
+    "https://openalex.org/W2150070282",
+    "https://openalex.org/W2316940571",
+    "https://openalex.org/W2322470465",
+    "https://openalex.org/W4249479329"
+  ]
+}

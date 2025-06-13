@@ -1,0 +1,48 @@
+{
+  "id": "https://openalex.org/W2146969372",
+  "title": "MacArthur's consumer-resource model",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Peter Chesson"
+    }
+  ],
+  "publication_year": 1990,
+  "cited_by_count": 305,
+  "primary_topic": "Plant and animal studies",
+  "subfield_topic": "Ecology, Evolution, Behavior and Systematics",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1988632653",
+    "https://openalex.org/W1989371375",
+    "https://openalex.org/W1994507967",
+    "https://openalex.org/W2015823673",
+    "https://openalex.org/W2026572668",
+    "https://openalex.org/W2027438935",
+    "https://openalex.org/W2035085260",
+    "https://openalex.org/W2035864944",
+    "https://openalex.org/W2045166891",
+    "https://openalex.org/W2063698478",
+    "https://openalex.org/W2066553252",
+    "https://openalex.org/W2067813367",
+    "https://openalex.org/W2073993600",
+    "https://openalex.org/W2079988024",
+    "https://openalex.org/W2081307695",
+    "https://openalex.org/W2307072262",
+    "https://openalex.org/W2323449316",
+    "https://openalex.org/W2329551434",
+    "https://openalex.org/W2335728124",
+    "https://openalex.org/W2492205707",
+    "https://openalex.org/W2506536256",
+    "https://openalex.org/W2938299866",
+    "https://openalex.org/W2997954996",
+    "https://openalex.org/W3025136633",
+    "https://openalex.org/W3205221394",
+    "https://openalex.org/W4230727635",
+    "https://openalex.org/W4249479329",
+    "https://openalex.org/W4254397163",
+    "https://openalex.org/W4299993032",
+    "https://openalex.org/W871685562"
+  ]
+}

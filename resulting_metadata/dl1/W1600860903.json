@@ -1,0 +1,77 @@
+{
+  "id": "https://openalex.org/W1600860903",
+  "title": "Resolving Mismatches in U.S. Ocean Governance",
+  "abstract": "Problems in ocean resource management derive from governance, not science. Ocean zoning would replace mismatched and fragmented approaches with integrated regulatory domains.",
+  "authors": [
+    {
+      "name": "Larry B. Crowder"
+    },
+    {
+      "name": "Gail Osherenko"
+    },
+    {
+      "name": "Oran R. Young"
+    },
+    {
+      "name": "Satie Airamé"
+    },
+    {
+      "name": "Elliott A. Norse"
+    },
+    {
+      "name": "Nancy Baron"
+    },
+    {
+      "name": "Jon C. Day"
+    },
+    {
+      "name": "Fanny Douvere"
+    },
+    {
+      "name": "Charles N. Ehler"
+    },
+    {
+      "name": "Benjamin S. Halpern"
+    },
+    {
+      "name": "Steve J. Langdon"
+    },
+    {
+      "name": "Karen L. McLeod"
+    },
+    {
+      "name": "J. Ogden"
+    },
+    {
+      "name": "Robbin Peach"
+    },
+    {
+      "name": "Andrew A. Rosenberg"
+    },
+    {
+      "name": "James A. Wilson"
+    }
+  ],
+  "publication_year": 2006,
+  "cited_by_count": 419,
+  "primary_topic": "Coastal and Marine Management",
+  "subfield_topic": "Management, Monitoring, Policy and Law",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1543409689",
+    "https://openalex.org/W1560871399",
+    "https://openalex.org/W2005587094",
+    "https://openalex.org/W2008021019",
+    "https://openalex.org/W2033371260",
+    "https://openalex.org/W2084824531",
+    "https://openalex.org/W2096730866",
+    "https://openalex.org/W2147807123",
+    "https://openalex.org/W2149474140",
+    "https://openalex.org/W2152634574",
+    "https://openalex.org/W2167918027",
+    "https://openalex.org/W2179448457",
+    "https://openalex.org/W4249109619",
+    "https://openalex.org/W611705220"
+  ]
+}

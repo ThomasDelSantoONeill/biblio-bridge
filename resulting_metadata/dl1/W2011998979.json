@@ -1,0 +1,47 @@
+{
+  "id": "https://openalex.org/W2011998979",
+  "title": "Ecologically Sustainable Yield",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Chris Harvey"
+    },
+    {
+      "name": "Phillip S. Levin"
+    },
+    {
+      "name": "Richard W. Zabel"
+    },
+    {
+      "name": "Steven T. Katz"
+    },
+    {
+      "name": "Thomas P. Good"
+    }
+  ],
+  "publication_year": 2003,
+  "cited_by_count": 74,
+  "primary_topic": "Sustainable Industrial Ecology",
+  "subfield_topic": "Industrial and Manufacturing Engineering",
+  "field_topic": "Engineering",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W103317547",
+    "https://openalex.org/W1513647973",
+    "https://openalex.org/W1556291959",
+    "https://openalex.org/W1582747053",
+    "https://openalex.org/W2003647390",
+    "https://openalex.org/W2011292626",
+    "https://openalex.org/W2016519438",
+    "https://openalex.org/W2059537763",
+    "https://openalex.org/W2060789210",
+    "https://openalex.org/W2099421102",
+    "https://openalex.org/W2102998760",
+    "https://openalex.org/W2147807123",
+    "https://openalex.org/W2156820786",
+    "https://openalex.org/W2731139917",
+    "https://openalex.org/W2739880501",
+    "https://openalex.org/W3031389563",
+    "https://openalex.org/W638535014"
+  ]
+}

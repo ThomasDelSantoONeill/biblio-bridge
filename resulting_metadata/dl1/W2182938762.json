@@ -1,0 +1,58 @@
+{
+  "id": "https://openalex.org/W2182938762",
+  "title": null,
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Kevern L. Cochrane"
+    },
+    {
+      "name": "Doug S Butterworth"
+    },
+    {
+      "name": "José A. A. De Oliveira"
+    },
+    {
+      "name": "Beatriz Roel"
+    }
+  ],
+  "publication_year": 1998,
+  "cited_by_count": 126,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W13866202",
+    "https://openalex.org/W1529635586",
+    "https://openalex.org/W1566192818",
+    "https://openalex.org/W1569907060",
+    "https://openalex.org/W165855028",
+    "https://openalex.org/W1671208274",
+    "https://openalex.org/W1963991877",
+    "https://openalex.org/W1980450709",
+    "https://openalex.org/W1985342263",
+    "https://openalex.org/W1994481891",
+    "https://openalex.org/W2003799861",
+    "https://openalex.org/W2006647779",
+    "https://openalex.org/W2006657782",
+    "https://openalex.org/W2018318036",
+    "https://openalex.org/W2020647615",
+    "https://openalex.org/W2042796530",
+    "https://openalex.org/W2043500293",
+    "https://openalex.org/W2049771843",
+    "https://openalex.org/W2056041233",
+    "https://openalex.org/W2087027587",
+    "https://openalex.org/W2088395296",
+    "https://openalex.org/W2100904586",
+    "https://openalex.org/W2149319738",
+    "https://openalex.org/W2150226967",
+    "https://openalex.org/W2185921616",
+    "https://openalex.org/W249441269",
+    "https://openalex.org/W293528134",
+    "https://openalex.org/W3008165624",
+    "https://openalex.org/W3022436694",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W601081323"
+  ]
+}

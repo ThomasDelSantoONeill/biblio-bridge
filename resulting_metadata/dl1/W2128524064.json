@@ -1,0 +1,58 @@
+{
+  "id": "https://openalex.org/W2128524064",
+  "title": "The applicability of fish yield indices in freshwater and marine ecosystems",
+  "abstract": "Marine fisheries are subject to external forcing by physical factors over a much larger range of size scales than are freshwater fisheries, but there are many similarities in the way the process of fish production is organized. Fish yield indicators, particularly those based on abiotic environmental factors, have provided useful management tools in both environments. We discuss examples from each, including a separate category for rivers and impoundments because of their particular sensitivity to physical factors. We conclude that the apparent dichotomy between freshwater and marine fisheries science results as much from differing management imperatives as from any scientific distinctions and suggest there would be advantages to fuller communication between the disciplines.",
+  "authors": [
+    {
+      "name": "S. R. Kerr"
+    },
+    {
+      "name": "R. A. Ryder"
+    }
+  ],
+  "publication_year": 1988,
+  "cited_by_count": 18,
+  "primary_topic": "Fish Ecology and Management Studies",
+  "subfield_topic": "Nature and Landscape Conservation",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1973795425",
+    "https://openalex.org/W1989037552",
+    "https://openalex.org/W1989106092",
+    "https://openalex.org/W2001169389",
+    "https://openalex.org/W2001333942",
+    "https://openalex.org/W2003615897",
+    "https://openalex.org/W2008122430",
+    "https://openalex.org/W2012506855",
+    "https://openalex.org/W2024025265",
+    "https://openalex.org/W2029999913",
+    "https://openalex.org/W2030220217",
+    "https://openalex.org/W2036445084",
+    "https://openalex.org/W2040219162",
+    "https://openalex.org/W2042035730",
+    "https://openalex.org/W2042898683",
+    "https://openalex.org/W2056664181",
+    "https://openalex.org/W2060968064",
+    "https://openalex.org/W2063759672",
+    "https://openalex.org/W2065085818",
+    "https://openalex.org/W2078245988",
+    "https://openalex.org/W2081994467",
+    "https://openalex.org/W2083945047",
+    "https://openalex.org/W2085448898",
+    "https://openalex.org/W2110022634",
+    "https://openalex.org/W2111661883",
+    "https://openalex.org/W2126000267",
+    "https://openalex.org/W2130518593",
+    "https://openalex.org/W2169537269",
+    "https://openalex.org/W2267071955",
+    "https://openalex.org/W2272331166",
+    "https://openalex.org/W2290556958",
+    "https://openalex.org/W2316241906",
+    "https://openalex.org/W2330583834",
+    "https://openalex.org/W264859960",
+    "https://openalex.org/W2772219053",
+    "https://openalex.org/W4253075139",
+    "https://openalex.org/W4253526023"
+  ]
+}

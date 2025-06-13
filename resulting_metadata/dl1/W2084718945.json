@@ -1,0 +1,76 @@
+{
+  "id": "https://openalex.org/W2084718945",
+  "title": "Using Grizzly Bears to Assess Harvest-Ecosystem Tradeoffs in Salmon Fisheries",
+  "abstract": "Implementation of ecosystem-based fisheries management (EBFM) requires a clear conceptual and quantitative framework for assessing how different harvest options can modify benefits to ecosystem and human beneficiaries. We address this social-ecological need for Pacific salmon fisheries, which are economically valuable but intercept much of the annual pulse of nutrient subsidies that salmon provide to terrestrial and aquatic food webs. We used grizzly bears, vectors of salmon nutrients and animals with densities strongly coupled to salmon abundance, as surrogates for \"salmon ecosystem\" function. Combining salmon biomass and stock-recruitment data with stable isotope analysis, we assess potential tradeoffs between fishery yields and bear population densities for six sockeye salmon stocks in Bristol Bay, Alaska, and British Columbia (BC), Canada. For the coastal stocks, we find that both bear densities and fishery yields would increase substantially if ecosystem allocations of salmon increase from currently applied lower to upper goals and beyond. This aligning of benefits comes at a potential cost, however, with the possibility of forgoing harvests in low productivity years. In contrast, we detect acute tradeoffs between bear densities and fishery yields in interior stocks within the Fraser River, BC, where biomass from other salmon species is low. There, increasing salmon allocations to ecosystems would benefit threatened bear populations at the cost of reduced long-term yields. To resolve this conflict, we propose an EBFM goal that values fisheries and bears (and by extension, the ecosystem) equally. At such targets, ecosystem benefits are unexpectedly large compared with losses in fishery yields. To explore other management options, we generate tradeoff curves that provide stock-specific accounting of the expected loss to fishers and gain to bears as more salmon escape the fishery. Our approach, modified to suit multiple scenarios, provides a generalizable method to resolve conflicts over shared resources in other systems.",
+  "authors": [
+    {
+      "name": "Taal Levi"
+    },
+    {
+      "name": "Chris T. Darimont"
+    },
+    {
+      "name": "Misty MacDuffee"
+    },
+    {
+      "name": "Marc Mangel"
+    },
+    {
+      "name": "Paul C. Paquet"
+    },
+    {
+      "name": "Christopher C. Wilmers"
+    }
+  ],
+  "publication_year": 2012,
+  "cited_by_count": 66,
+  "primary_topic": "Fish Ecology and Management Studies",
+  "subfield_topic": "Nature and Landscape Conservation",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1518407570",
+    "https://openalex.org/W1527290402",
+    "https://openalex.org/W1543409689",
+    "https://openalex.org/W1564292368",
+    "https://openalex.org/W1595158582",
+    "https://openalex.org/W1966358782",
+    "https://openalex.org/W1970153133",
+    "https://openalex.org/W1996201211",
+    "https://openalex.org/W1997112584",
+    "https://openalex.org/W2005391035",
+    "https://openalex.org/W2007273496",
+    "https://openalex.org/W2008327627",
+    "https://openalex.org/W2032611902",
+    "https://openalex.org/W2035472932",
+    "https://openalex.org/W2036854903",
+    "https://openalex.org/W2037155042",
+    "https://openalex.org/W2038111921",
+    "https://openalex.org/W2047026442",
+    "https://openalex.org/W2048265069",
+    "https://openalex.org/W2053974368",
+    "https://openalex.org/W2054985378",
+    "https://openalex.org/W2057055794",
+    "https://openalex.org/W2061960490",
+    "https://openalex.org/W2068045852",
+    "https://openalex.org/W2086426010",
+    "https://openalex.org/W2099096253",
+    "https://openalex.org/W2132194304",
+    "https://openalex.org/W2137523123",
+    "https://openalex.org/W2159761638",
+    "https://openalex.org/W2160445369",
+    "https://openalex.org/W2175515319",
+    "https://openalex.org/W2177603232",
+    "https://openalex.org/W2179999623",
+    "https://openalex.org/W2317989487",
+    "https://openalex.org/W2320972655",
+    "https://openalex.org/W2332688610",
+    "https://openalex.org/W382509713",
+    "https://openalex.org/W4205226981",
+    "https://openalex.org/W4237501160",
+    "https://openalex.org/W4243405049",
+    "https://openalex.org/W4252115095",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W4385854382"
+  ]
+}

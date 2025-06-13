@@ -1,0 +1,40 @@
+{
+  "id": "https://openalex.org/W2093260247",
+  "title": "Species Densities of Predators and Their Prey",
+  "abstract": "Any given species of snake tends to eat one or a very few basic prey types, and sympatric snake species tend to concentrate on different prey species. When correlations between numbers of sympatric prey species and snake species densities in various feeding guilds are examined by the method of path coefficients, distinct patterns emerge. Much of the variance in numbers of sympatric snake species is related to prey species densities. This effect is not due to common correlation with latitude. Correlations between the number of sympatric snake species in particular feeding guilds and the number of sympatric species of nonprey are, in nearly all cases, due to common correlation with latitude. These observations support the view that where there are more species of prey, more species of predators can coexist because there are more ways to avoid competition for food. This relationship is very nearly all that is required to explain observed latitudinal gradients in number of sympatric species of snakes in some feeding guilds.",
+  "authors": [
+    {
+      "name": "Stevan J. Arnold"
+    }
+  ],
+  "publication_year": 1972,
+  "cited_by_count": 100,
+  "primary_topic": "Plant and animal studies",
+  "subfield_topic": "Ecology, Evolution, Behavior and Systematics",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1974749434",
+    "https://openalex.org/W1989047765",
+    "https://openalex.org/W2019016332",
+    "https://openalex.org/W2025006484",
+    "https://openalex.org/W2030284287",
+    "https://openalex.org/W2033179522",
+    "https://openalex.org/W2048463265",
+    "https://openalex.org/W2048641902",
+    "https://openalex.org/W2054570365",
+    "https://openalex.org/W2054637019",
+    "https://openalex.org/W2065260967",
+    "https://openalex.org/W2076085372",
+    "https://openalex.org/W2093250551",
+    "https://openalex.org/W2172000242",
+    "https://openalex.org/W2267211210",
+    "https://openalex.org/W2314001304",
+    "https://openalex.org/W2319456382",
+    "https://openalex.org/W2322733949",
+    "https://openalex.org/W2325338250",
+    "https://openalex.org/W2334973878",
+    "https://openalex.org/W2802106468",
+    "https://openalex.org/W2943117676"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "https://openalex.org/W2314209220",
+  "title": "Comparative analyses of surplus production dynamics of functional feeding groups across 12 northern hemisphere marine ecosystems",
+  "abstract": "MEPS Marine Ecology Progress Series Contact the journal Facebook Twitter RSS Mailing List Subscribe to our mailing list via Mailchimp HomeLatest VolumeAbout the JournalEditorsTheme Sections MEPS 459:219-229 (2012) - DOI: https://doi.org/10.3354/meps09825 Comparative analyses of surplus production dynamics of functional feeding groups across 12 northern hemisphere marine ecosystems Sean M. Lucey1,*, Adam M. Cook2, Jennifer L. Boldt3, Jason S. Link1, Timothy E. Essington4, Thomas J. Miller5 1National Marine Fisheries Service, Northeast Fisheries Science Center, 166 Water Street, Woods Hole, Massachusetts 02543, USA 2Fisheries and Oceans Canada, Bedford Institute of Oceanography, PO Box 1006, Dartmouth, Nova Scotia B2Y 4A2, Canada 3Fisheries and Oceans Canada, Pacific Biological Station, 3190 Hammond Bay Road, Nanaimo, British Columbia V9T 6N7, Canada 4School of Aquatic and Fishery Sciences, University of Washington, UW Box 355020, Seattle, Washington 98195, USA 5Chesapeake Biological Laboratory, University of Maryland Center for Environmental Science, PO Box 38, Solomons, Maryland 20688, USA *Email: sean.lucey@noaa.gov ABSTRACT: Progress on ecosystem approaches to fisheries management requires comparative studies with standardized methods that incorporate readily available data. This precludes complex ecosystem models in favor of simpler models such as surplus production models. Surplus production models for individual species can provide estimates of common biological reference points such as maximum sustainable yield (MSY) and the corresponding stock biomass level (BMSY). For ecosystem approaches, summing multiple single-species surplus production models to estimate the ecosystem MSY ignores potential biological and fishery interactions among species. Improved estimates of ecosystem-level MSY can be obtained by aggregating species, thereby accounting for known interactions among species. Here, we fit surplus production models to 3 different types of aggregations for 12 northern hemisphere marine ecosystems. Aggregations were based on habitat (benthic/pelagic), foraging guild (planktivore/zoopivore/benthivore/piscivore) and size class (small/medium/large). The objectives of this work were to explore, compare and contrast model outputs across the various types of aggregations and among ecosystems. We found that regardless of the type of aggregation, aggregate production never exceeded 6 t km−2 and was generally less than 3 t km−2. Patterns of production varied among ecosystems with no particular pattern with respect to ocean basin, latitude or component species. Aggregated surplus production models can provide biological reference points that are familiar to fishery managers and can be used to set overall removals with respect to aggregate group as long as less productive stocks are protected. KEY WORDS: Biological reference point · Ecosystem · Fisheries · Maximum sustainable yield · Species aggregation · Surplus production · Trophodynamic Full text in pdf format Supplementary material PreviousNextCite this article as: Lucey SM, Cook AM, Boldt JL, Link JS, Essington TE, Miller TJ (2012) Comparative analyses of surplus production dynamics of functional feeding groups across 12 northern hemisphere marine ecosystems. Mar Ecol Prog Ser 459:219-229. https://doi.org/10.3354/meps09825 Export citation RSS - Facebook - Tweet - linkedIn Cited by Published in MEPS Vol. 459. Online publication date: July 12, 2012 Print ISSN: 0171-8630; Online ISSN: 1616-1599 Copyright © 2012 Inter-Research.",
+  "authors": [
+    {
+      "name": "SM Lucey"
+    },
+    {
+      "name": "AM Cook"
+    },
+    {
+      "name": "JL Boldt"
+    },
+    {
+      "name": "Jason S. Link"
+    },
+    {
+      "name": "TE Essington"
+    },
+    {
+      "name": "Thomas J. Miller"
+    }
+  ],
+  "publication_year": 2012,
+  "cited_by_count": 25,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1589375716",
+    "https://openalex.org/W1965470416",
+    "https://openalex.org/W1966734316",
+    "https://openalex.org/W1971313627",
+    "https://openalex.org/W1982802844",
+    "https://openalex.org/W1985342263",
+    "https://openalex.org/W1991560151",
+    "https://openalex.org/W1993523754",
+    "https://openalex.org/W1995200931",
+    "https://openalex.org/W2007263482",
+    "https://openalex.org/W2012742697",
+    "https://openalex.org/W2015710857",
+    "https://openalex.org/W2019512511",
+    "https://openalex.org/W2026320658",
+    "https://openalex.org/W2030764027",
+    "https://openalex.org/W2041893300",
+    "https://openalex.org/W2042464037",
+    "https://openalex.org/W2049528642",
+    "https://openalex.org/W2060789210",
+    "https://openalex.org/W2066819488",
+    "https://openalex.org/W2069280266",
+    "https://openalex.org/W2069963803",
+    "https://openalex.org/W2072318346",
+    "https://openalex.org/W2074041320",
+    "https://openalex.org/W2078038992",
+    "https://openalex.org/W2084185819",
+    "https://openalex.org/W2088865141",
+    "https://openalex.org/W2099653221",
+    "https://openalex.org/W2100056012",
+    "https://openalex.org/W2102849960",
+    "https://openalex.org/W2112446421",
+    "https://openalex.org/W2112895630",
+    "https://openalex.org/W2113728791",
+    "https://openalex.org/W2115997218",
+    "https://openalex.org/W2120688671",
+    "https://openalex.org/W2123805283",
+    "https://openalex.org/W2133648623",
+    "https://openalex.org/W2137523123",
+    "https://openalex.org/W2138829457",
+    "https://openalex.org/W2143554766",
+    "https://openalex.org/W2145378599",
+    "https://openalex.org/W2149814063",
+    "https://openalex.org/W2150203206",
+    "https://openalex.org/W2152912104",
+    "https://openalex.org/W2153170852",
+    "https://openalex.org/W2155955654",
+    "https://openalex.org/W2156523992",
+    "https://openalex.org/W2159666708",
+    "https://openalex.org/W2167607966",
+    "https://openalex.org/W2174627445",
+    "https://openalex.org/W2182817873",
+    "https://openalex.org/W2255543244",
+    "https://openalex.org/W2312190857",
+    "https://openalex.org/W2314105712",
+    "https://openalex.org/W2323145676",
+    "https://openalex.org/W2329487437",
+    "https://openalex.org/W2330425575",
+    "https://openalex.org/W2331305604",
+    "https://openalex.org/W2513305863",
+    "https://openalex.org/W2901789054",
+    "https://openalex.org/W4246171447",
+    "https://openalex.org/W577246132",
+    "https://openalex.org/W610857469"
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "id": "https://openalex.org/W2560024298",
+  "title": "A new valuation school: Integrating diverse values of nature in resource and land use decisions",
+  "abstract": "We are increasingly confronted with severe social and economic impacts of environmental degradation all over the world. From a valuation perspective, environmental problems and conflicts originate from trade-offs between values. The urgency and importance to integrate nature's diverse values in decisions and actions stand out more than ever. Valuation, in its broad sense of 'assigning importance', is inherently part of most decisions on natural resource and land use. Scholars from different traditions -while moving from heuristic interdisciplinary debate to applied transdisciplinary science- now acknowledge the need for combining multiple disciplines and methods to represent the diverse set of values of nature. This growing group of scientists and practitioners share the ambition to explore how combinations of ecological, socio-cultural and economic valuation tools can support real-life resource and land use decision-making. The current sustainability challenges and the ineffectiveness of single-value approaches to offer relief demonstrate that continuing along a single path is no option. We advocate for the adherence of a plural valuation culture and its establishment as a common practice, by contesting and complementing ineffective and discriminatory single-value approaches. In policy and decision contexts with a willingness to improve sustainability, integrated valuation approaches can be blended in existing processes, whereas in contexts of power asymmetries or environmental conflicts, integrated valuation can promote the inclusion of diverse values through action research and support the struggle for social and environmental justice. The special issue and this editorial synthesis paper bring together lessons from pioneer case studies and research papers, synthesizing main challenges and setting out priorities for the years to come for the field of integrated valuation.",
+  "authors": [
+    {
+      "name": "Sander Jacobs"
+    },
+    {
+      "name": "Nicolas Dendoncker"
+    },
+    {
+      "name": "Berta Martín‐López"
+    },
+    {
+      "name": "David N. Barton"
+    },
+    {
+      "name": "Erik Gómez‐Baggethun"
+    },
+    {
+      "name": "Fanny Boeraeve"
+    },
+    {
+      "name": "Francesca L. McGrath"
+    },
+    {
+      "name": "Kati Vierikko"
+    },
+    {
+      "name": "Davide Geneletti"
+    },
+    {
+      "name": "Katharina J. Sevecke"
+    },
+    {
+      "name": "Nathalie Pipart"
+    },
+    {
+      "name": "Eeva Primmer"
+    },
+    {
+      "name": "Peter Mederly"
+    },
+    {
+      "name": "Stefan Schmidt"
+    },
+    {
+      "name": "Alexandra Aragão"
+    },
+    {
+      "name": "Himlal Baral"
+    },
+    {
+      "name": "Rosalind H. Bark"
+    },
+    {
+      "name": "Tania Briceño"
+    },
+    {
+      "name": "Delphine Brogna"
+    },
+    {
+      "name": "Pedro Cabral"
+    },
+    {
+      "name": "Rik De Vreese"
+    },
+    {
+      "name": "Camino Liquete"
+    },
+    {
+      "name": "Hannah Mueller"
+    },
+    {
+      "name": "Kelvin S.‐H. Peh"
+    },
+    {
+      "name": "Anna Phelan"
+    },
+    {
+      "name": "Alexander R. Rincón"
+    },
+    {
+      "name": "Shannon H. Rogers"
+    },
+    {
+      "name": "Francis Turkelboom"
+    },
+    {
+      "name": "Wouter Van Reeth"
+    },
+    {
+      "name": "Boris T. van Zanten"
+    },
+    {
+      "name": "Hilde Karine Wam"
+    },
+    {
+      "name": "Carla-Leanne Washbourne"
+    }
+  ],
+  "publication_year": 2016,
+  "cited_by_count": 370,
+  "primary_topic": "Land Use and Ecosystem Services",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1481415251",
+    "https://openalex.org/W1891978210",
+    "https://openalex.org/W1969052187",
+    "https://openalex.org/W1979656283",
+    "https://openalex.org/W1982053377",
+    "https://openalex.org/W1989469654",
+    "https://openalex.org/W1991538680",
+    "https://openalex.org/W1999167944",
+    "https://openalex.org/W1999213925",
+    "https://openalex.org/W2007475930",
+    "https://openalex.org/W2010448121",
+    "https://openalex.org/W2010925070",
+    "https://openalex.org/W2017114528",
+    "https://openalex.org/W2040703558",
+    "https://openalex.org/W2064666478",
+    "https://openalex.org/W2070913186",
+    "https://openalex.org/W2076155215",
+    "https://openalex.org/W2078314432",
+    "https://openalex.org/W2090787680",
+    "https://openalex.org/W2092892918",
+    "https://openalex.org/W2101691815",
+    "https://openalex.org/W2105414963",
+    "https://openalex.org/W2111124924",
+    "https://openalex.org/W2119119035",
+    "https://openalex.org/W2128007473",
+    "https://openalex.org/W2131236975",
+    "https://openalex.org/W2133183306",
+    "https://openalex.org/W2160189386",
+    "https://openalex.org/W2161703612",
+    "https://openalex.org/W2168791800",
+    "https://openalex.org/W2171036246",
+    "https://openalex.org/W2272853385",
+    "https://openalex.org/W2290601908",
+    "https://openalex.org/W2292612048",
+    "https://openalex.org/W2303907110",
+    "https://openalex.org/W2304844240",
+    "https://openalex.org/W2342655129",
+    "https://openalex.org/W2346321909",
+    "https://openalex.org/W2413210474",
+    "https://openalex.org/W2504261696",
+    "https://openalex.org/W2508579545",
+    "https://openalex.org/W2509139010",
+    "https://openalex.org/W2513299974",
+    "https://openalex.org/W2514759672",
+    "https://openalex.org/W2515613424",
+    "https://openalex.org/W2528422939",
+    "https://openalex.org/W2538526352",
+    "https://openalex.org/W2541502989",
+    "https://openalex.org/W2545266608",
+    "https://openalex.org/W2547376095",
+    "https://openalex.org/W2549152989",
+    "https://openalex.org/W2554917015",
+    "https://openalex.org/W2555139826",
+    "https://openalex.org/W2556780587",
+    "https://openalex.org/W2559478826",
+    "https://openalex.org/W2575790653",
+    "https://openalex.org/W2601981806",
+    "https://openalex.org/W2785061589",
+    "https://openalex.org/W2803994699",
+    "https://openalex.org/W3124345117",
+    "https://openalex.org/W322531895",
+    "https://openalex.org/W4241852105",
+    "https://openalex.org/W4241874587",
+    "https://openalex.org/W656176688",
+    "https://openalex.org/W935849394"
+  ]
+}

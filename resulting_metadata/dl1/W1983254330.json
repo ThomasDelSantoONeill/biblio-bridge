@@ -1,0 +1,71 @@
+{
+  "id": "https://openalex.org/W1983254330",
+  "title": "Niche versus Neutrality: A Dynamical Analysis",
+  "abstract": "Understanding the forces shaping ecological communities is of crucial importance for basic science and conservation. After 50 years in which ecological theory has focused on either stable communities driven by niche-based forces or nonstable \"neutral\" communities driven by demographic stochasticity, contemporary theories suggest that ecological communities are driven by the simultaneous effects of both types of mechanisms. Here we examine this paradigm using the longest available records for the dynamics of tropical trees and breeding birds. Applying a macroecological approach and fluctuation analysis techniques borrowed from statistical physics, we show that both stabilizing mechanisms and demographic stochasticity fail to play a dominant role in shaping assemblages over time. Rather, community dynamics in these two very different systems is predominantly driven by environmental stochasticity. Clearly, the current melding of niche and neutral theories cannot account for such dynamics. Our results highlight the need for a new theory of community dynamics integrating environmental stochasticity with weak stabilizing forces and suggest that such theory may better describe the dynamics of ecological communities than current neutral theories, deterministic niche-based theories, or recent hybrids.",
+  "authors": [
+    {
+      "name": "Michael Kalyuzhny"
+    },
+    {
+      "name": "Efrat Seri"
+    },
+    {
+      "name": "Rachel Chocron"
+    },
+    {
+      "name": "Curtis H. Flather"
+    },
+    {
+      "name": "Ronen Kadmon"
+    },
+    {
+      "name": "Nadav M. Shnerb"
+    }
+  ],
+  "publication_year": 2014,
+  "cited_by_count": 96,
+  "primary_topic": "Plant and animal studies",
+  "subfield_topic": "Ecology, Evolution, Behavior and Systematics",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1537266233",
+    "https://openalex.org/W1610884726",
+    "https://openalex.org/W1889832964",
+    "https://openalex.org/W1965599912",
+    "https://openalex.org/W1970604559",
+    "https://openalex.org/W1990233334",
+    "https://openalex.org/W1992264689",
+    "https://openalex.org/W2007588431",
+    "https://openalex.org/W2019951312",
+    "https://openalex.org/W2031090217",
+    "https://openalex.org/W2048687758",
+    "https://openalex.org/W2052558531",
+    "https://openalex.org/W2065814595",
+    "https://openalex.org/W2077592858",
+    "https://openalex.org/W2090443057",
+    "https://openalex.org/W2092511655",
+    "https://openalex.org/W2106890697",
+    "https://openalex.org/W2106964024",
+    "https://openalex.org/W2107858042",
+    "https://openalex.org/W2116975163",
+    "https://openalex.org/W2120041700",
+    "https://openalex.org/W2131948075",
+    "https://openalex.org/W2138330738",
+    "https://openalex.org/W2149233795",
+    "https://openalex.org/W2150597302",
+    "https://openalex.org/W2163912877",
+    "https://openalex.org/W2167726825",
+    "https://openalex.org/W2169175623",
+    "https://openalex.org/W2497923020",
+    "https://openalex.org/W2949525215",
+    "https://openalex.org/W3122675353",
+    "https://openalex.org/W4205617282",
+    "https://openalex.org/W4231337309",
+    "https://openalex.org/W4239802049",
+    "https://openalex.org/W4247847399",
+    "https://openalex.org/W4248661242",
+    "https://openalex.org/W4301008129",
+    "https://openalex.org/W638910688"
+  ]
+}

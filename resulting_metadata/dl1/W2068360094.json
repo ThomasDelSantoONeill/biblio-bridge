@@ -1,0 +1,62 @@
+{
+  "id": "https://openalex.org/W2068360094",
+  "title": "Critical thresholds and tangible targets for ecosystem-based management of coral reef fisheries",
+  "abstract": "Sustainably managing ecosystems is challenging, especially for complex systems such as coral reefs. This study develops critical reference points for sustainable management by using a large empirical dataset on the coral reefs of the western Indian Ocean to investigate associations between levels of target fish biomass (as an indicator of fishing intensity) and eight metrics of ecosystem state. These eight ecological metrics each exhibited specific thresholds along a continuum of fishable biomass ranging from heavily fished sites to old fisheries closures. Three thresholds lay above and five below a hypothesized window of fishable biomass expected to produce a maximum multispecies sustainable yield ( B MMSY ). Evaluating three management systems in nine countries, we found that unregulated fisheries often operate below the B MMSY , whereas fisheries closures and, less frequently, gear-restricted fisheries were within or above this window. These findings provide tangible management targets for multispecies coral reef fisheries and highlight key tradeoffs required to achieve different fisheries and conservation goals.",
+  "authors": [
+    {
+      "name": "Tim R. McClanahan"
+    },
+    {
+      "name": "Nicholas A. J. Graham"
+    },
+    {
+      "name": "M. Aaron MacNeil"
+    },
+    {
+      "name": "Nyawira A. Muthiga"
+    },
+    {
+      "name": "Joshua E. Cinner"
+    },
+    {
+      "name": "J. Henrich Bruggemann"
+    },
+    {
+      "name": "Shaun K. Wilson"
+    }
+  ],
+  "publication_year": 2011,
+  "cited_by_count": 306,
+  "primary_topic": "Coral and Marine Ecosystems Studies",
+  "subfield_topic": "Ecology",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1583889278",
+    "https://openalex.org/W1968521149",
+    "https://openalex.org/W1976826253",
+    "https://openalex.org/W1989974377",
+    "https://openalex.org/W1992347263",
+    "https://openalex.org/W2002311592",
+    "https://openalex.org/W2008905867",
+    "https://openalex.org/W2025386466",
+    "https://openalex.org/W2028717723",
+    "https://openalex.org/W2031670214",
+    "https://openalex.org/W2073560093",
+    "https://openalex.org/W2075388586",
+    "https://openalex.org/W2094165220",
+    "https://openalex.org/W2100437705",
+    "https://openalex.org/W2101173516",
+    "https://openalex.org/W2102728331",
+    "https://openalex.org/W2102998760",
+    "https://openalex.org/W2105801075",
+    "https://openalex.org/W2106752295",
+    "https://openalex.org/W2108402454",
+    "https://openalex.org/W2116199452",
+    "https://openalex.org/W2122030574",
+    "https://openalex.org/W2123897439",
+    "https://openalex.org/W2156523992",
+    "https://openalex.org/W2161754396",
+    "https://openalex.org/W4388331885"
+  ]
+}

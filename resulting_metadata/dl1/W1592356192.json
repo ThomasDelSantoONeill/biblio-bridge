@@ -1,0 +1,57 @@
+{
+  "id": "https://openalex.org/W1592356192",
+  "title": "Handbook of Graphs and Networks",
+  "abstract": "From the Publisher:\r\nThis book defines the field of complex interacting networks in its infancy and presents the dynamics of networks and their structure as a key concept across disciplines. The contributions present common underlying principles of network dynamics and their theoretical description and are of interest to specialists as well as to the non-specialized reader looking for an introduction to this new exciting field.\r\nTheoretical concepts include modeling networks as dynamical systems with numerical methods and new graph theoretical approaches, but also focus on networks that change their topology as in morphogenesis and self-organization. The authors offer concepts to model network structures and dynamics, focussing on approaches applicable across disciplines.",
+  "authors": [
+    {
+      "name": "Stefan Bornholdt"
+    },
+    {
+      "name": "Heinz Georg Schuster"
+    }
+  ],
+  "publication_year": 2002,
+  "cited_by_count": 996,
+  "primary_topic": "Complex Network Analysis Techniques",
+  "subfield_topic": "Statistical and Nonlinear Physics",
+  "field_topic": "Physics and Astronomy",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1493682653",
+    "https://openalex.org/W1524662923",
+    "https://openalex.org/W1573602524",
+    "https://openalex.org/W1641544182",
+    "https://openalex.org/W1644749979",
+    "https://openalex.org/W1658092509",
+    "https://openalex.org/W1975998971",
+    "https://openalex.org/W1976261939",
+    "https://openalex.org/W1977943300",
+    "https://openalex.org/W2002396510",
+    "https://openalex.org/W2032516423",
+    "https://openalex.org/W2044856354",
+    "https://openalex.org/W2048451896",
+    "https://openalex.org/W2050715692",
+    "https://openalex.org/W2063603932",
+    "https://openalex.org/W2075746068",
+    "https://openalex.org/W2080540350",
+    "https://openalex.org/W2104085672",
+    "https://openalex.org/W2121477676",
+    "https://openalex.org/W2130790725",
+    "https://openalex.org/W2167680767",
+    "https://openalex.org/W2169526870",
+    "https://openalex.org/W2323658858",
+    "https://openalex.org/W2574175061",
+    "https://openalex.org/W2940952252",
+    "https://openalex.org/W3100054351",
+    "https://openalex.org/W3103786587",
+    "https://openalex.org/W3110051778",
+    "https://openalex.org/W3122773851",
+    "https://openalex.org/W3140081426",
+    "https://openalex.org/W4229487902",
+    "https://openalex.org/W4234011924",
+    "https://openalex.org/W4234809691",
+    "https://openalex.org/W4241669766",
+    "https://openalex.org/W4246925013",
+    "https://openalex.org/W4249130062"
+  ]
+}

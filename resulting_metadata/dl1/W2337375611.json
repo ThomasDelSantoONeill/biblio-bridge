@@ -1,0 +1,84 @@
+{
+  "id": "https://openalex.org/W2337375611",
+  "title": "Setting objectives for evaluating management adaptation actions to address climate change impacts in south‐eastern Australian fisheries",
+  "abstract": "Abstract Under likely climate change scenarios, changes to fisheries assessment, monitoring, management and governance, intended to reduce negative impacts and seize opportunities to improve performance, will form an important part of climate change adaptation responses for fisheries. Comprehensively and consistently assessing possible management adaptation options requires a clear definition of a multi‐criteria evaluation framework incorporating information about the relative importance of often competing criteria or objectives. Such a framework is often missing from climate change adaptation evaluation, with adaptation priorities and plans often developed without direct reference to the key objectives of management. We used the Analytic Hierarchy Process ( AHP ) to develop a weighted hierarchy of objectives in four south‐eastern Australian fisheries. The developed hierarchy included fisheries management objectives routinely articulated in policy and management documents, those that may underpin effective adaptation and adaptation planning, and objectives likely to contribute to ongoing adaptive capacity and resilience of fisheries and associated communities. Results of an interactive survey of managers, researchers and commercial and recreational fishers yielded average weightings of objectives that were quite consistent across the four fisheries, with a very strong preference for ensuring that adaptations support environmental and ecological values, particularly through sustaining the harvested population. However, differences between stakeholder groups were more marked, with economic objectives considered more important by commercial fishers, and social objectives by recreational fishers, than by other groups. This suggests the possibility of conflicts between groups when determining appropriate adaptation strategies, as alternative strategies will have different economic and social outcomes even if achieving comparable environmental outcomes.",
+  "authors": [
+    {
+      "name": "Sarah Jennings"
+    },
+    {
+      "name": "Sean Pascoe"
+    },
+    {
+      "name": "Sophie Hall‐Aspland"
+    },
+    {
+      "name": "Bastien Le Bouhellec"
+    },
+    {
+      "name": "Ana Norman‐Lόpez"
+    },
+    {
+      "name": "Andrew Sullivan"
+    },
+    {
+      "name": "GT Pecl"
+    }
+  ],
+  "publication_year": 2016,
+  "cited_by_count": 36,
+  "primary_topic": "Coral and Marine Ecosystems Studies",
+  "subfield_topic": "Ecology",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1503832382",
+    "https://openalex.org/W1578453044",
+    "https://openalex.org/W1816076027",
+    "https://openalex.org/W1975497808",
+    "https://openalex.org/W1985048919",
+    "https://openalex.org/W1990473129",
+    "https://openalex.org/W1990565594",
+    "https://openalex.org/W1991600347",
+    "https://openalex.org/W1994023912",
+    "https://openalex.org/W2002209739",
+    "https://openalex.org/W2004996513",
+    "https://openalex.org/W2005356875",
+    "https://openalex.org/W2006365735",
+    "https://openalex.org/W2015679018",
+    "https://openalex.org/W2016125483",
+    "https://openalex.org/W2021200641",
+    "https://openalex.org/W2025862459",
+    "https://openalex.org/W2030457998",
+    "https://openalex.org/W2031718993",
+    "https://openalex.org/W2034476238",
+    "https://openalex.org/W2036462485",
+    "https://openalex.org/W2039437065",
+    "https://openalex.org/W2039447327",
+    "https://openalex.org/W2049492954",
+    "https://openalex.org/W2053412954",
+    "https://openalex.org/W2060281597",
+    "https://openalex.org/W2062870748",
+    "https://openalex.org/W2063340586",
+    "https://openalex.org/W2066820504",
+    "https://openalex.org/W2071414732",
+    "https://openalex.org/W2091504879",
+    "https://openalex.org/W2103176436",
+    "https://openalex.org/W2114223222",
+    "https://openalex.org/W2114376318",
+    "https://openalex.org/W2122445336",
+    "https://openalex.org/W2132102506",
+    "https://openalex.org/W2140103666",
+    "https://openalex.org/W2148707062",
+    "https://openalex.org/W2157727063",
+    "https://openalex.org/W2164374380",
+    "https://openalex.org/W2165306888",
+    "https://openalex.org/W2166232337",
+    "https://openalex.org/W2232666231",
+    "https://openalex.org/W2330305474",
+    "https://openalex.org/W2577307581",
+    "https://openalex.org/W3095446653",
+    "https://openalex.org/W3123096462",
+    "https://openalex.org/W53581571"
+  ]
+}

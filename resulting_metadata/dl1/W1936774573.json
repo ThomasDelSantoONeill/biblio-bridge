@@ -1,0 +1,24 @@
+{
+  "id": "https://openalex.org/W1936774573",
+  "title": "The Theory of Island Biogeography",
+  "abstract": "Biogeography was stuck in a \"natural history phase\" dominated by the collection of data, the young Princeton biologists Robert H. MacArthur and Edward O. Wilson argued in 1967. In this book, the authors developed a general theory to explain the facts of island biogeography. The theory builds on the first principles of population ecology and genetics to explain how distance and area combine to regulate the balance between immigration and extinction in island populations. The authors then test the theory against data. The Theory of Island Biogeography was never intended as the last word on the subject. Instead, MacArthur and Wilson sought to stimulate new forms of theoretical and empirical studies, which will lead in turn to a stronger general theory. Even a third of a century since its publication, the book continues to serve that purpose well. From popular books like David Quammen's Song of the Dodo to arguments in the professional literature, The Theory of Island Biogeography remains at the center of discussions about the geographic distribution of species. In a new preface, Edward O. Wilson reviews the origins and consequences of this classic book.",
+  "authors": [
+    {
+      "name": "Robert H. MacArthur"
+    },
+    {
+      "name": "Edward O. Wilson"
+    }
+  ],
+  "publication_year": 2001,
+  "cited_by_count": 13036,
+  "primary_topic": "Animal Ecology and Behavior Studies",
+  "subfield_topic": "Ecology",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W2331631023",
+    "https://openalex.org/W2480617445",
+    "https://openalex.org/W2962976424"
+  ]
+}

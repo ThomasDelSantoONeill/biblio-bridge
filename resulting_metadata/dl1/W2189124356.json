@@ -1,0 +1,65 @@
+{
+  "id": "https://openalex.org/W2189124356",
+  "title": "Parameter uncertainty of a dynamic multispecies size spectrum model",
+  "abstract": "Dynamic size spectrum models have been recognized as an effective way of describing how size-based interactions can give rise to the size structure of aquatic communities. They are intermediate-complexity ecological models that are solutions to partial differential equations driven by the size-dependent processes of predation, growth, mortality, and reproduction in a community of interacting species and sizes. To be useful for quantitative fisheries management these models need to be developed further in a formal statistical framework. Previous work has used time-averaged data to “calibrate” the model using optimization methods with the disadvantage of losing detailed time-series information. Using a published multispecies size spectrum model parameterized for the North Sea comprising 12 interacting fish species and a background resource, we fit the model to time-series data using a Bayesian framework for the first time. We capture the 1967–2010 period using annual estimates of fishing mortality rates as input to the model and time series of fisheries landings data to fit the model to output. We estimate 38 key parameters representing the carrying capacity of each species and background resource, as well as initial inputs of the dynamical system and errors on the model output. We then forecast the model forward to evaluate how uncertainty propagates through to population- and community-level indicators under alternative management strategies.",
+  "authors": [
+    {
+      "name": "Michael A. Spence"
+    },
+    {
+      "name": "Paul G. Blackwell"
+    },
+    {
+      "name": "Julia L. Blanchard"
+    }
+  ],
+  "publication_year": 2015,
+  "cited_by_count": 33,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1793259860",
+    "https://openalex.org/W1968027662",
+    "https://openalex.org/W1973333099",
+    "https://openalex.org/W1983053275",
+    "https://openalex.org/W1984415881",
+    "https://openalex.org/W1992913659",
+    "https://openalex.org/W1996111012",
+    "https://openalex.org/W1997699070",
+    "https://openalex.org/W2013145865",
+    "https://openalex.org/W2016293090",
+    "https://openalex.org/W2042204882",
+    "https://openalex.org/W2045656233",
+    "https://openalex.org/W2051914658",
+    "https://openalex.org/W2053332694",
+    "https://openalex.org/W2053424036",
+    "https://openalex.org/W2054792587",
+    "https://openalex.org/W2065637266",
+    "https://openalex.org/W2074243714",
+    "https://openalex.org/W2086702626",
+    "https://openalex.org/W2102619577",
+    "https://openalex.org/W2103053511",
+    "https://openalex.org/W2117709578",
+    "https://openalex.org/W2119927194",
+    "https://openalex.org/W2122974269",
+    "https://openalex.org/W2123768154",
+    "https://openalex.org/W2125838338",
+    "https://openalex.org/W2129580034",
+    "https://openalex.org/W2131988450",
+    "https://openalex.org/W2136402371",
+    "https://openalex.org/W2149633640",
+    "https://openalex.org/W2150074403",
+    "https://openalex.org/W2152791383",
+    "https://openalex.org/W2161323965",
+    "https://openalex.org/W2167030304",
+    "https://openalex.org/W2171074980",
+    "https://openalex.org/W2333735364",
+    "https://openalex.org/W2485594181",
+    "https://openalex.org/W2798056406",
+    "https://openalex.org/W4237151101",
+    "https://openalex.org/W4248681815",
+    "https://openalex.org/W605132206"
+  ]
+}

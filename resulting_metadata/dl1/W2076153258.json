@@ -1,0 +1,17 @@
+{
+  "id": "https://openalex.org/W2076153258",
+  "title": "Harvesting Strategies and Parameter Estimation for an Age-Structured Model",
+  "abstract": "An age-structured model with knife-edge recruitment describes the dynamics of exploited, seasonally breeding populations. For management strategy, an equation is derived that characterizes the economic optimal state of exploitation of a modeled stock. A further generalization is derived to account for those species where recruitment to the mature stock occurs over many age-categories. Since the parameters all have phenomenological definitions, they can be estimated from information independent of the model. These parameters can also be estimated by regression of the model to catch and effort data. Test regressions of the general model are made on catch and effort data from three exploited fish stocks: the yellowtail flounder of New England, the Pacific halibut of Area II, and the haddock of Georges Bank; the corresponding R 2 values are 0.75, 0.87, and 0.86. Although the confidence intervals for individual parameter estimates are very large, the estimates compare favorably with published parameter values. Since only certain combinations of parameters from the general model appear to have low sensitivity to small perturbations to the data, some guiding suggestions are made that may lead to an improved robustness in the statistical procedures.Key words: age-structured model, optimal harvesting strategy, spawner–recruit curves, parameter estimation",
+  "authors": [
+    {
+      "name": "Richard B. Deriso"
+    }
+  ],
+  "publication_year": 1980,
+  "cited_by_count": 303,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": []
+}

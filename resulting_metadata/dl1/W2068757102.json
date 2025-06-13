@@ -1,0 +1,67 @@
+{
+  "id": "https://openalex.org/W2068757102",
+  "title": "Scale Invariance in Food Web Properties",
+  "abstract": "The robustness of five common food web properties is examined by varying the resolution of the data through aggregation of trophic groupings. A surprising constancy in each of these properties is revealed as webs are collapsed down to approximately half their original size. This analysis of 60 invertebrate-dominated community food webs confirms the existence of all but one of these properties in such webs and addresses a common concern held by critics of food web theory that observed food web properties may be sensitive to trophic aggregation. The food web statistics (chain length; predator/prey ratio; fraction of top, intermediate, and bottom species; and rigid circuits) are scaling in the sense that they remain roughly invariant over a wide range of data resolution. As such, within present standards of reporting food web data, these statistics may be used to compare systems whose trophic data are resolved differently within a factor of 2.",
+  "authors": [
+    {
+      "name": "George Sugihara"
+    },
+    {
+      "name": "Kenneth G. Schoenly"
+    },
+    {
+      "name": "Alan Trombla"
+    }
+  ],
+  "publication_year": 1989,
+  "cited_by_count": 203,
+  "primary_topic": "Isotope Analysis in Ecology",
+  "subfield_topic": "Ecology",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1594662226",
+    "https://openalex.org/W1976844847",
+    "https://openalex.org/W1980645199",
+    "https://openalex.org/W1982178304",
+    "https://openalex.org/W1986429334",
+    "https://openalex.org/W1987852776",
+    "https://openalex.org/W1988176227",
+    "https://openalex.org/W1997801513",
+    "https://openalex.org/W1998666909",
+    "https://openalex.org/W1999218662",
+    "https://openalex.org/W2004270844",
+    "https://openalex.org/W2005224285",
+    "https://openalex.org/W2010537602",
+    "https://openalex.org/W2013874955",
+    "https://openalex.org/W2023824119",
+    "https://openalex.org/W2026889883",
+    "https://openalex.org/W2026994436",
+    "https://openalex.org/W2028132740",
+    "https://openalex.org/W2032790512",
+    "https://openalex.org/W2039046420",
+    "https://openalex.org/W2048912690",
+    "https://openalex.org/W2049318236",
+    "https://openalex.org/W2050526925",
+    "https://openalex.org/W2067391982",
+    "https://openalex.org/W2080549750",
+    "https://openalex.org/W2086412836",
+    "https://openalex.org/W2088726137",
+    "https://openalex.org/W2119545319",
+    "https://openalex.org/W2119831767",
+    "https://openalex.org/W2313335186",
+    "https://openalex.org/W2315511689",
+    "https://openalex.org/W2316067570",
+    "https://openalex.org/W2317601045",
+    "https://openalex.org/W2321453846",
+    "https://openalex.org/W2325247622",
+    "https://openalex.org/W2331376222",
+    "https://openalex.org/W2594275257",
+    "https://openalex.org/W2795509197",
+    "https://openalex.org/W2895682977",
+    "https://openalex.org/W4230871231",
+    "https://openalex.org/W4234101315",
+    "https://openalex.org/W4237607542",
+    "https://openalex.org/W4249479329"
+  ]
+}

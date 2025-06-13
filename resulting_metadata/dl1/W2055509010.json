@@ -1,0 +1,17 @@
+{
+  "id": "https://openalex.org/W2055509010",
+  "title": "The Method of Path Coefficients",
+  "abstract": "The Method of path coefficients was suggested a number of years ago (Wright 1918, more fully 1920, 1921), as a flexible means of relating the correlation coefficients between variables in a multiple system to the functional relations among them. The method has been applied in quite a variety of cases. It seems desirable now to make a restatement of the theory and to review the types of application, especially as there has been a certain amount of misunderstanding both of purpose and of procedure.",
+  "authors": [
+    {
+      "name": "Sewall Wright"
+    }
+  ],
+  "publication_year": 1934,
+  "cited_by_count": 2292,
+  "primary_topic": "Advanced Statistical Methods and Models",
+  "subfield_topic": "Statistics and Probability",
+  "field_topic": "Mathematics",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": []
+}

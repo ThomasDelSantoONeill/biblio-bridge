@@ -1,0 +1,56 @@
+{
+  "id": "https://openalex.org/W2089022458",
+  "title": "What Can Be Learned from the Collapse of a Renewable Resource? Atlantic Cod, <i>Gadus morhua</i>, of Newfoundland and Labrador",
+  "abstract": "Temporal changes in demography, population sustainability, and harvest rates support the hypothesis that overexploitation precipitated the commercial extinction of northern cod, Gadus morhua, off Newfoundland and Labrador in 1992. Annual estimates of realized population growth (r) indicate that the stock was rarely sustainable at the age-specific survival and fecundity rates experienced since 1962. A twofold decline in annual survival probabilities in the 1980s was concomitant with increased inshore and offshore fishing effort, declining catch rate, and spatial shifts in gillnetting effort from areas of low (inshore) to high (offshore) catch rates. We reject hypotheses that attribute the collapse of northern cod to environmental change. Water temperature was associated neither with juvenile nor adult abundance nor with adult distribution by depth. Harvests equivalent to those of the past decade were sustainable in the nineteenth and early twentieth centuries in a considerably colder environment. An updated analysis of previous work indicates that salinity has little effect on recruitment. We conclude that the collapse of northern cod can be attributed solely to overexploitation and that population sustainability indices such as r provide a means by which the susceptibility and resilience of exploited populations can be assessed and their probability of commercial extinction reduced.",
+  "authors": [
+    {
+      "name": "Jeffrey A. Hutchings"
+    },
+    {
+      "name": "Ransom A. Myers"
+    }
+  ],
+  "publication_year": 1994,
+  "cited_by_count": 572,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1544815196",
+    "https://openalex.org/W1579114536",
+    "https://openalex.org/W1597838459",
+    "https://openalex.org/W1964992582",
+    "https://openalex.org/W1965673155",
+    "https://openalex.org/W1970721955",
+    "https://openalex.org/W1975498302",
+    "https://openalex.org/W1977882126",
+    "https://openalex.org/W1980450709",
+    "https://openalex.org/W1990437463",
+    "https://openalex.org/W2004590311",
+    "https://openalex.org/W2008372054",
+    "https://openalex.org/W2011303397",
+    "https://openalex.org/W2012506855",
+    "https://openalex.org/W2014317435",
+    "https://openalex.org/W2024081693",
+    "https://openalex.org/W2026789678",
+    "https://openalex.org/W2026811012",
+    "https://openalex.org/W2029770811",
+    "https://openalex.org/W2050117658",
+    "https://openalex.org/W2066943158",
+    "https://openalex.org/W2068146487",
+    "https://openalex.org/W2075251510",
+    "https://openalex.org/W2078945594",
+    "https://openalex.org/W2088202257",
+    "https://openalex.org/W2088395296",
+    "https://openalex.org/W2089386977",
+    "https://openalex.org/W2091682565",
+    "https://openalex.org/W2094387116",
+    "https://openalex.org/W2122695360",
+    "https://openalex.org/W2142578456",
+    "https://openalex.org/W2315404609",
+    "https://openalex.org/W2318342481",
+    "https://openalex.org/W2471033845",
+    "https://openalex.org/W4285719527"
+  ]
+}

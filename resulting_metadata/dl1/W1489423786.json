@@ -1,0 +1,17 @@
+{
+  "id": "https://openalex.org/W1489423786",
+  "title": "The signal and the noise : why so many predictions fail but some don't",
+  "abstract": "Many of us are concerned about predicting the future, in the short (what will the weather be like on Saturday?), middle (what will the outcome of the mother of all elections be?) and long term (what’s with the climate change?). Nate Silver has developed tools to deal with these types of questions, based on mathematical model building, combining available data and sound statistical analysis. He emphasizes the need of precise wording of predictions, like “this person has a 85% probability of winning the election, with an error range of ±2%”. Such a statement clearly separates what is known from what is still uncertain. For example, this statement means that the other candidate may win, as a matter of fact, in similar circumstances, this will happen somewhere between 13 and 17% of the time.",
+  "authors": [
+    {
+      "name": "Nate Silver"
+    }
+  ],
+  "publication_year": 2012,
+  "cited_by_count": 776,
+  "primary_topic": "Statistical Mechanics and Entropy",
+  "subfield_topic": "Statistical and Nonlinear Physics",
+  "field_topic": "Physics and Astronomy",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": []
+}

@@ -1,0 +1,80 @@
+{
+  "id": "https://openalex.org/W2106329638",
+  "title": "Phytoplankton species richness scales consistently from laboratory microcosms to the world's oceans",
+  "abstract": "Species-area relationships have been observed for virtually all major groups of macroorganisms that have been studied to date but have not been explored for microscopic phytoplankton algae, which are the dominant producers in many freshwater and marine ecosystems. Our analyses of data from 142 different natural ponds, lakes, and oceans and 239 experimental ecosystems reveal a strong species-area relationship with an exponent that is invariant across ecosystems that span &gt;15 orders of magnitude in spatial extent. A striking result is that the species-area relationship derived from small-scale experimental studies correctly scales up to natural aquatic ecosystems. These results significantly broaden our knowledge of the effects of island size on biodiversity and also confirm the relevance of experimentally derived data to the analysis and understanding of larger-scale ecological patterns. In addition, they confirm that patterns in microbial diversity are strongly consistent with those that have been repeatedly reported in the literature for macroorganisms.",
+  "authors": [
+    {
+      "name": "Val H. Smith"
+    },
+    {
+      "name": "Bryan L. Foster"
+    },
+    {
+      "name": "James P. Grover"
+    },
+    {
+      "name": "Robert D. Holt"
+    },
+    {
+      "name": "Mathew A. Leibold"
+    },
+    {
+      "name": "Frank deNoyelles"
+    }
+  ],
+  "publication_year": 2005,
+  "cited_by_count": 158,
+  "primary_topic": "Microbial Community Ecology and Physiology",
+  "subfield_topic": "Ecology",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1500048837",
+    "https://openalex.org/W1527266177",
+    "https://openalex.org/W1533897363",
+    "https://openalex.org/W1564267775",
+    "https://openalex.org/W1566058471",
+    "https://openalex.org/W1593658962",
+    "https://openalex.org/W1936774573",
+    "https://openalex.org/W1964000025",
+    "https://openalex.org/W1965333863",
+    "https://openalex.org/W1966081590",
+    "https://openalex.org/W1968632832",
+    "https://openalex.org/W1970833178",
+    "https://openalex.org/W1973129989",
+    "https://openalex.org/W1974224463",
+    "https://openalex.org/W1993682681",
+    "https://openalex.org/W1994859981",
+    "https://openalex.org/W1995046810",
+    "https://openalex.org/W1996027771",
+    "https://openalex.org/W2001312631",
+    "https://openalex.org/W2014914752",
+    "https://openalex.org/W2018204894",
+    "https://openalex.org/W2048612170",
+    "https://openalex.org/W2053412260",
+    "https://openalex.org/W2066202085",
+    "https://openalex.org/W2066402881",
+    "https://openalex.org/W2070319443",
+    "https://openalex.org/W2087009357",
+    "https://openalex.org/W2087023915",
+    "https://openalex.org/W2101224191",
+    "https://openalex.org/W2102064779",
+    "https://openalex.org/W2119510208",
+    "https://openalex.org/W2120505014",
+    "https://openalex.org/W2123298206",
+    "https://openalex.org/W2153927855",
+    "https://openalex.org/W2154383837",
+    "https://openalex.org/W2154839280",
+    "https://openalex.org/W2164435125",
+    "https://openalex.org/W2273605253",
+    "https://openalex.org/W2333589139",
+    "https://openalex.org/W3014620098",
+    "https://openalex.org/W3025136633",
+    "https://openalex.org/W4210983158",
+    "https://openalex.org/W4237453592",
+    "https://openalex.org/W4238759112",
+    "https://openalex.org/W4302781015",
+    "https://openalex.org/W4388384556",
+    "https://openalex.org/W4388384687"
+  ]
+}

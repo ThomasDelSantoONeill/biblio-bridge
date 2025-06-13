@@ -1,0 +1,44 @@
+{
+  "id": "https://openalex.org/W1591076033",
+  "title": null,
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Carl J. Walters"
+    },
+    {
+      "name": "Josh Korman"
+    }
+  ],
+  "publication_year": 1999,
+  "cited_by_count": 101,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1523938686",
+    "https://openalex.org/W1967049079",
+    "https://openalex.org/W1986400874",
+    "https://openalex.org/W1994276086",
+    "https://openalex.org/W1996618370",
+    "https://openalex.org/W2018466316",
+    "https://openalex.org/W2025741277",
+    "https://openalex.org/W2029770811",
+    "https://openalex.org/W2035058341",
+    "https://openalex.org/W2047904830",
+    "https://openalex.org/W2052890598",
+    "https://openalex.org/W2071573557",
+    "https://openalex.org/W2078984941",
+    "https://openalex.org/W2081050205",
+    "https://openalex.org/W2083290876",
+    "https://openalex.org/W2119074199",
+    "https://openalex.org/W2131302185",
+    "https://openalex.org/W2144118081",
+    "https://openalex.org/W2165007446",
+    "https://openalex.org/W2334359902",
+    "https://openalex.org/W2603803752",
+    "https://openalex.org/W2753533763",
+    "https://openalex.org/W2901065813"
+  ]
+}

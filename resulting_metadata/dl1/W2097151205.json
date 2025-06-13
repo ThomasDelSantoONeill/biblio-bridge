@@ -1,0 +1,103 @@
+{
+  "id": "https://openalex.org/W2097151205",
+  "title": "A framework for modelling fish and shellfish responses to future climate change",
+  "abstract": "Abstract Hollowed, A. B., Bond, N. A., Wilderbuer, T. K., Stockhausen, W. T., A'mar, Z. T., Beamish, R. J., Overland, J. E., and Schirripa, M. J. 2009. A framework for modelling fish and shellfish responses to future climate change. – ICES Journal of Marine Science, 66: 1584–1594. A framework is outlined for a unified approach to forecasting the implications of climate change on production of marine fish. The framework involves five steps: (i) identification of mechanisms underlying the reproductive success, growth, and distribution of major fish and shellfish populations, (ii) assessment of the feasibility of downscaling implications of climate scenarios derived from Intergovernmental Panel on Climate Change (IPCC) models for regional ecosystems to select and estimate relevant environmental variables, (iii) evaluation of climate model scenarios and select IPCC models that appear to provide valid representations of forcing for the region of study, (iv) extraction of environmental variables from climate scenarios and incorporation into projection models for fish and shellfish, and (v) evaluation of the mean, variance, and trend in fish and shellfish production under a changing ecosystem. This framework was applied to forecast summer sea surface temperature in the Bering Sea from 2001 to 2050. The mean summer surface temperature was predicted to increase by 2°C by 2050. The forecasting framework was also used to estimate the effects of climate change on production of northern rock sole (Lepidopsetta polyxystra) through projected changes in cross-shelf transport of larvae in the Bering Sea. Results suggest that climate change will lead to a modest increase in the production of strong year classes of northern rock sole.",
+  "authors": [
+    {
+      "name": "Anne B. Hollowed"
+    },
+    {
+      "name": "Nicholas A. Bond"
+    },
+    {
+      "name": "Thomas K. Wilderbuer"
+    },
+    {
+      "name": "William T. Stockhausen"
+    },
+    {
+      "name": "Z. Teresa A’mar"
+    },
+    {
+      "name": "Richard J. Beamish"
+    },
+    {
+      "name": "James E. Overland"
+    },
+    {
+      "name": "Michael J. Schirripa"
+    }
+  ],
+  "publication_year": 2009,
+  "cited_by_count": 129,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1592438903",
+    "https://openalex.org/W1599127549",
+    "https://openalex.org/W178426947",
+    "https://openalex.org/W1970631800",
+    "https://openalex.org/W1976529074",
+    "https://openalex.org/W1981397895",
+    "https://openalex.org/W1982140334",
+    "https://openalex.org/W1984493675",
+    "https://openalex.org/W198586560",
+    "https://openalex.org/W1998367480",
+    "https://openalex.org/W1999174320",
+    "https://openalex.org/W2000830415",
+    "https://openalex.org/W2003899690",
+    "https://openalex.org/W2012407814",
+    "https://openalex.org/W2016628424",
+    "https://openalex.org/W2026645398",
+    "https://openalex.org/W2031859557",
+    "https://openalex.org/W2032794323",
+    "https://openalex.org/W2034469175",
+    "https://openalex.org/W2038610293",
+    "https://openalex.org/W2041450302",
+    "https://openalex.org/W2041616877",
+    "https://openalex.org/W2046206948",
+    "https://openalex.org/W2047328724",
+    "https://openalex.org/W204940627",
+    "https://openalex.org/W2053059880",
+    "https://openalex.org/W2058835527",
+    "https://openalex.org/W2063466669",
+    "https://openalex.org/W2068321221",
+    "https://openalex.org/W2089452263",
+    "https://openalex.org/W2093097556",
+    "https://openalex.org/W2093401535",
+    "https://openalex.org/W2097265482",
+    "https://openalex.org/W2103423125",
+    "https://openalex.org/W2108611527",
+    "https://openalex.org/W2112753136",
+    "https://openalex.org/W2118732773",
+    "https://openalex.org/W2124669512",
+    "https://openalex.org/W2126975094",
+    "https://openalex.org/W2129669794",
+    "https://openalex.org/W2131424722",
+    "https://openalex.org/W2132270486",
+    "https://openalex.org/W2140364566",
+    "https://openalex.org/W2140659444",
+    "https://openalex.org/W2141342294",
+    "https://openalex.org/W2149567119",
+    "https://openalex.org/W2151219339",
+    "https://openalex.org/W2155742343",
+    "https://openalex.org/W2158840489",
+    "https://openalex.org/W2159208485",
+    "https://openalex.org/W2159446305",
+    "https://openalex.org/W2161555108",
+    "https://openalex.org/W2166684595",
+    "https://openalex.org/W2167131604",
+    "https://openalex.org/W2168208734",
+    "https://openalex.org/W2169715400",
+    "https://openalex.org/W2181461835",
+    "https://openalex.org/W2498227839",
+    "https://openalex.org/W2574956073",
+    "https://openalex.org/W2736591225",
+    "https://openalex.org/W2795979825",
+    "https://openalex.org/W2914252064",
+    "https://openalex.org/W2991460120",
+    "https://openalex.org/W4285719527"
+  ]
+}

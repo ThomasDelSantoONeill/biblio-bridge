@@ -1,0 +1,52 @@
+{
+  "id": "https://openalex.org/W1978649216",
+  "title": "Feedback Nash equilibria for non-linear differential games in pollution control",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Georgios T. Kossioris"
+    },
+    {
+      "name": "M. Plexousakis"
+    },
+    {
+      "name": "A. Xepapadeas"
+    },
+    {
+      "name": "Aart de Zeeuw"
+    },
+    {
+      "name": "K.-G. Mäler"
+    }
+  ],
+  "publication_year": 2007,
+  "cited_by_count": 113,
+  "primary_topic": "Climate Change Policy and Economics",
+  "subfield_topic": "Economics and Econometrics",
+  "field_topic": "Economics, Econometrics and Finance",
+  "domain_topic": "Social Sciences",
+  "referenced_works": [
+    "https://openalex.org/W124236428",
+    "https://openalex.org/W1505447376",
+    "https://openalex.org/W1535023463",
+    "https://openalex.org/W1554932352",
+    "https://openalex.org/W1792899268",
+    "https://openalex.org/W1998235498",
+    "https://openalex.org/W2009514787",
+    "https://openalex.org/W2018222783",
+    "https://openalex.org/W2031540804",
+    "https://openalex.org/W2034747685",
+    "https://openalex.org/W2045213575",
+    "https://openalex.org/W2052548613",
+    "https://openalex.org/W2061826427",
+    "https://openalex.org/W2133795188",
+    "https://openalex.org/W2148808857",
+    "https://openalex.org/W2539697376",
+    "https://openalex.org/W3021059853",
+    "https://openalex.org/W3122791671",
+    "https://openalex.org/W3125924440",
+    "https://openalex.org/W4210637534",
+    "https://openalex.org/W4210771028",
+    "https://openalex.org/W4254416362"
+  ]
+}

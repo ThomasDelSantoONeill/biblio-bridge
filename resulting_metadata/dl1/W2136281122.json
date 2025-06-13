@@ -1,0 +1,40 @@
+{
+  "id": "https://openalex.org/W2136281122",
+  "title": "Threshold Management Policies for Exploited Populations",
+  "abstract": "Under a threshold management policy, harvesting occurs at a constant rate but ceases when a population drops below a threshold. A simulation model of an age-structured population with stochastic recruitment was constructed with such a harvest policy with several threshold levels. Other factors were fishing mortality, recruitment, and initial biomass. The objective function was a weighted function of average yield and standard deviation over a planning horizon. First, we determined the optimal threshold given fishing mortality. Secondly, we determined optimal threshold and fishing mortality, simultaneously. In application to eastern Bering Sea pollock, a threshold management policy always increased average yield over a non-threshold policy. For the first problem, optimal threshold levels ranged from 20 to 30% of pristine biomass. For the second problem, each scenario had a unique threshold and fishing mortality, with fishing mortality slightly above the maximum sustainable yield (MSY) level and a threshold range of 25–50%. These results were robust in regard to other factors. Benefits of the threshold policy were greater with a Ricker spawner-recruit model and with higher fishing mortality. The success of the threshold management policy is due to the relatively rapid rebuilding of a population to levels producing MSY.",
+  "authors": [
+    {
+      "name": "Terrance J. Quinn"
+    },
+    {
+      "name": "Robert Fagen"
+    },
+    {
+      "name": "Jie Zheng"
+    }
+  ],
+  "publication_year": 1990,
+  "cited_by_count": 77,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1965698028",
+    "https://openalex.org/W1969629380",
+    "https://openalex.org/W1980304639",
+    "https://openalex.org/W2010228209",
+    "https://openalex.org/W2031569377",
+    "https://openalex.org/W2035289916",
+    "https://openalex.org/W2041258132",
+    "https://openalex.org/W2074675586",
+    "https://openalex.org/W2076153258",
+    "https://openalex.org/W2083854664",
+    "https://openalex.org/W2084925229",
+    "https://openalex.org/W2100891518",
+    "https://openalex.org/W2132815255",
+    "https://openalex.org/W2140798124",
+    "https://openalex.org/W2153002539",
+    "https://openalex.org/W2323626474"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "https://openalex.org/W2042796530",
+  "title": "Current Trends in Including Risk and Uncertainty in Stock Assessment and Harvest Decisions",
+  "abstract": "Many fisheries management bodies are considering methods for explicit consideration of uncertainty and risk in harvest decisions. We propose a two-step process where, in the first step, a stock assessment group determines the possible biological and economic \"states\" of the fishery and evaluates the expected outcomes of different possible management actions for each possible \"state.\" The evaluation may be summarized in a tabular form, or it can take the form of a computer model. In the second step, a decision-making body, consisting of government, public, and user-group representatives, examines the risks and benefits of each possible management action, given the possible \"states\" of the fishery, and formulates a decision. This proposal differs from many current stock assessment and management procedures in that (1) the stock assessment group makes no recommendations about catch levels, (2) the stock assessment group does not attempt to produce a \"best\" estimate of stock condition, and (3) the decision group deals explicitly with risk and biological and economic uncertainties.",
+  "authors": [
+    {
+      "name": "Ray Hilborn"
+    },
+    {
+      "name": "Ellen K. Pikitch"
+    },
+    {
+      "name": "Robert C. Francis"
+    }
+  ],
+  "publication_year": 1993,
+  "cited_by_count": 75,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1540680441",
+    "https://openalex.org/W1599127549",
+    "https://openalex.org/W1975250828",
+    "https://openalex.org/W2002565719",
+    "https://openalex.org/W2006844559",
+    "https://openalex.org/W2015647816",
+    "https://openalex.org/W2042464037",
+    "https://openalex.org/W2043783251",
+    "https://openalex.org/W2050788798",
+    "https://openalex.org/W2062131129",
+    "https://openalex.org/W2063199826",
+    "https://openalex.org/W2083854664",
+    "https://openalex.org/W2090694469",
+    "https://openalex.org/W2100904586",
+    "https://openalex.org/W2128013562",
+    "https://openalex.org/W2153002539"
+  ]
+}

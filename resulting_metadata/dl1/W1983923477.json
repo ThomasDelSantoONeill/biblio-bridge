@@ -1,0 +1,44 @@
+{
+  "id": "https://openalex.org/W1983923477",
+  "title": "Positive Indirect Effects Between Prey Species that Share Predators",
+  "abstract": "Mathematical models are used to explore the interaction between two prey species that share a common predator. The models assume that the predator experiences density dependence via some mechanism other than prey depletion. The models also assume that the predator's functional response to each prey decreases as the density of the other prey species increases. This can occur either because of predator satiation or predator switching. The results suggest that positive indirect effects of one prey on the equilibrium density of others should occur frequently, especially when there is predator switching. Decreasing the mortality rate of one prey or adding a prey species may make it easier for additional prey species to invade the system and coexist. This occurs because the resulting decrease in the predator's functional response is greater than its positive numerical response. In many cases, different magnitudes of perturbation to one prey species will have opposite effects on the population density of the other prey species.",
+  "authors": [
+    {
+      "name": "Peter A. Abrams"
+    },
+    {
+      "name": "Hiroyuki Matsuda"
+    }
+  ],
+  "publication_year": 1996,
+  "cited_by_count": 301,
+  "primary_topic": "Mathematical and Theoretical Epidemiology and Ecology Models",
+  "subfield_topic": "Public Health, Environmental and Occupational Health",
+  "field_topic": "Medicine",
+  "domain_topic": "Health Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1509995973",
+    "https://openalex.org/W1511740464",
+    "https://openalex.org/W1514623197",
+    "https://openalex.org/W1679724687",
+    "https://openalex.org/W1969027200",
+    "https://openalex.org/W1982083978",
+    "https://openalex.org/W1986197266",
+    "https://openalex.org/W1987759914",
+    "https://openalex.org/W1995509319",
+    "https://openalex.org/W2008019499",
+    "https://openalex.org/W2024882325",
+    "https://openalex.org/W2027990307",
+    "https://openalex.org/W2030941370",
+    "https://openalex.org/W2034207977",
+    "https://openalex.org/W2039596201",
+    "https://openalex.org/W2041549882",
+    "https://openalex.org/W2086457515",
+    "https://openalex.org/W2149049530",
+    "https://openalex.org/W2154320030",
+    "https://openalex.org/W2181078307",
+    "https://openalex.org/W2318957381",
+    "https://openalex.org/W2483503799",
+    "https://openalex.org/W45035816"
+  ]
+}

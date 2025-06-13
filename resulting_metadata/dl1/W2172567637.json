@@ -1,0 +1,33 @@
+{
+  "id": "https://openalex.org/W2172567637",
+  "title": "MAXIMALLY STABLE MODEL ECOSYSTEMS CAN BE HIGHLY CONNECTED",
+  "abstract": "Community ecologists have long sought to understand the basis for two apparently conflicting observations. The first is the evident persistence of complex communities through time. The second is the theoretical result that, in general, complex model communities are less likely to be stable than simpler ones. Previous attempts to reconcile these observations have studied the average properties of model communities constructed under a variety of different assumptions. The problem with such studies is that the set of all possible models, even when subject to strict constraints, is very large relative to the subset that may be representative of real communities, and it is unclear which constraints to apply. Here, it is assumed that real communities are a highly restricted subset of all possible models, and attention is focused instead on properties of communities constructed to be as stable as they could be. Geometrically derived analytic results show that in general, communities constructed in this way require high levels of connectance, as measured by the product of the strength and frequency of interspecific interaction. In particular, connectance between weakly and strongly self-regulated elements of these communities is of critical importance.",
+  "authors": [
+    {
+      "name": "Daniel T. Haydon"
+    }
+  ],
+  "publication_year": 2000,
+  "cited_by_count": 63,
+  "primary_topic": "Evolutionary Game Theory and Cooperation",
+  "subfield_topic": "Sociology and Political Science",
+  "field_topic": "Social Sciences",
+  "domain_topic": "Social Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1980645199",
+    "https://openalex.org/W1980670421",
+    "https://openalex.org/W1993337002",
+    "https://openalex.org/W1997801513",
+    "https://openalex.org/W1999731809",
+    "https://openalex.org/W2013737143",
+    "https://openalex.org/W2020073162",
+    "https://openalex.org/W2049546703",
+    "https://openalex.org/W2058506983",
+    "https://openalex.org/W2092295003",
+    "https://openalex.org/W2132145325",
+    "https://openalex.org/W2315990401",
+    "https://openalex.org/W2320432931",
+    "https://openalex.org/W3022136271",
+    "https://openalex.org/W4299993032"
+  ]
+}

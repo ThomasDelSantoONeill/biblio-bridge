@@ -1,0 +1,31 @@
+{
+  "id": "https://openalex.org/W2153002539",
+  "title": "Adaptive Control of Fishing Systems",
+  "abstract": "This paper discusses some formal techniques for deciding how harvesting policies should be modified in the face of uncertainty. Parameter estimation and dynamic optimization methods are combined for the Ricker stock-recruitment model to show how exploitation rates should be manipulated to give more information about the model parameters; in general, harvesting rates should be lower than would be predicted by the best fitting recruitment curve unless this curve predicts that the stock is very productive. A decision procedure is developed for comparing alternative stock-recruitment models; when applied to the Fraser River sockeye salmon (Oncorhynchus nerka), the procedure indicates that an experimental increase in escapements would be quite worthwhile. It appears that there is considerable promise for extending these methods and procedures to cases where the stock size is unknown and where fishing effort is poorly controlled.",
+  "authors": [
+    {
+      "name": "Carl J. Walters"
+    },
+    {
+      "name": "Ray Hilborn"
+    }
+  ],
+  "publication_year": 1976,
+  "cited_by_count": 310,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1539285921",
+    "https://openalex.org/W2002971752",
+    "https://openalex.org/W2011292626",
+    "https://openalex.org/W2019263046",
+    "https://openalex.org/W2062389143",
+    "https://openalex.org/W2100891518",
+    "https://openalex.org/W2145170747",
+    "https://openalex.org/W2339045596",
+    "https://openalex.org/W2795495912",
+    "https://openalex.org/W4230115272"
+  ]
+}

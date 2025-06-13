@@ -1,0 +1,67 @@
+{
+  "id": "https://openalex.org/W2128860815",
+  "title": "Interpreting the large fish indicator for the Celtic Sea",
+  "abstract": "Abstract Shephard, S., Reid, D. G., and Greenstreet, S. P. R. 2011. Interpreting the large fish indicator for the Celtic Sea. – ICES Journal of Marine Science, 68: 1963–1972. The large fish indicator (LFI) was developed in the North Sea as a size-based indicator of fish community state. It is now established as OSPAR's fish community Ecological Quality Objective (EcoQO) metric and will be applied across all OSPAR regions. To produce a protocol for use when developing regional LFIs, the North Sea experience is interpreted using data from the Celtic Sea. Differences in fish community species composition and size distribution were reflected in a different species complex and large fish threshold (50 cm) for the Celtic Sea LFI. However, a lag of 12–14 years in the relationship between assemblage-averaged fishing mortality Fcom,y and the LFI suggested similar underlying ecological mechanisms to the North Sea. The indicator responded to changes in small fish biomass that follow fishing-induced changes in the level of predation by large demersal piscivores. The Celtic Sea LFI showed maximum observed values &gt;0.40 before 1990, and 0.40 is here proposed as an EcoQO. Development of regional LFIs demands a flexible process rather than a strictly prescriptive protocol.",
+  "authors": [
+    {
+      "name": "Samuel Shephard"
+    },
+    {
+      "name": "David G. Reid"
+    },
+    {
+      "name": "Simon P. R. Greenstreet"
+    }
+  ],
+  "publication_year": 2011,
+  "cited_by_count": 61,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1968027662",
+    "https://openalex.org/W1980364927",
+    "https://openalex.org/W1988265452",
+    "https://openalex.org/W1994223343",
+    "https://openalex.org/W2000244259",
+    "https://openalex.org/W2014817507",
+    "https://openalex.org/W2032299358",
+    "https://openalex.org/W2053270837",
+    "https://openalex.org/W2055024990",
+    "https://openalex.org/W2061796635",
+    "https://openalex.org/W2069165134",
+    "https://openalex.org/W2086702626",
+    "https://openalex.org/W2101547575",
+    "https://openalex.org/W2103188573",
+    "https://openalex.org/W2104560441",
+    "https://openalex.org/W2107509042",
+    "https://openalex.org/W2110151759",
+    "https://openalex.org/W2116362418",
+    "https://openalex.org/W2117672043",
+    "https://openalex.org/W2118496962",
+    "https://openalex.org/W2120830385",
+    "https://openalex.org/W2122540461",
+    "https://openalex.org/W2123774274",
+    "https://openalex.org/W2123921038",
+    "https://openalex.org/W2128713868",
+    "https://openalex.org/W2137561156",
+    "https://openalex.org/W2139832281",
+    "https://openalex.org/W2149876375",
+    "https://openalex.org/W2151139060",
+    "https://openalex.org/W2151404983",
+    "https://openalex.org/W2152488439",
+    "https://openalex.org/W2153437555",
+    "https://openalex.org/W2154277394",
+    "https://openalex.org/W2161950639",
+    "https://openalex.org/W2162140538",
+    "https://openalex.org/W2162290603",
+    "https://openalex.org/W2164847892",
+    "https://openalex.org/W2166440264",
+    "https://openalex.org/W2168248776",
+    "https://openalex.org/W2169929809",
+    "https://openalex.org/W2172113679",
+    "https://openalex.org/W2312350018",
+    "https://openalex.org/W2317234531"
+  ]
+}

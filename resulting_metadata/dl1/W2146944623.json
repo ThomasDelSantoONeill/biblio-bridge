@@ -1,0 +1,22 @@
+{
+  "id": "https://openalex.org/W2146944623",
+  "title": "Turning science into policy: challenges and experiences from the science–policy interface",
+  "abstract": "This paper discusses key issues in the science-policy interface. It stresses the importance of linking the conservation and sustainable use of biodiversity to the Millennium Development Goals and to issues of immediate concern to policy-makers such as the economy, security and human health. It briefly discusses the process of decision-making and how the scientific and policy communities have successfully worked together on global environmental issues such as stratospheric ozone depletion and climate change, and the critical role of international assessments in providing the scientific basis for informed policy at the national and international level. The paper also discusses the drivers of global environmental change, the importance of constructing plausible futures, indicators of change, the biodiversity 2010 target and how environmental issues such as loss of biodiversity, stratospheric ozone depletion, land degradation, water pollution and climate change cannot be addressed in isolation because they are strongly interconnected and there are synergies and trade-offs among the policies, practices and technologies that are used to address these issues individually.",
+  "authors": [
+    {
+      "name": "Robert T. Watson"
+    }
+  ],
+  "publication_year": 2005,
+  "cited_by_count": 215,
+  "primary_topic": "Climate Change Policy and Economics",
+  "subfield_topic": "Economics and Econometrics",
+  "field_topic": "Economics, Econometrics and Finance",
+  "domain_topic": "Social Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1650569836",
+    "https://openalex.org/W3144165391",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W569852924"
+  ]
+}

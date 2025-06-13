@@ -1,0 +1,45 @@
+{
+  "id": "https://openalex.org/W2098876115",
+  "title": "Trophic Cascades in a Formerly Cod-Dominated Ecosystem",
+  "abstract": "Removal of top predators from ecosystems can result in cascading effects through the trophic levels below, completely restructuring the food web. Cascades have been observed in small-scale or simple food webs, but not in large, complex, open-ocean ecosystems. Using data spanning many decades from a once cod-dominated northwest Atlantic ecosystem, we demonstrate a trophic cascade in a large marine ecosystem. Several cod stocks in other geographic areas have also collapsed without recovery, suggesting the existence of trophic cascades in these systems.",
+  "authors": [
+    {
+      "name": "Kenneth T. Frank"
+    },
+    {
+      "name": "Brian Petrie"
+    },
+    {
+      "name": "Jae S. Choi"
+    },
+    {
+      "name": "William C. Leggett"
+    }
+  ],
+  "publication_year": 2005,
+  "cited_by_count": 1169,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1514552997",
+    "https://openalex.org/W2007263482",
+    "https://openalex.org/W2016927947",
+    "https://openalex.org/W2082195378",
+    "https://openalex.org/W2085073481",
+    "https://openalex.org/W2092590782",
+    "https://openalex.org/W2096295128",
+    "https://openalex.org/W2100927103",
+    "https://openalex.org/W2103948957",
+    "https://openalex.org/W2104474860",
+    "https://openalex.org/W2118128757",
+    "https://openalex.org/W2132008384",
+    "https://openalex.org/W2134989345",
+    "https://openalex.org/W2138586797",
+    "https://openalex.org/W2147773081",
+    "https://openalex.org/W2147807123",
+    "https://openalex.org/W2161128545",
+    "https://openalex.org/W4241005428"
+  ]
+}

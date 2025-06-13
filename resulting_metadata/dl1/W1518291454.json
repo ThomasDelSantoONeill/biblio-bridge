@@ -1,0 +1,30 @@
+{
+  "id": "https://openalex.org/W1518291454",
+  "title": "From patterns to predictions",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Carl Boettiger"
+    },
+    {
+      "name": "Alan Hastings"
+    }
+  ],
+  "publication_year": 2013,
+  "cited_by_count": 115,
+  "primary_topic": "Ecosystem dynamics and resilience",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1991359665",
+    "https://openalex.org/W1995043208",
+    "https://openalex.org/W2017731476",
+    "https://openalex.org/W2049297416",
+    "https://openalex.org/W2050335144",
+    "https://openalex.org/W2066648930",
+    "https://openalex.org/W2105608054",
+    "https://openalex.org/W2110331506",
+    "https://openalex.org/W2116199452"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "https://openalex.org/W2044385628",
+  "title": "The advantage of explicitly incorporating predation mortality into age-structured stock assessment models: an application for Atlantic mackerel",
+  "abstract": "Abstract Moustahfid, H., Link, J. S., Overholtz, W. J., and Tyrrell, M. C. 2009. The advantage of explicitly incorporating predation mortality into age-structured stock assessment models: an application for Atlantic mackerel. – ICES Journal of Marine Science, 66: 445–454. An age-structured assessment programme (ASAP) that explicitly incorporates predation mortality was applied to Atlantic mackerel (Scomber scombrus) in the Northwest Atlantic. Predatory removals were modelled in the same manner as fishing mortality, with a comparable set of time-series, to produce estimates of predation mortality at age and for each year. Results from the analysis showed that incorporating predation into a mackerel stock assessment model notably altered model outputs. When excluding explicitly modelled rates of predation, the model underestimated the magnitude and uncertainty in spawning-stock biomass (SSB) and recruitment. Further, the rates of predation mortality varied across time and were higher for younger fish. Predation mortality was higher than fishing mortality for fish aged 1 year, approximately equal for 2-year-olds, and lower for older fish (3 years and older). Biological reference points for Atlantic mackerel differed considerably when predation mortality was included. For example, SSBMSY was more than twice as high in the model where predation was incorporated than in the fisheries-only model. Although there are several caveats to the predation model outputs, chief of which is that the estimates are conservative because some mackerel predators were excluded, the results demonstrate the feasibility of executing such an approach with an extant tool. The approach presented here ultimately has the advantage of detecting, and upon detection parsing out, the impact of predators relative to fisheries and has the potential to provide useful information to those interested in small pelagic fish and their associated fisheries.",
+  "authors": [
+    {
+      "name": "Hassan Moustahfid"
+    },
+    {
+      "name": "Jason S. Link"
+    },
+    {
+      "name": "William J. Overholtz"
+    },
+    {
+      "name": "Megan C. Tyrrell"
+    }
+  ],
+  "publication_year": 2009,
+  "cited_by_count": 43,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1975250828",
+    "https://openalex.org/W1975933594",
+    "https://openalex.org/W1994744806",
+    "https://openalex.org/W1998871093",
+    "https://openalex.org/W2012742697",
+    "https://openalex.org/W2027665073",
+    "https://openalex.org/W2035058341",
+    "https://openalex.org/W2050441977",
+    "https://openalex.org/W2065747561",
+    "https://openalex.org/W2071109279",
+    "https://openalex.org/W2083854664",
+    "https://openalex.org/W2097047487",
+    "https://openalex.org/W2101298479",
+    "https://openalex.org/W2115415514",
+    "https://openalex.org/W2123087732",
+    "https://openalex.org/W2127054171",
+    "https://openalex.org/W2150203206",
+    "https://openalex.org/W2170230705",
+    "https://openalex.org/W2317051445",
+    "https://openalex.org/W2479378631",
+    "https://openalex.org/W2739239850",
+    "https://openalex.org/W2795502180",
+    "https://openalex.org/W2796372386",
+    "https://openalex.org/W2800593293",
+    "https://openalex.org/W2800861024",
+    "https://openalex.org/W4292411114"
+  ]
+}

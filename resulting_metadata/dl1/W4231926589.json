@@ -1,0 +1,112 @@
+{
+  "id": "https://openalex.org/W4231926589",
+  "title": "The complementarity of single‐species and ecosystem‐oriented research in conservation research",
+  "abstract": "There has been much debate about the relative merits of single‐species vs ecosystem‐oriented research for conservation. This debate has become increasingly important in recent times as resource managers and policy makers in some jurisdictions focus on ecosystem‐level problems. We highlight the potential strengths and limitations of both kinds of research, discuss their complementarity and highlight problems that may arise where competition occurs between the two kinds of research. While a combination of approaches is ideal, a scarcity of funding, time, and expertise means it is impossible to study and manage each species, ecological process, or ecological pattern separately. Making decisions about priorities for the kinds of research, priorities for the kinds of conservation management, and associated allocation of scarce funds is a non‐trivial task. We argue for an approach whereby limited resources for conservation research are targeted at projects most likely to close important knowledge gaps, while also promoting ongoing synergies between single‐species and ecosystem‐oriented research.",
+  "authors": [
+    {
+      "name": "David B. Lindenmayer"
+    },
+    {
+      "name": "Joern Fischer"
+    },
+    {
+      "name": "Adam Felton"
+    },
+    {
+      "name": "Rebecca Montague‐Drake"
+    },
+    {
+      "name": "Adrian D. Manning"
+    },
+    {
+      "name": "Daniel Simberloff"
+    },
+    {
+      "name": "Kara N. Youngentob"
+    },
+    {
+      "name": "D. A. Saunders"
+    },
+    {
+      "name": "David Wilson"
+    },
+    {
+      "name": "Adam Felton"
+    },
+    {
+      "name": "Caroline J. Blackmore"
+    },
+    {
+      "name": "Arianne Lowe"
+    },
+    {
+      "name": "Suzi Bond"
+    },
+    {
+      "name": "Nicki Munro"
+    },
+    {
+      "name": "Carole P. Elliott"
+    }
+  ],
+  "publication_year": 2007,
+  "cited_by_count": 67,
+  "primary_topic": "Species Distribution and Climate Change",
+  "subfield_topic": "Ecological Modeling",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1449059109",
+    "https://openalex.org/W146734964",
+    "https://openalex.org/W1518148212",
+    "https://openalex.org/W1555462893",
+    "https://openalex.org/W1566741571",
+    "https://openalex.org/W1571758046",
+    "https://openalex.org/W1595231589",
+    "https://openalex.org/W1816769146",
+    "https://openalex.org/W1902818320",
+    "https://openalex.org/W1965431014",
+    "https://openalex.org/W1973406031",
+    "https://openalex.org/W1980177068",
+    "https://openalex.org/W1985698093",
+    "https://openalex.org/W1986367621",
+    "https://openalex.org/W1987355020",
+    "https://openalex.org/W1994715914",
+    "https://openalex.org/W1997455669",
+    "https://openalex.org/W2014225118",
+    "https://openalex.org/W2018510844",
+    "https://openalex.org/W2019312920",
+    "https://openalex.org/W2019614971",
+    "https://openalex.org/W2046999051",
+    "https://openalex.org/W2060597733",
+    "https://openalex.org/W2066610484",
+    "https://openalex.org/W2067215031",
+    "https://openalex.org/W2069994396",
+    "https://openalex.org/W2073792014",
+    "https://openalex.org/W2089662507",
+    "https://openalex.org/W2096473110",
+    "https://openalex.org/W2103317434",
+    "https://openalex.org/W2107551382",
+    "https://openalex.org/W2108787208",
+    "https://openalex.org/W2110933697",
+    "https://openalex.org/W2119662232",
+    "https://openalex.org/W2120660679",
+    "https://openalex.org/W2130647961",
+    "https://openalex.org/W2142289369",
+    "https://openalex.org/W2143194544",
+    "https://openalex.org/W2144743642",
+    "https://openalex.org/W2148001066",
+    "https://openalex.org/W2159422098",
+    "https://openalex.org/W2161472960",
+    "https://openalex.org/W2161880071",
+    "https://openalex.org/W2167942345",
+    "https://openalex.org/W2185752871",
+    "https://openalex.org/W2241389096",
+    "https://openalex.org/W2326051474",
+    "https://openalex.org/W2326888667",
+    "https://openalex.org/W2330675018",
+    "https://openalex.org/W2332579008",
+    "https://openalex.org/W2400377820",
+    "https://openalex.org/W380022308"
+  ]
+}

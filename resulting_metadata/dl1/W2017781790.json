@@ -1,0 +1,61 @@
+{
+  "id": "https://openalex.org/W2017781790",
+  "title": "Exponential lower bounds for finding Brouwer fix points",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Michael D. Hirsch"
+    },
+    {
+      "name": "Christos H. Papadimitriou"
+    },
+    {
+      "name": "Stephen A. Vavasis"
+    }
+  ],
+  "publication_year": 1989,
+  "cited_by_count": 150,
+  "primary_topic": "Economic theories and models",
+  "subfield_topic": "Economics and Econometrics",
+  "field_topic": "Economics, Econometrics and Finance",
+  "domain_topic": "Social Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1556404426",
+    "https://openalex.org/W1571051474",
+    "https://openalex.org/W171323660",
+    "https://openalex.org/W1768197485",
+    "https://openalex.org/W1969768653",
+    "https://openalex.org/W1977182315",
+    "https://openalex.org/W1983420969",
+    "https://openalex.org/W1996235018",
+    "https://openalex.org/W1999560964",
+    "https://openalex.org/W2002273082",
+    "https://openalex.org/W2006786362",
+    "https://openalex.org/W2014023337",
+    "https://openalex.org/W2027621512",
+    "https://openalex.org/W2035699877",
+    "https://openalex.org/W2039122385",
+    "https://openalex.org/W2060186712",
+    "https://openalex.org/W2060518702",
+    "https://openalex.org/W2067050450",
+    "https://openalex.org/W2070994188",
+    "https://openalex.org/W2079908347",
+    "https://openalex.org/W2084312524",
+    "https://openalex.org/W2089649903",
+    "https://openalex.org/W2127261008",
+    "https://openalex.org/W2136742671",
+    "https://openalex.org/W2152122625",
+    "https://openalex.org/W2165807407",
+    "https://openalex.org/W2181413776",
+    "https://openalex.org/W2322176179",
+    "https://openalex.org/W2325602681",
+    "https://openalex.org/W2608035954",
+    "https://openalex.org/W2977692256",
+    "https://openalex.org/W2984019567",
+    "https://openalex.org/W3104476961",
+    "https://openalex.org/W3123022539",
+    "https://openalex.org/W4234277722",
+    "https://openalex.org/W4241429862",
+    "https://openalex.org/W4246447829"
+  ]
+}

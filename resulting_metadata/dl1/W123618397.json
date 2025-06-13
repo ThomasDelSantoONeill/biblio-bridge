@@ -1,0 +1,26 @@
+{
+  "id": "https://openalex.org/W123618397",
+  "title": "An Ecosim Model for Exploring Gulf of Mexico Ecosystem Management Options: Implications of Including Multistanza Life-History Models for Policy Predictions",
+  "abstract": "An Ecopath-Ecosim ecosystem model under development for coastal areas of the Gulf of Mexico simulates responses of 63 biomass pools to changes in fisheries and primary productivity. Ten key species are represented by detailed, multistanza population-dynamics models (31 of the biomass pools) that attempt to account explicitly for possible changes in recruitment rates due to changes in by-catch rates and trophic interactions. Over a 1950-2004 historical reference period, the model shows good simulated agreement with time-series patterns estimated from stock assessment and relative abundance index data for many of the species, and in particular it offers an explanation for apparent nonstationarity in natural mortality rates of menhaden (declining apparent M over time). It makes one highly counterintuitive policy prediction about impacts of management efforts aimed at reducing by-catch in the shrimp trawl fishery, namely that by-catch reduction may cause negative impacts on productivity of several valued species [menhaden, Brevoortia patronus Goode, 1878; red drum, Sciaenops ocellatus (Linnaeus, 1766); red snapper, Lutjanus campechanus (Poey, 1860)] by allowing recovery of some benthic predators such as catfishes [Arius felis (Linnaeus, 1766), Bagre marinus (Mitchill, 1815)] that have been reduced by trawling but are also potentially important predators on juveniles of the valued species. Recognition of this policy implication would have been impossible without explicit, multistanza representation of juvenile life histories and trophic interactions, because the predicted changes in predation regimes represent only very small overall biomass fluxes.",
+  "authors": [
+    {
+      "name": "Carl J. Walters"
+    },
+    {
+      "name": "Steven J.D. Martell"
+    },
+    {
+      "name": "Villy Christensen"
+    },
+    {
+      "name": "Behzad Mahmoudi"
+    }
+  ],
+  "publication_year": 2008,
+  "cited_by_count": 99,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": []
+}

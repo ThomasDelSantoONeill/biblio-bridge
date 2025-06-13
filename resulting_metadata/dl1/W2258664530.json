@@ -1,0 +1,28 @@
+{
+  "id": "https://openalex.org/W2258664530",
+  "title": "Models that predict ecosystem impacts of reintroductions should consider uncertainty and distinguish between direct and indirect effects",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Christopher M. Baker"
+    },
+    {
+      "name": "Michael Bode"
+    },
+    {
+      "name": "Michael A. McCarthy"
+    }
+  ],
+  "publication_year": 2016,
+  "cited_by_count": 10,
+  "primary_topic": "Cognitive Science and Mapping",
+  "subfield_topic": "Artificial Intelligence",
+  "field_topic": "Computer Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1608302001",
+    "https://openalex.org/W1877187717",
+    "https://openalex.org/W2074845317",
+    "https://openalex.org/W2128868249"
+  ]
+}

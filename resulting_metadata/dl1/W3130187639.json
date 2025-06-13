@@ -1,0 +1,72 @@
+{
+  "id": "https://openalex.org/W3130187639",
+  "title": "Fish harvesting advice under climate change: A risk-equivalent empirical approach",
+  "abstract": "The rate of climate change (CC) has accelerated to the point where it now affects the mid- to long-term sustainability of fishing strategies. Therefore, it is important to consider practical and effective ways to incorporate CC into fisheries advice so that the advice can be considered conditioned to CC. We developed a model to characterise the empirical relationship between a variable affected by climate and fish production. We then used model projections as a foundation for a risk analysis of CC effects on harvesting of Greenland halibut Reinhardtius hippoglossoides in the Gulf of St Lawrence, Canada. The risk-based approach quantified a) the relative change in risk of a status quo fishing strategy under various CC scenarios, and b) the change in fishery exploitation rates required to achieve a management objective over a specified time period at a level of risk considered acceptable (risk equivalent fishery exploitation advice). This empirical approach can be used to develop risk-based advice for any other external variable that affects stock production in addition to climate-related variables and it can be applied in most situations where there is an index of stock biomass and fisheries catch. Shifting the focus from process-based understanding of the responses of fish stocks to CC to quantification of how CC-contributed uncertainty can alter the risks associated with different fishing strategies and/or management options, can ensure timely delivery of robust scientific advice for fisheries under non-stationary environmental conditions.",
+  "authors": [
+    {
+      "name": "Daniel E. Duplisea"
+    },
+    {
+      "name": "Marie‐Julie Roux"
+    },
+    {
+      "name": "Karen L. Hunter"
+    },
+    {
+      "name": "Jake Rice"
+    }
+  ],
+  "publication_year": 2021,
+  "cited_by_count": 23,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1893267984",
+    "https://openalex.org/W1913634902",
+    "https://openalex.org/W1932009739",
+    "https://openalex.org/W1978634036",
+    "https://openalex.org/W1981565127",
+    "https://openalex.org/W2002744460",
+    "https://openalex.org/W2009682367",
+    "https://openalex.org/W2035730201",
+    "https://openalex.org/W2036945492",
+    "https://openalex.org/W2047659622",
+    "https://openalex.org/W2050761907",
+    "https://openalex.org/W2051567334",
+    "https://openalex.org/W2056456905",
+    "https://openalex.org/W2057196063",
+    "https://openalex.org/W2089225194",
+    "https://openalex.org/W2105385194",
+    "https://openalex.org/W2106261710",
+    "https://openalex.org/W2109619252",
+    "https://openalex.org/W2110310854",
+    "https://openalex.org/W2114706971",
+    "https://openalex.org/W2122974269",
+    "https://openalex.org/W2130870465",
+    "https://openalex.org/W2154277394",
+    "https://openalex.org/W2174462943",
+    "https://openalex.org/W2263268167",
+    "https://openalex.org/W2285935205",
+    "https://openalex.org/W2313961171",
+    "https://openalex.org/W2314921500",
+    "https://openalex.org/W2316948813",
+    "https://openalex.org/W2471309530",
+    "https://openalex.org/W2529483981",
+    "https://openalex.org/W2535841754",
+    "https://openalex.org/W2558569329",
+    "https://openalex.org/W2560442616",
+    "https://openalex.org/W2897834522",
+    "https://openalex.org/W2912891678",
+    "https://openalex.org/W2914252064",
+    "https://openalex.org/W2973027272",
+    "https://openalex.org/W3003812103",
+    "https://openalex.org/W3104684983",
+    "https://openalex.org/W3116559788",
+    "https://openalex.org/W3159281654",
+    "https://openalex.org/W4231070758",
+    "https://openalex.org/W4252711903",
+    "https://openalex.org/W4285719527"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "https://openalex.org/W2318286566",
+  "title": "Statistics for Biologists",
+  "abstract": "Preface Preface to second edition Preface to third edition 1. What is statistics about? 2. Presenting the information contained in one sample 3. Comparing several samples 4. Association 5. Choosing between actions 6. The normal distribution 7. The normal vartiable in experiments and surveys 8. Associated normal variables 9. Some non-normal distributions Further reading References Appendix Index.",
+  "authors": [
+    {
+      "name": "R. C. Campbell"
+    }
+  ],
+  "publication_year": 1967,
+  "cited_by_count": 388,
+  "primary_topic": "Genetic and phenotypic traits in livestock",
+  "subfield_topic": "Genetics",
+  "field_topic": "Biochemistry, Genetics and Molecular Biology",
+  "domain_topic": "Life Sciences",
+  "referenced_works": []
+}

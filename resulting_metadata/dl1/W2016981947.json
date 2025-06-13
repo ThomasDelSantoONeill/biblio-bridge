@@ -1,0 +1,43 @@
+{
+  "id": "https://openalex.org/W2016981947",
+  "title": "A Statistical Model for Stock Assessment of Southern Bluefin Tuna with Temporal Changes in Selectivity",
+  "abstract": "Assessment of the status of southern bluefin tuna (SBT) by Australia and Japan has used a method (ADAPT) that imposes a number of structural restrictions, and is similar to methods used for a number of stocks world-wide. A flexible method for assessment of the SBT population is presented that is much less restrictive and has potentially wide applicability. The three key features are: (1) all fitting to data is within the context of maximum likelihood, (2) catch-at-age data are not assumed to be without error (as in existing methods), but rather to be random variables, while age-specific selectivity is allowed to change over time within the bounds of specific structure, and (3) autocorrelation in recruitment processes is considered within the likelihood framework of the model. While the results suggest the stock has been depleted considerably from its virgin biomass, and are generally consistent with previous assessments, they also indicate that it is not as much below the biomass that will produce maximum suitable yield as previously estimated and that the extent of stock rebuilding necessary may not be as large as has been argued. The available data are shown to provide little information on the steepness parameter of the stock-recruitment function, and hence on sustainable catch levels for the stock.",
+  "authors": [
+    {
+      "name": "Doug S Butterworth"
+    },
+    {
+      "name": "James N. Ianelli"
+    },
+    {
+      "name": "Ray Hilborn"
+    }
+  ],
+  "publication_year": 2003,
+  "cited_by_count": 52,
+  "primary_topic": "Fish Ecology and Management Studies",
+  "subfield_topic": "Nature and Landscape Conservation",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W156230102",
+    "https://openalex.org/W1599127549",
+    "https://openalex.org/W1975250828",
+    "https://openalex.org/W2008585602",
+    "https://openalex.org/W2015617037",
+    "https://openalex.org/W2022832113",
+    "https://openalex.org/W2045656233",
+    "https://openalex.org/W204940627",
+    "https://openalex.org/W2052850964",
+    "https://openalex.org/W2053289371",
+    "https://openalex.org/W2079115388",
+    "https://openalex.org/W2083854664",
+    "https://openalex.org/W2100904586",
+    "https://openalex.org/W2104759740",
+    "https://openalex.org/W2119193905",
+    "https://openalex.org/W2120337046",
+    "https://openalex.org/W2142096691",
+    "https://openalex.org/W2760274926",
+    "https://openalex.org/W4285719527"
+  ]
+}

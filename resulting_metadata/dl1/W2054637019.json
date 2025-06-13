@@ -1,0 +1,45 @@
+{
+  "id": "https://openalex.org/W2054637019",
+  "title": "Food Web Complexity and Species Diversity",
+  "abstract": "It is suggested that local animal species diversity is related to the number of predators in the system and their efficiency in preventing single species from monopolizing some important, limiting, requisite. In the marine rocky intertidal this requisite usually is space. Where predators capable of preventing monopolies are missing, or are experimentally removed, the systems become less diverse. On a local scale, no relationship between latitude (10⚬ to 49⚬ N.) and diversity was found. On a geographic scale, an increased stability of annual production may lead to an increased capacity for systems to support higher-level carnivores. Hence tropical, or other, ecosystems are more diverse, and are characterized by disproportionately more carnivores.",
+  "authors": [
+    {
+      "name": "Robert T. Paine"
+    }
+  ],
+  "publication_year": 1966,
+  "cited_by_count": 5264,
+  "primary_topic": "Isotope Analysis in Ecology",
+  "subfield_topic": "Ecology",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1148965617",
+    "https://openalex.org/W1973688100",
+    "https://openalex.org/W1987877523",
+    "https://openalex.org/W1988997784",
+    "https://openalex.org/W1989860243",
+    "https://openalex.org/W1990498142",
+    "https://openalex.org/W2009840171",
+    "https://openalex.org/W2017549609",
+    "https://openalex.org/W2020931157",
+    "https://openalex.org/W2036340873",
+    "https://openalex.org/W2038277085",
+    "https://openalex.org/W2041192555",
+    "https://openalex.org/W2048463265",
+    "https://openalex.org/W2061466471",
+    "https://openalex.org/W2080991244",
+    "https://openalex.org/W2093443837",
+    "https://openalex.org/W2096921364",
+    "https://openalex.org/W2113007429",
+    "https://openalex.org/W2122115419",
+    "https://openalex.org/W2157258388",
+    "https://openalex.org/W2319034030",
+    "https://openalex.org/W2487354428",
+    "https://openalex.org/W2602193252",
+    "https://openalex.org/W2765168542",
+    "https://openalex.org/W2883603758",
+    "https://openalex.org/W4255526716",
+    "https://openalex.org/W561077102"
+  ]
+}

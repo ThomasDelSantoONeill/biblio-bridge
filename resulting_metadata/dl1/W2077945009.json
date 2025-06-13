@@ -1,0 +1,60 @@
+{
+  "id": "https://openalex.org/W2077945009",
+  "title": "Panaceas, uncertainty, and the robust control framework in sustainability science",
+  "abstract": "A critical challenge faced by sustainability science is to develop strategies to cope with highly uncertain social and ecological dynamics. This article explores the use of the robust control framework toward this end. After briefly outlining the robust control framework, we apply it to the traditional Gordon–Schaefer fishery model to explore fundamental performance–robustness and robustness–vulnerability trade-offs in natural resource management. We find that the classic optimal control policy can be very sensitive to parametric uncertainty. By exploring a large class of alternative strategies, we show that there are no panaceas: even mild robustness properties are difficult to achieve, and increasing robustness to some parameters (e.g., biological parameters) results in decreased robustness with respect to others (e.g., economic parameters). On the basis of this example, we extract some broader themes for better management of resources under uncertainty and for sustainability science in general. Specifically, we focus attention on the importance of a continual learning process and the use of robust control to inform this process.",
+  "authors": [
+    {
+      "name": "John M. Anderies"
+    },
+    {
+      "name": "Armando A. Rodriguez"
+    },
+    {
+      "name": "Marco A. Janssen"
+    },
+    {
+      "name": "Oğuzhan Çifdalöz"
+    }
+  ],
+  "publication_year": 2007,
+  "cited_by_count": 165,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1534966272",
+    "https://openalex.org/W1563603261",
+    "https://openalex.org/W1573084417",
+    "https://openalex.org/W1573550164",
+    "https://openalex.org/W1600406586",
+    "https://openalex.org/W1980003788",
+    "https://openalex.org/W2000414400",
+    "https://openalex.org/W2002444764",
+    "https://openalex.org/W2019463479",
+    "https://openalex.org/W2020377393",
+    "https://openalex.org/W2028828529",
+    "https://openalex.org/W2040712382",
+    "https://openalex.org/W2042464037",
+    "https://openalex.org/W2048020255",
+    "https://openalex.org/W2060003125",
+    "https://openalex.org/W2071962320",
+    "https://openalex.org/W2073205541",
+    "https://openalex.org/W2074835946",
+    "https://openalex.org/W2076420009",
+    "https://openalex.org/W2100343889",
+    "https://openalex.org/W2103907214",
+    "https://openalex.org/W2114489703",
+    "https://openalex.org/W2117765568",
+    "https://openalex.org/W2169740263",
+    "https://openalex.org/W2506480909",
+    "https://openalex.org/W2798261169",
+    "https://openalex.org/W2978224848",
+    "https://openalex.org/W3088713371",
+    "https://openalex.org/W3122868212",
+    "https://openalex.org/W3201558565",
+    "https://openalex.org/W381126145",
+    "https://openalex.org/W4233654598",
+    "https://openalex.org/W4299610040"
+  ]
+}

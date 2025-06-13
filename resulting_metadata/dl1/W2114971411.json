@@ -1,0 +1,130 @@
+{
+  "id": "https://openalex.org/W2114971411",
+  "title": "Where are Cultural and Social in Ecosystem Services? A Framework for Constructive Engagement",
+  "abstract": "A focus on ecosystem services (ES) is seen as a means for improving decisionmaking. In the research to date, the valuation of the material contributions of ecosystems to human well-being has been emphasized, with less attention to important cultural ES and nonmaterial values. This gap persists because there is no commonly accepted framework for eliciting less tangible values, characterizing their changes, and including them alongside other services in decisionmaking. Here, we develop such a framework for ES research and practice, addressing three challenges: (1) Nonmaterial values are ill suited to characterization using monetary methods; (2) it is difficult to unequivocally link particular changes in socioecological systems to particular changes in cultural benefits; and (3) cultural benefits are associated with many services, not just cultural ES. There is no magic bullet, but our framework may facilitate fuller and more socially acceptable integrations of ES information into planning and management.",
+  "authors": [
+    {
+      "name": "Kai M. A. Chan"
+    },
+    {
+      "name": "Anne D. Guerry"
+    },
+    {
+      "name": "Patricia Balvanera"
+    },
+    {
+      "name": "Sarah C. Klain"
+    },
+    {
+      "name": "Terre Satterfield"
+    },
+    {
+      "name": "Xavier Basurto"
+    },
+    {
+      "name": "Ann Bostrom"
+    },
+    {
+      "name": "Ratana Chuenpagdee"
+    },
+    {
+      "name": "Rachelle K. Gould"
+    },
+    {
+      "name": "Benjamin S. Halpern"
+    },
+    {
+      "name": "Neil Hannahs"
+    },
+    {
+      "name": "Jordan Levine"
+    },
+    {
+      "name": "Bryan G. Norton"
+    },
+    {
+      "name": "Mary Ruckelshaus"
+    },
+    {
+      "name": "Roly Russell"
+    },
+    {
+      "name": "Jordan Tam"
+    },
+    {
+      "name": "Ulalia Woodside"
+    }
+  ],
+  "publication_year": 2012,
+  "cited_by_count": 962,
+  "primary_topic": "Land Use and Ecosystem Services",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1508886745",
+    "https://openalex.org/W1522014055",
+    "https://openalex.org/W1524049725",
+    "https://openalex.org/W1527452312",
+    "https://openalex.org/W1551533759",
+    "https://openalex.org/W1564478303",
+    "https://openalex.org/W1577860521",
+    "https://openalex.org/W166217187",
+    "https://openalex.org/W1830492802",
+    "https://openalex.org/W1911711584",
+    "https://openalex.org/W1972179334",
+    "https://openalex.org/W1980834982",
+    "https://openalex.org/W2003605835",
+    "https://openalex.org/W2020200324",
+    "https://openalex.org/W2023399418",
+    "https://openalex.org/W2027793824",
+    "https://openalex.org/W2029648951",
+    "https://openalex.org/W2032020911",
+    "https://openalex.org/W2034252059",
+    "https://openalex.org/W2034994370",
+    "https://openalex.org/W2036193291",
+    "https://openalex.org/W2038733900",
+    "https://openalex.org/W2041515374",
+    "https://openalex.org/W2042464037",
+    "https://openalex.org/W2048058487",
+    "https://openalex.org/W2051211133",
+    "https://openalex.org/W2058923887",
+    "https://openalex.org/W2085352565",
+    "https://openalex.org/W2085425015",
+    "https://openalex.org/W2085865532",
+    "https://openalex.org/W2086498757",
+    "https://openalex.org/W2099784075",
+    "https://openalex.org/W2100751536",
+    "https://openalex.org/W2102851297",
+    "https://openalex.org/W2123810646",
+    "https://openalex.org/W2124565737",
+    "https://openalex.org/W2125950410",
+    "https://openalex.org/W2129974232",
+    "https://openalex.org/W2134000397",
+    "https://openalex.org/W2141684699",
+    "https://openalex.org/W2146056012",
+    "https://openalex.org/W2153779825",
+    "https://openalex.org/W2167350119",
+    "https://openalex.org/W2203642181",
+    "https://openalex.org/W2229095798",
+    "https://openalex.org/W2241616371",
+    "https://openalex.org/W2248206381",
+    "https://openalex.org/W2286922478",
+    "https://openalex.org/W2298978182",
+    "https://openalex.org/W2475932282",
+    "https://openalex.org/W2496129713",
+    "https://openalex.org/W2746485780",
+    "https://openalex.org/W2805814132",
+    "https://openalex.org/W3013984851",
+    "https://openalex.org/W3121503710",
+    "https://openalex.org/W3150604714",
+    "https://openalex.org/W4236428803",
+    "https://openalex.org/W4236652057",
+    "https://openalex.org/W4244854298",
+    "https://openalex.org/W4246050336",
+    "https://openalex.org/W4256369192",
+    "https://openalex.org/W4302325984",
+    "https://openalex.org/W629180199",
+    "https://openalex.org/W91209090"
+  ]
+}

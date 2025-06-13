@@ -1,0 +1,20 @@
+{
+  "id": "https://openalex.org/W1975250828",
+  "title": "A General Theory for Analyzing Catch at Age Data",
+  "abstract": "We present a general theory for analyzing catch at age data for a fishery. This theory seems to be the first to address itself properly to the stochastic nature of the errors in the observed catch at age data. The model developed is very flexible and accommodates itself easily to the inclusion of extra information such as fishing effort data or information about errors in the aging procedure. An example is given to illustrate the use of the model.Key words: cohort analysis, virtual population analysis, maximum likelihood estimation, aging errors",
+  "authors": [
+    {
+      "name": "David Fournier"
+    },
+    {
+      "name": "Chris Archibald"
+    }
+  ],
+  "publication_year": 1982,
+  "cited_by_count": 439,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": []
+}

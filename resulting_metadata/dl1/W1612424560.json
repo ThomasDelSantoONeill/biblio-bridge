@@ -1,0 +1,41 @@
+{
+  "id": "https://openalex.org/W1612424560",
+  "title": "Time to model all life on Earth",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Drew W. Purves"
+    },
+    {
+      "name": "Jörn P. W. Scharlemann"
+    },
+    {
+      "name": "Mike Harfoot"
+    },
+    {
+      "name": "Tim Newbold"
+    },
+    {
+      "name": "Derek P. Tittensor"
+    },
+    {
+      "name": "Jon Hutton"
+    },
+    {
+      "name": "Stephen Emmott"
+    }
+  ],
+  "publication_year": 2013,
+  "cited_by_count": 170,
+  "primary_topic": "Species Distribution and Climate Change",
+  "subfield_topic": "Ecological Modeling",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1990566709",
+    "https://openalex.org/W1996816368",
+    "https://openalex.org/W2069005304",
+    "https://openalex.org/W2114795157",
+    "https://openalex.org/W2116422701"
+  ]
+}

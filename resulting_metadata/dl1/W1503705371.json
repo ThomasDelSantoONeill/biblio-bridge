@@ -1,0 +1,22 @@
+{
+  "id": "https://openalex.org/W1503705371",
+  "title": "No Free Lunch Theorems for Search",
+  "abstract": "We show that all algorithms that search for an extremum of a cost function perform exactly the same, when averaged over all possible cost functions. In particular, if algorithm A outperforms algorithm B on some cost functions, then loosely speaking there must exist exactly as many other functions where B outperforms A. Starting from this we analyze a number of the other a priori characteristics of the search problem, like its geometry and its information-theoretic aspects. This analysis allows us to derive mathematical benchmarks for assessing a particular search algorithm's performance. We also investigate minimax aspects of the search problem, the validity of using characteristics of a partial search over a cost function to predict future behavior of the search algorithm on that cost function, and time-varying cost functions. We conclude with some discussion of the justifiablility of biologically-inspired search methods.",
+  "authors": [
+    {
+      "name": "David H. Wolpert"
+    },
+    {
+      "name": "William G. Macready"
+    }
+  ],
+  "publication_year": 1995,
+  "cited_by_count": 953,
+  "primary_topic": "Metaheuristic Optimization Algorithms Research",
+  "subfield_topic": "Artificial Intelligence",
+  "field_topic": "Computer Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W3148406369"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "https://openalex.org/W2083896953",
+  "title": "Competition Between Seed-Eating Rodents and Ants in Desert Ecosystems",
+  "abstract": "Three kinds of evidence indicate that desert rodents and ants compete for seeds: (i) extensive overlaps in diet, (ii) reciprocal increases when one taxon is experimentally excluded, and (iii) complementary patterns of diversity and biomass in geographic gradients of productivity. The effect on seed resources and annual plants seems to be similar whether rodents, ants, or both are foraging.",
+  "authors": [
+    {
+      "name": "James H. Brown"
+    },
+    {
+      "name": "Diane W. Davidson"
+    }
+  ],
+  "publication_year": 1977,
+  "cited_by_count": 364,
+  "primary_topic": "Plant and animal studies",
+  "subfield_topic": "Ecology, Evolution, Behavior and Systematics",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1965367979",
+    "https://openalex.org/W1979492398",
+    "https://openalex.org/W1994507967",
+    "https://openalex.org/W2034637962",
+    "https://openalex.org/W2034690972",
+    "https://openalex.org/W2039173319",
+    "https://openalex.org/W2055000198",
+    "https://openalex.org/W2090933924",
+    "https://openalex.org/W2100016344",
+    "https://openalex.org/W2111691057",
+    "https://openalex.org/W2163423477",
+    "https://openalex.org/W2321937847",
+    "https://openalex.org/W2325569094",
+    "https://openalex.org/W2329694512"
+  ]
+}

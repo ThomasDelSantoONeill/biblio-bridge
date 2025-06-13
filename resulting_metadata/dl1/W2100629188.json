@@ -1,0 +1,82 @@
+{
+  "id": "https://openalex.org/W2100629188",
+  "title": "Selecting relative abundance proxies for BMSY and BMEY",
+  "abstract": "Abstract The objectives for many commercial fisheries include maximizing either yield or profit. Clearly specified management targets are a key element of effective fisheries management. Biomass targets are often specified for major commercial fisheries that are managed using quantitative stock assessments where biomass is calculated and tracked over time. BMSY, the biomass corresponding to Maximum Sustainable Yield, is often used as a target when maximizing yield is important, while BMEY is the biomass target to maximize profit. There are difficulties in estimating both quantities accurately, and this paper explores default proxies for each target biomass, expressed as biomass levels relative to carrying capacity, which are more easily estimated. Integration across a range of uncertainties about stock dynamics and the costs of fishing suggests that a proxy for BMSY in the range of 35–40% of carrying capacity minimizes the potential loss in yield compared with that which would arise if BMSY was known exactly, while a proxy for BMEY of 50–60% of carrying capacity minimizes the corresponding potential loss in profit. These estimates can be refined given stock-specific information regarding productivity (particularly the parameter which defines the resilience of recruitment to changes in spawning stock size) and costs and prices. It is more difficult to find a biomass level that achieves a high expected profit than a biomass level that achieves a high expected catch, because the former is sensitive to uncertainties related to costs and prices, as well as parameters which determine productivity.",
+  "authors": [
+    {
+      "name": "André E. Punt"
+    },
+    {
+      "name": "Anthony D. M. Smith"
+    },
+    {
+      "name": "David C. Smith"
+    },
+    {
+      "name": "Geoffrey N. Tuck"
+    },
+    {
+      "name": "Neil Klaer"
+    }
+  ],
+  "publication_year": 2013,
+  "cited_by_count": 74,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1490279797",
+    "https://openalex.org/W1492835558",
+    "https://openalex.org/W149997238",
+    "https://openalex.org/W1543409689",
+    "https://openalex.org/W1582073618",
+    "https://openalex.org/W1592169906",
+    "https://openalex.org/W1883979350",
+    "https://openalex.org/W1887592563",
+    "https://openalex.org/W1972064083",
+    "https://openalex.org/W1994727944",
+    "https://openalex.org/W1995059600",
+    "https://openalex.org/W2009682367",
+    "https://openalex.org/W2012286597",
+    "https://openalex.org/W2028717723",
+    "https://openalex.org/W2031569377",
+    "https://openalex.org/W2032392783",
+    "https://openalex.org/W2043984082",
+    "https://openalex.org/W2056005351",
+    "https://openalex.org/W2065545475",
+    "https://openalex.org/W2066819488",
+    "https://openalex.org/W2066927312",
+    "https://openalex.org/W2072079115",
+    "https://openalex.org/W2075605723",
+    "https://openalex.org/W2077464850",
+    "https://openalex.org/W2079864325",
+    "https://openalex.org/W2093388822",
+    "https://openalex.org/W2094377757",
+    "https://openalex.org/W2105755511",
+    "https://openalex.org/W2113470865",
+    "https://openalex.org/W2119864223",
+    "https://openalex.org/W2123046740",
+    "https://openalex.org/W2130870465",
+    "https://openalex.org/W2136069079",
+    "https://openalex.org/W2141910352",
+    "https://openalex.org/W2145378599",
+    "https://openalex.org/W2147505534",
+    "https://openalex.org/W2148311895",
+    "https://openalex.org/W2153506831",
+    "https://openalex.org/W2156523992",
+    "https://openalex.org/W2162508359",
+    "https://openalex.org/W2163956022",
+    "https://openalex.org/W2165809550",
+    "https://openalex.org/W2224765085",
+    "https://openalex.org/W2466731970",
+    "https://openalex.org/W2494209169",
+    "https://openalex.org/W2736956077",
+    "https://openalex.org/W4230486136",
+    "https://openalex.org/W4247155106",
+    "https://openalex.org/W4252711903",
+    "https://openalex.org/W4253739688",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W4378233613"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "https://openalex.org/W2295815851",
+  "title": "Segmentation problems",
+  "abstract": "Article Segmentation problems Share on Authors: Jon Kleinberg Department of Computer Science, Cornell University, Ithaca, NY Department of Computer Science, Cornell University, Ithaca, NYView Profile , Christos Papadimitriou Computer Science Division, Soda Hall, UC Berkeley, CA Computer Science Division, Soda Hall, UC Berkeley, CAView Profile , Prabhakar Raghavan IBM Almaden Research Center, 650 Harry Road, San Jose, CA IBM Almaden Research Center, 650 Harry Road, San Jose, CAView Profile Authors Info & Claims STOC '98: Proceedings of the thirtieth annual ACM symposium on Theory of computingMay 1998 Pages 473–482https://doi.org/10.1145/276698.276860Online:23 May 1998Publication History 58citation883DownloadsMetricsTotal Citations58Total Downloads883Last 12 Months32Last 6 weeks8 Get Citation AlertsNew Citation Alert added!This alert has been successfully added and will be sent to:You will be notified whenever a record that you have chosen has been cited.To manage your alert preferences, click on the button below.Manage my AlertsNew Citation Alert!Please log in to your account Save to BinderSave to BinderCreate a New BinderNameCancelCreateExport CitationPublisher SiteGet Access",
+  "authors": [
+    {
+      "name": "Jon Kleinberg"
+    },
+    {
+      "name": "Christos H. Papadimitriou"
+    },
+    {
+      "name": "Prabhakar Raghavan"
+    }
+  ],
+  "publication_year": 1998,
+  "cited_by_count": 90,
+  "primary_topic": "Algorithms and Data Compression",
+  "subfield_topic": "Artificial Intelligence",
+  "field_topic": "Computer Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W135311109",
+    "https://openalex.org/W1571035772",
+    "https://openalex.org/W157477790",
+    "https://openalex.org/W166194309",
+    "https://openalex.org/W1680189815",
+    "https://openalex.org/W2027048490",
+    "https://openalex.org/W2037965136",
+    "https://openalex.org/W2054784808",
+    "https://openalex.org/W2076746184",
+    "https://openalex.org/W2114473842",
+    "https://openalex.org/W2127470768",
+    "https://openalex.org/W2133311553",
+    "https://openalex.org/W2136663836",
+    "https://openalex.org/W2153028052",
+    "https://openalex.org/W2166559705",
+    "https://openalex.org/W2998574808"
+  ]
+}

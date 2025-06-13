@@ -1,0 +1,37 @@
+{
+  "id": "https://openalex.org/W3027398553",
+  "title": "COVID-19 recovery can benefit biodiversity",
+  "abstract": "Coronavirus disease 2019 (COVID-19) is a global crisis. Severe interruptions to international trade and travel are crippling economies and forcing reevaluation of economic, health, and environmental trajectories. Given that COVID-19 has triggered widespread changes in human behavior and reductions in pollution (1, 2), it presents opportunities for further positive change. Lockdowns have spurred households to rethink consumer needs, making now an opportune time to promote sustainable consumer choices that will become more engrained with prolonged exposure (1). How we emerge from the state of lockdowns will drive a new world economy with lasting effects on global biodiversity and supply chains (3, 4).",
+  "authors": [
+    {
+      "name": "Ryan M. Pearson"
+    },
+    {
+      "name": "Michael Sievers"
+    },
+    {
+      "name": "Eva C. McClure"
+    },
+    {
+      "name": "Mischa P. Turschwell"
+    },
+    {
+      "name": "Rod M. Connolly"
+    }
+  ],
+  "publication_year": 2020,
+  "cited_by_count": 56,
+  "primary_topic": "Zoonotic diseases and public health",
+  "subfield_topic": "Public Health, Environmental and Occupational Health",
+  "field_topic": "Medicine",
+  "domain_topic": "Health Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1964220360",
+    "https://openalex.org/W2037309013",
+    "https://openalex.org/W3004280078",
+    "https://openalex.org/W3009792892",
+    "https://openalex.org/W3013360880",
+    "https://openalex.org/W3013831298",
+    "https://openalex.org/W3013982404"
+  ]
+}

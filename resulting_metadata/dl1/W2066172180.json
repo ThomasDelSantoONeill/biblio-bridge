@@ -1,0 +1,45 @@
+{
+  "id": "https://openalex.org/W2066172180",
+  "title": "SAGEBRUSH–GRASS VEGETATION DYNAMICS: COMPARING CLASSICAL AND STATE-TRANSITION MODELS",
+  "abstract": "The State-Transition (ST) model has been proposed as a replacement for the widely used Classical linear succession model and its derivative Range Condition (RC) model for describing and predicting rangeland community dynamics in response to management. Although the ST model offers significant advantages because it accommodates nonlinear and nonequilibrium theory and is more amenable to quantitative testing of hypotheses about community change, to date its applications have not fully utilized those advantages using empirical data. We compare the utility of the Classical, RC, and ST models in the Artemisia tridentata/Pseudoroegneria spicata vegetation type, utilizing a long-term data set from southeastern Oregon. First we develop and examine the Classical and RC models for their ability to describe and predict observed vegetation changes; second we develop an ST model by classifying and quantitatively identifying states and transitions that were observed over a period of 20 yr. The Classical and RC models adequately describe most of the observed changes in vegetation through use and application of broad descriptive categories on extensive range sites. This greatly reduces the utility and predictive value of the Classical and RC approaches as guides to management and restoration. The states and transitions developed quantitatively for the ST model offer considerably more precision and predictive value than the Classical/RC models but require large, long-term, site-specific data sets, which are usually not available for rangeland systems. The specific seral stages developed for the Classical model and commonly described in the literature differ significantly from the states and transitions derived quantitatively from the empirical data. States in the ST model exhibit a significant time dependency and could not have been adequately developed without long-term observations.",
+  "authors": [
+    {
+      "name": "Barbara Allen‐Diaz"
+    },
+    {
+      "name": "James W. Bartolome"
+    }
+  ],
+  "publication_year": 1998,
+  "cited_by_count": 90,
+  "primary_topic": "Rangeland and Wildlife Management",
+  "subfield_topic": "Ecology",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W119378269",
+    "https://openalex.org/W1273791837",
+    "https://openalex.org/W152761017",
+    "https://openalex.org/W1964800771",
+    "https://openalex.org/W2015801070",
+    "https://openalex.org/W2024482661",
+    "https://openalex.org/W2027293717",
+    "https://openalex.org/W2037624019",
+    "https://openalex.org/W2062631198",
+    "https://openalex.org/W2124773809",
+    "https://openalex.org/W2159451671",
+    "https://openalex.org/W2244095041",
+    "https://openalex.org/W2292765240",
+    "https://openalex.org/W2299946480",
+    "https://openalex.org/W2345469482",
+    "https://openalex.org/W2751793438",
+    "https://openalex.org/W2768716298",
+    "https://openalex.org/W2981388214",
+    "https://openalex.org/W3033751289",
+    "https://openalex.org/W3084238380",
+    "https://openalex.org/W4241519351",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W561390535",
+    "https://openalex.org/W568717967"
+  ]
+}

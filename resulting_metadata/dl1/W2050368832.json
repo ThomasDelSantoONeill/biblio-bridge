@@ -1,0 +1,169 @@
+{
+  "id": "https://openalex.org/W2050368832",
+  "title": "Climate Variability, Fish, and Fisheries",
+  "abstract": "Abstract Fish population variability and fisheries activities are closely linked to weather and climate dynamics. While weather at sea directly affects fishing, environmental variability determines the distribution, migration, and abundance of fish. Fishery science grew up during the last century by integrating knowledge from oceanography, fish biology, marine ecology, and fish population dynamics, largely focused on the great Northern Hemisphere fisheries. During this period, understanding and explaining interannual fish recruitment variability became a major focus for fisheries oceanographers. Yet, the close link between climate and fisheries is best illustrated by the effect of “unexpected” events—that is, nonseasonal, and sometimes catastrophic—on fish exploitation, such as those associated with the El Niño–Southern Oscillation (ENSO). The observation that fish populations fluctuate at decadal time scales and show patterns of synchrony while being geographically separated drew attention to oceanographic processes driven by low-frequency signals, as reflected by indices tracking large-scale climate patterns such as the Pacific decadal oscillation (PDO) and the North Atlantic Oscillation (NAO). This low-frequency variability was first observed in catch fluctuations of small pelagic fish (anchovies and sardines), but similar effects soon emerged for larger fish such as salmon, various groundfish species, and some tuna species. Today, the availability of long time series of observations combined with major scientific advances in sampling and modeling the oceans’ ecosystems allows fisheries science to investigate processes generating variability in abundance, distribution, and dynamics of fish species at daily, decadal, and even centennial scales. These studies are central to the research program of Global Ocean Ecosystems Dynamics (GLOBEC). This review presents examples of relationships between climate variability and fisheries at these different time scales for species covering various marine ecosystems ranging from equatorial to subarctic regions. Some of the known mechanisms linking climate variability and exploited fish populations are described, as well as some leading hypotheses, and their implications for their management and for the modeling of their dynamics. It is concluded with recommendations for collaborative work between climatologists, oceanographers, and fisheries scientists to resolve some of the outstanding problems in the development of sustainable fisheries.",
+  "authors": [
+    {
+      "name": "Patrick Lehodey"
+    },
+    {
+      "name": "Jürgen Alheit"
+    },
+    {
+      "name": "Manuel Barangé"
+    },
+    {
+      "name": "T. Baumgartner"
+    },
+    {
+      "name": "Grégory Beaugrand"
+    },
+    {
+      "name": "Kenneth F. Drinkwater"
+    },
+    {
+      "name": "Jean‐Marc Fromentin"
+    },
+    {
+      "name": "Steven R. Hare"
+    },
+    {
+      "name": "Geir Ottersen"
+    },
+    {
+      "name": "R. Ian Perry"
+    },
+    {
+      "name": "C. Roy"
+    },
+    {
+      "name": "Carl D. van der Lingen"
+    },
+    {
+      "name": "Francisco E. Werner"
+    }
+  ],
+  "publication_year": 2006,
+  "cited_by_count": 444,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W131512755",
+    "https://openalex.org/W1487810863",
+    "https://openalex.org/W1503338367",
+    "https://openalex.org/W1535053128",
+    "https://openalex.org/W1545623064",
+    "https://openalex.org/W1572248325",
+    "https://openalex.org/W1662882894",
+    "https://openalex.org/W1889874588",
+    "https://openalex.org/W1916336823",
+    "https://openalex.org/W1963675163",
+    "https://openalex.org/W1963959286",
+    "https://openalex.org/W1964964907",
+    "https://openalex.org/W1968655655",
+    "https://openalex.org/W1969241986",
+    "https://openalex.org/W1971313627",
+    "https://openalex.org/W1972313692",
+    "https://openalex.org/W1973480827",
+    "https://openalex.org/W1976749359",
+    "https://openalex.org/W1979591475",
+    "https://openalex.org/W1979715799",
+    "https://openalex.org/W1982508447",
+    "https://openalex.org/W1985692516",
+    "https://openalex.org/W1988532893",
+    "https://openalex.org/W1988886031",
+    "https://openalex.org/W1989617382",
+    "https://openalex.org/W1990092146",
+    "https://openalex.org/W1992091654",
+    "https://openalex.org/W1994223343",
+    "https://openalex.org/W1999309435",
+    "https://openalex.org/W1999755029",
+    "https://openalex.org/W1999925123",
+    "https://openalex.org/W2002039102",
+    "https://openalex.org/W2006959528",
+    "https://openalex.org/W2008598417",
+    "https://openalex.org/W2010233267",
+    "https://openalex.org/W2012750864",
+    "https://openalex.org/W2014442647",
+    "https://openalex.org/W2014944844",
+    "https://openalex.org/W2015041915",
+    "https://openalex.org/W2019246349",
+    "https://openalex.org/W2021568740",
+    "https://openalex.org/W2024649846",
+    "https://openalex.org/W2024945415",
+    "https://openalex.org/W2028671122",
+    "https://openalex.org/W2029907495",
+    "https://openalex.org/W2032091730",
+    "https://openalex.org/W2033972050",
+    "https://openalex.org/W2038528298",
+    "https://openalex.org/W2041215239",
+    "https://openalex.org/W2041314632",
+    "https://openalex.org/W2047574687",
+    "https://openalex.org/W2047776573",
+    "https://openalex.org/W2048020255",
+    "https://openalex.org/W2050121222",
+    "https://openalex.org/W2051321986",
+    "https://openalex.org/W2053327069",
+    "https://openalex.org/W2057602564",
+    "https://openalex.org/W2059323823",
+    "https://openalex.org/W2059404972",
+    "https://openalex.org/W2059783811",
+    "https://openalex.org/W2063466669",
+    "https://openalex.org/W2063572919",
+    "https://openalex.org/W2064256715",
+    "https://openalex.org/W2066392808",
+    "https://openalex.org/W2068153367",
+    "https://openalex.org/W2078015822",
+    "https://openalex.org/W2078038992",
+    "https://openalex.org/W2080322153",
+    "https://openalex.org/W2083845425",
+    "https://openalex.org/W2086013416",
+    "https://openalex.org/W2086387432",
+    "https://openalex.org/W2092497323",
+    "https://openalex.org/W2092739308",
+    "https://openalex.org/W2093401535",
+    "https://openalex.org/W2093672153",
+    "https://openalex.org/W2094548193",
+    "https://openalex.org/W2095562325",
+    "https://openalex.org/W2096325281",
+    "https://openalex.org/W2113105607",
+    "https://openalex.org/W2117740907",
+    "https://openalex.org/W2121434206",
+    "https://openalex.org/W2124306285",
+    "https://openalex.org/W2131468029",
+    "https://openalex.org/W2132822964",
+    "https://openalex.org/W2132924777",
+    "https://openalex.org/W2137609827",
+    "https://openalex.org/W2146781588",
+    "https://openalex.org/W2150409437",
+    "https://openalex.org/W2152046259",
+    "https://openalex.org/W2152846356",
+    "https://openalex.org/W2155955654",
+    "https://openalex.org/W2159446305",
+    "https://openalex.org/W2166684595",
+    "https://openalex.org/W2166720655",
+    "https://openalex.org/W2168208734",
+    "https://openalex.org/W2168683394",
+    "https://openalex.org/W2170271433",
+    "https://openalex.org/W2175236913",
+    "https://openalex.org/W2230103974",
+    "https://openalex.org/W2258193554",
+    "https://openalex.org/W2287746096",
+    "https://openalex.org/W2480446458",
+    "https://openalex.org/W2522761461",
+    "https://openalex.org/W2771906383",
+    "https://openalex.org/W2896556250",
+    "https://openalex.org/W2914252064",
+    "https://openalex.org/W3022393745",
+    "https://openalex.org/W3113533122",
+    "https://openalex.org/W3120611867",
+    "https://openalex.org/W32396108",
+    "https://openalex.org/W37358396",
+    "https://openalex.org/W4205995063",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W567680692",
+    "https://openalex.org/W897320546"
+  ]
+}

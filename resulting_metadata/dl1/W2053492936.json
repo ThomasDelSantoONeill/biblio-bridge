@@ -1,0 +1,22 @@
+{
+  "id": "https://openalex.org/W2053492936",
+  "title": "Optimal Harvest Strategies for Salmon in Relation to Environmental Variability and Uncertain Production Parameters",
+  "abstract": "A method is developed for incorporating the effects of environmental variability and judgmental uncertainty about future production parameters into the design of optimal harvest strategies; these are expressed as curves relating stock size and exploitation rate. For the Skeena River sockeye, the method suggests that optimal strategies are insensitive to judgmental uncertainty about the Ricker stock production parameter, but are very sensitive to management objectives related to the mean and variance of catches. Best possible tradeoffs between mean and variance of catches for the Skeena River are developed, and a simplified strategy is suggested for improving mean catch while reducing year to year variation.",
+  "authors": [
+    {
+      "name": "Carl J. Walters"
+    }
+  ],
+  "publication_year": 1975,
+  "cited_by_count": 109,
+  "primary_topic": "Fish Ecology and Management Studies",
+  "subfield_topic": "Nature and Landscape Conservation",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1515852644",
+    "https://openalex.org/W2021862657",
+    "https://openalex.org/W2100891518",
+    "https://openalex.org/W2145170747"
+  ]
+}

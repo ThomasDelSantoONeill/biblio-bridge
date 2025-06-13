@@ -1,0 +1,17 @@
+{
+  "id": "https://openalex.org/W2088393242",
+  "title": "A Stochastic Model of Interpopulation Dynamics in Marine Ecology",
+  "abstract": "A nonstationary Markov chain was developed to analyze and model the passage of energy through an ecological system composed of the Pacific sardine, the northern anchovy, their competitors, their predators, and their prey; then to carry the model forward through time projecting the biomasses of the relevant species if anchovy or hake fisheries, or both, are begun. The model seemed to agree adequately with observed data.The hypothesis of some earlier work of the author that the abundances of populations could be completely controlled by fishing intensities was rejected. Although no measure was made of the robustness of the ecosystem, it was concluded to be relatively impervious to artificial pressures, although there was seen a measurable boundary beyond which the ecological interactions became unstable and the system collapsed.Specifically, based on 1950–59 data, the sardine catch was projected to stabilize in the vicinity of 20 metric kilotons per year. Overfishing did not seem to have been a cause of the sardine \"disappearance.\" To maximize sardine catch, the introduction of anchovy and hake fisheries with annual catches limited to certain percentages (depending on the maximizing criterion) of abundances would double or triple sardine catch and stabilize the fishing industry, but sardines could not be reinstated as the most abundant species as a result of selective fishing. To maximize the combined catch of the three fisheries, annual catches of 30% and 20% (for all criteria) of abundances of anchovy and hake, respectively, would yield nearly 1800 metric kilotons of fish, although most of it would be of less commercial interest than the sardine.",
+  "authors": [
+    {
+      "name": "Robert H. Riffenburgh"
+    }
+  ],
+  "publication_year": 1969,
+  "cited_by_count": 24,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": []
+}

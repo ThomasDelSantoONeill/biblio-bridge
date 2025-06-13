@@ -1,0 +1,72 @@
+{
+  "id": "https://openalex.org/W2329487437",
+  "title": "Comparative analysis of cod and herring production dynamics across 13 northern hemisphere marine ecosystems",
+  "abstract": "MEPS Marine Ecology Progress Series Contact the journal Facebook Twitter RSS Mailing List Subscribe to our mailing list via Mailchimp HomeLatest VolumeAbout the JournalEditorsTheme Sections MEPS 459:231-246 (2012) - DOI: https://doi.org/10.3354/meps09765 Comparative analysis of cod and herring production dynamics across 13 northern hemisphere marine ecosystems Kirstin K. Holsman1,*, Timothy Essington2, Thomas J. Miller3, Mariano Koen-Alonso4, William J. Stockhausen5 1Joint Institute for the Study of the Atmosphere and Ocean, University of Washington, Seattle, Washington 98195-5672, USA 2School of Aquatic and Fishery Sciences, University of Washington, Seattle, Washington 98195-5020, USA 3Chesapeake Biological Laboratory, University of Maryland Center for Environmental Science, Solomons, Maryland 20688, USA 4Northwest Atlantic Fisheries Centre, Fisheries and Oceans Canada, St John’s, Newfoundland and Labrador A1C 5X1, Canada 5Alaska Fisheries Science Center, NOAA Fisheries, Seattle, Washington 98115, USA *Email: kirstin.holsman@noaa.gov ABSTRACT: We conducted a comparative ecosystem analysis to understand environmental and biological drivers of production dynamics of 2 common species groups, cod (Gadus morhua and G. macrocephalus) and herring (Clupea harengus and C. pallasii), across 13 large marine ecosystems. For all 4 species, we fit a hierarchy of nested surplus production models with terms for trophodynamic and biophysical covariates; models were then compared using an information-theoretic framework. Across ecosystems, models including terms for biophysical covariates exhibited stronger fits to the data and were often included in the top set of selected models. However, the numerical effects of covariates differed among systems and species. For example, surplus production in several ecosystems was significantly affected by sea surface temperature, but to differing degrees (i.e. direction and magnitude of effect). Similarly, surplus production of cod was positively associated with herring biomass in 4 of the ecosystems examined, whereas negative trophodynamic interactions alluded to complex cultivation-depensation food-web dynamics in 5 other systems. Importantly, no single covariate emerged as the most important predictor of surplus production nor were biological reference points from models with covariates always more conservative than those without covariates. This suggests that inclusion of trophodynamic and biophysical covariates in simple production models has the potential to increase model fit, but the relative benefit will be stronger for systems and species where trophodynamic and biophysical processes are tightly coupled to species productivity. KEY WORDS: Cod · Herring · Surplus production · Fisheries management · Trophic dynamics · Biological reference points · Environmental factors · Maximum sustainable yield · MSY Full text in pdf format PreviousNextCite this article as: Holsman KK, Essington T, Miller TJ, Koen-Alonso M, Stockhausen WJ (2012) Comparative analysis of cod and herring production dynamics across 13 northern hemisphere marine ecosystems. Mar Ecol Prog Ser 459:231-246. https://doi.org/10.3354/meps09765 Export citation RSS - Facebook - Tweet - linkedIn Cited by Published in MEPS Vol. 459. Online publication date: July 12, 2012 Print ISSN: 0171-8630; Online ISSN: 1616-1599 Copyright © 2012 Inter-Research.",
+  "authors": [
+    {
+      "name": "KK Holsman"
+    },
+    {
+      "name": "TE Essington"
+    },
+    {
+      "name": "Thomas J. Miller"
+    },
+    {
+      "name": "Mariano Koen‐Alonso"
+    },
+    {
+      "name": "William T. Stockhausen"
+    }
+  ],
+  "publication_year": 2012,
+  "cited_by_count": 18,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1489430206",
+    "https://openalex.org/W1543409689",
+    "https://openalex.org/W1599127549",
+    "https://openalex.org/W1608747981",
+    "https://openalex.org/W1830805930",
+    "https://openalex.org/W1982275575",
+    "https://openalex.org/W2009435671",
+    "https://openalex.org/W2012742697",
+    "https://openalex.org/W2024097582",
+    "https://openalex.org/W2029345767",
+    "https://openalex.org/W2030764027",
+    "https://openalex.org/W2031481414",
+    "https://openalex.org/W2032117755",
+    "https://openalex.org/W2032590034",
+    "https://openalex.org/W2050368832",
+    "https://openalex.org/W2051617038",
+    "https://openalex.org/W2074832189",
+    "https://openalex.org/W2088865141",
+    "https://openalex.org/W2093401535",
+    "https://openalex.org/W2100056012",
+    "https://openalex.org/W2105058920",
+    "https://openalex.org/W2112446421",
+    "https://openalex.org/W2112753136",
+    "https://openalex.org/W2112895630",
+    "https://openalex.org/W2113728791",
+    "https://openalex.org/W2124306285",
+    "https://openalex.org/W2129053358",
+    "https://openalex.org/W2132556874",
+    "https://openalex.org/W2132952955",
+    "https://openalex.org/W2145378599",
+    "https://openalex.org/W2150087373",
+    "https://openalex.org/W2159011802",
+    "https://openalex.org/W2167607966",
+    "https://openalex.org/W2314105712",
+    "https://openalex.org/W2321998180",
+    "https://openalex.org/W2323145676",
+    "https://openalex.org/W2330425575",
+    "https://openalex.org/W2466838009",
+    "https://openalex.org/W2914252064",
+    "https://openalex.org/W382509713",
+    "https://openalex.org/W4210260625",
+    "https://openalex.org/W4252115095"
+  ]
+}

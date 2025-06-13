@@ -1,0 +1,89 @@
+{
+  "id": "https://openalex.org/W2230623843",
+  "title": "Ecosystem Model Skill Assessment. Yes We Can!",
+  "abstract": "Need to Assess the Skill of Ecosystem Models Accelerated changes to global ecosystems call for holistic and integrated analyses of past, present and future states under various pressures to adequately understand current and projected future system states. Ecosystem models can inform management of human activities in a complex and changing environment, but are these models reliable? Ensuring that models are reliable for addressing management questions requires evaluating their skill in representing real-world processes and dynamics. Skill has been evaluated for just a limited set of some biophysical models. A range of skill assessment methods have been reviewed but skill assessment of full marine ecosystem models has not yet been attempted. Northeast US Atlantis Marine Ecosystem Model We assessed the skill of the Northeast U.S. (NEUS) Atlantis marine ecosystem model by comparing 10-year model forecasts with observed data. Model forecast performance was compared to that obtained from a 40-year hindcast. Multiple metrics (average absolute error, root mean squared error, modeling efficiency, and Spearman rank correlation), and a suite of time-series (species biomass, fisheries landings, and ecosystem indicators) were used to adequately measure model skill. Overall, the NEUS model performed above average and thus better than expected for the key species that had been the focus of the model tuning. Model forecast skill was comparable to the hindcast skill, showing that model performance does not degenerate in a 10-year forecast mode, an important characteristic for an end-to-end ecosystem model to be useful for strategic management purposes. Skill Assessment Is Both Possible and Advisable We identify best-practice approaches for end-to-end ecosystem model skill assessment that would improve both operational use of other ecosystem models and future model development. We show that it is possible to not only assess the skill of a complicated marine ecosystem model, but that it is necessary do so to instill confidence in model results and encourage their use for strategic management. Our methods are applicable to any type of predictive model, and should be considered for use in fields outside ecology (e.g. economics, climate change, and risk assessment).",
+  "authors": [
+    {
+      "name": "Erik Olsen"
+    },
+    {
+      "name": "Gavin Fay"
+    },
+    {
+      "name": "Sarah Gaichas"
+    },
+    {
+      "name": "Robert J. Gamble"
+    },
+    {
+      "name": "Sean M. Lucey"
+    },
+    {
+      "name": "Jason S. Link"
+    }
+  ],
+  "publication_year": 2016,
+  "cited_by_count": 104,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1878446259",
+    "https://openalex.org/W1969423477",
+    "https://openalex.org/W1975231833",
+    "https://openalex.org/W1977874032",
+    "https://openalex.org/W1983416467",
+    "https://openalex.org/W1993108101",
+    "https://openalex.org/W1999733221",
+    "https://openalex.org/W2003251517",
+    "https://openalex.org/W2004037061",
+    "https://openalex.org/W2007899445",
+    "https://openalex.org/W2019512511",
+    "https://openalex.org/W2025019531",
+    "https://openalex.org/W2029609086",
+    "https://openalex.org/W2036814601",
+    "https://openalex.org/W2051806801",
+    "https://openalex.org/W2055292590",
+    "https://openalex.org/W2061580705",
+    "https://openalex.org/W2063945491",
+    "https://openalex.org/W2068963478",
+    "https://openalex.org/W2079791672",
+    "https://openalex.org/W2080169924",
+    "https://openalex.org/W2089521606",
+    "https://openalex.org/W2093603746",
+    "https://openalex.org/W2105311174",
+    "https://openalex.org/W2111954092",
+    "https://openalex.org/W2114364088",
+    "https://openalex.org/W2114503729",
+    "https://openalex.org/W2115399650",
+    "https://openalex.org/W2116422701",
+    "https://openalex.org/W2119726237",
+    "https://openalex.org/W2122267337",
+    "https://openalex.org/W2127032204",
+    "https://openalex.org/W2137523123",
+    "https://openalex.org/W2137825090",
+    "https://openalex.org/W2140659444",
+    "https://openalex.org/W2149884823",
+    "https://openalex.org/W2152353861",
+    "https://openalex.org/W2156182980",
+    "https://openalex.org/W2160792582",
+    "https://openalex.org/W2161009568",
+    "https://openalex.org/W2163492266",
+    "https://openalex.org/W2170766202",
+    "https://openalex.org/W2176177568",
+    "https://openalex.org/W2185517354",
+    "https://openalex.org/W2271767457",
+    "https://openalex.org/W2290324872",
+    "https://openalex.org/W2324965891",
+    "https://openalex.org/W2327040627",
+    "https://openalex.org/W255661142",
+    "https://openalex.org/W2560771398",
+    "https://openalex.org/W2622946719",
+    "https://openalex.org/W2738126223",
+    "https://openalex.org/W2800197242",
+    "https://openalex.org/W3122910780",
+    "https://openalex.org/W4251363364",
+    "https://openalex.org/W4285719527"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "https://openalex.org/W2951580579",
+  "title": "Workshop on North Sea Stocks management strategy evaluation (WKNSMSE)",
+  "abstract": "WKNSMSE (Workshop on North Sea stocks Management Strategy Evaluation) took place over two physical meetings (19-21 November 2018 and 26-28 February 2019, but at ICES HQ, Copenhagen) and several WebEx meetings, was chaired by Jose De Oliveira (UK) and included 30 participants from Denmark, Germany, Netherlands, Norway, Sweden, UK and the European Commission, and two reviewers from South African and New Zealand. The purpose of this process was to evaluate long-term management strategies for jointly-managed stocks in the North Sea (cod, haddock, whiting, saithe and autumn-spawning herring) between the European Union and Norway, following a request from EU-Norway. The first physical meeting provided an ICES interpretation of the EU-Norway request, agreed the specifications of the MSE, decided on the tools and approaches to use, and developed a work plan, while the second meeting (and subsequent follow-up WebEx meetings) discussed results, developed conclusions, ensured the minimum\r\nrequirements for conducting MSEs (developed by WKGMSE2) were met, and finalised the report. ICES were tasked to find “optimal” combinations of harvest control rule parameters (Ftarget and Btrigger) for management strategies with or without stability mechanisms (TAC constraints\r\nand banking and borrowing scenarios). “Optimal” combinations were defined as those combinations of Ftarget and Btrigger that simultaneously maximised long-term yield while being precautionary\r\n(long-term risk3≤5%). The request also asked for sensitivity tests once the management strategies were “optimised”. The approach adopted for all stocks was to include the assessment and forecast in a full-feedback MSE simulation, and to condition the baseline operating model on the benchmarked ICES assessment. The one exception was haddock, where it was not possible to include TSA in the full-feedback simulation because it was too slow to converge and requires manual intervention; SAM was used instead as a reasonable approximation. The approach\r\nalso considered alternative operating models to capture a broader range of uncertainties. Full-feedback simulations were computationally challenging and required the use of parallelisation and high-performance computing; it also meant that the time-frame for the work was extremely tight, and in some cases, analyses were restricted. Nonetheless, the work was completed for all stocks, and “optimal” combinations for most management strategies were found. There were some notable issues that arose through this suite of MSEs, including that some management strategies that were precautionary in the long-term could have unsavoury and avoidable features in the short term (depending on the management strategy), and that reference points estimated by EqSim were, in many cases, no longer found to be precautionary in the MSE.",
+  "authors": [
+    {
+      "name": "José de Oliveira"
+    },
+    {
+      "name": "Valerio Bartolino"
+    },
+    {
+      "name": "Benoît Bergès"
+    },
+    {
+      "name": "M. Brooks"
+    },
+    {
+      "name": "Massimiliano Cardinale"
+    },
+    {
+      "name": "H C Cole"
+    },
+    {
+      "name": "Jennifer A. Devine"
+    },
+    {
+      "name": "Gjert Endre Dingsør"
+    },
+    {
+      "name": "Simon H. Fischer"
+    },
+    {
+      "name": "Daisuke Goto"
+    },
+    {
+      "name": "Niels T. Hintzen"
+    },
+    {
+      "name": "Daniel Howell"
+    },
+    {
+      "name": "Ernesto Jardim"
+    },
+    {
+      "name": "Alexander Kempf"
+    },
+    {
+      "name": "Cecilie Kvamme"
+    },
+    {
+      "name": "Steven Mackinson"
+    },
+    {
+      "name": "Alessandro Mannini"
+    },
+    {
+      "name": "Tanja Miethe"
+    },
+    {
+      "name": "Norbert Rohlf"
+    },
+    {
+      "name": "Marc Taylor"
+    }
+  ],
+  "publication_year": 2019,
+  "cited_by_count": 13,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": []
+}

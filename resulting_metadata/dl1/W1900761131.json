@@ -1,0 +1,85 @@
+{
+  "id": "https://openalex.org/W1900761131",
+  "title": "Slow adaptation in the face of rapid warming leads to collapse of the Gulf of Maine cod fishery",
+  "abstract": "Several studies have documented fish populations changing in response to long-term warming. Over the past decade, sea surface temperatures in the Gulf of Maine increased faster than 99% of the global ocean. The warming, which was related to a northward shift in the Gulf Stream and to changes in the Atlantic Multidecadal Oscillation and Pacific Decadal Oscillation, led to reduced recruitment and increased mortality in the region's Atlantic cod (Gadus morhua) stock. Failure to recognize the impact of warming on cod contributed to overfishing. Recovery of this fishery depends on sound management, but the size of the stock depends on future temperature conditions. The experience in the Gulf of Maine highlights the need to incorporate environmental factors into resource management.",
+  "authors": [
+    {
+      "name": "Andrew J. Pershing"
+    },
+    {
+      "name": "Michael A. Alexander"
+    },
+    {
+      "name": "Christina M. Hernández"
+    },
+    {
+      "name": "Lisa A. Kerr"
+    },
+    {
+      "name": "Arnault Le Bris"
+    },
+    {
+      "name": "Katherine E. Mills"
+    },
+    {
+      "name": "Janet A. Nye"
+    },
+    {
+      "name": "Nicholas R. Record"
+    },
+    {
+      "name": "Hillary A. Scannell"
+    },
+    {
+      "name": "James D. Scott"
+    },
+    {
+      "name": "Graham D. Sherwood"
+    },
+    {
+      "name": "Andrew C. Thomas"
+    }
+  ],
+  "publication_year": 2015,
+  "cited_by_count": 846,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1533505259",
+    "https://openalex.org/W1685251144",
+    "https://openalex.org/W1971313627",
+    "https://openalex.org/W1979653784",
+    "https://openalex.org/W1981517921",
+    "https://openalex.org/W1989963460",
+    "https://openalex.org/W2000901105",
+    "https://openalex.org/W2024966118",
+    "https://openalex.org/W2026748779",
+    "https://openalex.org/W2028787031",
+    "https://openalex.org/W2029345767",
+    "https://openalex.org/W2033963424",
+    "https://openalex.org/W2044536674",
+    "https://openalex.org/W2045299376",
+    "https://openalex.org/W2054267692",
+    "https://openalex.org/W2061328952",
+    "https://openalex.org/W2070398649",
+    "https://openalex.org/W2071830928",
+    "https://openalex.org/W2073289890",
+    "https://openalex.org/W2074572674",
+    "https://openalex.org/W2085388310",
+    "https://openalex.org/W2090944732",
+    "https://openalex.org/W2095295578",
+    "https://openalex.org/W2099071951",
+    "https://openalex.org/W2105827100",
+    "https://openalex.org/W2131070146",
+    "https://openalex.org/W2131477567",
+    "https://openalex.org/W2147961693",
+    "https://openalex.org/W2149814063",
+    "https://openalex.org/W2150299847",
+    "https://openalex.org/W2166507984",
+    "https://openalex.org/W2321434005",
+    "https://openalex.org/W2322130052",
+    "https://openalex.org/W2901350704"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": "https://openalex.org/W2152793433",
+  "title": "The global ocean is an ecosystem: simulating marine life and fisheries",
+  "abstract": "Abstract Aim There has been considerable effort allocated to understanding the impact of climate change on our physical environment, but comparatively little to how life on Earth and ecosystem services will be affected. Therefore, we have developed a spatial–temporal food web model of the global ocean, spanning from primary producers through to top predators and fisheries. Through this, we aim to evaluate how alternative management actions may impact the supply of seafood for future generations. Location Global ocean. Methods We developed a modelling complex to initially predict the combined impact of environmental parameters and fisheries on global seafood production, and initially evaluated the model's performance through hindcasting. The modelling complex has a food web model as core, obtains environmental productivity from a biogeochemical model and assigns global fishing effort spatially. We tuned model parameters based on M arkov chain random walk stock reduction analysis, fitting the model to historic catches. We evaluated the goodness‐of‐fit of the model to data for major functional groups, by spatial management units and globally. Results This model is the most detailed ever constructed of global fisheries, and it was able to replicate broad patterns of historic fisheries catches with best agreement for the total catches and good agreement for species groups, with more variation at the regional level. Main conclusions We have developed a modelling complex that can be used for evaluating the combined impact of fisheries and climate change on upper‐trophic level organisms in the global ocean, including invertebrates, fish and other large vertebrates. The model provides an important step that will allow global‐scale evaluation of how alternative fisheries management measures can be used for mitigation of climate change.",
+  "authors": [
+    {
+      "name": "Villy Christensen"
+    },
+    {
+      "name": "Marta Coll"
+    },
+    {
+      "name": "Joe Buszowski"
+    },
+    {
+      "name": "William W. L. Cheung"
+    },
+    {
+      "name": "Thomas L. Frölicher"
+    },
+    {
+      "name": "Jeroen Steenbeek"
+    },
+    {
+      "name": "Charles A. Stock"
+    },
+    {
+      "name": "Reg Watson"
+    },
+    {
+      "name": "Carl J. Walters"
+    }
+  ],
+  "publication_year": 2015,
+  "cited_by_count": 92,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W123618397",
+    "https://openalex.org/W1480264201",
+    "https://openalex.org/W1524760816",
+    "https://openalex.org/W1560570376",
+    "https://openalex.org/W1674685360",
+    "https://openalex.org/W1969102921",
+    "https://openalex.org/W1969505355",
+    "https://openalex.org/W1970377095",
+    "https://openalex.org/W1975128847",
+    "https://openalex.org/W1979302307",
+    "https://openalex.org/W1990566709",
+    "https://openalex.org/W1990842204",
+    "https://openalex.org/W1995629599",
+    "https://openalex.org/W1999882000",
+    "https://openalex.org/W2003647390",
+    "https://openalex.org/W2015918764",
+    "https://openalex.org/W2018291779",
+    "https://openalex.org/W2020170202",
+    "https://openalex.org/W2029028922",
+    "https://openalex.org/W2036431711",
+    "https://openalex.org/W2054534384",
+    "https://openalex.org/W2054838530",
+    "https://openalex.org/W2055024990",
+    "https://openalex.org/W2066259947",
+    "https://openalex.org/W20787259",
+    "https://openalex.org/W2081050205",
+    "https://openalex.org/W2084461152",
+    "https://openalex.org/W2088393429",
+    "https://openalex.org/W2103800195",
+    "https://openalex.org/W2103943852",
+    "https://openalex.org/W2104194276",
+    "https://openalex.org/W2115134399",
+    "https://openalex.org/W2118956924",
+    "https://openalex.org/W2123134406",
+    "https://openalex.org/W2128112115",
+    "https://openalex.org/W2140556793",
+    "https://openalex.org/W2144127796",
+    "https://openalex.org/W2162020584",
+    "https://openalex.org/W2165007446",
+    "https://openalex.org/W2172890996",
+    "https://openalex.org/W2178903126",
+    "https://openalex.org/W2182148848",
+    "https://openalex.org/W2275587356",
+    "https://openalex.org/W2291130870",
+    "https://openalex.org/W2346104165",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W992359375"
+  ]
+}

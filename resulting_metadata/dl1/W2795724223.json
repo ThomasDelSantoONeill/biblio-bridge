@@ -1,0 +1,140 @@
+{
+  "id": "https://openalex.org/W2795724223",
+  "title": "Biodiversity responds to increasing climatic extremes in a biome-specific manner",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Aaron C. Greenville"
+    },
+    {
+      "name": "Emma C. Burns"
+    },
+    {
+      "name": "Chris R. Dickman"
+    },
+    {
+      "name": "David A. Keith"
+    },
+    {
+      "name": "David B. Lindenmayer"
+    },
+    {
+      "name": "John W. Morgan"
+    },
+    {
+      "name": "Dean Heinze"
+    },
+    {
+      "name": "Ian Mansergh"
+    },
+    {
+      "name": "Graeme R. Gillespie"
+    },
+    {
+      "name": "Luke D. Einoder"
+    },
+    {
+      "name": "Alaric Fisher"
+    },
+    {
+      "name": "Jeremy Russell‐Smith"
+    },
+    {
+      "name": "Daniel J. Metcalfe"
+    },
+    {
+      "name": "Peter T. Green"
+    },
+    {
+      "name": "Ary A. Hoffmann"
+    },
+    {
+      "name": "Glenda M. Wardle"
+    }
+  ],
+  "publication_year": 2018,
+  "cited_by_count": 25,
+  "primary_topic": "Fire effects on ecosystems",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1488017064",
+    "https://openalex.org/W1511723137",
+    "https://openalex.org/W1518897246",
+    "https://openalex.org/W1521326045",
+    "https://openalex.org/W1565857995",
+    "https://openalex.org/W1570002721",
+    "https://openalex.org/W1606425235",
+    "https://openalex.org/W1753210942",
+    "https://openalex.org/W1791603806",
+    "https://openalex.org/W1857913039",
+    "https://openalex.org/W1943453814",
+    "https://openalex.org/W1951724000",
+    "https://openalex.org/W1954571707",
+    "https://openalex.org/W1955806497",
+    "https://openalex.org/W1965715416",
+    "https://openalex.org/W1972186280",
+    "https://openalex.org/W1974424100",
+    "https://openalex.org/W1994074321",
+    "https://openalex.org/W1995003361",
+    "https://openalex.org/W1999205466",
+    "https://openalex.org/W2005857528",
+    "https://openalex.org/W2007123792",
+    "https://openalex.org/W2017824999",
+    "https://openalex.org/W2024649846",
+    "https://openalex.org/W2025360284",
+    "https://openalex.org/W2037012848",
+    "https://openalex.org/W2037332227",
+    "https://openalex.org/W2043405396",
+    "https://openalex.org/W2049366165",
+    "https://openalex.org/W2060924568",
+    "https://openalex.org/W2062405632",
+    "https://openalex.org/W2065650245",
+    "https://openalex.org/W2065899882",
+    "https://openalex.org/W2071236044",
+    "https://openalex.org/W2072424200",
+    "https://openalex.org/W2084449649",
+    "https://openalex.org/W2085177826",
+    "https://openalex.org/W2085851278",
+    "https://openalex.org/W2089336157",
+    "https://openalex.org/W2090163965",
+    "https://openalex.org/W2091319820",
+    "https://openalex.org/W2094629826",
+    "https://openalex.org/W2097573164",
+    "https://openalex.org/W2098863507",
+    "https://openalex.org/W2100431321",
+    "https://openalex.org/W2102843713",
+    "https://openalex.org/W2102919223",
+    "https://openalex.org/W2103149657",
+    "https://openalex.org/W2108555159",
+    "https://openalex.org/W2117894527",
+    "https://openalex.org/W2120218248",
+    "https://openalex.org/W2121850108",
+    "https://openalex.org/W2122349493",
+    "https://openalex.org/W2133339132",
+    "https://openalex.org/W2143510389",
+    "https://openalex.org/W2161454672",
+    "https://openalex.org/W2163816695",
+    "https://openalex.org/W2164018692",
+    "https://openalex.org/W2165857906",
+    "https://openalex.org/W2168338454",
+    "https://openalex.org/W2169715400",
+    "https://openalex.org/W2172088645",
+    "https://openalex.org/W2183908049",
+    "https://openalex.org/W2197349416",
+    "https://openalex.org/W2204821601",
+    "https://openalex.org/W2218079667",
+    "https://openalex.org/W2272473773",
+    "https://openalex.org/W2406923932",
+    "https://openalex.org/W2509477627",
+    "https://openalex.org/W2546534857",
+    "https://openalex.org/W2582743722",
+    "https://openalex.org/W2699890180",
+    "https://openalex.org/W2724909959",
+    "https://openalex.org/W2904500756",
+    "https://openalex.org/W3048573955",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W4299687266"
+  ]
+}

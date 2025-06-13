@@ -1,0 +1,80 @@
+{
+  "id": "https://openalex.org/W2046464500",
+  "title": "Looking in the rear-view mirror: bias and retrospective patterns in integrated, age-structured stock assessment models",
+  "abstract": "Abstract Retrospective patterns are systematic changes in estimates of population size, or other assessment model-derived quantities, that occur as additional years of data are added to, or removed from, a stock assessment. These patterns are an insidious problem, and can lead to severe errors when providing management advice. Here, we use a simulation framework to show that temporal changes in selectivity, natural mortality, and growth can induce retrospective patterns in integrated, age-structured models. We explore the potential effects on retrospective patterns of catch history patterns, as well as model misspecification due to not accounting for time-varying biological parameters and selectivity. We show that non-zero values for Mohn’s ρ (a common measure for retrospective patterns) can be generated even where there is no model misspecification, but the magnitude of Mohn’s ρ tends to be lower when the model is not misspecified. The magnitude and sign of Mohn’s ρ differed among life histories, with different life histories reacting differently from each type of temporal change. The value of Mohn’s ρ is not related to either the sign or magnitude of bias in the estimate of terminal year biomass. We propose a rule of thumb for values of Mohn’s ρ which can be used to determine whether a stock assessment shows a retrospective pattern.",
+  "authors": [
+    {
+      "name": "Felipe Hurtado-Ferro"
+    },
+    {
+      "name": "Cody Szuwalski"
+    },
+    {
+      "name": "Juan L. Valero"
+    },
+    {
+      "name": "Sean C. Anderson"
+    },
+    {
+      "name": "Curry J. Cunningham"
+    },
+    {
+      "name": "Kelli F. Johnson"
+    },
+    {
+      "name": "Roberto Licandeo"
+    },
+    {
+      "name": "Carey R. McGilliard"
+    },
+    {
+      "name": "Cole C. Monnahan"
+    },
+    {
+      "name": "Melissa L. Muradian"
+    },
+    {
+      "name": "Kotaro Ono"
+    },
+    {
+      "name": "Katyana A. Vert-pre"
+    },
+    {
+      "name": "Athol R. Whitten"
+    },
+    {
+      "name": "André E. Punt"
+    }
+  ],
+  "publication_year": 2014,
+  "cited_by_count": 135,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1969494971",
+    "https://openalex.org/W1973192023",
+    "https://openalex.org/W1998125693",
+    "https://openalex.org/W2065545475",
+    "https://openalex.org/W2073516249",
+    "https://openalex.org/W2089521606",
+    "https://openalex.org/W2093603746",
+    "https://openalex.org/W2096205555",
+    "https://openalex.org/W2117931398",
+    "https://openalex.org/W2126475261",
+    "https://openalex.org/W2130870465",
+    "https://openalex.org/W2148139296",
+    "https://openalex.org/W2161540652",
+    "https://openalex.org/W2165088139",
+    "https://openalex.org/W2168833678",
+    "https://openalex.org/W25531120",
+    "https://openalex.org/W2582743722",
+    "https://openalex.org/W2915381497",
+    "https://openalex.org/W2949175816",
+    "https://openalex.org/W2951719182",
+    "https://openalex.org/W4252711903",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W4399546175"
+  ]
+}

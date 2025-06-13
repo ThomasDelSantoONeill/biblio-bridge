@@ -1,0 +1,61 @@
+{
+  "id": "https://openalex.org/W1980641989",
+  "title": "Interpreting the von Bertalanffy model of somatic growth in fishes: the cost of reproduction",
+  "abstract": "We develop a model for somatic growth in fishes that explicitly allows for the energy demand imposed by reproduction. We show that the von Bertalanffy (VB) equation provides a good description of somatic growth after maturity, but not before. We show that the parameters of the VB equation are simple functions of age at maturity and reproductive investment. We use this model to show how the energy demands for both growth and reproduction trade off to determine optimal life-history traits. Assuming that both age at maturity and reproductive investment adapt to variations in adult mortality to maximize lifetime offspring production, our model predicts that: (i) the optimal age of maturity is inversely related to adult mortality rate; (ii) the optimal reproductive effort is approximately equal to adult mortality rate. These predictions are consistent with observed variations in the life-history traits of a large sample of iteroparous freshwater fishes.",
+  "authors": [
+    {
+      "name": "Nigel P. Lester"
+    },
+    {
+      "name": "Brian J. Shuter"
+    },
+    {
+      "name": "Peter A. Abrams"
+    }
+  ],
+  "publication_year": 2004,
+  "cited_by_count": 358,
+  "primary_topic": "Fish Ecology and Management Studies",
+  "subfield_topic": "Nature and Landscape Conservation",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1521718573",
+    "https://openalex.org/W1594116563",
+    "https://openalex.org/W1963998078",
+    "https://openalex.org/W1965248659",
+    "https://openalex.org/W1968568295",
+    "https://openalex.org/W1974192028",
+    "https://openalex.org/W1976239210",
+    "https://openalex.org/W1984247241",
+    "https://openalex.org/W1987148902",
+    "https://openalex.org/W1992728478",
+    "https://openalex.org/W1992825914",
+    "https://openalex.org/W1999748030",
+    "https://openalex.org/W1999976924",
+    "https://openalex.org/W2016716151",
+    "https://openalex.org/W2018861160",
+    "https://openalex.org/W2026598256",
+    "https://openalex.org/W2035850425",
+    "https://openalex.org/W2044708702",
+    "https://openalex.org/W2046335874",
+    "https://openalex.org/W2050717796",
+    "https://openalex.org/W2056656192",
+    "https://openalex.org/W2063307896",
+    "https://openalex.org/W2073368463",
+    "https://openalex.org/W2073776433",
+    "https://openalex.org/W2076639627",
+    "https://openalex.org/W2103520016",
+    "https://openalex.org/W2119401788",
+    "https://openalex.org/W2120558852",
+    "https://openalex.org/W2121271992",
+    "https://openalex.org/W2131915744",
+    "https://openalex.org/W2157348076",
+    "https://openalex.org/W2169635865",
+    "https://openalex.org/W2317989487",
+    "https://openalex.org/W2376426631",
+    "https://openalex.org/W42114903",
+    "https://openalex.org/W4299787297",
+    "https://openalex.org/W4388299665"
+  ]
+}

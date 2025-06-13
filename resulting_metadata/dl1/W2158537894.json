@@ -1,0 +1,75 @@
+{
+  "id": "https://openalex.org/W2158537894",
+  "title": "Variability in interaction strength and implications for biodiversity",
+  "abstract": "Summary We examined the species richness of theoretical communities in relation to interaction strength between species. To do so, we used randomly constructed interaction matrices for competitive systems. To determine co‐existence, we tested for local stability and equilibrium feasibility of these theoretical assemblages. As expected, we found that a low mean species interaction strength could allow for many species to co‐exist. However, variance in the interaction strengths may alter previous results; two systems with the same mean interaction strength show markedly different diversity depending critically on the magnitude of the variance. If species are similar enough then many can co‐exist, even if they compete strongly. In addition we found that the species richness of a competitive community can greatly depend on the correlation between interaction strengths, an issue that so far has gone unreported. This correlation, a result of trade‐offs between species’ characteristics, may profoundly increase the potential for stable co‐existence of a highly species‐rich community. Competition may not be an anathema to diversity. Statistical properties of species’ interactions may be critical factors that contribute to the explanation of species diversity in natural communities.",
+  "authors": [
+    {
+      "name": "Giorgos D. Kokkoris"
+    },
+    {
+      "name": "Vincent A. A. Jansen"
+    },
+    {
+      "name": "Michel Loreau"
+    },
+    {
+      "name": "Andreas Y. Troumbis"
+    }
+  ],
+  "publication_year": 2002,
+  "cited_by_count": 134,
+  "primary_topic": "Plant and animal studies",
+  "subfield_topic": "Ecology, Evolution, Behavior and Systematics",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1488045558",
+    "https://openalex.org/W1501332006",
+    "https://openalex.org/W1509494599",
+    "https://openalex.org/W1524002895",
+    "https://openalex.org/W1574004712",
+    "https://openalex.org/W1590824230",
+    "https://openalex.org/W1598363147",
+    "https://openalex.org/W1967386539",
+    "https://openalex.org/W1979005561",
+    "https://openalex.org/W1983530401",
+    "https://openalex.org/W1992726634",
+    "https://openalex.org/W2007547077",
+    "https://openalex.org/W2020073162",
+    "https://openalex.org/W2033316778",
+    "https://openalex.org/W2036075425",
+    "https://openalex.org/W2037347177",
+    "https://openalex.org/W2040045403",
+    "https://openalex.org/W2043231452",
+    "https://openalex.org/W2049424645",
+    "https://openalex.org/W2049546703",
+    "https://openalex.org/W2054126322",
+    "https://openalex.org/W2055630785",
+    "https://openalex.org/W2060501565",
+    "https://openalex.org/W2067198755",
+    "https://openalex.org/W2084169828",
+    "https://openalex.org/W2090906467",
+    "https://openalex.org/W2092295003",
+    "https://openalex.org/W2106152094",
+    "https://openalex.org/W2121713151",
+    "https://openalex.org/W2142063041",
+    "https://openalex.org/W2149049530",
+    "https://openalex.org/W2159641034",
+    "https://openalex.org/W2167622878",
+    "https://openalex.org/W2168825777",
+    "https://openalex.org/W2172027779",
+    "https://openalex.org/W2172567637",
+    "https://openalex.org/W2259801033",
+    "https://openalex.org/W2316935890",
+    "https://openalex.org/W2320432931",
+    "https://openalex.org/W2324791747",
+    "https://openalex.org/W2325650737",
+    "https://openalex.org/W257442556",
+    "https://openalex.org/W4254133444",
+    "https://openalex.org/W4256344616",
+    "https://openalex.org/W4291174900",
+    "https://openalex.org/W4297440205",
+    "https://openalex.org/W4299993032",
+    "https://openalex.org/W4302079205"
+  ]
+}

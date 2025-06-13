@@ -1,0 +1,119 @@
+{
+  "id": "https://openalex.org/W2150326250",
+  "title": "Global estimates of the value of ecosystems and their services in monetary units",
+  "abstract": "This paper gives an overview of the value of ecosystem services of 10 main biomes expressed in monetary units. In total, over 320 publications were screened covering over 300 case study locations. Approximately 1350 value estimates were coded and stored in a searchable Ecosystem Service Value Database (ESVD). A selection of 665 value estimates was used for the analysis. Acknowledging the uncertainties and contextual nature of any valuation, the analysis shows that the total value of ecosystem services is considerable and ranges between 490 int$/year for the total bundle of ecosystem services that can potentially be provided by an 'average' hectare of open oceans to almost 350,000 int$/year for the potential services of an 'average' hectare of coral reefs. More importantly, our results show that most of this value is outside the market and best considered as non-tradable public benefits. The continued over-exploitation of ecosystems thus comes at the expense of the livelihood of the poor and future generations. Given that many of the positive externalities of ecosystems are lost or strongly reduced after land use conversion better accounting for the public goods and services provided by ecosystems is crucial to improve decision making and institutions for biodiversity conservation and sustainable ecosystem management.",
+  "authors": [
+    {
+      "name": "R.S. de Groot"
+    },
+    {
+      "name": "Luke Brander"
+    },
+    {
+      "name": "Sander van der Ploeg"
+    },
+    {
+      "name": "Robert Costanza"
+    },
+    {
+      "name": "Florence Bernard"
+    },
+    {
+      "name": "Leon Braat"
+    },
+    {
+      "name": "Mike Christie"
+    },
+    {
+      "name": "N. D. Crossman"
+    },
+    {
+      "name": "Andrea Ghermandi"
+    },
+    {
+      "name": "Lars Hein"
+    },
+    {
+      "name": "Salman Hussain"
+    },
+    {
+      "name": "Pushpam Kumar"
+    },
+    {
+      "name": "Alistair McVittie"
+    },
+    {
+      "name": "Rosimeiry Portela"
+    },
+    {
+      "name": "Luis C. Rodríguez"
+    },
+    {
+      "name": "Patrick ten Brink"
+    },
+    {
+      "name": "P.J.H. van Beukering"
+    }
+  ],
+  "publication_year": 2012,
+  "cited_by_count": 2298,
+  "primary_topic": "Land Use and Ecosystem Services",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W144647427",
+    "https://openalex.org/W1480313761",
+    "https://openalex.org/W1482228256",
+    "https://openalex.org/W1498252518",
+    "https://openalex.org/W1502586491",
+    "https://openalex.org/W1551533759",
+    "https://openalex.org/W1559998199",
+    "https://openalex.org/W1599841801",
+    "https://openalex.org/W1607825850",
+    "https://openalex.org/W1804509559",
+    "https://openalex.org/W1873573084",
+    "https://openalex.org/W1895644606",
+    "https://openalex.org/W1963638902",
+    "https://openalex.org/W1963746476",
+    "https://openalex.org/W1967226818",
+    "https://openalex.org/W1975576303",
+    "https://openalex.org/W1975771097",
+    "https://openalex.org/W1986632228",
+    "https://openalex.org/W1995810372",
+    "https://openalex.org/W1998946773",
+    "https://openalex.org/W1999842833",
+    "https://openalex.org/W2006240637",
+    "https://openalex.org/W2006805191",
+    "https://openalex.org/W2007656008",
+    "https://openalex.org/W2009315681",
+    "https://openalex.org/W2038154597",
+    "https://openalex.org/W2054501130",
+    "https://openalex.org/W2055891847",
+    "https://openalex.org/W2059312122",
+    "https://openalex.org/W2078318200",
+    "https://openalex.org/W2086713089",
+    "https://openalex.org/W2095110764",
+    "https://openalex.org/W2098443609",
+    "https://openalex.org/W2105402903",
+    "https://openalex.org/W2108173127",
+    "https://openalex.org/W2109782353",
+    "https://openalex.org/W2111124924",
+    "https://openalex.org/W2118718215",
+    "https://openalex.org/W2125617946",
+    "https://openalex.org/W2129128594",
+    "https://openalex.org/W2129974232",
+    "https://openalex.org/W2135758624",
+    "https://openalex.org/W2140213892",
+    "https://openalex.org/W2150199809",
+    "https://openalex.org/W2152330821",
+    "https://openalex.org/W2164193642",
+    "https://openalex.org/W2531649874",
+    "https://openalex.org/W2746485780",
+    "https://openalex.org/W2761972382",
+    "https://openalex.org/W4236813977",
+    "https://openalex.org/W4251250707",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W655235405"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "https://openalex.org/W3123022539",
+  "title": "The Approximation of Fixed Points of a Continuous Mapping",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Herbert E. Scarf"
+    }
+  ],
+  "publication_year": 2011,
+  "cited_by_count": 475,
+  "primary_topic": "Fixed Point Theorems Analysis",
+  "subfield_topic": "Geometry and Topology",
+  "field_topic": "Mathematics",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1521388935",
+    "https://openalex.org/W2152122625",
+    "https://openalex.org/W2159241449",
+    "https://openalex.org/W3125589895"
+  ]
+}

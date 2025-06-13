@@ -1,0 +1,33 @@
+{
+  "id": "https://openalex.org/W2901189947",
+  "title": "How behavioral science can help conservation",
+  "abstract": "Leveraging cognitive biases and social influence can make conservation efforts more effective",
+  "authors": [
+    {
+      "name": "Joshua E. Cinner"
+    }
+  ],
+  "publication_year": 2018,
+  "cited_by_count": 108,
+  "primary_topic": "Environmental Education and Sustainability",
+  "subfield_topic": "Management, Monitoring, Policy and Law",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1918041531",
+    "https://openalex.org/W2044944116",
+    "https://openalex.org/W2089700344",
+    "https://openalex.org/W2096292805",
+    "https://openalex.org/W2350304839",
+    "https://openalex.org/W2529741540",
+    "https://openalex.org/W2608551693",
+    "https://openalex.org/W2608971435",
+    "https://openalex.org/W2761556532",
+    "https://openalex.org/W2782917446",
+    "https://openalex.org/W2786022849",
+    "https://openalex.org/W2789606400",
+    "https://openalex.org/W2797125609",
+    "https://openalex.org/W2805216411",
+    "https://openalex.org/W2884830853"
+  ]
+}

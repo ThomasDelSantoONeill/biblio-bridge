@@ -1,0 +1,73 @@
+{
+  "id": "https://openalex.org/W2792330247",
+  "title": "Species co-occurrence analysis predicts management outcomes for multiple threats",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Ayesha Tulloch"
+    },
+    {
+      "name": "Iadine Chadès"
+    },
+    {
+      "name": "David B. Lindenmayer"
+    }
+  ],
+  "publication_year": 2018,
+  "cited_by_count": 41,
+  "primary_topic": "Plant and animal studies",
+  "subfield_topic": "Ecology, Evolution, Behavior and Systematics",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1487019273",
+    "https://openalex.org/W1514947113",
+    "https://openalex.org/W1538380038",
+    "https://openalex.org/W1779594683",
+    "https://openalex.org/W1947878151",
+    "https://openalex.org/W1967543711",
+    "https://openalex.org/W1967925990",
+    "https://openalex.org/W1980363808",
+    "https://openalex.org/W1982225265",
+    "https://openalex.org/W1994745184",
+    "https://openalex.org/W2000955570",
+    "https://openalex.org/W2002615685",
+    "https://openalex.org/W2024217280",
+    "https://openalex.org/W2038127700",
+    "https://openalex.org/W2050194054",
+    "https://openalex.org/W2052057004",
+    "https://openalex.org/W2063702754",
+    "https://openalex.org/W2068101361",
+    "https://openalex.org/W2072178616",
+    "https://openalex.org/W2073374702",
+    "https://openalex.org/W2085927787",
+    "https://openalex.org/W2088540963",
+    "https://openalex.org/W2098490582",
+    "https://openalex.org/W2101321903",
+    "https://openalex.org/W2103053511",
+    "https://openalex.org/W2106276251",
+    "https://openalex.org/W2109498381",
+    "https://openalex.org/W2122184339",
+    "https://openalex.org/W2122974269",
+    "https://openalex.org/W2124598518",
+    "https://openalex.org/W2124676532",
+    "https://openalex.org/W2125080945",
+    "https://openalex.org/W2135639661",
+    "https://openalex.org/W2137567665",
+    "https://openalex.org/W2138278745",
+    "https://openalex.org/W2145838950",
+    "https://openalex.org/W2147323780",
+    "https://openalex.org/W2148836897",
+    "https://openalex.org/W2149055390",
+    "https://openalex.org/W2151402778",
+    "https://openalex.org/W2155430569",
+    "https://openalex.org/W2175766358",
+    "https://openalex.org/W2203970634",
+    "https://openalex.org/W2215066457",
+    "https://openalex.org/W2216219315",
+    "https://openalex.org/W2234086713",
+    "https://openalex.org/W2339910054",
+    "https://openalex.org/W2510388658",
+    "https://openalex.org/W4249583823"
+  ]
+}

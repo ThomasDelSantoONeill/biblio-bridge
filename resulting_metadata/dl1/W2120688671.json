@@ -1,0 +1,36 @@
+{
+  "id": "https://openalex.org/W2120688671",
+  "title": "Sustainable exploitation of temperate fish stocks",
+  "abstract": "The theory of maximum sustainable yield (MSY) underpins many fishery management regimes and is applied principally as a single species concept. Using a simple dynamic biomass production model we show that MSY can be identified from a long time series of multi-stock data at a regional scale in the presence of species interactions and environmental change. It suggests that MSY is robust and calculable in a multispecies environment, offering a realistic reference point for fishery management. Furthermore, the demonstration of the existence of MSY shows that it is more than a purely theoretical concept. There has been an improvement in the status of stocks in the Northeast Atlantic, but our analysis suggests further reductions in fishing effort would improve long-term yields.",
+  "authors": [
+    {
+      "name": "Henrik Sparholt"
+    },
+    {
+      "name": "Robin Cook"
+    }
+  ],
+  "publication_year": 2009,
+  "cited_by_count": 18,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W119366826",
+    "https://openalex.org/W1972379970",
+    "https://openalex.org/W2009682367",
+    "https://openalex.org/W2044758663",
+    "https://openalex.org/W2057958564",
+    "https://openalex.org/W2062428839",
+    "https://openalex.org/W2063466669",
+    "https://openalex.org/W2074049784",
+    "https://openalex.org/W2077092969",
+    "https://openalex.org/W2313407065",
+    "https://openalex.org/W2444417684",
+    "https://openalex.org/W2796037150",
+    "https://openalex.org/W3213639408",
+    "https://openalex.org/W4237956118",
+    "https://openalex.org/W4247155106"
+  ]
+}

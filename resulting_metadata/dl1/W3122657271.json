@@ -1,0 +1,63 @@
+{
+  "id": "https://openalex.org/W3122657271",
+  "title": "Valuing Biodiversity from an Economic Perspective: A Unified Economic, Ecological, and Genetic Approach",
+  "abstract": "We develop a conceptual framework for valuing biodiversity from an economic perspective. We argue for a dynamic economic welfare measure of biodiversity that complements the literature on benefit-cost approaches and genetic distance/phylogenic tree approaches. Using a unified model of optimal economic management of an ecosystem under ecological and genetic constraints, we identify gains from management policies leading to a more diverse system, using the Bellman state valuation function of the problem. We show that a more diverse system could attain a higher value although the genetic distance of the species in the more diverse system could be almost zero.",
+  "authors": [
+    {
+      "name": "William A. Brock"
+    },
+    {
+      "name": "Anastasios Xepapadeas"
+    }
+  ],
+  "publication_year": 2003,
+  "cited_by_count": 156,
+  "primary_topic": "Economic and Environmental Valuation",
+  "subfield_topic": "Economics and Econometrics",
+  "field_topic": "Economics, Econometrics and Finance",
+  "domain_topic": "Social Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1488595547",
+    "https://openalex.org/W1501219137",
+    "https://openalex.org/W1508073476",
+    "https://openalex.org/W1542771692",
+    "https://openalex.org/W1550135737",
+    "https://openalex.org/W1554840274",
+    "https://openalex.org/W1642540132",
+    "https://openalex.org/W1677509814",
+    "https://openalex.org/W1973602550",
+    "https://openalex.org/W1984675190",
+    "https://openalex.org/W1997723991",
+    "https://openalex.org/W1999702548",
+    "https://openalex.org/W2017536007",
+    "https://openalex.org/W2029533027",
+    "https://openalex.org/W2029668452",
+    "https://openalex.org/W2031679747",
+    "https://openalex.org/W2037811913",
+    "https://openalex.org/W2046604788",
+    "https://openalex.org/W2049160794",
+    "https://openalex.org/W2051624184",
+    "https://openalex.org/W2055323474",
+    "https://openalex.org/W2065471056",
+    "https://openalex.org/W2066921242",
+    "https://openalex.org/W2080379417",
+    "https://openalex.org/W2096726558",
+    "https://openalex.org/W2104811961",
+    "https://openalex.org/W2111264554",
+    "https://openalex.org/W2122415479",
+    "https://openalex.org/W2134039775",
+    "https://openalex.org/W2136441503",
+    "https://openalex.org/W2139078537",
+    "https://openalex.org/W2145250129",
+    "https://openalex.org/W2161904808",
+    "https://openalex.org/W2170872884",
+    "https://openalex.org/W2467209196",
+    "https://openalex.org/W249515776",
+    "https://openalex.org/W2946152179",
+    "https://openalex.org/W3025136633",
+    "https://openalex.org/W3141385872",
+    "https://openalex.org/W3143757858",
+    "https://openalex.org/W4235860800",
+    "https://openalex.org/W4298863114"
+  ]
+}

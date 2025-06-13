@@ -1,0 +1,118 @@
+{
+  "id": "https://openalex.org/W2757659339",
+  "title": "A decline in primary production in the North Sea over 25 years, associated with reductions in zooplankton abundance and fish stock recruitment",
+  "abstract": "Abstract Phytoplankton primary production is at the base of the marine food web; changes in primary production have direct or indirect effects on higher trophic levels, from zooplankton organisms to marine mammals and seabirds. Here, we present a new time‐series on gross primary production in the North Sea, from 1988 to 2013, estimated using in situ measurements of chlorophyll and underwater light. This shows that recent decades have seen a significant decline in primary production in the North Sea. Moreover, primary production differs in magnitude between six hydrodynamic regions within the North Sea. Sea surface warming and reduced riverine nutrient inputs are found to be likely contributors to the declining levels of primary production. In turn, significant correlations are found between observed changes in primary production and the dynamics of higher trophic levels including (small) copepods and a standardized index of fish recruitment, averaged over seven stocks of high commercial significance in the North Sea. Given positive (bottom‐up) associations between primary production, zooplankton abundance and fish stock recruitment, this study provides strong evidence that if the decline in primary production continues, knock‐on effects upon the productivity of fisheries are to be expected unless these fisheries are managed effectively and cautiously.",
+  "authors": [
+    {
+      "name": "Elisa Capuzzo"
+    },
+    {
+      "name": "Christopher P. Lynam"
+    },
+    {
+      "name": "Jon Barry"
+    },
+    {
+      "name": "David Stephens"
+    },
+    {
+      "name": "Rodney Forster"
+    },
+    {
+      "name": "Naomi Greenwood"
+    },
+    {
+      "name": "Abigail McQuatters‐Gollop"
+    },
+    {
+      "name": "Tiago Silva"
+    },
+    {
+      "name": "Sonja M. van Leeuwen"
+    },
+    {
+      "name": "Georg H. Engelhard"
+    }
+  ],
+  "publication_year": 2017,
+  "cited_by_count": 240,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W101096562",
+    "https://openalex.org/W1773672018",
+    "https://openalex.org/W1896238438",
+    "https://openalex.org/W1905622249",
+    "https://openalex.org/W1926702081",
+    "https://openalex.org/W1929261463",
+    "https://openalex.org/W1969350811",
+    "https://openalex.org/W1969569397",
+    "https://openalex.org/W1970738405",
+    "https://openalex.org/W1971714133",
+    "https://openalex.org/W1989668498",
+    "https://openalex.org/W1997211443",
+    "https://openalex.org/W2005037625",
+    "https://openalex.org/W2006165291",
+    "https://openalex.org/W2006558110",
+    "https://openalex.org/W2008598417",
+    "https://openalex.org/W2009515711",
+    "https://openalex.org/W2010595641",
+    "https://openalex.org/W2013037847",
+    "https://openalex.org/W2018728976",
+    "https://openalex.org/W2021341420",
+    "https://openalex.org/W2025911542",
+    "https://openalex.org/W2026100467",
+    "https://openalex.org/W2030376548",
+    "https://openalex.org/W2032603824",
+    "https://openalex.org/W2036677156",
+    "https://openalex.org/W2036766850",
+    "https://openalex.org/W2040238331",
+    "https://openalex.org/W2041058530",
+    "https://openalex.org/W2044626734",
+    "https://openalex.org/W2053022429",
+    "https://openalex.org/W2054191534",
+    "https://openalex.org/W2070579634",
+    "https://openalex.org/W2073289890",
+    "https://openalex.org/W2074019661",
+    "https://openalex.org/W2084549990",
+    "https://openalex.org/W2086691319",
+    "https://openalex.org/W2091345097",
+    "https://openalex.org/W2106200606",
+    "https://openalex.org/W2113259099",
+    "https://openalex.org/W2120129362",
+    "https://openalex.org/W2120781941",
+    "https://openalex.org/W2121131753",
+    "https://openalex.org/W2122930237",
+    "https://openalex.org/W2124718796",
+    "https://openalex.org/W2126187550",
+    "https://openalex.org/W2126741931",
+    "https://openalex.org/W2128809649",
+    "https://openalex.org/W2136390334",
+    "https://openalex.org/W2140946893",
+    "https://openalex.org/W2145679082",
+    "https://openalex.org/W2145836150",
+    "https://openalex.org/W2146185416",
+    "https://openalex.org/W2150800266",
+    "https://openalex.org/W2153486311",
+    "https://openalex.org/W2159709664",
+    "https://openalex.org/W2162319009",
+    "https://openalex.org/W2163916624",
+    "https://openalex.org/W2164632936",
+    "https://openalex.org/W2165873112",
+    "https://openalex.org/W2169787625",
+    "https://openalex.org/W2203914624",
+    "https://openalex.org/W2221132678",
+    "https://openalex.org/W2256259525",
+    "https://openalex.org/W2260822000",
+    "https://openalex.org/W2267488456",
+    "https://openalex.org/W2279014759",
+    "https://openalex.org/W2317006071",
+    "https://openalex.org/W2582743722",
+    "https://openalex.org/W2587166559",
+    "https://openalex.org/W3128703889",
+    "https://openalex.org/W325671979",
+    "https://openalex.org/W4285719527"
+  ]
+}

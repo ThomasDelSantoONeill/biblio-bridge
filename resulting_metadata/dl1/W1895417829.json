@@ -1,0 +1,75 @@
+{
+  "id": "https://openalex.org/W1895417829",
+  "title": "Emerging asymmetric interactions between forage and predator fisheries impose management trade‐offs<sup>a</sup>",
+  "abstract": "A size and trait‐based marine community model was used to investigate interactions, with potential implications for yields, when a fishery targeting forage fish species (whose main adult diet is zooplankton) co‐occurs with a fishery targeting larger‐sized predator species. Predicted effects on the size structure of the fish community, growth and recruitment of fishes, and yield from the fisheries were used to identify management trade‐offs among the different fisheries. Results showed that moderate fishing on forage fishes imposed only small effects on predator fisheries, whereas predator fisheries could enhance yield from forage fisheries under some circumstances.",
+  "authors": [
+    {
+      "name": "Jennifer E. Houle"
+    },
+    {
+      "name": "Ken H. Andersen"
+    },
+    {
+      "name": "Keith D. Farnsworth"
+    },
+    {
+      "name": "David G. Reid"
+    }
+  ],
+  "publication_year": 2013,
+  "cited_by_count": 33,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W137111642",
+    "https://openalex.org/W1908662576",
+    "https://openalex.org/W1952312374",
+    "https://openalex.org/W1973805519",
+    "https://openalex.org/W1990566709",
+    "https://openalex.org/W2013438632",
+    "https://openalex.org/W2022730497",
+    "https://openalex.org/W2028717723",
+    "https://openalex.org/W2030764027",
+    "https://openalex.org/W2032117755",
+    "https://openalex.org/W2042968683",
+    "https://openalex.org/W2055024990",
+    "https://openalex.org/W2060501327",
+    "https://openalex.org/W2061513338",
+    "https://openalex.org/W2063236099",
+    "https://openalex.org/W2072956050",
+    "https://openalex.org/W2077092969",
+    "https://openalex.org/W2078209666",
+    "https://openalex.org/W2081183483",
+    "https://openalex.org/W2096248910",
+    "https://openalex.org/W2098876115",
+    "https://openalex.org/W2099499886",
+    "https://openalex.org/W2101204002",
+    "https://openalex.org/W2102619577",
+    "https://openalex.org/W2109046958",
+    "https://openalex.org/W2109492025",
+    "https://openalex.org/W2111981845",
+    "https://openalex.org/W2119927194",
+    "https://openalex.org/W2121612917",
+    "https://openalex.org/W2125608641",
+    "https://openalex.org/W2127032204",
+    "https://openalex.org/W2128713868",
+    "https://openalex.org/W2134764708",
+    "https://openalex.org/W2145378599",
+    "https://openalex.org/W2150074403",
+    "https://openalex.org/W2150633385",
+    "https://openalex.org/W2152832046",
+    "https://openalex.org/W2154277394",
+    "https://openalex.org/W2155667586",
+    "https://openalex.org/W2156695268",
+    "https://openalex.org/W2163437592",
+    "https://openalex.org/W2169082384",
+    "https://openalex.org/W2177938258",
+    "https://openalex.org/W2224765085",
+    "https://openalex.org/W2607828866",
+    "https://openalex.org/W3150234440",
+    "https://openalex.org/W4237618418",
+    "https://openalex.org/W4292411114"
+  ]
+}

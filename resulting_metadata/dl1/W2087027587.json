@@ -1,0 +1,24 @@
+{
+  "id": "https://openalex.org/W2087027587",
+  "title": "Differing Goals of Salmon Management on the Skeena River",
+  "abstract": "In this paper we describe the use of a specific decision analysis tool, multiattribute utility analysis, to investigate conflicting goals in the management of salmon on the Skeena River. We used this technique to determine the preferences of 10 individuals representing several interest groups and different management agencies. It is shown how individuals differ in their preferences, how conflicts can be identified, and how decision analysis can be used to refine an individual's understanding of his preferences. Individuals assessed possible outcomes of different alternative enhancement proposals using two techniques, the decision analysis technique and an intuitive approach. These two methods produced different results. The use of these techniques in the management process is discussed.",
+  "authors": [
+    {
+      "name": "Ray Hilborn"
+    },
+    {
+      "name": "Carl J. Walters"
+    }
+  ],
+  "publication_year": 1977,
+  "cited_by_count": 43,
+  "primary_topic": "Economic and Environmental Valuation",
+  "subfield_topic": "Economics and Econometrics",
+  "field_topic": "Economics, Econometrics and Finance",
+  "domain_topic": "Social Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1965868383",
+    "https://openalex.org/W2044922622",
+    "https://openalex.org/W2153002539"
+  ]
+}

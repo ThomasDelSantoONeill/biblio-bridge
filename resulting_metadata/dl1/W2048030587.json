@@ -1,0 +1,51 @@
+{
+  "id": "https://openalex.org/W2048030587",
+  "title": "VIABILITY MODEL OF TROPHIC INTERACTIONS IN MARINE ECOSYSTEMS",
+  "abstract": "ABSTRACT. An attempt to use viability models for studying marine ecosystems is proposed as a possible alternative to classical ecosystem modeling. Viability models do not consider optimal solutions but instead define all possible evolutions of a dynamical system under given constraints. Applied to marine ecosystems, a viability model is formulated based on the trophic coefficients of a mass‐balanced model. This requires relatively few assumptions about the processes involved and can integrate uncertainty associated with the required estimates of input parameters. An iterative algorithm is proposed to calculate the viability kernel, i.e., the envelope of all viable trajectories of the ecosystem. An application to the Benguela ecosystem is presented, considering interactions between detritus, phytoplankton, zooplankton, pelagic fish, demersal fish and fisheries. Results show how a viability kernel could be used to better define the healthy states of a marine ecosystem, by defining what states should be avoided. The paper discusses how viability models of trophic interactions could help to define a new ecosystem‐based indicator for fisheries management. It then discusses how this approach can potentially contribute to a paradigm shift that is emerging in the management of renewable resources.",
+  "authors": [
+    {
+      "name": "Christian Mullon"
+    },
+    {
+      "name": "Philippe Cury"
+    },
+    {
+      "name": "Lynne J. Shannon"
+    }
+  ],
+  "publication_year": 2004,
+  "cited_by_count": 52,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1524760816",
+    "https://openalex.org/W1568026218",
+    "https://openalex.org/W1602574766",
+    "https://openalex.org/W1969027200",
+    "https://openalex.org/W1992465877",
+    "https://openalex.org/W1999497797",
+    "https://openalex.org/W2007756941",
+    "https://openalex.org/W2027665073",
+    "https://openalex.org/W2030232515",
+    "https://openalex.org/W2034658683",
+    "https://openalex.org/W2047718842",
+    "https://openalex.org/W2066819488",
+    "https://openalex.org/W2070237217",
+    "https://openalex.org/W2077393443",
+    "https://openalex.org/W2078251967",
+    "https://openalex.org/W2081050205",
+    "https://openalex.org/W2085728653",
+    "https://openalex.org/W2098481144",
+    "https://openalex.org/W2101204002",
+    "https://openalex.org/W2103037732",
+    "https://openalex.org/W2124384648",
+    "https://openalex.org/W2160436099",
+    "https://openalex.org/W2162070796",
+    "https://openalex.org/W2174688720",
+    "https://openalex.org/W2318467217",
+    "https://openalex.org/W2612952478",
+    "https://openalex.org/W624555320"
+  ]
+}

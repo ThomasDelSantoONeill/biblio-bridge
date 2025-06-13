@@ -1,0 +1,17 @@
+{
+  "id": "https://openalex.org/W3123331292",
+  "title": "Risk, Uncertainty and Profit",
+  "abstract": "Examines the role played by true uncertainty, defined as the possibility of alternative outcomes whose probabilities are not capable of measurement, in an economic system, and distinguishes uncertainty from risk. Classical economic theory teaches that perfect competition ought to drive an economy into equilibrium and eliminate opportunities for economic profit. Nevertheless, economic profit persists in the real world. The introductory sections of the book provide a historical and critical review of early attempts to reconcile theory and observation. Then, beginning with a simplified model economy of individuals as producers-and-consumers, the author derives familiar features of static economics. The model goes through further refinements of joint production, and changes with uncertainty absent with similar results. The final model is one that demonstrates how perfect competition tends to eliminate profit. The author then takes up the question of how risk and uncertainty may upset the equilibrium. Risk is the possibility of alternative outcomes whose probabilities are capable of measurement; uncertainty is the possibility of alternative outcome whose probabilities are not capable of measurement. When probabilities are known, adverse outcomes may be insured against. Uncertainty is handled by judgment, an unequally distributed ability. The successful entrepreneur is one who has the sound judgment, either in the direction of the enterprise itself or in the selection of its managers (as shareholders do). The recompense for this talent is profit. (CAR)",
+  "authors": [
+    {
+      "name": "Frank H. Knight"
+    }
+  ],
+  "publication_year": 1921,
+  "cited_by_count": 10416,
+  "primary_topic": "Economic Theory and Institutions",
+  "subfield_topic": "Economics and Econometrics",
+  "field_topic": "Economics, Econometrics and Finance",
+  "domain_topic": "Social Sciences",
+  "referenced_works": []
+}

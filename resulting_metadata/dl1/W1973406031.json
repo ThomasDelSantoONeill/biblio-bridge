@@ -1,0 +1,21 @@
+{
+  "id": "https://openalex.org/W1973406031",
+  "title": "A Note on Trophic Complexity and Community Stability",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Robert T. Paine"
+    }
+  ],
+  "publication_year": 1969,
+  "cited_by_count": 1661,
+  "primary_topic": "Plant and animal studies",
+  "subfield_topic": "Ecology, Evolution, Behavior and Systematics",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1982015760",
+    "https://openalex.org/W2054637019",
+    "https://openalex.org/W2320432931"
+  ]
+}

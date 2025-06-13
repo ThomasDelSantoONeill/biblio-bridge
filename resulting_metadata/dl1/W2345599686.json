@@ -1,0 +1,342 @@
+{
+  "id": "https://openalex.org/W2345599686",
+  "title": "RAD51B in Familial Breast Cancer",
+  "abstract": "Common variation on 14q24.1, close to RAD51B, has been associated with breast cancer: rs999737 and rs2588809 with the risk of female breast cancer and rs1314913 with the risk of male breast cancer. The aim of this study was to investigate the role of RAD51B variants in breast cancer predisposition, particularly in the context of familial breast cancer in Finland. We sequenced the coding region of RAD51B in 168 Finnish breast cancer patients from the Helsinki region for identification of possible recurrent founder mutations. In addition, we studied the known rs999737, rs2588809, and rs1314913 SNPs and RAD51B haplotypes in 44,791 breast cancer cases and 43,583 controls from 40 studies participating in the Breast Cancer Association Consortium (BCAC) that were genotyped on a custom chip (iCOGS). We identified one putatively pathogenic missense mutation c.541C>T among the Finnish cancer patients and subsequently genotyped the mutation in additional breast cancer cases (n = 5259) and population controls (n = 3586) from Finland and Belarus. No significant association with breast cancer risk was seen in the meta-analysis of the Finnish datasets or in the large BCAC dataset. The association with previously identified risk variants rs999737, rs2588809, and rs1314913 was replicated among all breast cancer cases and also among familial cases in the BCAC dataset. The most significant association was observed for the haplotype carrying the risk-alleles of all the three SNPs both among all cases (odds ratio (OR): 1.15, 95% confidence interval (CI): 1.11-1.19, P = 8.88 x 10-16) and among familial cases (OR: 1.24, 95% CI: 1.16-1.32, P = 6.19 x 10-11), compared to the haplotype with the respective protective alleles. Our results suggest that loss-of-function mutations in RAD51B are rare, but common variation at the RAD51B region is significantly associated with familial breast cancer risk.",
+  "authors": [
+    {
+      "name": "Liisa M. Pelttari"
+    },
+    {
+      "name": "Sofia Khan"
+    },
+    {
+      "name": "Mikko Vuorela"
+    },
+    {
+      "name": "Johanna I. Kiiski"
+    },
+    {
+      "name": "Sara Vilske"
+    },
+    {
+      "name": "Viivi Nevanlinna"
+    },
+    {
+      "name": "Salla Ranta"
+    },
+    {
+      "name": "Johanna Schleutker"
+    },
+    {
+      "name": "Robert Winqvist"
+    },
+    {
+      "name": "Anne Kallioniemi"
+    },
+    {
+      "name": "Thilo Dörk"
+    },
+    {
+      "name": "Natalia Bogdanova"
+    },
+    {
+      "name": "Jonine D. Figueroa"
+    },
+    {
+      "name": "Paul D.P. Pharoah"
+    },
+    {
+      "name": "Marjanka K. Schmidt"
+    },
+    {
+      "name": "Alison M. Dunning"
+    },
+    {
+      "name": "Montserrat García‐Closas"
+    },
+    {
+      "name": "Manjeet K. Bolla"
+    },
+    {
+      "name": "Joe Dennis"
+    },
+    {
+      "name": "Kyriaki Michailidou"
+    },
+    {
+      "name": "Sophia Wang"
+    },
+    {
+      "name": "John L. Hopper"
+    },
+    {
+      "name": "Melissa C. Southey"
+    },
+    {
+      "name": "Efraim H. Rosenberg"
+    },
+    {
+      "name": "Peter A. Fasching"
+    },
+    {
+      "name": "Matthias W. Beckmann"
+    },
+    {
+      "name": "Julian Peto"
+    },
+    {
+      "name": "Isabel dos‐Santos‐Silva"
+    },
+    {
+      "name": "Elinor J. Sawyer"
+    },
+    {
+      "name": "Ian Tomlinson"
+    },
+    {
+      "name": "Barbara Burwinkel"
+    },
+    {
+      "name": "Harald Surowy"
+    },
+    {
+      "name": "Pascal Guénel"
+    },
+    {
+      "name": "Thérèse Truong"
+    },
+    {
+      "name": "Stig E. Bojesen"
+    },
+    {
+      "name": "Børge G. Nordestgaard"
+    },
+    {
+      "name": "Javier Benı́tez"
+    },
+    {
+      "name": "Anna González‐Neira"
+    },
+    {
+      "name": "Susan L. Neuhausen"
+    },
+    {
+      "name": "Hoda Anton‐Culver"
+    },
+    {
+      "name": "Hermann Brenner"
+    },
+    {
+      "name": "Volker Arndt"
+    },
+    {
+      "name": "Alfons Meindl"
+    },
+    {
+      "name": "Rita K. Schmutzler"
+    },
+    {
+      "name": "Hiltrud Brauch"
+    },
+    {
+      "name": "Thomas Brüning"
+    },
+    {
+      "name": "Annika Lindblom"
+    },
+    {
+      "name": "Sara Margolin"
+    },
+    {
+      "name": "Graham J. Mann"
+    },
+    {
+      "name": "Jaana M. Hartikainen"
+    },
+    {
+      "name": "Georgia Chenevix‐Trench"
+    },
+    {
+      "name": "Laurien Van Dyck"
+    },
+    {
+      "name": "Hilde Janssen"
+    },
+    {
+      "name": "Jenny Chang-Claude"
+    },
+    {
+      "name": "Anja Rudolph"
+    },
+    {
+      "name": "Paolo Radice"
+    },
+    {
+      "name": "Paolo Peterlongo"
+    },
+    {
+      "name": "Emily Hallberg"
+    },
+    {
+      "name": "Janet E. Olson"
+    },
+    {
+      "name": "Graham G. Giles"
+    },
+    {
+      "name": "Roger L. Milne"
+    },
+    {
+      "name": "Christopher A. Haiman"
+    },
+    {
+      "name": "Fredrick R. Schumacher"
+    },
+    {
+      "name": "Jacques Simard"
+    },
+    {
+      "name": "Martine Dumont"
+    },
+    {
+      "name": "Vessela Kristensen"
+    },
+    {
+      "name": "Anne‐Lise Børresen‐Dale"
+    },
+    {
+      "name": "Wei Zheng"
+    },
+    {
+      "name": "Alicia Beeghly‐Fadiel"
+    },
+    {
+      "name": "Mervi Grip"
+    },
+    {
+      "name": "Irene L. Andrulis"
+    },
+    {
+      "name": "Gord Glendon"
+    },
+    {
+      "name": "Peter Devilee"
+    },
+    {
+      "name": "Caroline Seynaeve"
+    },
+    {
+      "name": "Maartje J. Hooning"
+    },
+    {
+      "name": "Margriet Collée"
+    },
+    {
+      "name": "Angela Cox"
+    },
+    {
+      "name": "Simon S. Cross"
+    },
+    {
+      "name": "Mitul Shah"
+    },
+    {
+      "name": "Robert Luben"
+    },
+    {
+      "name": "Ute Hamann"
+    },
+    {
+      "name": "Diana Torres"
+    },
+    {
+      "name": "Anna Jakubowska"
+    },
+    {
+      "name": "Jan Lubiński"
+    },
+    {
+      "name": "Fergus J. Couch"
+    },
+    {
+      "name": "Drakoulis Yannoukakos"
+    },
+    {
+      "name": "Nick Orr"
+    },
+    {
+      "name": "Anthony J. Swerdlow"
+    },
+    {
+      "name": "Hatef Darabi"
+    },
+    {
+      "name": "Jingmei Li"
+    },
+    {
+      "name": "Kamila Czene"
+    },
+    {
+      "name": "Per Hall"
+    },
+    {
+      "name": "Douglas F. Easton"
+    },
+    {
+      "name": "Johanna Mattson"
+    },
+    {
+      "name": "Carl Blomqvist"
+    },
+    {
+      "name": "Kristiina Aittomäki"
+    },
+    {
+      "name": "Heli Nevanlinna"
+    }
+  ],
+  "publication_year": 2016,
+  "cited_by_count": 670,
+  "primary_topic": "BRCA gene mutations in cancer",
+  "subfield_topic": "Genetics",
+  "field_topic": "Biochemistry, Genetics and Molecular Biology",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1730476847",
+    "https://openalex.org/W1969409963",
+    "https://openalex.org/W1972696984",
+    "https://openalex.org/W1981264193",
+    "https://openalex.org/W1985886710",
+    "https://openalex.org/W1993732788",
+    "https://openalex.org/W1994948218",
+    "https://openalex.org/W2002715948",
+    "https://openalex.org/W2006469080",
+    "https://openalex.org/W2007100972",
+    "https://openalex.org/W2022541701",
+    "https://openalex.org/W2029480573",
+    "https://openalex.org/W2041205258",
+    "https://openalex.org/W2057748293",
+    "https://openalex.org/W2067993067",
+    "https://openalex.org/W2076357933",
+    "https://openalex.org/W2077596705",
+    "https://openalex.org/W2087242923",
+    "https://openalex.org/W2094328090",
+    "https://openalex.org/W2098812676",
+    "https://openalex.org/W2103123188",
+    "https://openalex.org/W2106787323",
+    "https://openalex.org/W2107374121",
+    "https://openalex.org/W2110863368",
+    "https://openalex.org/W2135195813",
+    "https://openalex.org/W2135665336",
+    "https://openalex.org/W2142581690",
+    "https://openalex.org/W2151206132",
+    "https://openalex.org/W2152444838",
+    "https://openalex.org/W2153966196",
+    "https://openalex.org/W2158740417",
+    "https://openalex.org/W2163013660",
+    "https://openalex.org/W2167677949",
+    "https://openalex.org/W2170305004",
+    "https://openalex.org/W2170693921",
+    "https://openalex.org/W2917837889"
+  ]
+}

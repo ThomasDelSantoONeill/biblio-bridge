@@ -1,0 +1,47 @@
+{
+  "id": "https://openalex.org/W2109046958",
+  "title": "Interacting trophic forcing and the population dynamics of herring",
+  "abstract": "Small pelagic fish occupy a central position in marine ecosystems worldwide, largely by determining the energy transfer from lower trophic levels to predators at the top of the food web, including humans. Population dynamics of small pelagic fish may therefore be regulated neither strictly bottom-up nor top-down, but rather through multiple external and internal drivers. While in many studies single drivers have been identified, potential synergies of multiple factors, as well as their relative importance in regulating population dynamics of small pelagic fish, is a largely unresolved issue. Using a statistical, age-structured modeling approach, we demonstrate the relative importance and influence of bottom-up (e.g., climate, zooplankton availability) and top-down (i.e., fishing and predation) factors on the population dynamics of Bothnian Sea herring (Clupea harengus) throughout its life cycle. Our results indicate significant bottom-up effects of zooplankton and interspecific competition from sprat (Sprattus sprattus), particularly on younger age classes of herring. Although top-down forcing through fishing and predation by grey seals (Halichoerus grypus) and Atlantic cod (Gadus morhua) also was evident, these factors were less important than resource availability and interspecific competition. Understanding key ecological processes and interactions is fundamental to ecosystem-based management practices necessary to promote sustainable exploitation of small pelagic fish.",
+  "authors": [
+    {
+      "name": "Martin Lindegren"
+    },
+    {
+      "name": "Örjan Östman"
+    },
+    {
+      "name": "Anna Gårdmark"
+    }
+  ],
+  "publication_year": 2011,
+  "cited_by_count": 46,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1564478303",
+    "https://openalex.org/W1988024854",
+    "https://openalex.org/W1989978375",
+    "https://openalex.org/W1990062904",
+    "https://openalex.org/W2002039102",
+    "https://openalex.org/W2002320549",
+    "https://openalex.org/W2007044690",
+    "https://openalex.org/W2010400606",
+    "https://openalex.org/W2016685230",
+    "https://openalex.org/W2025921730",
+    "https://openalex.org/W2047755612",
+    "https://openalex.org/W2054563314",
+    "https://openalex.org/W2062428839",
+    "https://openalex.org/W2070134003",
+    "https://openalex.org/W2097492601",
+    "https://openalex.org/W2101204002",
+    "https://openalex.org/W2128092399",
+    "https://openalex.org/W2132131334",
+    "https://openalex.org/W2151482884",
+    "https://openalex.org/W2170759554",
+    "https://openalex.org/W2588618514",
+    "https://openalex.org/W2788660638",
+    "https://openalex.org/W610857469"
+  ]
+}

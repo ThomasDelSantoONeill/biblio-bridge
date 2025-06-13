@@ -1,0 +1,33 @@
+{
+  "id": "https://openalex.org/W2019752700",
+  "title": "The Measurement of Niche Overlap and Some Relatives",
+  "abstract": "Existing overlap indices are examined and are judged to be inadequate on the grounds (1) that they lack simple and appropriate biological interpretations, and (2) that they ignore possible variation among resource states in abundance or availability (a_i). Two indices interpretable in terms of encounters are proposed. Niche overlap (L) is measured as the degree to which frequency of interspecific encounter is higher or lower than it would be if each species utilized each resource state in proportion to its abundance (a_i). Directional overlap (Z_(xy)) is measured as the density of species Y encountered, on the average, by an individual of species X. When resource states are equal in size, L is equivalent to Lloyd's `interspecies patchiness,' and Z_(x(y)) is equivalent to his `mean crowding on species 1 by species 2.' Indices which in corporate variation in resource state abundance are also developed for mean crowding, patchiness and niche breadth.",
+  "authors": [
+    {
+      "name": "Stuart H. Hurlbert"
+    }
+  ],
+  "publication_year": 1978,
+  "cited_by_count": 1331,
+  "primary_topic": "Plant and animal studies",
+  "subfield_topic": "Ecology, Evolution, Behavior and Systematics",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1561689556",
+    "https://openalex.org/W1970158459",
+    "https://openalex.org/W1972321748",
+    "https://openalex.org/W1994507967",
+    "https://openalex.org/W1997125947",
+    "https://openalex.org/W2010032360",
+    "https://openalex.org/W2022158417",
+    "https://openalex.org/W2027941603",
+    "https://openalex.org/W2035085260",
+    "https://openalex.org/W2038688897",
+    "https://openalex.org/W2067813367",
+    "https://openalex.org/W2133341571",
+    "https://openalex.org/W3041201303",
+    "https://openalex.org/W4206020472",
+    "https://openalex.org/W940422710"
+  ]
+}

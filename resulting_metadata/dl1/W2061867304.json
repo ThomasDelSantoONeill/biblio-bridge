@@ -1,0 +1,50 @@
+{
+  "id": "https://openalex.org/W2061867304",
+  "title": "Synergistic Interactions between Fish and Stoneflies: Facilitation and Interference among Stream Predators",
+  "abstract": "A series of experiments examined rates of prey consumption by mottled sculpins (Cottus bairdi) and perlid stoneflies (Agnetina capitata) separately, and when they were together in artificial streams. Two types of Ephemeroptera prey (Ephemerella subvaria and Baetis tricaudatus) were used in separate experiments. When both types of predators were present consumption of Baetis larvae was significantly less than model predictions of combined prey consumption, indicating a negative interaction between predators. Consumption of Ephemerella was significantly higher than predicted by the model indicating a positive interaction between predators. Analysis of gut contents indicated that Agnetina captured fewer Baetis larvae in the presence of sculpins, and sculpins captured significantly more Ephemerella larvae in the presence of stoneflies. Negative effects of sculpins on the number of Baetis larvae captured by Agnetina were found even when the sculpins were unable to feed. Positive effects of Agnetina on the number of Ephemerella captured by sculpins were still found even when Agnetina density was reduced by more than half. Understanding the complexity of interaction between fish and stoneflies may provide explanations for the contradiction between observed and expected results of fish removal experiments in streams.",
+  "authors": [
+    {
+      "name": "Daniel A. Soluk"
+    },
+    {
+      "name": "Nicholas C. Collins"
+    }
+  ],
+  "publication_year": 1988,
+  "cited_by_count": 270,
+  "primary_topic": "Freshwater macroinvertebrate diversity and ecology",
+  "subfield_topic": "Ecology",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W119784078",
+    "https://openalex.org/W1522708322",
+    "https://openalex.org/W1984658329",
+    "https://openalex.org/W1990782929",
+    "https://openalex.org/W1996247834",
+    "https://openalex.org/W1998245410",
+    "https://openalex.org/W2004246392",
+    "https://openalex.org/W2014175659",
+    "https://openalex.org/W2017450701",
+    "https://openalex.org/W2024142792",
+    "https://openalex.org/W2040817479",
+    "https://openalex.org/W2054508168",
+    "https://openalex.org/W2068421312",
+    "https://openalex.org/W2083786578",
+    "https://openalex.org/W2086053402",
+    "https://openalex.org/W2106490781",
+    "https://openalex.org/W2133925990",
+    "https://openalex.org/W2141552878",
+    "https://openalex.org/W2147194623",
+    "https://openalex.org/W2156578186",
+    "https://openalex.org/W2167033969",
+    "https://openalex.org/W2168749739",
+    "https://openalex.org/W2322303512",
+    "https://openalex.org/W2329354949",
+    "https://openalex.org/W2333596236",
+    "https://openalex.org/W2797739306",
+    "https://openalex.org/W31710421",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W78801775"
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "id": "https://openalex.org/W2103098655",
+  "title": "The Fishery Performance Indicators: A Management Tool for Triple Bottom Line Outcomes",
+  "abstract": "Pursuit of the triple bottom line of economic, community and ecological sustainability has increased the complexity of fishery management; fisheries assessments require new types of data and analysis to guide science-based policy in addition to traditional biological information and modeling. We introduce the Fishery Performance Indicators (FPIs), a broadly applicable and flexible tool for assessing performance in individual fisheries, and for establishing cross-sectional links between enabling conditions, management strategies and triple bottom line outcomes. Conceptually separating measures of performance, the FPIs use 68 individual outcome metrics—coded on a 1 to 5 scale based on expert assessment to facilitate application to data poor fisheries and sectors—that can be partitioned into sector-based or triple-bottom-line sustainability-based interpretative indicators. Variation among outcomes is explained with 54 similarly structured metrics of inputs, management approaches and enabling conditions. Using 61 initial fishery case studies drawn from industrial and developing countries around the world, we demonstrate the inferential importance of tracking economic and community outcomes, in addition to resource status.",
+  "authors": [
+    {
+      "name": "James L. Anderson"
+    },
+    {
+      "name": "Christopher M. Anderson"
+    },
+    {
+      "name": "Jingjie Chu"
+    },
+    {
+      "name": "Jennifer Meredith"
+    },
+    {
+      "name": "Frank Asche"
+    },
+    {
+      "name": "Gil Sylvia"
+    },
+    {
+      "name": "Martin D. Smith"
+    },
+    {
+      "name": "Dessy Tri Anggraeni"
+    },
+    {
+      "name": "Robert Arthur"
+    },
+    {
+      "name": "Atle G. Guttormsen"
+    },
+    {
+      "name": "Jessica K. McCluney"
+    },
+    {
+      "name": "Tim Ward"
+    },
+    {
+      "name": "Wisdom Akpalu"
+    },
+    {
+      "name": "Håkan Eggert"
+    },
+    {
+      "name": "Jimely Flores"
+    },
+    {
+      "name": "Matthew A. Freeman"
+    },
+    {
+      "name": "Daniel S. Holland"
+    },
+    {
+      "name": "Gunnar Knapp"
+    },
+    {
+      "name": "Mimako Kobayashi"
+    },
+    {
+      "name": "Sherry L. Larkin"
+    },
+    {
+      "name": "Kari MacLauchlin"
+    },
+    {
+      "name": "Kurt E. Schnier"
+    },
+    {
+      "name": "Mark Soboil"
+    },
+    {
+      "name": "Sigbjørn Tveterås"
+    },
+    {
+      "name": "Hirotsugu Uchida"
+    },
+    {
+      "name": "Diego Valderrama"
+    }
+  ],
+  "publication_year": 2015,
+  "cited_by_count": 328,
+  "primary_topic": "Coral and Marine Ecosystems Studies",
+  "subfield_topic": "Ecology",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W118799621",
+    "https://openalex.org/W119521978",
+    "https://openalex.org/W1502161406",
+    "https://openalex.org/W1529120767",
+    "https://openalex.org/W1533324483",
+    "https://openalex.org/W1533886947",
+    "https://openalex.org/W1556550322",
+    "https://openalex.org/W1559195278",
+    "https://openalex.org/W1589968971",
+    "https://openalex.org/W1600051374",
+    "https://openalex.org/W1803117247",
+    "https://openalex.org/W1888869194",
+    "https://openalex.org/W1900819315",
+    "https://openalex.org/W1964285328",
+    "https://openalex.org/W1970377095",
+    "https://openalex.org/W1977041980",
+    "https://openalex.org/W1978548769",
+    "https://openalex.org/W1981525355",
+    "https://openalex.org/W1991028190",
+    "https://openalex.org/W2006585038",
+    "https://openalex.org/W2006690779",
+    "https://openalex.org/W2009603756",
+    "https://openalex.org/W2023476381",
+    "https://openalex.org/W2034467479",
+    "https://openalex.org/W2034994370",
+    "https://openalex.org/W2038335062",
+    "https://openalex.org/W2039085028",
+    "https://openalex.org/W2039395618",
+    "https://openalex.org/W2044608100",
+    "https://openalex.org/W2047928207",
+    "https://openalex.org/W2051982097",
+    "https://openalex.org/W2060488587",
+    "https://openalex.org/W2067253669",
+    "https://openalex.org/W2076824706",
+    "https://openalex.org/W2077004452",
+    "https://openalex.org/W2081656950",
+    "https://openalex.org/W2085876435",
+    "https://openalex.org/W2094836024",
+    "https://openalex.org/W2099983902",
+    "https://openalex.org/W2104519673",
+    "https://openalex.org/W2105793908",
+    "https://openalex.org/W2113534686",
+    "https://openalex.org/W2120997513",
+    "https://openalex.org/W2124734293",
+    "https://openalex.org/W2134036584",
+    "https://openalex.org/W2136592220",
+    "https://openalex.org/W2137332005",
+    "https://openalex.org/W2142024229",
+    "https://openalex.org/W2156523992",
+    "https://openalex.org/W2159204556",
+    "https://openalex.org/W2165702945",
+    "https://openalex.org/W2168936981",
+    "https://openalex.org/W2172157348",
+    "https://openalex.org/W2175723801",
+    "https://openalex.org/W2179684740",
+    "https://openalex.org/W2226396244",
+    "https://openalex.org/W2254907362",
+    "https://openalex.org/W248399325",
+    "https://openalex.org/W2753514269",
+    "https://openalex.org/W3088713371",
+    "https://openalex.org/W4233654598",
+    "https://openalex.org/W4234643591",
+    "https://openalex.org/W4239258527",
+    "https://openalex.org/W4242942536",
+    "https://openalex.org/W4251950995",
+    "https://openalex.org/W604016026",
+    "https://openalex.org/W79789520"
+  ]
+}

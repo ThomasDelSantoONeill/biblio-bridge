@@ -1,0 +1,47 @@
+{
+  "id": "https://openalex.org/W2008432220",
+  "title": "Modelling Coevolution in Multispecies Communities",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Guido Caldarelli"
+    },
+    {
+      "name": "Paul G. Higgs"
+    },
+    {
+      "name": "Alan J. McKane"
+    }
+  ],
+  "publication_year": 1998,
+  "cited_by_count": 228,
+  "primary_topic": "Evolutionary Game Theory and Cooperation",
+  "subfield_topic": "Sociology and Political Science",
+  "field_topic": "Social Sciences",
+  "domain_topic": "Social Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1562543616",
+    "https://openalex.org/W1966151890",
+    "https://openalex.org/W1973432171",
+    "https://openalex.org/W1975626823",
+    "https://openalex.org/W1982178304",
+    "https://openalex.org/W1982995653",
+    "https://openalex.org/W1997923984",
+    "https://openalex.org/W1999855446",
+    "https://openalex.org/W2002834368",
+    "https://openalex.org/W2007553141",
+    "https://openalex.org/W2017652747",
+    "https://openalex.org/W2020335469",
+    "https://openalex.org/W2037133082",
+    "https://openalex.org/W2047827879",
+    "https://openalex.org/W2055630785",
+    "https://openalex.org/W2068349998",
+    "https://openalex.org/W2070368466",
+    "https://openalex.org/W2165207708",
+    "https://openalex.org/W2165864535",
+    "https://openalex.org/W2172420478",
+    "https://openalex.org/W2318462315",
+    "https://openalex.org/W2325278432",
+    "https://openalex.org/W65812570"
+  ]
+}

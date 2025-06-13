@@ -1,0 +1,60 @@
+{
+  "id": "https://openalex.org/W2615995276",
+  "title": "Does basic energy access generate socioeconomic benefits? A field experiment with off-grid solar power in India",
+  "abstract": "This article assesses the socioeconomic effects of solar microgrids. The lack of access to electricity is a major obstacle to the socioeconomic development of more than a billion people. Off-grid solar technologies hold potential as an affordable and clean solution to satisfy basic electricity needs. We conducted a randomized field experiment in India to estimate the causal effect of off-grid solar power on electricity access and broader socioeconomic development of 1281 rural households. Within a year, electrification rates in the treatment group increased by 29 to 36 percentage points. Daily hours of access to electricity increased only by 0.99 to 1.42 hours, and the confidence intervals are wide. Kerosene expenditure on the black market decreased by 47 to 49 rupees per month. Despite these strong electrification and expenditure effects, we found no systematic evidence for changes in savings, spending, business creation, time spent working or studying, or other broader indicators of socioeconomic development.",
+  "authors": [
+    {
+      "name": "Michaël Aklin"
+    },
+    {
+      "name": "Patrick Bayer"
+    },
+    {
+      "name": "Santosh Harish"
+    },
+    {
+      "name": "Johannes Urpelainen"
+    }
+  ],
+  "publication_year": 2017,
+  "cited_by_count": 134,
+  "primary_topic": "Energy and Environment Impacts",
+  "subfield_topic": "Pollution",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1536908403",
+    "https://openalex.org/W1986187467",
+    "https://openalex.org/W1988919231",
+    "https://openalex.org/W1993541997",
+    "https://openalex.org/W1998835057",
+    "https://openalex.org/W2012088286",
+    "https://openalex.org/W2020160921",
+    "https://openalex.org/W2032002010",
+    "https://openalex.org/W2034274035",
+    "https://openalex.org/W2044077991",
+    "https://openalex.org/W2059765451",
+    "https://openalex.org/W2074534583",
+    "https://openalex.org/W2081499156",
+    "https://openalex.org/W2088494758",
+    "https://openalex.org/W2097665845",
+    "https://openalex.org/W2110065044",
+    "https://openalex.org/W2119604806",
+    "https://openalex.org/W2119653234",
+    "https://openalex.org/W2145542433",
+    "https://openalex.org/W2155444761",
+    "https://openalex.org/W2165144879",
+    "https://openalex.org/W2203048845",
+    "https://openalex.org/W2249451489",
+    "https://openalex.org/W2289287489",
+    "https://openalex.org/W2402979990",
+    "https://openalex.org/W2462767352",
+    "https://openalex.org/W2544743054",
+    "https://openalex.org/W2577227262",
+    "https://openalex.org/W3121951449",
+    "https://openalex.org/W3122043023",
+    "https://openalex.org/W3124162861",
+    "https://openalex.org/W4243162700",
+    "https://openalex.org/W655838267"
+  ]
+}

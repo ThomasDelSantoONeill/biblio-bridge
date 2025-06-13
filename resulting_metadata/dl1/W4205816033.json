@@ -1,0 +1,66 @@
+{
+  "id": "https://openalex.org/W4205816033",
+  "title": "Jointly modeling marine species to inform the effects of environmental change on an ecological community in the Northwest Atlantic",
+  "abstract": "Abstract Single species distribution models (SSDMs) are typically used to understand and predict the distribution and abundance of marine fish by fitting distribution models for each species independently to a combination of abiotic environmental variables. However, species abundances and distributions are influenced by abiotic environmental preferences as well as biotic dependencies such as interspecific competition and predation. When species interact, a joint species distribution model (JSDM) will allow for valid inference of environmental effects. We built a joint species distribution model of marine fish and invertebrates of the Northeast US Continental Shelf, providing evidence on species relationships with the environment as well as the likelihood of species to covary. Predictive performance is similar to SSDMs but the Bayesian joint modeling approach provides two main advantages over single species modeling: (1) the JSDM directly estimates the significance of environmental effects; and (2) predicted species richness accounts for species dependencies. An additional value of JSDMs is that the conditional prediction of species distributions can use not only the environmental associations of species, but also the presence and abundance of other species when forecasting future climatic associations.",
+  "authors": [
+    {
+      "name": "Sarah M. Roberts"
+    },
+    {
+      "name": "Patrick N. Halpin"
+    },
+    {
+      "name": "James S. Clark"
+    }
+  ],
+  "publication_year": 2022,
+  "cited_by_count": 31,
+  "primary_topic": "Species Distribution and Climate Change",
+  "subfield_topic": "Ecological Modeling",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1519918296",
+    "https://openalex.org/W1543409689",
+    "https://openalex.org/W1920817623",
+    "https://openalex.org/W2000623475",
+    "https://openalex.org/W2014453774",
+    "https://openalex.org/W2027921056",
+    "https://openalex.org/W2029345767",
+    "https://openalex.org/W2035649526",
+    "https://openalex.org/W2048614966",
+    "https://openalex.org/W2050761907",
+    "https://openalex.org/W2051208206",
+    "https://openalex.org/W2066743080",
+    "https://openalex.org/W2090686691",
+    "https://openalex.org/W2091196667",
+    "https://openalex.org/W2131258005",
+    "https://openalex.org/W2143032948",
+    "https://openalex.org/W2163816695",
+    "https://openalex.org/W2168438691",
+    "https://openalex.org/W2173592783",
+    "https://openalex.org/W2179879290",
+    "https://openalex.org/W2274202431",
+    "https://openalex.org/W2400673165",
+    "https://openalex.org/W2473695566",
+    "https://openalex.org/W2550533731",
+    "https://openalex.org/W2558821781",
+    "https://openalex.org/W2575562503",
+    "https://openalex.org/W2582743722",
+    "https://openalex.org/W2604139706",
+    "https://openalex.org/W2725897987",
+    "https://openalex.org/W2779090854",
+    "https://openalex.org/W2804965034",
+    "https://openalex.org/W2895294839",
+    "https://openalex.org/W2906099776",
+    "https://openalex.org/W2940910062",
+    "https://openalex.org/W2973418929",
+    "https://openalex.org/W3017037885",
+    "https://openalex.org/W3040146073",
+    "https://openalex.org/W3092663643",
+    "https://openalex.org/W3112717819",
+    "https://openalex.org/W3131981437",
+    "https://openalex.org/W4230297927",
+    "https://openalex.org/W4244561545"
+  ]
+}

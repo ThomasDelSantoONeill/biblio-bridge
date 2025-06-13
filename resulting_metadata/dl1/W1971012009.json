@@ -1,0 +1,50 @@
+{
+  "id": "https://openalex.org/W1971012009",
+  "title": "Scale-Dependent Constraints on Food-Web Structure",
+  "abstract": "For over a decade, ecologists have repeatedly asserted that community food webs possess fundamental properties that are roughly constant among webs with widely varying numbers of species. This assertion of \"scale invariance\" is reevaluated here among 60 food webs originally published in its support. This analysis contradicts the conventional view of scale invariance by demonstrating highly significant trends in six of eight properties investigated. As the size of food webs increases to 54 trophic species, the fraction of intermediate species, the links/species ratio, and the fraction of links between intermediate species also increase. Concurrently, the fractions of top species, basal species, and links between top and basal species decrease. Only one of these properties, the links/species ratio, is widely thought not to be scale invariant. These trends corroborate hypotheses of scale-dependent food-web structure that successfully predict properties of new, high-quality food webs containing many more than 54 species. This success suggests that general, quantitative, and successfully predictive constraints in fundamental aspects of ecological organization have been discovered. Such discoveries are particularly important, because the lack of general prediction among all terrestrial and aquatic systems seriously impedes the maturation of ecology as a scientific discipline.",
+  "authors": [
+    {
+      "name": "Neo D. Martinez"
+    }
+  ],
+  "publication_year": 1994,
+  "cited_by_count": 111,
+  "primary_topic": "Plant and animal studies",
+  "subfield_topic": "Ecology, Evolution, Behavior and Systematics",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W129831482",
+    "https://openalex.org/W1594662226",
+    "https://openalex.org/W1596529738",
+    "https://openalex.org/W1664665536",
+    "https://openalex.org/W1964853788",
+    "https://openalex.org/W1966289866",
+    "https://openalex.org/W1970429014",
+    "https://openalex.org/W1972501876",
+    "https://openalex.org/W1973432171",
+    "https://openalex.org/W1975626823",
+    "https://openalex.org/W1980670421",
+    "https://openalex.org/W1981140108",
+    "https://openalex.org/W1982178304",
+    "https://openalex.org/W1997923984",
+    "https://openalex.org/W1999698507",
+    "https://openalex.org/W1999855446",
+    "https://openalex.org/W2003764990",
+    "https://openalex.org/W2010537602",
+    "https://openalex.org/W2026994436",
+    "https://openalex.org/W2058082000",
+    "https://openalex.org/W2058827223",
+    "https://openalex.org/W2068757102",
+    "https://openalex.org/W2068785900",
+    "https://openalex.org/W2072242172",
+    "https://openalex.org/W2077353305",
+    "https://openalex.org/W2078889272",
+    "https://openalex.org/W2106844219",
+    "https://openalex.org/W2313608600",
+    "https://openalex.org/W2316979752",
+    "https://openalex.org/W2317845212",
+    "https://openalex.org/W2322480672",
+    "https://openalex.org/W4285719527"
+  ]
+}

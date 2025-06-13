@@ -1,0 +1,172 @@
+{
+  "id": "https://openalex.org/W2112488192",
+  "title": "Lake Ontario: food web dynamics in a changing ecosystem (19702000)",
+  "abstract": "We examined stressors that have led to profound ecological changes in the Lake Ontario ecosystem and its fish community since 1970. The most notable changes have been reductions in phosphorus loading, invasion by Dreissena spp., fisheries management through stocking of exotic salmonids and control of sea lamprey (Petromyzon marinus), and fish harvest by anglers and double-crested cormorants (Phalacrocorax auritus). The response to these stressors has led to (i) declines in both algal photosynthesis and epilimnetic zooplankton production, (ii) decreases in alewife (Alosa pseudoharengus) abundance, (iii) declines in native Diporeia and lake whitefish (Coregonus clupeaformis), (iv) behavioral shifts in alewife spatial distribution benefitting native lake trout (Salvelinus namaycush), threespine stickleback (Gasterosteus aculeatus), and emerald shiner (Notropis atherinoides) populations, (v) dramatic increases in water clarity, (vi) predation impacts by cormorants on select fish species, and (vii) lake trout recruitment bottlenecks associated with alewife-induced thiamine deficiency. We expect stressor responses associated with anthropogenic forces like exotic species invasions and global climate warming to continue to impact the Lake Ontario ecosystem in the future and recommend continuous long-term ecological studies to enhance scientific understanding and management of this important resource.",
+  "authors": [
+    {
+      "name": "Edward L. Mills"
+    },
+    {
+      "name": "John M. Casselman"
+    },
+    {
+      "name": "R. Dermott"
+    },
+    {
+      "name": "John D. Fitzsimons"
+    },
+    {
+      "name": "Gideon Gal"
+    },
+    {
+      "name": "Kristen T. Holeck"
+    },
+    {
+      "name": "James A. Hoyle"
+    },
+    {
+      "name": "Ora E. Johannsson"
+    },
+    {
+      "name": "Brian F. Lantry"
+    },
+    {
+      "name": "J.C. Makarewicz"
+    },
+    {
+      "name": "Éric Millard"
+    },
+    {
+      "name": "I. F. Munawar"
+    },
+    {
+      "name": "M. Munawar"
+    },
+    {
+      "name": "Robert O’Gorman"
+    },
+    {
+      "name": "Randall W. Owens"
+    },
+    {
+      "name": "Lars G. Rudstam"
+    },
+    {
+      "name": "Ted Schaner"
+    },
+    {
+      "name": "Theodor J. Stewart"
+    }
+  ],
+  "publication_year": 2003,
+  "cited_by_count": 382,
+  "primary_topic": "Fish Ecology and Management Studies",
+  "subfield_topic": "Nature and Landscape Conservation",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W123546154",
+    "https://openalex.org/W1532649964",
+    "https://openalex.org/W1600770012",
+    "https://openalex.org/W1967447472",
+    "https://openalex.org/W1969700375",
+    "https://openalex.org/W1970593485",
+    "https://openalex.org/W1970857373",
+    "https://openalex.org/W1976085225",
+    "https://openalex.org/W1977113808",
+    "https://openalex.org/W1979352990",
+    "https://openalex.org/W1981091414",
+    "https://openalex.org/W1983224522",
+    "https://openalex.org/W1985619371",
+    "https://openalex.org/W1986985154",
+    "https://openalex.org/W1989371633",
+    "https://openalex.org/W1990646617",
+    "https://openalex.org/W1992089290",
+    "https://openalex.org/W1992158952",
+    "https://openalex.org/W1995817005",
+    "https://openalex.org/W1996050467",
+    "https://openalex.org/W2000256597",
+    "https://openalex.org/W2005977363",
+    "https://openalex.org/W2006502227",
+    "https://openalex.org/W2006744596",
+    "https://openalex.org/W2006864720",
+    "https://openalex.org/W2008862991",
+    "https://openalex.org/W2010991255",
+    "https://openalex.org/W2015998657",
+    "https://openalex.org/W2019427617",
+    "https://openalex.org/W2020190465",
+    "https://openalex.org/W2021868971",
+    "https://openalex.org/W2025147518",
+    "https://openalex.org/W2025991341",
+    "https://openalex.org/W2027498035",
+    "https://openalex.org/W2029576799",
+    "https://openalex.org/W2029770289",
+    "https://openalex.org/W2030207143",
+    "https://openalex.org/W2031545247",
+    "https://openalex.org/W2034665905",
+    "https://openalex.org/W2035397120",
+    "https://openalex.org/W2036557582",
+    "https://openalex.org/W2037124371",
+    "https://openalex.org/W2042864247",
+    "https://openalex.org/W2043501033",
+    "https://openalex.org/W2044719971",
+    "https://openalex.org/W2044883788",
+    "https://openalex.org/W2045684897",
+    "https://openalex.org/W2048959577",
+    "https://openalex.org/W2049058173",
+    "https://openalex.org/W2055540540",
+    "https://openalex.org/W2059038276",
+    "https://openalex.org/W2059884679",
+    "https://openalex.org/W2061394914",
+    "https://openalex.org/W2064189469",
+    "https://openalex.org/W2064960285",
+    "https://openalex.org/W2066319885",
+    "https://openalex.org/W2067477229",
+    "https://openalex.org/W2068426576",
+    "https://openalex.org/W2068736609",
+    "https://openalex.org/W2072450002",
+    "https://openalex.org/W2073011564",
+    "https://openalex.org/W2075011652",
+    "https://openalex.org/W2075714801",
+    "https://openalex.org/W2076246656",
+    "https://openalex.org/W2076385158",
+    "https://openalex.org/W2077377260",
+    "https://openalex.org/W2079278314",
+    "https://openalex.org/W2080864772",
+    "https://openalex.org/W2080939969",
+    "https://openalex.org/W2081335409",
+    "https://openalex.org/W2085780218",
+    "https://openalex.org/W2089762060",
+    "https://openalex.org/W2090052222",
+    "https://openalex.org/W2091762133",
+    "https://openalex.org/W2094644148",
+    "https://openalex.org/W2107005854",
+    "https://openalex.org/W2110194833",
+    "https://openalex.org/W2113271490",
+    "https://openalex.org/W2125323558",
+    "https://openalex.org/W2130321874",
+    "https://openalex.org/W2132850031",
+    "https://openalex.org/W2142488340",
+    "https://openalex.org/W2159678349",
+    "https://openalex.org/W2162652521",
+    "https://openalex.org/W2168592861",
+    "https://openalex.org/W2168644283",
+    "https://openalex.org/W2203920369",
+    "https://openalex.org/W233811566",
+    "https://openalex.org/W2402461077",
+    "https://openalex.org/W2425594445",
+    "https://openalex.org/W2774956953",
+    "https://openalex.org/W2808322819",
+    "https://openalex.org/W3198949739",
+    "https://openalex.org/W3199065020",
+    "https://openalex.org/W3199710059",
+    "https://openalex.org/W3200666116",
+    "https://openalex.org/W3200963632",
+    "https://openalex.org/W32508802",
+    "https://openalex.org/W33172457",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W53660475",
+    "https://openalex.org/W817114352",
+    "https://openalex.org/W88696946"
+  ]
+}

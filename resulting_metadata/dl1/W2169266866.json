@@ -1,0 +1,82 @@
+{
+  "id": "https://openalex.org/W2169266866",
+  "title": "Assessing the state of pelagic fish communities within an ecosystem approach and the European Marine Strategy Framework Directive",
+  "abstract": "Abstract Pelagic fish are key elements in marine foodwebs and thus comprise an important part of overall ecosystem health. We develop a suite of ecological indicators that track pelagic fish community state and evaluate state of specific objectives against Good Environmental Status (GES) criteria. Indicator time-series are calculated for the EU Marine Strategy Framework Directive “Celtic Seas” (CS) and “Greater North Sea” subregions. Precautionary reference points are proposed for each indicator and a simple decision process is then used to aggregate indicators into a GES assessment for each subregion. The pelagic fish communities of both subregions currently appear to be close to GES, but each remains vulnerable. In the CS subregion, fishing mortality is close to the precautionary reference point, although the unknown dynamics of sandeel, sprat, and sardine in the subregion may reduce the robustness of this evaluation. In the North Sea, sandeel stocks have been in poor state until very recently. Pelagic fish community biomass is slightly below the precautionary reference point in both subregions.",
+  "authors": [
+    {
+      "name": "Samuel Shephard"
+    },
+    {
+      "name": "Anna Rindorf"
+    },
+    {
+      "name": "Mark Dickey‐Collas"
+    },
+    {
+      "name": "Niels T. Hintzen"
+    },
+    {
+      "name": "Keith D. Farnsworth"
+    },
+    {
+      "name": "David G. Reid"
+    }
+  ],
+  "publication_year": 2014,
+  "cited_by_count": 28,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1525221295",
+    "https://openalex.org/W1783384766",
+    "https://openalex.org/W1967646619",
+    "https://openalex.org/W1971043306",
+    "https://openalex.org/W1981575833",
+    "https://openalex.org/W1997207250",
+    "https://openalex.org/W2000871131",
+    "https://openalex.org/W2005316873",
+    "https://openalex.org/W2018561438",
+    "https://openalex.org/W2025393629",
+    "https://openalex.org/W2028381773",
+    "https://openalex.org/W2033142198",
+    "https://openalex.org/W2035142472",
+    "https://openalex.org/W2038859293",
+    "https://openalex.org/W2040120167",
+    "https://openalex.org/W2050141713",
+    "https://openalex.org/W2057333612",
+    "https://openalex.org/W2061046601",
+    "https://openalex.org/W2061458963",
+    "https://openalex.org/W2063466669",
+    "https://openalex.org/W2064548693",
+    "https://openalex.org/W2074262150",
+    "https://openalex.org/W2075522895",
+    "https://openalex.org/W2081183483",
+    "https://openalex.org/W2082195378",
+    "https://openalex.org/W2086777736",
+    "https://openalex.org/W2090717574",
+    "https://openalex.org/W2101154940",
+    "https://openalex.org/W2101204002",
+    "https://openalex.org/W2103397859",
+    "https://openalex.org/W2104328246",
+    "https://openalex.org/W2106650150",
+    "https://openalex.org/W2110151759",
+    "https://openalex.org/W2111833308",
+    "https://openalex.org/W2124856587",
+    "https://openalex.org/W2126812600",
+    "https://openalex.org/W2128860815",
+    "https://openalex.org/W2132556874",
+    "https://openalex.org/W2136507145",
+    "https://openalex.org/W2140613131",
+    "https://openalex.org/W2142486647",
+    "https://openalex.org/W2145378599",
+    "https://openalex.org/W2160750846",
+    "https://openalex.org/W2162070796",
+    "https://openalex.org/W2170896426",
+    "https://openalex.org/W2317390036",
+    "https://openalex.org/W2946866639",
+    "https://openalex.org/W317750100",
+    "https://openalex.org/W3206086938"
+  ]
+}

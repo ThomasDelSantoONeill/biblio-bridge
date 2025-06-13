@@ -1,0 +1,35 @@
+{
+  "id": "https://openalex.org/W2095414997",
+  "title": "Assessment methodology for Barents Sea capelin, Mallotus villosus (Müller)",
+  "abstract": "The methods used to assess the Barents Sea capelin, Mallotus villosus (Müller), stock have always differed considerably from those used for most other stocks. Owing to the life history characteristics of capelin (short lifespan, considerable natural mortality, including spawning mortality), sequential population analysis (VPA, etc) cannot be applied to assess stock status and to generate catch prognoses. The assessment is based on an annual acoustic survey, which is regarded as an absolute measurement of stock size. The assessment methods have changed considerably since these activities started in the early 1970s. They have evolved from a relatively simple single-species model, used prior to the first major stock collapse in the early 1980s, through several steps towards the rather ambitious probabilistic model used at present, in which multispecies interactions and uncertainty in measured and modelled quantities are included. In this paper we review the history of stock assessment of Barents Sea capelin, describe current practice, and briefly outline the extensions to the model that will soon be implemented. Current management practice is evaluated in light of the history of the stock and the fishery, and is compared with that used with other capelin stocks.",
+  "authors": [
+    {
+      "name": "Harald Gjøsæter"
+    }
+  ],
+  "publication_year": 2002,
+  "cited_by_count": 69,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1980631672",
+    "https://openalex.org/W1993479109",
+    "https://openalex.org/W1996518884",
+    "https://openalex.org/W1998466623",
+    "https://openalex.org/W1998645411",
+    "https://openalex.org/W2007998095",
+    "https://openalex.org/W2011686174",
+    "https://openalex.org/W2039780557",
+    "https://openalex.org/W2050940219",
+    "https://openalex.org/W2128063286",
+    "https://openalex.org/W2152150996",
+    "https://openalex.org/W2167734879",
+    "https://openalex.org/W2258193554",
+    "https://openalex.org/W2466486615",
+    "https://openalex.org/W2474902456",
+    "https://openalex.org/W2489340528",
+    "https://openalex.org/W2588126233"
+  ]
+}

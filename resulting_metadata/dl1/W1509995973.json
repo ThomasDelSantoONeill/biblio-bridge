@@ -1,0 +1,26 @@
+{
+  "id": "https://openalex.org/W1509995973",
+  "title": "Community Food Webs: Data and Theory",
+  "abstract": "Food webs hold a central place in ecology. They describe which organisms feed on which others in natural habitats. This book describes recently discovered empirical regularities in real food webs: it proposes a novel theory unifying many of these regularities, as well as extensive empirical data. After a general introduction, reviewing the empirical and theoretical discoveries about food webs, the second portion of the book shows that community food webs obey several striking phenomenological regularities. Some of these unify, regardless of habitat. Others differentiate, showing that habitat significantly influences structure. The third portion of the book presents a theoretical analysis of some of the unifying empirical regularities. The fourth portion of the book presents 13 community food webs. Collected from scattered sources and carefully edited, they are the empirical basis for the results in the volume. The largest available set of data on community food webs provides a valuable foundation for future studies of community food webs. The book is intended for graduate students, teachers and researchers primarily in ecology. The theoretical portions of the book provide materials useful to teachers of applied combinatorics, in particular, random graphs. Researchers in random graphs will find here unsolved mathematical problems.",
+  "authors": [
+    {
+      "name": "Joel E. Cohen"
+    },
+    {
+      "name": "Frédéric Briand"
+    },
+    {
+      "name": "Charles M. Newman"
+    },
+    {
+      "name": "Zbigniew Pałka"
+    }
+  ],
+  "publication_year": 2011,
+  "cited_by_count": 539,
+  "primary_topic": "Stochastic processes and statistical mechanics",
+  "subfield_topic": "Mathematical Physics",
+  "field_topic": "Mathematics",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": []
+}

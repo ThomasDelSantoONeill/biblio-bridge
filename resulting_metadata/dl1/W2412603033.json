@@ -1,0 +1,34 @@
+{
+  "id": "https://openalex.org/W2412603033",
+  "title": "Environmental governance for all",
+  "abstract": "Involving local and indigenous populations is key to effective environmental governance",
+  "authors": [
+    {
+      "name": "Eduardo S. Brondízio"
+    },
+    {
+      "name": "François‐Michel Le Tourneau"
+    }
+  ],
+  "publication_year": 2016,
+  "cited_by_count": 211,
+  "primary_topic": "Conservation, Biodiversity, and Resource Management",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1014644433",
+    "https://openalex.org/W1211350960",
+    "https://openalex.org/W1761490494",
+    "https://openalex.org/W1990360422",
+    "https://openalex.org/W2027774628",
+    "https://openalex.org/W2051997212",
+    "https://openalex.org/W2058874360",
+    "https://openalex.org/W2097686432",
+    "https://openalex.org/W2120822144",
+    "https://openalex.org/W2164623622",
+    "https://openalex.org/W2185573458",
+    "https://openalex.org/W2233931525",
+    "https://openalex.org/W2413688795"
+  ]
+}

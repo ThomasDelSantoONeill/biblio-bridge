@@ -1,0 +1,30 @@
+{
+  "id": "https://openalex.org/W1972502194",
+  "title": "Two predators competing for two prey species: An analysis of MacArthur's model",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Shang-Hwa Hsu"
+    },
+    {
+      "name": "Stephen P. Hubbell"
+    }
+  ],
+  "publication_year": 1979,
+  "cited_by_count": 48,
+  "primary_topic": "Mathematical and Theoretical Epidemiology and Ecology Models",
+  "subfield_topic": "Public Health, Environmental and Occupational Health",
+  "field_topic": "Medicine",
+  "domain_topic": "Health Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1510122527",
+    "https://openalex.org/W1603574803",
+    "https://openalex.org/W1989998020",
+    "https://openalex.org/W2027665073",
+    "https://openalex.org/W2038227189",
+    "https://openalex.org/W2081307695",
+    "https://openalex.org/W2090078749",
+    "https://openalex.org/W2090413088",
+    "https://openalex.org/W2378517356"
+  ]
+}

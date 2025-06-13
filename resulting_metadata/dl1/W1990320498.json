@@ -1,0 +1,25 @@
+{
+  "id": "https://openalex.org/W1990320498",
+  "title": "Harvesting from a prey-predator complex",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "J. R. Beddington"
+    },
+    {
+      "name": "Justin Cooke"
+    }
+  ],
+  "publication_year": 1982,
+  "cited_by_count": 82,
+  "primary_topic": "Mathematical and Theoretical Epidemiology and Ecology Models",
+  "subfield_topic": "Public Health, Environmental and Occupational Health",
+  "field_topic": "Medicine",
+  "domain_topic": "Health Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1985342263",
+    "https://openalex.org/W2009401863",
+    "https://openalex.org/W2024265912",
+    "https://openalex.org/W2070439973"
+  ]
+}

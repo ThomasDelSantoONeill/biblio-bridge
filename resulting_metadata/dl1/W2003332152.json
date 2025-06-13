@@ -1,0 +1,32 @@
+{
+  "id": "https://openalex.org/W2003332152",
+  "title": "Using An Hyperbola as a Transition Model to Fit Two-Regime Straight-Line Data",
+  "abstract": "Abstract In a recent paper [1] a general form of transition model was suggested to describe data which appear to follow two different straight line relationships on opposite sides of an undetermined join point. An alternative model is now considered, the familiar hyperbola, parameterized in a geometrically meaningful form. The two models are fitted to two sets of experimental data for purposes of comparison. In one of the examples account is taken of autocorrelated errors using a procedure suggested by Sredni [13]. KEY WORDS: TransitionHyperbolaTwo-regime Data",
+  "authors": [
+    {
+      "name": "Donald G. Watts"
+    },
+    {
+      "name": "D. W. Bacon"
+    }
+  ],
+  "publication_year": 1974,
+  "cited_by_count": 52,
+  "primary_topic": "Advanced Statistical Methods and Models",
+  "subfield_topic": "Statistics and Probability",
+  "field_topic": "Mathematics",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1969354354",
+    "https://openalex.org/W2034562813",
+    "https://openalex.org/W2085742009",
+    "https://openalex.org/W2093606806",
+    "https://openalex.org/W2313953460",
+    "https://openalex.org/W2315989030",
+    "https://openalex.org/W2320226983",
+    "https://openalex.org/W2966288583",
+    "https://openalex.org/W4292483811",
+    "https://openalex.org/W4301041382",
+    "https://openalex.org/W4301509565"
+  ]
+}

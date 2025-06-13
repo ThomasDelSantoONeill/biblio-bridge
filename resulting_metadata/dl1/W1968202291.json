@@ -1,0 +1,33 @@
+{
+  "id": "https://openalex.org/W1968202291",
+  "title": "Potential collapse of North Sea cod stocks",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Robin Cook"
+    },
+    {
+      "name": "A F Sinclair"
+    },
+    {
+      "name": "Gunnar Stefánsson"
+    }
+  ],
+  "publication_year": 1997,
+  "cited_by_count": 238,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1978055611",
+    "https://openalex.org/W2001104673",
+    "https://openalex.org/W2010233267",
+    "https://openalex.org/W2051522354",
+    "https://openalex.org/W2056330815",
+    "https://openalex.org/W2082076719",
+    "https://openalex.org/W2089022458",
+    "https://openalex.org/W2100891518",
+    "https://openalex.org/W4233040558"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "https://openalex.org/W2040720350",
+  "title": "Lotka-Volterra representation of general nonlinear systems",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Benito Hernández‐Bermejo"
+    },
+    {
+      "name": "Vı́ctor Fairén"
+    }
+  ],
+  "publication_year": 1997,
+  "cited_by_count": 114,
+  "primary_topic": "Protein Structure and Dynamics",
+  "subfield_topic": "Molecular Biology",
+  "field_topic": "Biochemistry, Genetics and Molecular Biology",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W107788881",
+    "https://openalex.org/W127845727",
+    "https://openalex.org/W1511276416",
+    "https://openalex.org/W1520892678",
+    "https://openalex.org/W1590824230",
+    "https://openalex.org/W1679295048",
+    "https://openalex.org/W1965889901",
+    "https://openalex.org/W1975158947",
+    "https://openalex.org/W1980230793",
+    "https://openalex.org/W1997110970",
+    "https://openalex.org/W2000040887",
+    "https://openalex.org/W2000778604",
+    "https://openalex.org/W2005188216",
+    "https://openalex.org/W2021468335",
+    "https://openalex.org/W2032972774",
+    "https://openalex.org/W2035340822",
+    "https://openalex.org/W2038012397",
+    "https://openalex.org/W2062056297",
+    "https://openalex.org/W2071000794",
+    "https://openalex.org/W2077177674",
+    "https://openalex.org/W2083340731",
+    "https://openalex.org/W2086789131",
+    "https://openalex.org/W2092254759",
+    "https://openalex.org/W2093240601",
+    "https://openalex.org/W2094558275",
+    "https://openalex.org/W2334324842",
+    "https://openalex.org/W257442556",
+    "https://openalex.org/W3128682854",
+    "https://openalex.org/W4230648142",
+    "https://openalex.org/W4301763243",
+    "https://openalex.org/W990146148"
+  ]
+}

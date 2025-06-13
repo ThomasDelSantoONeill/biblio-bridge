@@ -1,0 +1,49 @@
+{
+  "id": "https://openalex.org/W2017841226",
+  "title": "Ecological community description using the food web, species abundance, and body size",
+  "abstract": "Measuring the numerical abundance and average body size of individuals of each species in an ecological community's food web reveals new patterns and illuminates old ones. This approach is illustrated using data from the pelagic community of a small lake: Tuesday Lake, Michigan, United States. Body mass varies almost 12 orders of magnitude. Numerical abundance varies almost 10 orders of magnitude. Biomass abundance (average body mass times numerical abundance) varies only 5 orders of magnitude. A new food web graph, which plots species and trophic links in the plane spanned by body mass and numerical abundance, illustrates the nearly inverse relationship between body mass and numerical abundance, as well as the pattern of energy flow in the community. Species with small average body mass occur low in the food web of Tuesday Lake and are numerically abundant. Larger-bodied species occur higher in the food web and are numerically rarer. Average body size explains more of the variation in numerical abundance than does trophic height. The trivariate description of an ecological community by using the food web, average body sizes, and numerical abundance includes many well studied bivariate and univariate relationships based on subsets of these three variables. We are not aware of any single community for which all of these relationships have been analyzed simultaneously. Our approach demonstrates the connectedness of ecological patterns traditionally treated as independent. Moreover, knowing the food web gives new insight into the disputed form of the allometric relationship between body mass and abundance.",
+  "authors": [
+    {
+      "name": "Joel E. Cohen"
+    },
+    {
+      "name": "Tomas Jönsson"
+    },
+    {
+      "name": "Stephen R. Carpenter"
+    }
+  ],
+  "publication_year": 2003,
+  "cited_by_count": 596,
+  "primary_topic": "Fish Ecology and Management Studies",
+  "subfield_topic": "Nature and Landscape Conservation",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W129831482",
+    "https://openalex.org/W1497099219",
+    "https://openalex.org/W1528778013",
+    "https://openalex.org/W1658772620",
+    "https://openalex.org/W1970636319",
+    "https://openalex.org/W1975703476",
+    "https://openalex.org/W1978370289",
+    "https://openalex.org/W1980101723",
+    "https://openalex.org/W1987912573",
+    "https://openalex.org/W2003615897",
+    "https://openalex.org/W2009015951",
+    "https://openalex.org/W2014666871",
+    "https://openalex.org/W2015823673",
+    "https://openalex.org/W2045944293",
+    "https://openalex.org/W2049075203",
+    "https://openalex.org/W2060968064",
+    "https://openalex.org/W2073111359",
+    "https://openalex.org/W2133595076",
+    "https://openalex.org/W2152057349",
+    "https://openalex.org/W2278435104",
+    "https://openalex.org/W2279267934",
+    "https://openalex.org/W2314701789",
+    "https://openalex.org/W2326433076",
+    "https://openalex.org/W3212336276",
+    "https://openalex.org/W4237620409"
+  ]
+}

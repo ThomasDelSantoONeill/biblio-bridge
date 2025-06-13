@@ -1,0 +1,80 @@
+{
+  "id": "https://openalex.org/W2122813541",
+  "title": "Nonlinear dynamic features and co-predictability of the Georges Bank fish community",
+  "abstract": "MEPS Marine Ecology Progress Series Contact the journal Facebook Twitter RSS Mailing List Subscribe to our mailing list via Mailchimp HomeLatest VolumeAbout the JournalEditorsTheme Sections MEPS 464:195-207 (2012) - DOI: https://doi.org/10.3354/meps09868 Nonlinear dynamic features and co-predictability of the Georges Bank fish community Hui Liu1,6,*, Michael J. Fogarty1, Sarah M. Glaser2,7, Irit Altman3, Chih-hao Hsieh4, Les Kaufman5, Andrew A. Rosenberg3, George Sugihara2 1NOAA/NMFS, Northeast Fisheries Science Center, Woods Hole, Massachusetts 02543, USA 2Scripps Institution of Oceanography, University of California San Diego, La Jolla, California 92093, USA 3University of New Hampshire, Ocean Process Analysis Lab, Durham, New Hampshire 03824, USA 4Institute of Oceanography and Institute of Ecology and Evolutionary Biology, National Taiwan University, Taipei 106, Taiwan 5Boston University Marine Program, 5 Cummington Street, Boston, Massachusetts 02215, USA 6Present address: Department of Marine Biology, Texas A&M University at Galveston, Texas 77553, USA 7Present address: College of William and Mary, Williamsburg, Virginia 23185, USA *Email: liuh@tamug.edu ABSTRACT: We examined evidence for nonlinear dynamics in fishery-independent survey data for an assemblage of 26 fish species on Georges Bank spanning the period 1963 to 2008. We used nonlinear time series analysis to determine (1) the presence of nonlinear dynamics in fish populations on Georges Bank, (2) the minimum number of dimensions required to effectively describe system dynamics, (3) the strength of patterns of co-predictability among all possible pairs of fish species, and (4) identification of groups of species characterized by similar dynamics. Here, nonlinear behavior refers to non-equilibrium dynamics, including chaos. The population trajectories of all 26 species exhibited strong density-dependent feedback as indicated by a Partial Rate Correlation Function analysis. Significant evidence of complex dynamical behavior was found for approximately 1 in 5 species. Low dimensionality for many of the individual series was identified, suggesting that for a given level of predictability, this system can be represented by a relatively small number of critically important ecological variables. Further, we found high levels of co-predictability among pairwise combinations of individual species. We identified 4 major species groups sharing similar dynamic features on the basis of patterns of co-predictability, and explored potential mechanisms for interpreting the groupings in terms of trophic interactions and life history characteristics. KEY WORDS: Nonlinear system dynamics · Co-predictability · Fish population · Community Full text in pdf format Supplementary material PreviousNextCite this article as: Liu H, Fogarty MJ, Glaser SM, Altman I and others (2012) Nonlinear dynamic features and co-predictability of the Georges Bank fish community. Mar Ecol Prog Ser 464:195-207. https://doi.org/10.3354/meps09868 Export citation RSS - Facebook - Tweet - linkedIn Cited by Published in MEPS Vol. 464. Online publication date: September 19, 2012 Print ISSN: 0171-8630; Online ISSN: 1616-1599 Copyright © 2012 Inter-Research.",
+  "authors": [
+    {
+      "name": "Hui Liu"
+    },
+    {
+      "name": "M. Fogarty"
+    },
+    {
+      "name": "SM Glaser"
+    },
+    {
+      "name": "Irwin Altman"
+    },
+    {
+      "name": "Chih‐hao Hsieh"
+    },
+    {
+      "name": "Les Kaufman"
+    },
+    {
+      "name": "AA Rosenberg"
+    },
+    {
+      "name": "George Sugihara"
+    }
+  ],
+  "publication_year": 2012,
+  "cited_by_count": 34,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1549386224",
+    "https://openalex.org/W1586486602",
+    "https://openalex.org/W1588163064",
+    "https://openalex.org/W1965357685",
+    "https://openalex.org/W1967501923",
+    "https://openalex.org/W1980008615",
+    "https://openalex.org/W1988201788",
+    "https://openalex.org/W1991560151",
+    "https://openalex.org/W1996540939",
+    "https://openalex.org/W1998367480",
+    "https://openalex.org/W1998370195",
+    "https://openalex.org/W2017551155",
+    "https://openalex.org/W2018466316",
+    "https://openalex.org/W2018840144",
+    "https://openalex.org/W2019512511",
+    "https://openalex.org/W2028184537",
+    "https://openalex.org/W2029345767",
+    "https://openalex.org/W2034873197",
+    "https://openalex.org/W2041357136",
+    "https://openalex.org/W2041893300",
+    "https://openalex.org/W2050761907",
+    "https://openalex.org/W2053059880",
+    "https://openalex.org/W2055716925",
+    "https://openalex.org/W2074051766",
+    "https://openalex.org/W2082119996",
+    "https://openalex.org/W2089390791",
+    "https://openalex.org/W2094273895",
+    "https://openalex.org/W2096331765",
+    "https://openalex.org/W2097265482",
+    "https://openalex.org/W2100056012",
+    "https://openalex.org/W2102892532",
+    "https://openalex.org/W2113728791",
+    "https://openalex.org/W2122560025",
+    "https://openalex.org/W2143271190",
+    "https://openalex.org/W2159500183",
+    "https://openalex.org/W2313953460",
+    "https://openalex.org/W2795254566",
+    "https://openalex.org/W3101813170",
+    "https://openalex.org/W3150234440",
+    "https://openalex.org/W4206511281",
+    "https://openalex.org/W4298084067"
+  ]
+}

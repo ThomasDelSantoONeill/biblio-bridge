@@ -1,0 +1,17 @@
+{
+  "id": "https://openalex.org/W206440355",
+  "title": "Evolution and Optimum Seeking: The Sixth Generation",
+  "abstract": "From the Publisher:\r\nWith the publication of this book, Hans-Paul Schwefel has responded to rapidly growing interest in Evolutionary Computation, a field that originated, in part, with his pioneering work in the early 1970s. Evolution and Optimum Seeking offers a systematic overview of both new and classical approaches to computer-aided optimum system design methods, including the new class of Evolutionary Algorithms and other Parallel Problem Solving from Nature (PPSN) methods. It presents numerical optimization methods and algorithms to computer calculations which will be particularly useful for massively parallel computers. It is the only book in the field that offers in-depth comparisons between classical direct optimization methods and the newer methods. Dr. Schwefel's method consists essentially of the adaptation of simple evolutionary rules to a computer procedure in the search for optimal parameters within a simulation model of a technical device. In addition to its historical and practical value, Evolution and Optimum Seeking will stimulate further research into PPSN and interdisciplinary thinking about multi-agent self-organization in natural and artificial environments. These developments have been accelerated by fortunate changes in the computational environment, especially with respect to new architectures. MIMD (Multiple Instructions Multiple Data) machines with many processors working in parallel on one task seem to lend themselves to inherently parallel problem solving concepts like Evolution Strategies. The most comprehensive work of its kind, Evolution and Optimum Seeking offers a state-of-the-art perspective on the field for researchers in computer-aided design, planning, control, systems analysis, computational intelligence, and artificial life. Its range and depth make it a virtual handbook for practitioners: epistemological introduction to the concepts and strategies of optimum seeking; taxonomy of optimization tasks and solution principles (material found n",
+  "authors": [
+    {
+      "name": "Hans–Paul Schwefel"
+    }
+  ],
+  "publication_year": 1993,
+  "cited_by_count": 662,
+  "primary_topic": "Evolutionary Algorithms and Applications",
+  "subfield_topic": "Artificial Intelligence",
+  "field_topic": "Computer Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": []
+}

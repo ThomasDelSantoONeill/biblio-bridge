@@ -1,0 +1,54 @@
+{
+  "id": "https://openalex.org/W2113886108",
+  "title": "Reliability of Relative Predictions in Population Viability Analysis",
+  "abstract": "Abstract: Despite numerous claims that population viability analysis ( PVA ) makes reliable predictions of the relative risks of extinction, there is little evidence to support this assertion. To assess the veracity of the claim, we investigated uncertainty in the relative predictions of a PVA model with simulation experiments. We used a stochastic Ricker model to investigate the reliability of predicted changes in risks of decline in response to changes in parameters, the reliability of ranking species in terms of their relative threat, and the reliability of choosing the better of two management decisions. The predicted changes in risks of decline within 100 years were more reliable than absolute predictions. We made useful predictions of relative risks using only 10 years of data. Across 160 different parameter combinations, the rank correlation between the true risks of extinction within 100 years and predicted risks was 0.59 with 10 years of data, increasing to 0.89 with 100 years of data. We identified the better of two management strategies 67–74% of the time using 10 years of data, increasing to 92–93% of the time with 100 years of data. Our results demonstrate that, despite considerable uncertainty in the predicted risks of decline, PVA may reliably contribute to the management of threatened species.",
+  "authors": [
+    {
+      "name": "Michael A. McCarthy"
+    },
+    {
+      "name": "Sandy J. Andelman"
+    },
+    {
+      "name": "Hugh P. Possingham"
+    }
+  ],
+  "publication_year": 2003,
+  "cited_by_count": 168,
+  "primary_topic": "Ecology and Vegetation Dynamics Studies",
+  "subfield_topic": "Nature and Landscape Conservation",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1495978560",
+    "https://openalex.org/W1566090982",
+    "https://openalex.org/W1581658401",
+    "https://openalex.org/W1969609509",
+    "https://openalex.org/W1980734905",
+    "https://openalex.org/W1982013420",
+    "https://openalex.org/W1983513427",
+    "https://openalex.org/W1999748030",
+    "https://openalex.org/W2003509608",
+    "https://openalex.org/W2023773109",
+    "https://openalex.org/W2043476850",
+    "https://openalex.org/W2062381402",
+    "https://openalex.org/W2079721961",
+    "https://openalex.org/W2101585614",
+    "https://openalex.org/W2103196887",
+    "https://openalex.org/W2108201922",
+    "https://openalex.org/W2117566885",
+    "https://openalex.org/W2124775963",
+    "https://openalex.org/W2132140403",
+    "https://openalex.org/W2132550267",
+    "https://openalex.org/W2132815255",
+    "https://openalex.org/W2150270659",
+    "https://openalex.org/W2162165836",
+    "https://openalex.org/W2171146701",
+    "https://openalex.org/W2212647943",
+    "https://openalex.org/W2241307260",
+    "https://openalex.org/W2278335438",
+    "https://openalex.org/W2335581023",
+    "https://openalex.org/W2417844502",
+    "https://openalex.org/W3142112479"
+  ]
+}

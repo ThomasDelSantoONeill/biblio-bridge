@@ -1,0 +1,31 @@
+{
+  "id": "https://openalex.org/W1996840708",
+  "title": "Economics of Overexploitation Revisited",
+  "abstract": "About 25% of the world's fisheries are depleted such that their current biomass is lower than the level that would maximize the sustained yield (MSY). By using methods not previously applied in the fisheries conservation context, we show in four disparate fisheries (including the long-lived and slow-growing orange roughy) that the dynamic maximum economic yield (MEY), the biomass that produces the largest discounted economic profits from fishing, exceeds MSY. Thus, although it is theoretically possible that maximizing discounted economic profits may cause stock depletions, our results show there is a win-win: In many fisheries at reasonable discount rates and at current prices and costs, larger fish stocks increase economic profits. An MEY target that exceeds MSY and transfers from higher, future profits to compensate fishers for the transition costs of stock rebuilding would help overcome a key cause of fisheries overexploitation, industry opposition to lower harvests.",
+  "authors": [
+    {
+      "name": "R. Quentin Grafton"
+    },
+    {
+      "name": "Tom Kompas"
+    },
+    {
+      "name": "Ray Hilborn"
+    }
+  ],
+  "publication_year": 2007,
+  "cited_by_count": 229,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1589375716",
+    "https://openalex.org/W183038860",
+    "https://openalex.org/W2028410554",
+    "https://openalex.org/W2058160626",
+    "https://openalex.org/W2078597194",
+    "https://openalex.org/W2140103666",
+    "https://openalex.org/W2254635370"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "https://openalex.org/W2267374334",
+  "title": "Using food-web theory to conserve ecosystems",
+  "abstract": "Food-web theory can be a powerful guide to the management of complex ecosystems. However, we show that indices of species importance common in food-web and network theory can be a poor guide to ecosystem management, resulting in significantly more extinctions than necessary. We use Bayesian Networks and Constrained Combinatorial Optimization to find optimal management strategies for a wide range of real and hypothetical food webs. This Artificial Intelligence approach provides the ability to test the performance of any index for prioritizing species management in a network. While no single network theory index provides an appropriate guide to management for all food webs, a modified version of the Google PageRank algorithm reliably minimizes the chance and severity of negative outcomes. Our analysis shows that by prioritizing ecosystem management based on the network-wide impact of species protection rather than species loss, we can substantially improve conservation outcomes.",
+  "authors": [
+    {
+      "name": "Eve McDonald‐Madden"
+    },
+    {
+      "name": "Régis Sabbadin"
+    },
+    {
+      "name": "Edward T. Game"
+    },
+    {
+      "name": "P. W. J. Baxter"
+    },
+    {
+      "name": "Iadine Chadès"
+    },
+    {
+      "name": "Hugh P. Possingham"
+    }
+  ],
+  "publication_year": 2016,
+  "cited_by_count": 121,
+  "primary_topic": "Plant and animal studies",
+  "subfield_topic": "Ecology, Evolution, Behavior and Systematics",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W152568512",
+    "https://openalex.org/W1975626823",
+    "https://openalex.org/W1975998971",
+    "https://openalex.org/W1984536698",
+    "https://openalex.org/W1987909010",
+    "https://openalex.org/W1999290017",
+    "https://openalex.org/W2019865481",
+    "https://openalex.org/W2021571964",
+    "https://openalex.org/W2030057604",
+    "https://openalex.org/W2052057004",
+    "https://openalex.org/W2061474379",
+    "https://openalex.org/W2067622101",
+    "https://openalex.org/W2081201855",
+    "https://openalex.org/W2083503429",
+    "https://openalex.org/W2084166398",
+    "https://openalex.org/W2090744913",
+    "https://openalex.org/W2103037732",
+    "https://openalex.org/W2109666622",
+    "https://openalex.org/W2112615110",
+    "https://openalex.org/W2114364088",
+    "https://openalex.org/W2114518578",
+    "https://openalex.org/W2115298916",
+    "https://openalex.org/W2116165854",
+    "https://openalex.org/W2126001334",
+    "https://openalex.org/W2134848931",
+    "https://openalex.org/W2138781481",
+    "https://openalex.org/W2140031662",
+    "https://openalex.org/W2141116886",
+    "https://openalex.org/W2141963621",
+    "https://openalex.org/W2151402778",
+    "https://openalex.org/W2157202374",
+    "https://openalex.org/W2159080219",
+    "https://openalex.org/W2161581238",
+    "https://openalex.org/W2162658013",
+    "https://openalex.org/W2165927934",
+    "https://openalex.org/W2167597078",
+    "https://openalex.org/W2979006918",
+    "https://openalex.org/W3020913839",
+    "https://openalex.org/W4299993032"
+  ]
+}

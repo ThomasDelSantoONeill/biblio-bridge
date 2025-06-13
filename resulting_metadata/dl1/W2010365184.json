@@ -1,0 +1,104 @@
+{
+  "id": "https://openalex.org/W2010365184",
+  "title": "Complexity of Coupled Human and Natural Systems",
+  "abstract": "Integrated studies of coupled human and natural systems reveal new and complex patterns and processes not evident when studied by social or natural scientists separately. Synthesis of six case studies from around the world shows that couplings between human and natural systems vary across space, time, and organizational units. They also exhibit nonlinear dynamics with thresholds, reciprocal feedback loops, time lags, resilience, heterogeneity, and surprises. Furthermore, past couplings have legacy effects on present conditions and future possibilities.",
+  "authors": [
+    {
+      "name": "Jianguo Liu"
+    },
+    {
+      "name": "Thomas Dietz"
+    },
+    {
+      "name": "Stephen R. Carpenter"
+    },
+    {
+      "name": "Marina Alberti"
+    },
+    {
+      "name": "Carl Folke"
+    },
+    {
+      "name": "Emílio F. Moran"
+    },
+    {
+      "name": "Alice N. Pell"
+    },
+    {
+      "name": "Peter Deadman"
+    },
+    {
+      "name": "Timothy K. Kratz"
+    },
+    {
+      "name": "Jane Lubchenco"
+    },
+    {
+      "name": "Элинор Остром"
+    },
+    {
+      "name": "Zhiyun Ouyang"
+    },
+    {
+      "name": "William Provencher"
+    },
+    {
+      "name": "Charles L. Redman"
+    },
+    {
+      "name": "Stephen H. Schneider"
+    },
+    {
+      "name": "William W. Taylor"
+    }
+  ],
+  "publication_year": 2007,
+  "cited_by_count": 3359,
+  "primary_topic": "Complex Systems and Decision Making",
+  "subfield_topic": "Management Science and Operations Research",
+  "field_topic": "Decision Sciences",
+  "domain_topic": "Social Sciences",
+  "referenced_works": [
+    "https://openalex.org/W120258522",
+    "https://openalex.org/W121311783",
+    "https://openalex.org/W1509592694",
+    "https://openalex.org/W1513198557",
+    "https://openalex.org/W1516231616",
+    "https://openalex.org/W1524879247",
+    "https://openalex.org/W168237287",
+    "https://openalex.org/W1731457293",
+    "https://openalex.org/W1983455117",
+    "https://openalex.org/W2013655907",
+    "https://openalex.org/W2019721683",
+    "https://openalex.org/W2022612754",
+    "https://openalex.org/W2044611540",
+    "https://openalex.org/W2046810167",
+    "https://openalex.org/W2057864962",
+    "https://openalex.org/W2060622910",
+    "https://openalex.org/W2065132073",
+    "https://openalex.org/W2074089230",
+    "https://openalex.org/W2079247362",
+    "https://openalex.org/W2084530896",
+    "https://openalex.org/W2084623348",
+    "https://openalex.org/W2092431075",
+    "https://openalex.org/W2095926105",
+    "https://openalex.org/W2098506217",
+    "https://openalex.org/W2101786127",
+    "https://openalex.org/W2102200338",
+    "https://openalex.org/W2104088939",
+    "https://openalex.org/W2108559625",
+    "https://openalex.org/W2128171361",
+    "https://openalex.org/W2143693550",
+    "https://openalex.org/W2153423966",
+    "https://openalex.org/W2165554541",
+    "https://openalex.org/W2171437803",
+    "https://openalex.org/W240878396",
+    "https://openalex.org/W2544713334",
+    "https://openalex.org/W2556968239",
+    "https://openalex.org/W2892158308",
+    "https://openalex.org/W4232816321",
+    "https://openalex.org/W4235575134",
+    "https://openalex.org/W4388299981",
+    "https://openalex.org/W91209090"
+  ]
+}

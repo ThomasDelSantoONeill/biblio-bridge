@@ -1,0 +1,33 @@
+{
+  "id": "https://openalex.org/W1966544912",
+  "title": "Is anchovy (Engraulis encrasicolus, L.) overfished in the Adriatic Sea?",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Jasminka Klanjšček"
+    },
+    {
+      "name": "Tarzan Legović"
+    }
+  ],
+  "publication_year": 2006,
+  "cited_by_count": 14,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1490279797",
+    "https://openalex.org/W1985377441",
+    "https://openalex.org/W2005477885",
+    "https://openalex.org/W2028668753",
+    "https://openalex.org/W2033409737",
+    "https://openalex.org/W2077034435",
+    "https://openalex.org/W2087167811",
+    "https://openalex.org/W2092421322",
+    "https://openalex.org/W2149228205",
+    "https://openalex.org/W2161761804",
+    "https://openalex.org/W4300423586",
+    "https://openalex.org/W640153932"
+  ]
+}

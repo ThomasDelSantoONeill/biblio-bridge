@@ -1,0 +1,20 @@
+{
+  "id": "https://openalex.org/W2022190286",
+  "title": "Economics of Fishery Management",
+  "abstract": "In an unmanaged fishery the costs of catching a unit weight of fish will tend to rise until they are equal to the value of the catch. There is likely to be an excessive amount of fishing which adds to the costs, but adds little or nothing to the total catch, and may even decrease it. In practice the amount of fishing will often exceed the equilibrium, due to delays in reacting to falling catch rates, year-to-year fluctuation in the fishery, etc. The labor and capital engaged in fishing is often relatively immobile, and once excess capacity has developed it is not easily reduced without special measures.A number of different measures are available to control both the amount of fishing and the sizes of the fish caught. These are outlined, and the advantages and disadvantages briefly discussed. Several of the methods of controlling the amount of fishing tend to add to unit costs, and therefore offer little long-term benefits. These benefits can only be assured by control of the total capacity engaged in a fishery, such as through allocation of shares to individual countries in an international fishery, or by license limitation in a national fishery.",
+  "authors": [
+    {
+      "name": "J. A. Gulland"
+    },
+    {
+      "name": "Michael A. Robinson"
+    }
+  ],
+  "publication_year": 1973,
+  "cited_by_count": 17,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": []
+}

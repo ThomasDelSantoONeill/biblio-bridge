@@ -1,0 +1,54 @@
+{
+  "id": "https://openalex.org/W2008019499",
+  "title": "Exploitation Ecosystems in Gradients of Primary Productivity",
+  "abstract": "Based on the assumption that each trophic level acts as a single exploitative population, a model relating the trophic structure of ecosystems to their potential primary productivity is developed. According to the model, herbivory pressure should be most severe in relatively unproductive environments. With increased potential productivity, the role of predation in herbivore regulation should become more important and the impact of herbivory upon plant communities should decrease. In very productive environments, increase in herbivory pressure is again probable, at least in aquatic ecosystems. The predicted pattern of phytomass and predicted results of manipulations are compared with available data. A reasonable fit between predictions and observations is found, although the sparsity of data and methodological uncertainties weaken the corroboration in several cases. In terrestrial ecosystems, the present version of the model seems best applicable to the vertebrate branch of the grazing chain, whereas the arthropod branch may be more sensitive to temperature than to average annual productivity.",
+  "authors": [
+    {
+      "name": "Lauri Oksanen"
+    },
+    {
+      "name": "Stephen D. Fretwell"
+    },
+    {
+      "name": "Joseph A. Arruda"
+    },
+    {
+      "name": "Pekka Niemelä"
+    }
+  ],
+  "publication_year": 1981,
+  "cited_by_count": 1735,
+  "primary_topic": "Ecology and Vegetation Dynamics Studies",
+  "subfield_topic": "Nature and Landscape Conservation",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1532540194",
+    "https://openalex.org/W1582174699",
+    "https://openalex.org/W1585956443",
+    "https://openalex.org/W1967319785",
+    "https://openalex.org/W1979532728",
+    "https://openalex.org/W1984295560",
+    "https://openalex.org/W1987329227",
+    "https://openalex.org/W199030786",
+    "https://openalex.org/W2001946254",
+    "https://openalex.org/W2001951323",
+    "https://openalex.org/W2003471882",
+    "https://openalex.org/W2004388993",
+    "https://openalex.org/W2004846733",
+    "https://openalex.org/W2010941810",
+    "https://openalex.org/W2011067252",
+    "https://openalex.org/W2027665073",
+    "https://openalex.org/W2028435430",
+    "https://openalex.org/W2041800983",
+    "https://openalex.org/W2052125279",
+    "https://openalex.org/W2053317580",
+    "https://openalex.org/W2074610367",
+    "https://openalex.org/W2077954418",
+    "https://openalex.org/W2106038769",
+    "https://openalex.org/W2158317226",
+    "https://openalex.org/W2563333889",
+    "https://openalex.org/W2990778896",
+    "https://openalex.org/W4285719527"
+  ]
+}

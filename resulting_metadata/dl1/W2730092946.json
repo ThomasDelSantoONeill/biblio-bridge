@@ -1,0 +1,449 @@
+{
+  "id": "https://openalex.org/W2730092946",
+  "title": "Integrated ecological–economic fisheries models—Evaluation, review and challenges for implementation",
+  "abstract": "Abstract Marine ecosystems evolve under many interconnected and area‐specific pressures. To fulfil society's intensifying and diversifying needs while ensuring ecologically sustainable development, more effective marine spatial planning and broader‐scope management of marine resources is necessary. Integrated ecological–economic fisheries models ( IEEFM s) of marine systems are needed to evaluate impacts and sustainability of potential management actions and understand, and anticipate ecological, economic and social dynamics at a range of scales from local to national and regional. To make these models most effective, it is important to determine how model characteristics and methods of communicating results influence the model implementation, the nature of the advice that can be provided and the impact on decisions taken by managers. This article presents a global review and comparative evaluation of 35 IEEFM s applied to marine fisheries and marine ecosystem resources to identify the characteristics that determine their usefulness, effectiveness and implementation. The focus is on fully integrated models that allow for feedbacks between ecological and human processes although not all the models reviewed achieve that. Modellers must invest more time to make models user friendly and to participate in management fora where models and model results can be explained and discussed. Such involvement is beneficial to all parties, leading to improvement of mo‐dels and more effective implementation of advice, but demands substantial resources which must be built into the governance process. It takes time to develop effective processes for using IEEFM s requiring a long‐term commitment to integrating multidisciplinary modelling advice into management decision‐making.",
+  "authors": [
+    {
+      "name": "J. Rasmus Nielsen"
+    },
+    {
+      "name": "Eric M. Thunberg"
+    },
+    {
+      "name": "Daniel S. Holland"
+    },
+    {
+      "name": "Jörn Schmidt"
+    },
+    {
+      "name": "Elizabeth A. Fulton"
+    },
+    {
+      "name": "François Bastardie"
+    },
+    {
+      "name": "André E. Punt"
+    },
+    {
+      "name": "Icarus Allen"
+    },
+    {
+      "name": "Heleen Bartelings"
+    },
+    {
+      "name": "Michel Bertignac"
+    },
+    {
+      "name": "Eckhard Bethke"
+    },
+    {
+      "name": "Sieme Bossier"
+    },
+    {
+      "name": "Rik C. Buckworth"
+    },
+    {
+      "name": "G. D. Hale Carpenter"
+    },
+    {
+      "name": "A. Nørlund Christensen"
+    },
+    {
+      "name": "Villy Christensen"
+    },
+    {
+      "name": "José María Da Rocha"
+    },
+    {
+      "name": "Roy A. Deng"
+    },
+    {
+      "name": "Catherine M. Dichmont"
+    },
+    {
+      "name": "Ralf Doering"
+    },
+    {
+      "name": "Aniol Esteban"
+    },
+    {
+      "name": "José A. Fernandes"
+    },
+    {
+      "name": "Hans Frost"
+    },
+    {
+      "name": "Dorleta García"
+    },
+    {
+      "name": "Loïc Gasche"
+    },
+    {
+      "name": "Didier Gascuel"
+    },
+    {
+      "name": "Sophie Gourguet"
+    },
+    {
+      "name": "R.A. Groeneveld"
+    },
+    {
+      "name": "Jordi Guillén"
+    },
+    {
+      "name": "Olivier Guyader"
+    },
+    {
+      "name": "Katell G. Hamon"
+    },
+    {
+      "name": "Ayoe Hoff"
+    },
+    {
+      "name": "Jan Horbowy"
+    },
+    {
+      "name": "Trevor Hutton"
+    },
+    {
+      "name": "Sigrid Lehuta"
+    },
+    {
+      "name": "L. Richard Little"
+    },
+    {
+      "name": "Jordi Lleonart"
+    },
+    {
+      "name": "Claire Macher"
+    },
+    {
+      "name": "Steven Mackinson"
+    },
+    {
+      "name": "Stéphanie Mahévas"
+    },
+    {
+      "name": "Paul Marchal"
+    },
+    {
+      "name": "Rosa Mato‐Amboage"
+    },
+    {
+      "name": "Bruce D. Mapstone"
+    },
+    {
+      "name": "Francesc Maynou"
+    },
+    {
+      "name": "Mathieu Merzeréaud"
+    },
+    {
+      "name": "Artur Palacz"
+    },
+    {
+      "name": "Sean Pascoe"
+    },
+    {
+      "name": "Anton Paulrud"
+    },
+    {
+      "name": "Éva E. Plagányi"
+    },
+    {
+      "name": "Raúl Prellezo"
+    },
+    {
+      "name": "Elizabeth I. van Putten"
+    },
+    {
+      "name": "Martin F. Quaas"
+    },
+    {
+      "name": "Lars Ravn-Jonsen"
+    },
+    {
+      "name": "Sonia Sánchez"
+    },
+    {
+      "name": "Sarah Simons"
+    },
+    {
+      "name": "Olivier Thébaud"
+    },
+    {
+      "name": "Maciej T. Tomczak"
+    },
+    {
+      "name": "Clara Ulrich"
+    },
+    {
+      "name": "Diana van Dijk"
+    },
+    {
+      "name": "Youen Vermard"
+    },
+    {
+      "name": "R. Voss"
+    },
+    {
+      "name": "Staffan Waldo"
+    }
+  ],
+  "publication_year": 2017,
+  "cited_by_count": 133,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W101816091",
+    "https://openalex.org/W141437885",
+    "https://openalex.org/W1482947367",
+    "https://openalex.org/W1496533532",
+    "https://openalex.org/W1498243340",
+    "https://openalex.org/W1501891218",
+    "https://openalex.org/W1524760816",
+    "https://openalex.org/W1530813826",
+    "https://openalex.org/W1536939106",
+    "https://openalex.org/W1543056282",
+    "https://openalex.org/W1568179959",
+    "https://openalex.org/W1579381835",
+    "https://openalex.org/W1583517408",
+    "https://openalex.org/W1608747981",
+    "https://openalex.org/W1632149573",
+    "https://openalex.org/W1820666336",
+    "https://openalex.org/W1842374574",
+    "https://openalex.org/W1881124018",
+    "https://openalex.org/W1932782497",
+    "https://openalex.org/W194530199",
+    "https://openalex.org/W1950082619",
+    "https://openalex.org/W1964359917",
+    "https://openalex.org/W1965399413",
+    "https://openalex.org/W1967049079",
+    "https://openalex.org/W1970090935",
+    "https://openalex.org/W1975128847",
+    "https://openalex.org/W1976656122",
+    "https://openalex.org/W1978364431",
+    "https://openalex.org/W1978587781",
+    "https://openalex.org/W1979441585",
+    "https://openalex.org/W1979725576",
+    "https://openalex.org/W1982741516",
+    "https://openalex.org/W1987314698",
+    "https://openalex.org/W1988390317",
+    "https://openalex.org/W1989455389",
+    "https://openalex.org/W1990566709",
+    "https://openalex.org/W1993185463",
+    "https://openalex.org/W1993540441",
+    "https://openalex.org/W1993920411",
+    "https://openalex.org/W1994315387",
+    "https://openalex.org/W1994978909",
+    "https://openalex.org/W1998662410",
+    "https://openalex.org/W1998777928",
+    "https://openalex.org/W1999875253",
+    "https://openalex.org/W2000363793",
+    "https://openalex.org/W2000805160",
+    "https://openalex.org/W2001673132",
+    "https://openalex.org/W2003247877",
+    "https://openalex.org/W2003647390",
+    "https://openalex.org/W2003977551",
+    "https://openalex.org/W2004773441",
+    "https://openalex.org/W2005667226",
+    "https://openalex.org/W2005987558",
+    "https://openalex.org/W2008530524",
+    "https://openalex.org/W2009716052",
+    "https://openalex.org/W2010421699",
+    "https://openalex.org/W2014085562",
+    "https://openalex.org/W2014339642",
+    "https://openalex.org/W2014665918",
+    "https://openalex.org/W2016293090",
+    "https://openalex.org/W2017468987",
+    "https://openalex.org/W2018072021",
+    "https://openalex.org/W2019190709",
+    "https://openalex.org/W2020581422",
+    "https://openalex.org/W2022295935",
+    "https://openalex.org/W2023474632",
+    "https://openalex.org/W2023671311",
+    "https://openalex.org/W2025552145",
+    "https://openalex.org/W2026346528",
+    "https://openalex.org/W2028273065",
+    "https://openalex.org/W2030531882",
+    "https://openalex.org/W2033500981",
+    "https://openalex.org/W2034994370",
+    "https://openalex.org/W2035213195",
+    "https://openalex.org/W2035842090",
+    "https://openalex.org/W2037068812",
+    "https://openalex.org/W2037215298",
+    "https://openalex.org/W2038475194",
+    "https://openalex.org/W2039826300",
+    "https://openalex.org/W2041151116",
+    "https://openalex.org/W2048092398",
+    "https://openalex.org/W2051806801",
+    "https://openalex.org/W2053035982",
+    "https://openalex.org/W2057043079",
+    "https://openalex.org/W2059569768",
+    "https://openalex.org/W2061893979",
+    "https://openalex.org/W2065635880",
+    "https://openalex.org/W2066927312",
+    "https://openalex.org/W2067610363",
+    "https://openalex.org/W2075314043",
+    "https://openalex.org/W2075332786",
+    "https://openalex.org/W2075388586",
+    "https://openalex.org/W2075856264",
+    "https://openalex.org/W2076586073",
+    "https://openalex.org/W2077201564",
+    "https://openalex.org/W2077516922",
+    "https://openalex.org/W2081050205",
+    "https://openalex.org/W2083241209",
+    "https://openalex.org/W2084981170",
+    "https://openalex.org/W2086196641",
+    "https://openalex.org/W2088096406",
+    "https://openalex.org/W2091884289",
+    "https://openalex.org/W2092329909",
+    "https://openalex.org/W2092768221",
+    "https://openalex.org/W2092806994",
+    "https://openalex.org/W2093295475",
+    "https://openalex.org/W2094114748",
+    "https://openalex.org/W2096171239",
+    "https://openalex.org/W2097059940",
+    "https://openalex.org/W2099309663",
+    "https://openalex.org/W2099852965",
+    "https://openalex.org/W2100056012",
+    "https://openalex.org/W2101122696",
+    "https://openalex.org/W2101854235",
+    "https://openalex.org/W2102484329",
+    "https://openalex.org/W2103057762",
+    "https://openalex.org/W2103814869",
+    "https://openalex.org/W2104036259",
+    "https://openalex.org/W2104454256",
+    "https://openalex.org/W2105827100",
+    "https://openalex.org/W2105892010",
+    "https://openalex.org/W2108578053",
+    "https://openalex.org/W2109492025",
+    "https://openalex.org/W2109503697",
+    "https://openalex.org/W2109741146",
+    "https://openalex.org/W2110066606",
+    "https://openalex.org/W2111510688",
+    "https://openalex.org/W2111954092",
+    "https://openalex.org/W2116422701",
+    "https://openalex.org/W2117040291",
+    "https://openalex.org/W2117155962",
+    "https://openalex.org/W2117478362",
+    "https://openalex.org/W2121556051",
+    "https://openalex.org/W2122338940",
+    "https://openalex.org/W2122505518",
+    "https://openalex.org/W2123046740",
+    "https://openalex.org/W2123267473",
+    "https://openalex.org/W2124255358",
+    "https://openalex.org/W2124976333",
+    "https://openalex.org/W2125412860",
+    "https://openalex.org/W2125509445",
+    "https://openalex.org/W2125608641",
+    "https://openalex.org/W2125640780",
+    "https://openalex.org/W2126475261",
+    "https://openalex.org/W2127429676",
+    "https://openalex.org/W2130059970",
+    "https://openalex.org/W2134627054",
+    "https://openalex.org/W2135117623",
+    "https://openalex.org/W2135857860",
+    "https://openalex.org/W2136391213",
+    "https://openalex.org/W2138522489",
+    "https://openalex.org/W2138584870",
+    "https://openalex.org/W2138586283",
+    "https://openalex.org/W2139412812",
+    "https://openalex.org/W2140862057",
+    "https://openalex.org/W2141613880",
+    "https://openalex.org/W2143578174",
+    "https://openalex.org/W2145804857",
+    "https://openalex.org/W2146844826",
+    "https://openalex.org/W2146958285",
+    "https://openalex.org/W2149633185",
+    "https://openalex.org/W2150046775",
+    "https://openalex.org/W2151110226",
+    "https://openalex.org/W2151971052",
+    "https://openalex.org/W2153022417",
+    "https://openalex.org/W2153331518",
+    "https://openalex.org/W2153506831",
+    "https://openalex.org/W2153915604",
+    "https://openalex.org/W2155348895",
+    "https://openalex.org/W2155649917",
+    "https://openalex.org/W2156298348",
+    "https://openalex.org/W2156523992",
+    "https://openalex.org/W2158355436",
+    "https://openalex.org/W2158524099",
+    "https://openalex.org/W2162744615",
+    "https://openalex.org/W2163158291",
+    "https://openalex.org/W2163829118",
+    "https://openalex.org/W2164070727",
+    "https://openalex.org/W2164707237",
+    "https://openalex.org/W2165079880",
+    "https://openalex.org/W2165177948",
+    "https://openalex.org/W2165511924",
+    "https://openalex.org/W2165866205",
+    "https://openalex.org/W2166914480",
+    "https://openalex.org/W2168438691",
+    "https://openalex.org/W2173665931",
+    "https://openalex.org/W2181086825",
+    "https://openalex.org/W2181129102",
+    "https://openalex.org/W2187310429",
+    "https://openalex.org/W2218731281",
+    "https://openalex.org/W2228867407",
+    "https://openalex.org/W2233368448",
+    "https://openalex.org/W2240366786",
+    "https://openalex.org/W2254531936",
+    "https://openalex.org/W2265771622",
+    "https://openalex.org/W2266750726",
+    "https://openalex.org/W2276434544",
+    "https://openalex.org/W2296921996",
+    "https://openalex.org/W2302662009",
+    "https://openalex.org/W2312251933",
+    "https://openalex.org/W2314849475",
+    "https://openalex.org/W2316209823",
+    "https://openalex.org/W2318423380",
+    "https://openalex.org/W2323085654",
+    "https://openalex.org/W2323846125",
+    "https://openalex.org/W2341015706",
+    "https://openalex.org/W2344012003",
+    "https://openalex.org/W2344317660",
+    "https://openalex.org/W2346548630",
+    "https://openalex.org/W2374803534",
+    "https://openalex.org/W2420624060",
+    "https://openalex.org/W2434006339",
+    "https://openalex.org/W2444638713",
+    "https://openalex.org/W2463857368",
+    "https://openalex.org/W2472461734",
+    "https://openalex.org/W2492680451",
+    "https://openalex.org/W2520138882",
+    "https://openalex.org/W2521082330",
+    "https://openalex.org/W2525911374",
+    "https://openalex.org/W2529997616",
+    "https://openalex.org/W2555848235",
+    "https://openalex.org/W2563097925",
+    "https://openalex.org/W2569975659",
+    "https://openalex.org/W2596743833",
+    "https://openalex.org/W2610113383",
+    "https://openalex.org/W2613435298",
+    "https://openalex.org/W2619525397",
+    "https://openalex.org/W2706241050",
+    "https://openalex.org/W2726521320",
+    "https://openalex.org/W2728347991",
+    "https://openalex.org/W2734693955",
+    "https://openalex.org/W2736584350",
+    "https://openalex.org/W2795105554",
+    "https://openalex.org/W2810603947",
+    "https://openalex.org/W2905788555",
+    "https://openalex.org/W2944556675",
+    "https://openalex.org/W3121479431",
+    "https://openalex.org/W3123681283",
+    "https://openalex.org/W3150234440",
+    "https://openalex.org/W324312932",
+    "https://openalex.org/W4238842531",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W436318032",
+    "https://openalex.org/W436421607",
+    "https://openalex.org/W50289043",
+    "https://openalex.org/W569211692",
+    "https://openalex.org/W610135874",
+    "https://openalex.org/W905880370"
+  ]
+}

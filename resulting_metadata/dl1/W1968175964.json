@@ -1,0 +1,51 @@
+{
+  "id": "https://openalex.org/W1968175964",
+  "title": "Advice on West Coast Rockfish Harvest Rates from Bayesian Meta-Analysis of Stock−Recruit Relationships",
+  "abstract": "Over the past two decades, populations of rockfish Sebastes spp. off the U.S. West Coast have declined sharply, leading to heightened concern about the sustainability of current harvest policies for these populations. In this paper, I develop a hierarchical Bayesian model to jointly estimate the stock−recruit relationships of rockfish stocks in the northeastern Pacific Ocean. Stock−recruit curves for individual stocks are linked using a prior distribution for the \"steepness\" parameter of the Beverton–Holt stock−recruit curve, defined as the expected recruitment at 20% of unfished biomass relative to unfished recruitment. The choice of a spawning biomass per recruit (SPR) harvest rate is considered a problem in decision theory, in which different options are evaluated in the presence of uncertainty in the stock−recruit relationship. Markov chain Monte Carlo sampling is used to obtain the marginal distributions of variables of interest to management, such as the yield at a given SPR rate. A wide range of expected yield curves were obtained for different rockfish stocks. The stocks of Pacific ocean perch S. alutus in the Gulf of Alaska and the Aleutian Islands are apparently the most resilient, with maximum sustainable yield (MSY) harvest rates greater than F30% (the fishing mortality rate that reduces SPR to 30% of its unfished value) for all model configurations. In contrast, the MSY harvest rate for the West Coast stock of Pacific ocean perch was lower than F70%. The SPR rates at MSY for other stocks were clustered between F40% and F60% and depended on both the stock−recruit model (Beverton–Holt or Ricker) and the model for recruitment variability (lognormal or gamma). Meta-analysis results should be interpreted cautiously due to autocorrelation in the model residuals for several stocks and the potential confounding effect of decadal variation in ecosystem productivity. An F40% harvest rate, the current default harvest rate for rockfish, exceeded the estimated FMSY rate for all West Coast rockfish stocks with the exception of black rockfish S. melanops. A harvest rate of F50% is suggested as a risk-neutral FMSY proxy for rockfish. A more risk-averse alternative would be to apply an SPR harvest rate in the F55%−F60% range.",
+  "authors": [
+    {
+      "name": "Martin W. Dorn"
+    }
+  ],
+  "publication_year": 2002,
+  "cited_by_count": 163,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1488022545",
+    "https://openalex.org/W1544729927",
+    "https://openalex.org/W1589375716",
+    "https://openalex.org/W1591076033",
+    "https://openalex.org/W1979271448",
+    "https://openalex.org/W1980304639",
+    "https://openalex.org/W1994727944",
+    "https://openalex.org/W2008585671",
+    "https://openalex.org/W2027255954",
+    "https://openalex.org/W2035523198",
+    "https://openalex.org/W2045656233",
+    "https://openalex.org/W204940627",
+    "https://openalex.org/W2054297660",
+    "https://openalex.org/W2059474032",
+    "https://openalex.org/W2059537763",
+    "https://openalex.org/W2072079115",
+    "https://openalex.org/W2081771420",
+    "https://openalex.org/W2082215781",
+    "https://openalex.org/W2083290876",
+    "https://openalex.org/W2101842079",
+    "https://openalex.org/W2128013562",
+    "https://openalex.org/W2130416410",
+    "https://openalex.org/W2130870465",
+    "https://openalex.org/W2136281122",
+    "https://openalex.org/W2145411765",
+    "https://openalex.org/W2162508359",
+    "https://openalex.org/W3005512703",
+    "https://openalex.org/W4210260625",
+    "https://openalex.org/W4247690662",
+    "https://openalex.org/W4252711903",
+    "https://openalex.org/W4255712471",
+    "https://openalex.org/W4256160900",
+    "https://openalex.org/W627918384"
+  ]
+}

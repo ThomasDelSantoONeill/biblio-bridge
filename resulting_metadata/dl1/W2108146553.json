@@ -1,0 +1,54 @@
+{
+  "id": "https://openalex.org/W2108146553",
+  "title": "An investigation into fisheries interaction effects using Atlantis",
+  "abstract": "Abstract Fisheries management is commonly based on the outputs of single-species stock assessment models. While such models are appropriate for tactical issues such as quota setting, they typically omit explicit trophic interactions between different parts of the ecosystem. To successfully manage multiple fisheries in the same ecosystem, we need to understand how fishing one species may indirectly affect other species. In this paper, we used a simulation model of the southern Benguela ecosystem, built in the Atlantis framework, to explore fisheries interaction effects. We first measured the impact of fishing different stocks individually at FMSY, the hypothetical level of fishing effort which produces maximum sustainable yield (MSY) in a single-species modelling context. We then applied FMSY to all stocks simultaneously and compared the simultaneous yield with the sum of yields from the individual applications of FMSY. Contrary to expectations, the total catch was higher under the simultaneous scenario. We explored our results by studying the influences of trophic interaction between species at different levels of the foodweb, and found that our overall result was driven by two key factors: volumetric dominance of small pelagic fish in the total catch, and asymmetric influences of competition and predation between piscivorous and planktivorous species. The simultaneous increase in fishing pressure across multiple species in the model led to increased effective carrying capacity for small pelagic species (due to reduced competition), but reduced carrying capacity for piscivorous species (due to reduced small pelagic prey). This work has important implications for the design of tactical multispecies models for use in ecosystem-based fisheries management.",
+  "authors": [
+    {
+      "name": "Michael D. Smith"
+    },
+    {
+      "name": "Elizabeth A. Fulton"
+    },
+    {
+      "name": "Robert W. Day"
+    }
+  ],
+  "publication_year": 2014,
+  "cited_by_count": 23,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1872767830",
+    "https://openalex.org/W1965470416",
+    "https://openalex.org/W1972064083",
+    "https://openalex.org/W1985342263",
+    "https://openalex.org/W1986911911",
+    "https://openalex.org/W1992546119",
+    "https://openalex.org/W1995563148",
+    "https://openalex.org/W2000562182",
+    "https://openalex.org/W2016293090",
+    "https://openalex.org/W2043284071",
+    "https://openalex.org/W2044351200",
+    "https://openalex.org/W2047755612",
+    "https://openalex.org/W2054948210",
+    "https://openalex.org/W2063236099",
+    "https://openalex.org/W2067719933",
+    "https://openalex.org/W2076803781",
+    "https://openalex.org/W2082119996",
+    "https://openalex.org/W2099653221",
+    "https://openalex.org/W2128092399",
+    "https://openalex.org/W2138829457",
+    "https://openalex.org/W2162997053",
+    "https://openalex.org/W2167906040",
+    "https://openalex.org/W2170732491",
+    "https://openalex.org/W2182817873",
+    "https://openalex.org/W2312401788",
+    "https://openalex.org/W2314105712",
+    "https://openalex.org/W2314209220",
+    "https://openalex.org/W2323145676",
+    "https://openalex.org/W2331305604",
+    "https://openalex.org/W2622309713"
+  ]
+}

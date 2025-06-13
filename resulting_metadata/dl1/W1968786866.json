@@ -1,0 +1,44 @@
+{
+  "id": "https://openalex.org/W1968786866",
+  "title": "Dispersion and Population Interactions",
+  "abstract": "The spatial component of environment, often neglected in modeling of ecological interactions, in general operates to increase species diversity. This arises due to the heterogeneity of the environment, but such heterogeneity can arise in an initially homogeneous environment due to what may be random initial events (e.g., colonization patterns), effects of which are magnified by species interactions. In this way, homogeneous environments may become heterogeneous and heterogeneous environments even more so. In patchy environments, distinct patches are likely to be colonized initially by different species, and thereby a kind of founder effect results whereby individual patches evolve along different paths simply as a consequence of initial colonization patterns. Species which would be unable to invade may nevertheless survive by establishing themselves early and will moreover be found in lower densities in other areas as overflow from their \"safe\" areas. Spatially continuous environments may evolve toward essentially patchy ones by this kind of process. Overall species richness is expected to be higher in patchy environments but to decrease as the ability of species to migrate becomes large. These results are due to patchiness per se and do not depend on the existence of several kinds of patches, a situation which will tend to reinforce these effects. Diversity is also increased in such environments with spatial extent due to the opportunities for fugitive-type spatio-temporal strategies. In these, local population oscillations provide the salvation for species which are for example competitively inferior or easy victims to predation but which can survive by superior migratory ability and (in patchy environments) talent for recolonization. Again, dependence is on spatial heterogeneity, in addition to temporal heterogeneity; again, this may be externally imposed or the result largely of internal processes. Some gross statistics for these processes, principally patch occupancy fractions, may prove useful for a simplified treatment of colonization-extinction equilibria, as in the approaches of Cohen (1970), Levins and Culver (1971), Horn and MacArthur (1972), and Slatkin (in preparation). For such considerations, however, one cannot assume independence of distributions; and the approach of Cohen (1970) and Slatkin (in preparation), which allows for consideration of covariance, is favored.",
+  "authors": [
+    {
+      "name": "Simon A. Levin"
+    }
+  ],
+  "publication_year": 1974,
+  "cited_by_count": 1137,
+  "primary_topic": "Mathematical and Theoretical Epidemiology and Ecology Models",
+  "subfield_topic": "Public Health, Environmental and Occupational Health",
+  "field_topic": "Medicine",
+  "domain_topic": "Health Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1521735349",
+    "https://openalex.org/W1965791263",
+    "https://openalex.org/W1972350080",
+    "https://openalex.org/W1980661496",
+    "https://openalex.org/W1986713974",
+    "https://openalex.org/W1986798554",
+    "https://openalex.org/W1999441474",
+    "https://openalex.org/W2017549609",
+    "https://openalex.org/W2028164538",
+    "https://openalex.org/W2038891875",
+    "https://openalex.org/W2042892258",
+    "https://openalex.org/W2045212693",
+    "https://openalex.org/W2045297102",
+    "https://openalex.org/W2051891570",
+    "https://openalex.org/W2051895482",
+    "https://openalex.org/W2052125279",
+    "https://openalex.org/W2055364874",
+    "https://openalex.org/W2056816058",
+    "https://openalex.org/W2064466182",
+    "https://openalex.org/W2066347815",
+    "https://openalex.org/W2089840306",
+    "https://openalex.org/W2105950028",
+    "https://openalex.org/W2128978199",
+    "https://openalex.org/W2321329116",
+    "https://openalex.org/W2323358873",
+    "https://openalex.org/W2606347989"
+  ]
+}

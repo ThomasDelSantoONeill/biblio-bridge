@@ -1,0 +1,202 @@
+{
+  "id": "https://openalex.org/W2589424942",
+  "title": "Valuing nature’s contributions to people: the IPBES approach",
+  "abstract": "Nature is perceived and valued in starkly different and often conflicting ways. This paper presents the rationale for the inclusive valuation of nature's contributions to people (NCP) in decision making, as well as broad methodological steps for doing so. While developed within the context of the Intergovernmental Platform on Biodiversity and Ecosystem Services (IPBES), this approach is more widely applicable to initiatives at the knowledge–policy interface, which require a pluralistic approach to recognizing the diversity of values. We argue that transformative practices aiming at sustainable futures would benefit from embracing such diversity, which require recognizing and addressing power relationships across stakeholder groups that hold different values on human nature-relations and NCP.",
+  "authors": [
+    {
+      "name": "Unai Pascual"
+    },
+    {
+      "name": "Patricia Balvanera"
+    },
+    {
+      "name": "Sandra Dı́az"
+    },
+    {
+      "name": "György Pataki"
+    },
+    {
+      "name": "Eva Roth"
+    },
+    {
+      "name": "Marie Stenseke"
+    },
+    {
+      "name": "Robert T. Watson"
+    },
+    {
+      "name": "Esra Başak"
+    },
+    {
+      "name": "Mine Işlar"
+    },
+    {
+      "name": "Eszter Kelemen"
+    },
+    {
+      "name": "Virginie Maris"
+    },
+    {
+      "name": "Martin F. Quaas"
+    },
+    {
+      "name": "Suneetha M. Subramanian"
+    },
+    {
+      "name": "Heidi Wittmer"
+    },
+    {
+      "name": "Asia Adlan"
+    },
+    {
+      "name": "SoEun Ahn"
+    },
+    {
+      "name": "Yousef S. Al‐Hafedh"
+    },
+    {
+      "name": "Edward Amankwah"
+    },
+    {
+      "name": "Stanley T. Asah"
+    },
+    {
+      "name": "Pam Berry"
+    },
+    {
+      "name": "Adem Bilgin"
+    },
+    {
+      "name": "Sara Jo Breslow"
+    },
+    {
+      "name": "Craig Bullock"
+    },
+    {
+      "name": "Daniel Cáceres"
+    },
+    {
+      "name": "Hamed Daly-Hassen"
+    },
+    {
+      "name": "Eugenio Figueroa"
+    },
+    {
+      "name": "Christopher D. Golden"
+    },
+    {
+      "name": "Erik Gómez‐Baggethun"
+    },
+    {
+      "name": "David González-Jiménez"
+    },
+    {
+      "name": "Joël Houdet"
+    },
+    {
+      "name": "Hans Keune"
+    },
+    {
+      "name": "Ritesh Kumar"
+    },
+    {
+      "name": "Keping Ma"
+    },
+    {
+      "name": "Peter H. May"
+    },
+    {
+      "name": "Aroha Te Pareake Mead"
+    },
+    {
+      "name": "Patrick O’Farrell"
+    },
+    {
+      "name": "Ram Pandit"
+    },
+    {
+      "name": "Walter Pengue"
+    },
+    {
+      "name": "Ramón Pichis-Madruga"
+    },
+    {
+      "name": "Florin Popa"
+    },
+    {
+      "name": "Susan Preston"
+    },
+    {
+      "name": "Diego Pacheco-Balanza"
+    },
+    {
+      "name": "Heli Saarikoski"
+    },
+    {
+      "name": "Bernardo B. N. Strassburg"
+    },
+    {
+      "name": "Marjan van den Belt"
+    },
+    {
+      "name": "Madhu Verma"
+    },
+    {
+      "name": "Fern Wickson"
+    },
+    {
+      "name": "Nobuyuki Yagi"
+    }
+  ],
+  "publication_year": 2017,
+  "cited_by_count": 1446,
+  "primary_topic": "Conservation, Biodiversity, and Resource Management",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1480313761",
+    "https://openalex.org/W1551533759",
+    "https://openalex.org/W1562197969",
+    "https://openalex.org/W1947283864",
+    "https://openalex.org/W1964798793",
+    "https://openalex.org/W1965478474",
+    "https://openalex.org/W1967360446",
+    "https://openalex.org/W1971228632",
+    "https://openalex.org/W1985169559",
+    "https://openalex.org/W1988376296",
+    "https://openalex.org/W1994122124",
+    "https://openalex.org/W2010448121",
+    "https://openalex.org/W2022263686",
+    "https://openalex.org/W2036775064",
+    "https://openalex.org/W2059466819",
+    "https://openalex.org/W2072632534",
+    "https://openalex.org/W2076900976",
+    "https://openalex.org/W2081180114",
+    "https://openalex.org/W2097686432",
+    "https://openalex.org/W2104596323",
+    "https://openalex.org/W2114044277",
+    "https://openalex.org/W2114603796",
+    "https://openalex.org/W2121055000",
+    "https://openalex.org/W2122925767",
+    "https://openalex.org/W2131236975",
+    "https://openalex.org/W2136276883",
+    "https://openalex.org/W2149336065",
+    "https://openalex.org/W2169201730",
+    "https://openalex.org/W2234617207",
+    "https://openalex.org/W2272853385",
+    "https://openalex.org/W2283138625",
+    "https://openalex.org/W2297185018",
+    "https://openalex.org/W2321271692",
+    "https://openalex.org/W2336638668",
+    "https://openalex.org/W2529741540",
+    "https://openalex.org/W2555139826",
+    "https://openalex.org/W2575790653",
+    "https://openalex.org/W2601981806",
+    "https://openalex.org/W2755242702",
+    "https://openalex.org/W2756988626",
+    "https://openalex.org/W2785061589",
+    "https://openalex.org/W3159280209",
+    "https://openalex.org/W32759665"
+  ]
+}

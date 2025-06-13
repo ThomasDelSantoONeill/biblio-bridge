@@ -1,0 +1,23 @@
+{
+  "id": "https://openalex.org/W2888309319",
+  "title": "The battle for the soul of biodiversity",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Ehsan Masood"
+    }
+  ],
+  "publication_year": 2018,
+  "cited_by_count": 62,
+  "primary_topic": "Land Use and Ecosystem Services",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W2335493863",
+    "https://openalex.org/W2599588617",
+    "https://openalex.org/W2756791498",
+    "https://openalex.org/W2782917446",
+    "https://openalex.org/W2890676895"
+  ]
+}

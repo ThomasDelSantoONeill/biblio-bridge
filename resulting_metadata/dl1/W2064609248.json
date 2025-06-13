@@ -1,0 +1,77 @@
+{
+  "id": "https://openalex.org/W2064609248",
+  "title": "DIVERSITY IN THE GENUS <i>SKELETONEMA</i> (BACILLARIOPHYCEAE). II. AN ASSESSMENT OF THE TAXONOMY OF <i>S. COSTATUM</i>‐LIKE SPECIES WITH THE DESCRIPTION OF FOUR NEW SPECIES<sup>1</sup>",
+  "abstract": "The morphology of strains of Skeletonema Greville emend Sarno et Zingone was examined in LM, TEM, and SEM and compared with sequence data from nuclear small subunit rDNA and partial large subunit rDNA. Eight distinct entities were identified, of which four were known: S. menzelii Guillard, Carpenter et Reimann; S. pseudocostatum Medlin emend. Zingone et Sarno; S. subsalsum (Cleve) Bethge; and S. tropicum Cleve. The other four species were new: S. dohrnii Sarno et Kooistra sp. nov., S. grethae Zingone et Sarno sp. nov., S. japonicum Zingone et Sarno sp. nov., and S. marinoi Sarno et Zingone sp. nov. Skeletonema species fell into four morphologically distinct groups corresponding to four lineages in the small subunit and large subunit trees. Lineage I included S. pseudocostatum , S. tropicum , S. grethae , and S. japonicum . All have external processes of the fultoportulae with narrow tips that connect with those of sibling cells via fork‐, knot‐, or knuckle‐ like junctions. Lineage II included only the solitary species S. menzelii . Lineage III comprised S. dohrnii and S. marinoi . This latter pair have flattened and flared extremities of the processes of the fultoportulae, which interdigitate with those of contiguous valves without forming knots or knuckles. Lineage IV only contained the brackish water species S. subsalsum . Some species also differ in their distribution and seasonal occurrence. These findings challenge the concept of S. costatum as a single cosmopolitan and opportunistic species and calls for reinterpretation of the vast body of research data based on this species.",
+  "authors": [
+    {
+      "name": "Diana Sarno"
+    },
+    {
+      "name": "Wiebe H. C. F. Kooistra"
+    },
+    {
+      "name": "Linda Medlin"
+    },
+    {
+      "name": "Isabella Percopo"
+    },
+    {
+      "name": "Adriana Zingone"
+    }
+  ],
+  "publication_year": 2005,
+  "cited_by_count": 373,
+  "primary_topic": "Marine and coastal ecosystems",
+  "subfield_topic": "Oceanography",
+  "field_topic": "Earth and Planetary Sciences",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1569280657",
+    "https://openalex.org/W1671158507",
+    "https://openalex.org/W179892089",
+    "https://openalex.org/W191279889",
+    "https://openalex.org/W1978320763",
+    "https://openalex.org/W1988445143",
+    "https://openalex.org/W1989101958",
+    "https://openalex.org/W1997890902",
+    "https://openalex.org/W2001222384",
+    "https://openalex.org/W2001981230",
+    "https://openalex.org/W2007022135",
+    "https://openalex.org/W2008476990",
+    "https://openalex.org/W2008965776",
+    "https://openalex.org/W2011070803",
+    "https://openalex.org/W2012955722",
+    "https://openalex.org/W2017691510",
+    "https://openalex.org/W2027553174",
+    "https://openalex.org/W2027626989",
+    "https://openalex.org/W2029090551",
+    "https://openalex.org/W2030394128",
+    "https://openalex.org/W2030482480",
+    "https://openalex.org/W2032656578",
+    "https://openalex.org/W2033143740",
+    "https://openalex.org/W2043350014",
+    "https://openalex.org/W2049848078",
+    "https://openalex.org/W2055021067",
+    "https://openalex.org/W2060489193",
+    "https://openalex.org/W2068129748",
+    "https://openalex.org/W2068949856",
+    "https://openalex.org/W2094501562",
+    "https://openalex.org/W2103776156",
+    "https://openalex.org/W2112814678",
+    "https://openalex.org/W2129939060",
+    "https://openalex.org/W2130984553",
+    "https://openalex.org/W2134420280",
+    "https://openalex.org/W2148385028",
+    "https://openalex.org/W2149185533",
+    "https://openalex.org/W2164435125",
+    "https://openalex.org/W2172057351",
+    "https://openalex.org/W2328920522",
+    "https://openalex.org/W2333258697",
+    "https://openalex.org/W2765380318",
+    "https://openalex.org/W3096018035",
+    "https://openalex.org/W4245306875",
+    "https://openalex.org/W4247992927",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W4389270347"
+  ]
+}

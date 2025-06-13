@@ -1,0 +1,33 @@
+{
+  "id": "https://openalex.org/W1549386224",
+  "title": "Detecting strange attractors in turbulence",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Floris Takens"
+    }
+  ],
+  "publication_year": 1981,
+  "cited_by_count": 9841,
+  "primary_topic": "Mathematical Dynamics and Fractals",
+  "subfield_topic": "Mathematical Physics",
+  "field_topic": "Mathematics",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1522020530",
+    "https://openalex.org/W1532303937",
+    "https://openalex.org/W1545848227",
+    "https://openalex.org/W1968975267",
+    "https://openalex.org/W1973168310",
+    "https://openalex.org/W1993249790",
+    "https://openalex.org/W2035029045",
+    "https://openalex.org/W2035695789",
+    "https://openalex.org/W2053092040",
+    "https://openalex.org/W2071001533",
+    "https://openalex.org/W2075019393",
+    "https://openalex.org/W30649988",
+    "https://openalex.org/W4234284487",
+    "https://openalex.org/W4291439952",
+    "https://openalex.org/W4292159986"
+  ]
+}

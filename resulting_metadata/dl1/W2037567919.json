@@ -1,0 +1,41 @@
+{
+  "id": "https://openalex.org/W2037567919",
+  "title": "Ecological Convergence of Lizard Communities in Chile and California",
+  "abstract": "Convergence in community structure, under similar long—term climatic conditions, were investigated using taxonomically unrelated lizard communities in Mediterranean climatic areas in central Chile and southern California. The hypothesis of convergence, i.e., physiognomically similar sites in the two continents should have lizard community structures that are more similar to each other than to the structure of lizard communities in nearby areas in the same transect, was tested by comparing the structure of lizard communities in an altitudinal–vegetational transect in each continent. Each transect consisted of a coastal sage, chaparral, and forested montane site. Structure of the lizard communities was characterized by the patterns of habitat, food, and time of activity of the lizard species. For each of these dimensions the total range of resources used by the community as a whole was determined, as well as the utilization pattern of individual species. Utilization patterns of individual species were expressed in a multidimensional vector in which the angle between vectors representing these patterns was used as a measure of ecological similarity between species. The vector method allowed determination of species pairs exhibiting the most similar patterns of resource utilization. The comparison strongly supports the convergence hypothesis. For habitat and time of activity, range of resources used as well as utilization functions of individual species were more similar in equivalent sites in the two continents than in nearby sites in the same continent. Thus, on the average the most similar species (species analogue) is on the equivalent site in the other transect and not in the same continent. Also, in general, the proportions of lizards found, irrespective of species, are the same on analogous resources in the two continents. Habitat species analogues found by comparing sites also similarly partitioned food resources. However, there are some differences in food categories used, since two of the Chilean species eat some vegetation (fruits), but their Californian size—habitat counterparts do not. In addition, the two chaparral sites show very similar mechanisms of generation replacement such that adults go into aestivation by the time hatchings appear. Evidence supporting the hypothesis of a seasonally shrinking food supply as the cause for this pattern is also given.",
+  "authors": [
+    {
+      "name": "Eduardo R. Fuentes"
+    }
+  ],
+  "publication_year": 1976,
+  "cited_by_count": 114,
+  "primary_topic": "Plant and animal studies",
+  "subfield_topic": "Ecology, Evolution, Behavior and Systematics",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1970158459",
+    "https://openalex.org/W1989371375",
+    "https://openalex.org/W1990498142",
+    "https://openalex.org/W1994507967",
+    "https://openalex.org/W2002664886",
+    "https://openalex.org/W2016877677",
+    "https://openalex.org/W2022751627",
+    "https://openalex.org/W2024011231",
+    "https://openalex.org/W2029894290",
+    "https://openalex.org/W2033179522",
+    "https://openalex.org/W2034690972",
+    "https://openalex.org/W2042174116",
+    "https://openalex.org/W2048159755",
+    "https://openalex.org/W2085188628",
+    "https://openalex.org/W2133341571",
+    "https://openalex.org/W2163423477",
+    "https://openalex.org/W22981762",
+    "https://openalex.org/W2316982528",
+    "https://openalex.org/W2319109561",
+    "https://openalex.org/W4206020472",
+    "https://openalex.org/W587815978",
+    "https://openalex.org/W590409353",
+    "https://openalex.org/W632902469"
+  ]
+}

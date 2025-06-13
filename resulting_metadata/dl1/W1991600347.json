@@ -1,0 +1,45 @@
+{
+  "id": "https://openalex.org/W1991600347",
+  "title": "Management Objective Importance in Fisheries: An Evaluation Using the Analytic Hierarchy Process (AHP)",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Simon Mardle"
+    },
+    {
+      "name": "Sean Pascoe"
+    },
+    {
+      "name": "Inés Herrero"
+    }
+  ],
+  "publication_year": 2004,
+  "cited_by_count": 172,
+  "primary_topic": "Multi-Criteria Decision Making",
+  "subfield_topic": "Management Science and Operations Research",
+  "field_topic": "Decision Sciences",
+  "domain_topic": "Social Sciences",
+  "referenced_works": [
+    "https://openalex.org/W137584378",
+    "https://openalex.org/W1506366602",
+    "https://openalex.org/W1974517033",
+    "https://openalex.org/W1986218986",
+    "https://openalex.org/W1986808060",
+    "https://openalex.org/W1991435698",
+    "https://openalex.org/W2002209739",
+    "https://openalex.org/W2004860576",
+    "https://openalex.org/W2007209794",
+    "https://openalex.org/W2012955605",
+    "https://openalex.org/W2019223594",
+    "https://openalex.org/W2020407132",
+    "https://openalex.org/W2025862459",
+    "https://openalex.org/W2036910311",
+    "https://openalex.org/W2062870748",
+    "https://openalex.org/W2071629202",
+    "https://openalex.org/W2079247628",
+    "https://openalex.org/W2118574774",
+    "https://openalex.org/W2124379907",
+    "https://openalex.org/W2148707062",
+    "https://openalex.org/W2164374380"
+  ]
+}

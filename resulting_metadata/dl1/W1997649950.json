@@ -1,0 +1,17 @@
+{
+  "id": "https://openalex.org/W1997649950",
+  "title": "Relation Between Production and Biomass",
+  "abstract": "A series of mathematical models of cohorts in animal populations representing various combinations of several different simple growth and mortality functions is examined to investigate the ratio between mean biomass and production over unit time, and to compare this ratio with the mean age and mean life span of the animals in the cohort.For any cohort, the ratio of production per unit time to mean biomass is equal to the ratio of total production by the cohort to its total biomass integral by time. For populations consisting of a number of simultaneous, successive, or overlapping cohorts, the ratio of production per unit time to mean biomass is equal to the mean of the ratios for the individual cohorts weighted by the mean biomasses of the cohorts.If the cohorts are identical, the population ratio is the same as the cohort ratio and problems arising from the presence of more than one cohort may be ignored. Formulations for the total production per cohort, biomass integral, and, where they can be simplified, their ratios, are given.Comparison with mean age and mean life span shows that for constant exponential mortality, mean age and mean life span are both equal to the reciprocal of the production–biomass ratio. For other mortality functions, if growth in weight is linear, the production–biomass ratio equals the reciprocal of the mean age. For other models there is no simple relation. In general, mean age appears a better approximation than mean life span to the reciprocal of the production–biomass ratio.These methods are applied, as an example, to Antarctic krill, using a model having linear growth in length and four periods with different exponential mortality rates. For this model, annual production is 1.8 times the mean biomass so that assumption of equality leads to an underestimate of production. Mean age and mean life span are 0.21 and 0.037 years respectively. Thus, use of either of these as an approximation, and particularly mean life span, leads to severe overestimation of annual production.",
+  "authors": [
+    {
+      "name": "K. Radway Allen"
+    }
+  ],
+  "publication_year": 1971,
+  "cited_by_count": 582,
+  "primary_topic": "Economics of Agriculture and Food Markets",
+  "subfield_topic": "Economics and Econometrics",
+  "field_topic": "Economics, Econometrics and Finance",
+  "domain_topic": "Social Sciences",
+  "referenced_works": []
+}

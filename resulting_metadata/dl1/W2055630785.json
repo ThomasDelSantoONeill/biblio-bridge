@@ -1,0 +1,44 @@
+{
+  "id": "https://openalex.org/W2055630785",
+  "title": "Energetics, Patterns of Interaction Strengths, and Stability in Real Ecosystems",
+  "abstract": "Ecologists have long been studying stability in ecosystems by looking at the structuring and the strengths of trophic interactions in community food webs. In a series of real food webs from native and agricultural soils, the strengths of the interactions were found to be patterned in a way that is important to ecosystem stability. The patterning consisted of the simultaneous occurrence of strong \"top down\" effects at lower trophic levels and strong \"bottom up\" effects at higher trophic levels. As the patterning resulted directly from the energetic organization of the food webs, the results show that energetics and community structure govern ecosystem stability by imposing stabilizing patterns of interaction strengths.",
+  "authors": [
+    {
+      "name": "Peter C. de Ruiter"
+    },
+    {
+      "name": "Anje‐Margriet Neutel"
+    },
+    {
+      "name": "John C. Moore"
+    }
+  ],
+  "publication_year": 1995,
+  "cited_by_count": 737,
+  "primary_topic": "Plant and animal studies",
+  "subfield_topic": "Ecology, Evolution, Behavior and Systematics",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1012681327",
+    "https://openalex.org/W1964915882",
+    "https://openalex.org/W1968369997",
+    "https://openalex.org/W1969087343",
+    "https://openalex.org/W1984555757",
+    "https://openalex.org/W1987852776",
+    "https://openalex.org/W2001845570",
+    "https://openalex.org/W2004270844",
+    "https://openalex.org/W2006265485",
+    "https://openalex.org/W2021246875",
+    "https://openalex.org/W2026994436",
+    "https://openalex.org/W2032312388",
+    "https://openalex.org/W2035114714",
+    "https://openalex.org/W2049318236",
+    "https://openalex.org/W2049546703",
+    "https://openalex.org/W2054126322",
+    "https://openalex.org/W2060544699",
+    "https://openalex.org/W2065757105",
+    "https://openalex.org/W2179238204",
+    "https://openalex.org/W2282448634"
+  ]
+}

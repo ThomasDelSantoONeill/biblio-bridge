@@ -1,0 +1,25 @@
+{
+  "id": "https://openalex.org/W2008512617",
+  "title": "Auditory stress and the immune system",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Patrick G. Holt"
+    }
+  ],
+  "publication_year": 1978,
+  "cited_by_count": 3,
+  "primary_topic": "Marine animal studies overview",
+  "subfield_topic": "Ecology",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1483901962",
+    "https://openalex.org/W1583668147",
+    "https://openalex.org/W2015385087",
+    "https://openalex.org/W2016555275",
+    "https://openalex.org/W2035534268",
+    "https://openalex.org/W2047260854",
+    "https://openalex.org/W2103553922"
+  ]
+}

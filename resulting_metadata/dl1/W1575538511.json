@@ -1,0 +1,34 @@
+{
+  "id": "https://openalex.org/W1575538511",
+  "title": "The great fish war: an example using a dynamic Cournot-Nash solution",
+  "abstract": "In recent years there have been numerous international conflicts about fishing rights. These conflicts are wider in scope than those captured by the model presented in this paper. Yet the model sheds light on the economic implications of these conflicts as well as on the implications of other duopolistic situations in which the decisions of the participants affect the evolution of an underlying population of interest. Our model has two basic features: the underlying population changes as a result of the actions of both participants, and each participant takes account of the other's actions. This strategic aspect is studied, for an example, by using the concept of a Cournot-Nash equilibrium in which each participant's reaction depends on the stock of fish and not on previous behavior. Thus, the model is a discrete-time analog of a differential game. The paper examines the dynamic and steady-state properties of the fish population that results from the participants' interactions.",
+  "authors": [
+    {
+      "name": "David Levhari"
+    },
+    {
+      "name": "Leonard J. Mirman"
+    }
+  ],
+  "publication_year": 2020,
+  "cited_by_count": 534,
+  "primary_topic": "Economic theories and models",
+  "subfield_topic": "Economics and Econometrics",
+  "field_topic": "Economics, Econometrics and Finance",
+  "domain_topic": "Social Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1539285921",
+    "https://openalex.org/W1587718705",
+    "https://openalex.org/W1603930794",
+    "https://openalex.org/W2005144844",
+    "https://openalex.org/W2006690779",
+    "https://openalex.org/W2008559884",
+    "https://openalex.org/W2055502660",
+    "https://openalex.org/W2067467132",
+    "https://openalex.org/W2072203233",
+    "https://openalex.org/W2169417293",
+    "https://openalex.org/W2217835294",
+    "https://openalex.org/W2496351267",
+    "https://openalex.org/W3088713371"
+  ]
+}

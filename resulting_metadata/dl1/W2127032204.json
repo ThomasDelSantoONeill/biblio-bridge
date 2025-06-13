@@ -1,0 +1,65 @@
+{
+  "id": "https://openalex.org/W2127032204",
+  "title": "Which ecological indicators can robustly detect effects of fishing?",
+  "abstract": "Many ecological indicators have been proposed to detect and describe the effects of fishing on marine ecosystems, but few have been evaluated formally. Here, simulation models of two marine systems off southeastern Australia (a large marine embayment, and an EEZ-scale regional marine ecosystem) are used to evaluate the performance of a suite of ecological indicators. The indicators cover species, assemblages, habitats, and ecosystems, including quantities derived from models such as Ecopath. The simulation models, based on the Atlantis framework, incorporate the effects of fishing from several fishing gears, and also the confounding impacts of other broad-scale pressures on the ecosystems (e.g. increased nutrient loads). These models are used to provide fishery-dependent and fishery-independent pseudo-data from which the indicators are calculated. Indicator performance is quantified by the ability to detect and/or predict trends in key variables of interest (\"attributes\"), the true values of which are known from the simulation models. The performance of each indicator is evaluated across a range of ecological and fishing scenarios. Results suggest that indicators at the community level of organization are the most reliable, and that it is necessary to use a variety of indicators simultaneously to detect the full range of impacts from fishing. Several key functional groups provide a good characterization of ecosystem state, or indicate the cause of broader ecosystem changes in most instances.",
+  "authors": [
+    {
+      "name": "Elizabeth A. Fulton"
+    },
+    {
+      "name": "Adam Smith"
+    },
+    {
+      "name": "André E. Punt"
+    }
+  ],
+  "publication_year": 2005,
+  "cited_by_count": 385,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W103317547",
+    "https://openalex.org/W1513136390",
+    "https://openalex.org/W1545623392",
+    "https://openalex.org/W1599127549",
+    "https://openalex.org/W1968233295",
+    "https://openalex.org/W1970693481",
+    "https://openalex.org/W1985098578",
+    "https://openalex.org/W1988427755",
+    "https://openalex.org/W2003615897",
+    "https://openalex.org/W2007263482",
+    "https://openalex.org/W2009597272",
+    "https://openalex.org/W2045968845",
+    "https://openalex.org/W2048873964",
+    "https://openalex.org/W2055292590",
+    "https://openalex.org/W2055368915",
+    "https://openalex.org/W207052676",
+    "https://openalex.org/W2072494101",
+    "https://openalex.org/W2074813179",
+    "https://openalex.org/W2078508417",
+    "https://openalex.org/W2087087216",
+    "https://openalex.org/W2087641521",
+    "https://openalex.org/W2090603305",
+    "https://openalex.org/W2099399713",
+    "https://openalex.org/W2099421102",
+    "https://openalex.org/W2102344418",
+    "https://openalex.org/W2103037732",
+    "https://openalex.org/W2122505518",
+    "https://openalex.org/W2123774274",
+    "https://openalex.org/W2127850871",
+    "https://openalex.org/W2128018720",
+    "https://openalex.org/W2131343358",
+    "https://openalex.org/W2137345678",
+    "https://openalex.org/W2148311895",
+    "https://openalex.org/W2188460902",
+    "https://openalex.org/W2317234531",
+    "https://openalex.org/W2500323468",
+    "https://openalex.org/W2620086506",
+    "https://openalex.org/W2808422109",
+    "https://openalex.org/W3002341712",
+    "https://openalex.org/W55817145",
+    "https://openalex.org/W773734042"
+  ]
+}

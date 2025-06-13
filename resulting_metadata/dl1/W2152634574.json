@@ -1,0 +1,55 @@
+{
+  "id": "https://openalex.org/W2152634574",
+  "title": "Biocomplexity and fisheries sustainability",
+  "abstract": "A classic example of a sustainable fishery is that targeting sockeye salmon in Bristol Bay, Alaska, where record catches have occurred during the last 20 years. The stock complex is an amalgamation of several hundred discrete spawning populations. Structured within lake systems, individual populations display diverse life history characteristics and local adaptations to the variation in spawning and rearing habitats. This biocomplexity has enabled the aggregate of populations to sustain its productivity despite major changes in climatic conditions affecting the freshwater and marine environments during the last century. Different geographic and life history components that were minor producers during one climatic regime have dominated during others, emphasizing that the biocomplexity of fish stocks is critical for maintaining their resilience to environmental change.",
+  "authors": [
+    {
+      "name": "Ray Hilborn"
+    },
+    {
+      "name": "Thomas P. Quinn"
+    },
+    {
+      "name": "Daniel E. Schindler"
+    },
+    {
+      "name": "Donald E. Rogers"
+    }
+  ],
+  "publication_year": 2003,
+  "cited_by_count": 954,
+  "primary_topic": "Fish Ecology and Management Studies",
+  "subfield_topic": "Nature and Landscape Conservation",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1585173545",
+    "https://openalex.org/W1988120012",
+    "https://openalex.org/W1993153750",
+    "https://openalex.org/W1997777819",
+    "https://openalex.org/W1999234809",
+    "https://openalex.org/W2002306811",
+    "https://openalex.org/W2006959528",
+    "https://openalex.org/W2007745213",
+    "https://openalex.org/W2010303663",
+    "https://openalex.org/W2012756485",
+    "https://openalex.org/W2014481232",
+    "https://openalex.org/W2024171034",
+    "https://openalex.org/W2028801112",
+    "https://openalex.org/W2037648518",
+    "https://openalex.org/W2067726171",
+    "https://openalex.org/W2087743156",
+    "https://openalex.org/W2093401535",
+    "https://openalex.org/W2121272549",
+    "https://openalex.org/W2127480732",
+    "https://openalex.org/W2145411765",
+    "https://openalex.org/W2147887653",
+    "https://openalex.org/W2149166364",
+    "https://openalex.org/W2152375399",
+    "https://openalex.org/W2188193075",
+    "https://openalex.org/W2317989487",
+    "https://openalex.org/W2326586425",
+    "https://openalex.org/W355559164",
+    "https://openalex.org/W4210260625"
+  ]
+}

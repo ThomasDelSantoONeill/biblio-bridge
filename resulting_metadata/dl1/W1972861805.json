@@ -1,0 +1,45 @@
+{
+  "id": "https://openalex.org/W1972861805",
+  "title": "The Competitive Structure of Communities: An Experimental Approach with Protozoa",
+  "abstract": "An empirical test of the existence of higher order interactions was carried out using four ciliate protozoans, Paramecium caudatum, P. bursaria, P. aurelia, and Blepharisma sp. All four ciliates were cultured individually, and their population histories were described quite well by the simple logistic equation. Attempts to explain minor deviations of the data from the logistic by use of the one or two time lag logistic failed. A more complicated time lag phenomenon must be operative. Every possible pair of the four ciliates was cultured and a trial and error procedure was used to estimate @a and @b of the Gause equations. In all cases the simple Gause equations seemed adequately to describe the data. All four ciliates were cultured together and compared to predictions made by use of the competition coefficients estimated from pair—wise competition and population parameters estimated from single species population growth. The correspondence between prediction and data suggests that the higher order interactions have slight or no effect on the dynamics of this artificial community.",
+  "authors": [
+    {
+      "name": "John Vandermeer"
+    }
+  ],
+  "publication_year": 1969,
+  "cited_by_count": 381,
+  "primary_topic": "Evolutionary Game Theory and Cooperation",
+  "subfield_topic": "Sociology and Political Science",
+  "field_topic": "Social Sciences",
+  "domain_topic": "Social Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1971985768",
+    "https://openalex.org/W1972815070",
+    "https://openalex.org/W1981778072",
+    "https://openalex.org/W1982015760",
+    "https://openalex.org/W1984284869",
+    "https://openalex.org/W1987211535",
+    "https://openalex.org/W1994507967",
+    "https://openalex.org/W2003471882",
+    "https://openalex.org/W2004388993",
+    "https://openalex.org/W2004827430",
+    "https://openalex.org/W2004874474",
+    "https://openalex.org/W2006903570",
+    "https://openalex.org/W2011940648",
+    "https://openalex.org/W2021945745",
+    "https://openalex.org/W2027620523",
+    "https://openalex.org/W2046658359",
+    "https://openalex.org/W2090011679",
+    "https://openalex.org/W2096114892",
+    "https://openalex.org/W2119556443",
+    "https://openalex.org/W2146368895",
+    "https://openalex.org/W2157258388",
+    "https://openalex.org/W2320432931",
+    "https://openalex.org/W2328361608",
+    "https://openalex.org/W2328584517",
+    "https://openalex.org/W2560743082",
+    "https://openalex.org/W3035987306",
+    "https://openalex.org/W4235699481"
+  ]
+}

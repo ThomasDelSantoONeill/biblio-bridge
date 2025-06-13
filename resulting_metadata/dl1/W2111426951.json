@@ -1,0 +1,59 @@
+{
+  "id": "https://openalex.org/W2111426951",
+  "title": "Two‐Stage Life Histories in Fish: The Interaction Between Juvenile Competition and Adult Performance",
+  "abstract": "Punpkinseed sunfish (Lepomis gibbosus) typically exhibit a strong ontogenetic diet shift. Small (juvenile) pumpkinseeds feed primarily on soft—bodied littoral invertebrates and compete with small bluegill (L. macrochirus), while large (adult) pumpkinsees feed extensively on sanils. We compared pumpkinseed and snail populations in two Michigan lakes that contain bluegill (Three Lakes II and Three Lakes III) with populations inhabiting Wintergreen Lake, a lake lacking bluegill. In the absence of bluegill, pumpkinseeds were abundant and juveniles grew well; however, snail abundances were low and adult pumpkinseeds grew poorly. Furthermore, no ontogenetic diet shift to snails occurred in Wintergreen Lake, and the pharyngeal muscles and bones used to crush snails were smaller than in fish from Three Lakes II. Pumpkinseeds from Wintergreen Lake also required significantly more time to crush and handle thick—shelled snails, but not thin—shelled snails and nongastropod porey, than did fish from Three Lakes II. In a field caging experiment in Wintergreen Lake snail densities increased fourfold when pumpkinseeds were excluded. Historical data as well as the among—lake comparisons suggest that the changes in Wintergreen Lake occurred in response to the selective elimination of the pumpkinseed's juvenile—stage competitor, the bluegill, via a winterkill event in the late 1970s. It appears that removal of bluegill released juvenile pumpkinseeds from competition and increased pumpkinseed recruitment into the adult stage, which resulted in the overexploitation of the adults' snail resource. These events then led to changes in adult pumpkinseed diet, growth, morphology, and feeding ability. These data are consistent with predictions from a two—stage life history model developed for the pumpkinseed—bluegill interaction and illustrate some of the important indirect consequences of interactions involving stage—structured populations.",
+  "authors": [
+    {
+      "name": "Craig W. Osenberg"
+    },
+    {
+      "name": "Gary G. Mittelbach"
+    },
+    {
+      "name": "Peter C. Wainwright"
+    }
+  ],
+  "publication_year": 1992,
+  "cited_by_count": 216,
+  "primary_topic": "Fish Ecology and Management Studies",
+  "subfield_topic": "Nature and Landscape Conservation",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1003635003",
+    "https://openalex.org/W1538865557",
+    "https://openalex.org/W194046994",
+    "https://openalex.org/W1976714871",
+    "https://openalex.org/W1978813410",
+    "https://openalex.org/W1987148902",
+    "https://openalex.org/W1991750992",
+    "https://openalex.org/W1997356912",
+    "https://openalex.org/W2000722657",
+    "https://openalex.org/W2005389965",
+    "https://openalex.org/W2008968713",
+    "https://openalex.org/W2013692750",
+    "https://openalex.org/W2023915165",
+    "https://openalex.org/W2028771556",
+    "https://openalex.org/W2042046698",
+    "https://openalex.org/W2044105052",
+    "https://openalex.org/W2045020259",
+    "https://openalex.org/W2045828219",
+    "https://openalex.org/W2046319547",
+    "https://openalex.org/W2051227330",
+    "https://openalex.org/W2051439418",
+    "https://openalex.org/W2055803027",
+    "https://openalex.org/W2070361631",
+    "https://openalex.org/W2078054204",
+    "https://openalex.org/W2133925990",
+    "https://openalex.org/W2139156166",
+    "https://openalex.org/W2144616391",
+    "https://openalex.org/W2159677691",
+    "https://openalex.org/W226820131",
+    "https://openalex.org/W2319933024",
+    "https://openalex.org/W2321508158",
+    "https://openalex.org/W2323445640",
+    "https://openalex.org/W4246171447",
+    "https://openalex.org/W76223228",
+    "https://openalex.org/W7936050"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "https://openalex.org/W2025015574",
+  "title": "A meta-analysis of the freshwater trophic cascade.",
+  "abstract": "The generality of the trophic cascade has been an intensely debated topic among ecologists. We conducted a meta-analysis of 54 separate enclosure and pond experiments that measured the response of the zooplankton and phytoplankton to zooplanktivorous fish treatments. These results provide unequivocal support for the trophic cascade hypothesis in freshwater food webs. Zooplanktivorous fish treatments resulted in reduced zooplankton biomass and increased phytoplankton biomass. The trophic cascade was weakly dampened at the level of the phytoplankton. However, the response of the phytoplankton to the trophic cascade was highly skewed, with very strong responses in slightly more than one-third of the cases and weak responses in the others.",
+  "authors": [
+    {
+      "name": "Michael T. Brett"
+    },
+    {
+      "name": "Charles R. Goldman"
+    }
+  ],
+  "publication_year": 1996,
+  "cited_by_count": 338,
+  "primary_topic": "Aquatic Ecosystems and Phytoplankton Dynamics",
+  "subfield_topic": "Environmental Chemistry",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1596529738",
+    "https://openalex.org/W1994180160",
+    "https://openalex.org/W2003088550",
+    "https://openalex.org/W2028435430",
+    "https://openalex.org/W2036540241",
+    "https://openalex.org/W2041273681",
+    "https://openalex.org/W2042093316",
+    "https://openalex.org/W2050511571",
+    "https://openalex.org/W2101505750",
+    "https://openalex.org/W2117434227",
+    "https://openalex.org/W4254579375"
+  ]
+}

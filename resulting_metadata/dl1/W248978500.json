@@ -1,0 +1,44 @@
+{
+  "id": "https://openalex.org/W248978500",
+  "title": "A Framework for Multispecies Assessment and Management",
+  "abstract": "The report describes a framework that can be used to identify the most important trade-offs in ecosystem based fisheries management. The framework contains a description of how to identify the bord ...",
+  "authors": [
+    {
+      "name": "Anna Rindorf"
+    },
+    {
+      "name": "Jörn Schmidt"
+    },
+    {
+      "name": "Bjarte Bogstad"
+    },
+    {
+      "name": "Stuart A. Reeves"
+    },
+    {
+      "name": "Yvonne Walther"
+    }
+  ],
+  "publication_year": 2013,
+  "cited_by_count": 12,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1500009688",
+    "https://openalex.org/W1960744456",
+    "https://openalex.org/W2052584020",
+    "https://openalex.org/W2061784349",
+    "https://openalex.org/W2063236099",
+    "https://openalex.org/W2097492601",
+    "https://openalex.org/W2122338940",
+    "https://openalex.org/W2128092399",
+    "https://openalex.org/W2144821682",
+    "https://openalex.org/W2158227275",
+    "https://openalex.org/W2168909889",
+    "https://openalex.org/W2314849475",
+    "https://openalex.org/W2739687755",
+    "https://openalex.org/W345080406"
+  ]
+}

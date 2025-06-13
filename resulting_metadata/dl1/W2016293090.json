@@ -1,0 +1,157 @@
+{
+  "id": "https://openalex.org/W2016293090",
+  "title": "Multispecies fisheries management and conservation: tactical applications using models of intermediate complexity",
+  "abstract": "Abstract Stakeholders increasingly expect ecosystem assessments as part of advice on fisheries management. Quantitative models to support fisheries decision‐making may be either strategic (‘big picture’, direction‐setting and contextual) or tactical (focused on management actions on short timescales), with some strategic models informing the development of tactical models. We describe and review ‘ M odels of I ntermediate C omplexity for E cosystem assessments’ ( MICE ) that have a tactical focus, including use as ecosystem assessment tools. MICE are context‐ and question‐driven and limit complexity by restricting the focus to those components of the ecosystem needed to address the main effects of the management question under consideration. Stakeholder participation and dialogue is an integral part of this process. MICE estimate parameters through fitting to data, use statistical diagnostic tools to evaluate model performance and account for a broad range of uncertainties. These models therefore address many of the impediments to greater use of ecosystem models in strategic and particularly tactical decision‐making for marine resource management and conservation. MICE are capable of producing outputs that could be used for tactical decision‐making, but our summary of existing models suggests this has not occurred in any meaningful way to date. We use a model of the pelagic ecosystem in the C oral S ea and a linked catchment and ocean model of the G ulf of C arpentaria, A ustralia, to illustrate how MICE can be constructed. We summarize the major advantages of the approach, indicate opportunities for the development of further applications and identify the major challenges to broad adoption of the approach.",
+  "authors": [
+    {
+      "name": "Éva E. Plagányi"
+    },
+    {
+      "name": "André E. Punt"
+    },
+    {
+      "name": "Richard Hillary"
+    },
+    {
+      "name": "Elisabetta B Morello"
+    },
+    {
+      "name": "Olivier Thébaud"
+    },
+    {
+      "name": "Trevor Hutton"
+    },
+    {
+      "name": "Richard D. Pillans"
+    },
+    {
+      "name": "James T. Thorson"
+    },
+    {
+      "name": "Elizabeth A. Fulton"
+    },
+    {
+      "name": "Anthony D. M. Smith"
+    },
+    {
+      "name": "Franz Smith"
+    },
+    {
+      "name": "Peter Bayliss"
+    },
+    {
+      "name": "Michael D. E. Haywood"
+    },
+    {
+      "name": "Vincent Lyne"
+    },
+    {
+      "name": "Peter C. Rothlisberg"
+    }
+  ],
+  "publication_year": 2012,
+  "cited_by_count": 368,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1225911198",
+    "https://openalex.org/W1489430206",
+    "https://openalex.org/W1521037391",
+    "https://openalex.org/W1524760816",
+    "https://openalex.org/W1551093597",
+    "https://openalex.org/W1636522059",
+    "https://openalex.org/W1781826013",
+    "https://openalex.org/W1834919858",
+    "https://openalex.org/W183848859",
+    "https://openalex.org/W1966195003",
+    "https://openalex.org/W1970398827",
+    "https://openalex.org/W1975250828",
+    "https://openalex.org/W1975933594",
+    "https://openalex.org/W1988846031",
+    "https://openalex.org/W1990479561",
+    "https://openalex.org/W1991560151",
+    "https://openalex.org/W1993920411",
+    "https://openalex.org/W2000363793",
+    "https://openalex.org/W2000450592",
+    "https://openalex.org/W2007379109",
+    "https://openalex.org/W2008585602",
+    "https://openalex.org/W2010188994",
+    "https://openalex.org/W2010421699",
+    "https://openalex.org/W2019526509",
+    "https://openalex.org/W2021491280",
+    "https://openalex.org/W2025963285",
+    "https://openalex.org/W2030764027",
+    "https://openalex.org/W2042464037",
+    "https://openalex.org/W2043284071",
+    "https://openalex.org/W2049433215",
+    "https://openalex.org/W2049899034",
+    "https://openalex.org/W2053159411",
+    "https://openalex.org/W2056705477",
+    "https://openalex.org/W2065716270",
+    "https://openalex.org/W2066927312",
+    "https://openalex.org/W2071330744",
+    "https://openalex.org/W2072488225",
+    "https://openalex.org/W2079791672",
+    "https://openalex.org/W2082119996",
+    "https://openalex.org/W2085140823",
+    "https://openalex.org/W2091884289",
+    "https://openalex.org/W2093406482",
+    "https://openalex.org/W2093603746",
+    "https://openalex.org/W2095562325",
+    "https://openalex.org/W2103037732",
+    "https://openalex.org/W2103423125",
+    "https://openalex.org/W2109180645",
+    "https://openalex.org/W2109605050",
+    "https://openalex.org/W2112446421",
+    "https://openalex.org/W2113192283",
+    "https://openalex.org/W2114364088",
+    "https://openalex.org/W2115415514",
+    "https://openalex.org/W2121556051",
+    "https://openalex.org/W2122505518",
+    "https://openalex.org/W2122719118",
+    "https://openalex.org/W2123046740",
+    "https://openalex.org/W2124398268",
+    "https://openalex.org/W2126475261",
+    "https://openalex.org/W2128532847",
+    "https://openalex.org/W2128695422",
+    "https://openalex.org/W2131537725",
+    "https://openalex.org/W2131642642",
+    "https://openalex.org/W2132270486",
+    "https://openalex.org/W2133051125",
+    "https://openalex.org/W2136761514",
+    "https://openalex.org/W2137345678",
+    "https://openalex.org/W2138829457",
+    "https://openalex.org/W2139319958",
+    "https://openalex.org/W2144964858",
+    "https://openalex.org/W2145378599",
+    "https://openalex.org/W2148311895",
+    "https://openalex.org/W2149449654",
+    "https://openalex.org/W2149876375",
+    "https://openalex.org/W2150203206",
+    "https://openalex.org/W2152166843",
+    "https://openalex.org/W2152590961",
+    "https://openalex.org/W2159708478",
+    "https://openalex.org/W2161870751",
+    "https://openalex.org/W2171113886",
+    "https://openalex.org/W2232792810",
+    "https://openalex.org/W2312401788",
+    "https://openalex.org/W2315549469",
+    "https://openalex.org/W2319252967",
+    "https://openalex.org/W2320723621",
+    "https://openalex.org/W2325431903",
+    "https://openalex.org/W2536117037",
+    "https://openalex.org/W2574956073",
+    "https://openalex.org/W258625501",
+    "https://openalex.org/W2586886342",
+    "https://openalex.org/W2808422109",
+    "https://openalex.org/W2901789054",
+    "https://openalex.org/W2949175816",
+    "https://openalex.org/W2951719182",
+    "https://openalex.org/W3150234440",
+    "https://openalex.org/W4241973357",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W85290999"
+  ]
+}

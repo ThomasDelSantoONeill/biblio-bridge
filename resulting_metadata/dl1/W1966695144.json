@@ -1,0 +1,84 @@
+{
+  "id": "https://openalex.org/W1966695144",
+  "title": "Ecosystem modelling in the southern Benguela: comparisons of Atlantis, Ecopath with Ecosim, and OSMOSE under fishing scenarios",
+  "abstract": "Ecosystem-based management of marine fisheries requires the use of simulation modelling to investigate the system-level impact of candidate fisheries management strategies. However, testing of fundamental assumptions such as system structure or process formulations is rarely done. In this study, we compare the output of three different ecosystem models (Atlantis, Ecopath with Ecosim, and OSMOSE) applied to the same ecosystem (the southern Benguela), to explore which ecosystem effects of fishing are most sensitive to model uncertainty. We subjected the models to two contrasting fishing pressure scenarios, applying high fishing pressure to either small pelagic fish or to adult hake. We compared the resulting model behaviour at a system level, and also at the level of model groups. We analysed the outputs in terms of various commonly used ecosystem indicators, and found some similarities in the overall behaviour of the models, despite major differences in model formulation and assumptions. Direction of change in system-level indicators was consistent for all models under the hake pressure scenario, although discrepancies emerged under the small-pelagic-fish scenario. Studying biomass response of individual model groups was key to understanding more integrated system-level metrics. All three models are based on existing knowledge of the system, and the convergence of model results increases confidence in the robustness of the model outputs. Points of divergence in the model results suggest important areas of future study. The use of feeding guilds to provide indicators for fish species at an aggregated level was explored, and proved to be an interesting alternative to aggregation by trophic level.",
+  "authors": [
+    {
+      "name": "MD Smith"
+    },
+    {
+      "name": "Elizabeth A. Fulton"
+    },
+    {
+      "name": "Robert W. Day"
+    },
+    {
+      "name": "Lynne J. Shannon"
+    },
+    {
+      "name": "Yunne‐Jai Shin"
+    }
+  ],
+  "publication_year": 2015,
+  "cited_by_count": 39,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W131512755",
+    "https://openalex.org/W1524760816",
+    "https://openalex.org/W1628651634",
+    "https://openalex.org/W169104655",
+    "https://openalex.org/W1904986853",
+    "https://openalex.org/W1952312374",
+    "https://openalex.org/W1965277453",
+    "https://openalex.org/W1968466770",
+    "https://openalex.org/W1968589214",
+    "https://openalex.org/W1978794524",
+    "https://openalex.org/W1985098578",
+    "https://openalex.org/W1991560151",
+    "https://openalex.org/W2004037061",
+    "https://openalex.org/W2007263482",
+    "https://openalex.org/W2011407685",
+    "https://openalex.org/W2011491722",
+    "https://openalex.org/W2016293090",
+    "https://openalex.org/W2017148881",
+    "https://openalex.org/W2021827357",
+    "https://openalex.org/W2022322580",
+    "https://openalex.org/W2024255430",
+    "https://openalex.org/W2030530446",
+    "https://openalex.org/W2035481466",
+    "https://openalex.org/W2047447466",
+    "https://openalex.org/W2055024990",
+    "https://openalex.org/W2067227621",
+    "https://openalex.org/W2073573124",
+    "https://openalex.org/W2074041320",
+    "https://openalex.org/W2076803781",
+    "https://openalex.org/W2079604837",
+    "https://openalex.org/W2084185819",
+    "https://openalex.org/W2095060666",
+    "https://openalex.org/W2104194276",
+    "https://openalex.org/W2105280308",
+    "https://openalex.org/W2109492025",
+    "https://openalex.org/W2113300941",
+    "https://openalex.org/W2118496962",
+    "https://openalex.org/W2127032204",
+    "https://openalex.org/W2127850871",
+    "https://openalex.org/W2132556874",
+    "https://openalex.org/W2135275073",
+    "https://openalex.org/W2137475410",
+    "https://openalex.org/W2141613880",
+    "https://openalex.org/W2145378599",
+    "https://openalex.org/W2145444829",
+    "https://openalex.org/W2149228205",
+    "https://openalex.org/W2162070796",
+    "https://openalex.org/W2163793450",
+    "https://openalex.org/W2167131382",
+    "https://openalex.org/W2312518378",
+    "https://openalex.org/W2317845212",
+    "https://openalex.org/W3011730451",
+    "https://openalex.org/W3150234440",
+    "https://openalex.org/W4247884971"
+  ]
+}

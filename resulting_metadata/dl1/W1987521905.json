@@ -1,0 +1,45 @@
+{
+  "id": "https://openalex.org/W1987521905",
+  "title": "Management strategy evaluation for rock lobster,<i>Jasus edwardsii</i>, off Victoria, Australia: Accounting for uncertainty in stock structure",
+  "abstract": "Abstract The management strategy evaluation (MSE) approach was used to evaluate management strategies based on the current method of stock assessment for rock lobster (Jasus edwardsii) off Victoria, Australia, and decision rules inferred from the management plan for Victorian rock lobster and past practice when selecting total allowable catches, TACs. The results are expressed in terms of whether it is possible to keep stocks above limit reference points with high probability and recover over‐exploited stocks to the target level. Three categories of management strategy were examined using the MSE, which differed in whether assessments were conducted, and TACs set, by management zone or by region within management zone. A management strategy based on conducting assessments and setting TACs by management zone is most similar to the way assessments are currently conducted and management regulations implemented for rock lobster off Victoria. However, this management strategy performed poorest in recovering stocks to target levels. Alternative management strategies which involved conducting assessments and setting TACs by region performed better, but may have practical limitations. The assessment method was found to be generally relatively accurate and precise, although estimation performance was poor/imprecise on occasion.",
+  "authors": [
+    {
+      "name": "André E. Punt"
+    },
+    {
+      "name": "David K. Hobday"
+    }
+  ],
+  "publication_year": 2009,
+  "cited_by_count": 20,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1574780771",
+    "https://openalex.org/W1717191710",
+    "https://openalex.org/W1859820675",
+    "https://openalex.org/W1986467551",
+    "https://openalex.org/W2006647779",
+    "https://openalex.org/W2012006914",
+    "https://openalex.org/W2020328572",
+    "https://openalex.org/W2041031482",
+    "https://openalex.org/W2049433215",
+    "https://openalex.org/W2065191174",
+    "https://openalex.org/W2072004591",
+    "https://openalex.org/W2075314043",
+    "https://openalex.org/W2093698374",
+    "https://openalex.org/W2094536966",
+    "https://openalex.org/W2100012356",
+    "https://openalex.org/W2122782653",
+    "https://openalex.org/W2124398268",
+    "https://openalex.org/W2141465731",
+    "https://openalex.org/W2148311895",
+    "https://openalex.org/W2155348895",
+    "https://openalex.org/W2157494300",
+    "https://openalex.org/W2161277812",
+    "https://openalex.org/W2185636102",
+    "https://openalex.org/W2297370949"
+  ]
+}

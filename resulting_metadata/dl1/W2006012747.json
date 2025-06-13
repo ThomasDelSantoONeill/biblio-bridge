@@ -1,0 +1,92 @@
+{
+  "id": "https://openalex.org/W2006012747",
+  "title": "Pattern-Oriented Modeling of Agent-Based Complex Systems: Lessons from Ecology",
+  "abstract": "Agent-based complex systems are dynamic networks of many interacting agents; examples include ecosystems, financial markets, and cities. The search for general principles underlying the internal organization of such systems often uses bottom-up simulation models such as cellular automata and agent-based models. No general framework for designing, testing, and analyzing bottom-up models has yet been established, but recent advances in ecological modeling have come together in a general strategy we call pattern-oriented modeling. This strategy provides a unifying framework for decoding the internal organization of agent-based complex systems and may lead toward unifying algorithmic theories of the relation between adaptive behavior and system complexity.",
+  "authors": [
+    {
+      "name": "Volker Grimm"
+    },
+    {
+      "name": "Eloy Revilla"
+    },
+    {
+      "name": "Uta Berger"
+    },
+    {
+      "name": "Florian Jeltsch"
+    },
+    {
+      "name": "Wolf M. Mooij"
+    },
+    {
+      "name": "Steven F. Railsback"
+    },
+    {
+      "name": "Hans‐Hermann Thulke"
+    },
+    {
+      "name": "Jacob Weiner"
+    },
+    {
+      "name": "Thorsten Wiegand"
+    },
+    {
+      "name": "Donald L. DeAngelis"
+    }
+  ],
+  "publication_year": 2005,
+  "cited_by_count": 2082,
+  "primary_topic": "Complex Systems and Time Series Analysis",
+  "subfield_topic": "Economics and Econometrics",
+  "field_topic": "Economics, Econometrics and Finance",
+  "domain_topic": "Social Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1483113211",
+    "https://openalex.org/W1515814298",
+    "https://openalex.org/W1523191269",
+    "https://openalex.org/W1532516291",
+    "https://openalex.org/W1578246244",
+    "https://openalex.org/W1619606141",
+    "https://openalex.org/W1631180306",
+    "https://openalex.org/W1883449737",
+    "https://openalex.org/W1965499304",
+    "https://openalex.org/W1966499072",
+    "https://openalex.org/W1996375247",
+    "https://openalex.org/W1999770957",
+    "https://openalex.org/W2001598892",
+    "https://openalex.org/W2005413031",
+    "https://openalex.org/W2009435671",
+    "https://openalex.org/W2009653886",
+    "https://openalex.org/W2014162552",
+    "https://openalex.org/W2014781793",
+    "https://openalex.org/W2020712076",
+    "https://openalex.org/W2023183388",
+    "https://openalex.org/W2025067420",
+    "https://openalex.org/W2032964004",
+    "https://openalex.org/W2067423349",
+    "https://openalex.org/W2068668248",
+    "https://openalex.org/W2070050569",
+    "https://openalex.org/W2077670403",
+    "https://openalex.org/W2077959816",
+    "https://openalex.org/W2089204312",
+    "https://openalex.org/W2090583502",
+    "https://openalex.org/W2091279582",
+    "https://openalex.org/W2101235176",
+    "https://openalex.org/W2110117296",
+    "https://openalex.org/W2110429721",
+    "https://openalex.org/W2121265007",
+    "https://openalex.org/W2131162001",
+    "https://openalex.org/W2134047054",
+    "https://openalex.org/W2136204467",
+    "https://openalex.org/W2139009844",
+    "https://openalex.org/W2142417344",
+    "https://openalex.org/W2171433196",
+    "https://openalex.org/W2173817086",
+    "https://openalex.org/W2889011686",
+    "https://openalex.org/W3109771595",
+    "https://openalex.org/W3123273839",
+    "https://openalex.org/W4234406933",
+    "https://openalex.org/W4253911193",
+    "https://openalex.org/W4285719527"
+  ]
+}

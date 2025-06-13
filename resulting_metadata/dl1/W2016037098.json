@@ -1,0 +1,26 @@
+{
+  "id": "https://openalex.org/W2016037098",
+  "title": "Biodiversity and Ecological Redundancy",
+  "abstract": "Abstract: This paper addresses the problem of which biota to choose to best satisfy the conservation goals for a particular region in the face of inadequate resources, Biodiversity is taken to be the integration of biological variability across all scales, from the genetic, through species and ecosystems, to landscapes. Conserving biodiversity is a daunting task, and the paper asserts that focusing on species is not the best approach. The best way to minimize species loss is to maintain the integrity of ecosystem function. The important questions therefore concern the kinds of biodiversity that are significant to ecosystem functioning. To best focus our efforts we need to establish how much (or how little) redundancy there is in the biological composition of ecosystems. An approach is suggested, based on the use of functional groups of organisms defined according to ecosystem processes. Functional groups with little or no redundancy warrant priority conservation effort. Complementary species‐based approaches for maximizing the inclusion of biodiversity within a set of conservation areas are compared to the functional‐group approach.",
+  "authors": [
+    {
+      "name": "Brian Walker"
+    }
+  ],
+  "publication_year": 1992,
+  "cited_by_count": 1631,
+  "primary_topic": "Ecology and Vegetation Dynamics Studies",
+  "subfield_topic": "Nature and Landscape Conservation",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1496444136",
+    "https://openalex.org/W1968401869",
+    "https://openalex.org/W1997175389",
+    "https://openalex.org/W2049546703",
+    "https://openalex.org/W2082381475",
+    "https://openalex.org/W2108057700",
+    "https://openalex.org/W2152138353",
+    "https://openalex.org/W2166655850"
+  ]
+}

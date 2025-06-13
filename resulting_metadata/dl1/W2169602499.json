@@ -1,0 +1,38 @@
+{
+  "id": "https://openalex.org/W2169602499",
+  "title": "Managing fisheries to conserve the Antarctic marine ecosystem: practical implementation of the Convention on the Conservation of Antarctic Marine Living Resources (CCAMLR)",
+  "abstract": "We aim to identify the important steps in the evolution of the ecosystem approach to management under the Convention on the Conservation of Antarctic Marine Living Resources (CCAMLR). The first section provides the background to CCAMLR, including the formulation of the convention and its objectives, its operation, and the historical trends in fisheries. Later sections describe (i) the reasons why a precautionary approach to setting catch limits evolved, (ii) how the precautionary approach takes account of ecosystem objectives and provides for the orderly development of new fisheries, and (iii) how the use of ecosystem indicators in the setting of catch limits and for monitoring the effects of fishing is being evaluated. The final section describes the general framework being used to develop a feedback-management system that incorporates objectives, target species assessments and ecosystem assessments. The CCAMLR experience provides two important lessons. First, conservation objectives can only be achieved by implementing management measures, even when very little is known. Second, methods were found for achieving scientific consensus despite the uncertainties surrounding estimates of parameters and the behaviour of the system. CCAMLR is yet to face the real test in its ecosystem approach, the development of the krill fishery. Before this occurs, appropriate management procedures have to be developed to avoid localized effects on the ecosystem and to provide effective feedbacks on the effects of fishing through its monitoring programme.",
+  "authors": [
+    {
+      "name": "Andrew Constable"
+    }
+  ],
+  "publication_year": 2000,
+  "cited_by_count": 358,
+  "primary_topic": "Marine animal studies overview",
+  "subfield_topic": "Ecology",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1490799588",
+    "https://openalex.org/W1550211881",
+    "https://openalex.org/W158498580",
+    "https://openalex.org/W1623158995",
+    "https://openalex.org/W1846611218",
+    "https://openalex.org/W2064655089",
+    "https://openalex.org/W2081929594",
+    "https://openalex.org/W2088395296",
+    "https://openalex.org/W2098053290",
+    "https://openalex.org/W2114822560",
+    "https://openalex.org/W2121947862",
+    "https://openalex.org/W2141327403",
+    "https://openalex.org/W2182666148",
+    "https://openalex.org/W2230052140",
+    "https://openalex.org/W2314740540",
+    "https://openalex.org/W2324781773",
+    "https://openalex.org/W2328029385",
+    "https://openalex.org/W2410812541",
+    "https://openalex.org/W2991586607",
+    "https://openalex.org/W4244420493"
+  ]
+}

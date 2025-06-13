@@ -1,0 +1,56 @@
+{
+  "id": "https://openalex.org/W2152587113",
+  "title": "Linking saturation, stability and sustainability in food webs with observed equilibrium structure",
+  "abstract": "Stability of a dynamic equilibrium in a predator-prey system depends both on the type of functional response and on the point of equilibrium on the response curve. Saturation effects from Holling type II responses are known to destabilise prey populations, while a type III (sigmoid) response curve has been shown to provide stability at lower levels of saturation. These effects have also been shown in multi-trophic model systems. However, stability analyses of observed equilibria in real complex ecosystems have as yet not assumed non-linear functional responses. Here, we evaluate the implications of saturation in observed balanced material-flow structures, for system stability and sustainability. We first make the effects of the non-linear functional responses on the interaction strengths in a food web transparent by expressing the elements of Jacobian ‘community’ matrices for type II and III systems as simple functions of their linear (type I) counterparts. We then determine the stability of the systems and distinguish two critical saturation levels: (1) a level where the system is just as stable as a type I system and (2) a level above which the system cannot be stable unless it is subsidised, separating a stable materially sustainable regime from an unsustainable one. We explain the stabilising and destabilising effects in terms of the feedbacks in the systems. The results shed light on the robustness of observed patterns of interaction strengths in complex food webs and suggest the implausibility of saturation playing a significant role in the equilibrium dynamics of sustainable ecosystems.",
+  "authors": [
+    {
+      "name": "Anje‐Margriet Neutel"
+    },
+    {
+      "name": "Michael A. S. Thorne"
+    }
+  ],
+  "publication_year": 2015,
+  "cited_by_count": 11,
+  "primary_topic": "Mathematical and Theoretical Epidemiology and Ecology Models",
+  "subfield_topic": "Public Health, Environmental and Occupational Health",
+  "field_topic": "Medicine",
+  "domain_topic": "Health Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1966636533",
+    "https://openalex.org/W1969087343",
+    "https://openalex.org/W1972753341",
+    "https://openalex.org/W1978809795",
+    "https://openalex.org/W1980657096",
+    "https://openalex.org/W1983173496",
+    "https://openalex.org/W1990462121",
+    "https://openalex.org/W1992057706",
+    "https://openalex.org/W1997297480",
+    "https://openalex.org/W2000256297",
+    "https://openalex.org/W2001155312",
+    "https://openalex.org/W2004728046",
+    "https://openalex.org/W2006265485",
+    "https://openalex.org/W2020362213",
+    "https://openalex.org/W2025278182",
+    "https://openalex.org/W2027665073",
+    "https://openalex.org/W2032645635",
+    "https://openalex.org/W2046051802",
+    "https://openalex.org/W2054126322",
+    "https://openalex.org/W2055630785",
+    "https://openalex.org/W2060852353",
+    "https://openalex.org/W2061120905",
+    "https://openalex.org/W2062108814",
+    "https://openalex.org/W2093124572",
+    "https://openalex.org/W2097265416",
+    "https://openalex.org/W2122152127",
+    "https://openalex.org/W2131915744",
+    "https://openalex.org/W2134462999",
+    "https://openalex.org/W2142063041",
+    "https://openalex.org/W2169715400",
+    "https://openalex.org/W4230871231",
+    "https://openalex.org/W4248709400",
+    "https://openalex.org/W4297440205",
+    "https://openalex.org/W4299993032",
+    "https://openalex.org/W45035816"
+  ]
+}

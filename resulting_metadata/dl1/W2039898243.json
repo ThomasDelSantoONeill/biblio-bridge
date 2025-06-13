@@ -1,0 +1,72 @@
+{
+  "id": "https://openalex.org/W2039898243",
+  "title": "A quantitative analysis of temporal turnover in aquatic species assemblages across ecosystems",
+  "abstract": "Recent meta‐analyses have shown that beta diversity through space is jointly driven by species traits, geographical gradients, and ecosystem properties. Spatial variation is, however, only one aspect of beta diversity. The other component is variation in species assemblages through time, that is, temporal turnover. We examined the decrease of assemblage similarity in time in aquatic ecosystems in relation to several ecological, physical, and geographical factors using an extensive data set derived from the literature. The data set was first divided into intra‐annual and interannual studies depending on the temporal extent of the studies. Sampling duration was one the most significant variables affecting the degree of temporal turnover, and we found that turnover was faster in studies with shorter temporal extent. Our results further suggested that the rate of temporal turnover increased with increasing ecosystem size, thus contradicting the general species–time–area relationship. Temporal turnover also varied among the ecosystem types: lake assemblages showed faster turnover than stream or marine assemblages in the interannual data set. We found that temporal turnover exhibited large‐scale geographical variation, as there was a latitudinal gradient in turnover. Turnover was faster in the tropics in the intra‐annual data set, but the pattern was reversed in the interannual data set, where turnover was faster at high latitudes. Finally, we found that the degree of temporal turnover was related to organism characteristics, as larger organisms with active mobility showed slower temporal turnover than smaller organisms. Our results suggest that the degree of species turnover in time is jointly driven by several ecological, physical, and geographical factors in aquatic ecosystems and that the turnover is not uniform across taxonomic groups. Our findings have important consequences for understanding how different biotic assemblages track temporal changes in the environment and how resilient assemblages are toward such changes.",
+  "authors": [
+    {
+      "name": "Jenni J. Korhonen"
+    },
+    {
+      "name": "Janne Soininen"
+    },
+    {
+      "name": "Helmut Hillebrand"
+    }
+  ],
+  "publication_year": 2010,
+  "cited_by_count": 213,
+  "primary_topic": "Isotope Analysis in Ecology",
+  "subfield_topic": "Ecology",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1963601641",
+    "https://openalex.org/W1966605318",
+    "https://openalex.org/W1972934242",
+    "https://openalex.org/W1977255787",
+    "https://openalex.org/W1979923968",
+    "https://openalex.org/W1993883561",
+    "https://openalex.org/W2001423643",
+    "https://openalex.org/W2002258037",
+    "https://openalex.org/W2002488625",
+    "https://openalex.org/W2014444740",
+    "https://openalex.org/W2015823673",
+    "https://openalex.org/W2018204894",
+    "https://openalex.org/W2022730497",
+    "https://openalex.org/W2026434702",
+    "https://openalex.org/W2032517973",
+    "https://openalex.org/W2051963375",
+    "https://openalex.org/W2052197177",
+    "https://openalex.org/W2058385884",
+    "https://openalex.org/W2072065205",
+    "https://openalex.org/W2074129003",
+    "https://openalex.org/W2077959816",
+    "https://openalex.org/W2080268573",
+    "https://openalex.org/W2091395676",
+    "https://openalex.org/W2091459998",
+    "https://openalex.org/W2100391595",
+    "https://openalex.org/W2101272820",
+    "https://openalex.org/W2102064779",
+    "https://openalex.org/W2102767039",
+    "https://openalex.org/W2109367466",
+    "https://openalex.org/W2114795157",
+    "https://openalex.org/W2124400205",
+    "https://openalex.org/W2130497150",
+    "https://openalex.org/W2131356372",
+    "https://openalex.org/W2131412742",
+    "https://openalex.org/W2134564339",
+    "https://openalex.org/W2139159290",
+    "https://openalex.org/W2146025670",
+    "https://openalex.org/W2150637233",
+    "https://openalex.org/W2156291578",
+    "https://openalex.org/W2164435125",
+    "https://openalex.org/W2179127468",
+    "https://openalex.org/W2316787122",
+    "https://openalex.org/W2322595202",
+    "https://openalex.org/W2323422887",
+    "https://openalex.org/W4253820701",
+    "https://openalex.org/W4255210259",
+    "https://openalex.org/W4298167045",
+    "https://openalex.org/W4301477402"
+  ]
+}

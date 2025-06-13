@@ -1,0 +1,20 @@
+{
+  "id": "https://openalex.org/W4230507407",
+  "title": "Decisions with Multiple Objectives",
+  "abstract": "Many of the complex problems faced by decision makers involve multiple conflicting objectives. This book describes how a confused decision maker, who wishes to make a reasonable and responsible choice among alternatives, can systematically probe his true feelings in order to make those critically important, vexing trade-offs between incommensurable objectives. The theory is illustrated by many real concrete examples taken from a host of disciplinary settings. The standard approach in decision theory or decision analysis specifies a simplified single objective like monetary return to maximise. By generalising from the single objective case to the multiple objective case, this book considerably widens the range of applicability of decision analysis.",
+  "authors": [
+    {
+      "name": "Ralph L. Keeney"
+    },
+    {
+      "name": "Howard Raiffa"
+    }
+  ],
+  "publication_year": 1993,
+  "cited_by_count": 2649,
+  "primary_topic": "Complex Systems and Decision Making",
+  "subfield_topic": "Management Science and Operations Research",
+  "field_topic": "Decision Sciences",
+  "domain_topic": "Social Sciences",
+  "referenced_works": []
+}

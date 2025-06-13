@@ -1,0 +1,42 @@
+{
+  "id": "https://openalex.org/W2015710857",
+  "title": "Aggregate Fish Biomass and Yield on Georges Bank, 1960-87",
+  "abstract": "The Georges Bank ecosystem has undergone dramatic changes in biomass and species dominance under exploitation.Sharp declines in the biomass of both pelagic and demersal fish populations have occurred associated with rapid increases in fishing effort by distant water fleets.We corrected nominal effort series for changes in vessel size, gear type and country of origin in an attempt to provide a measure of the intensity of the perturbation resulting from large scale changes in exploitation patterns on Georges Bank.A fourfold increase was noted in standardized effort over the period 1960-72.Declines in catch-perstandard day fished, and relative biomass indices derived from research vessel surveys indicated marked decreases in all components of the system during the period 1960-76.Decreases in fishing effort were effected with the implementation of extended jurisdiction to 200 miles in 1977; however, several major stocks had collapsed by that time.Fundamental changes were noted in the production levels on Georges Bank during the period 1960-76.Declines in overall production can be attributed largely to the collapse of the herring population by 1976-77 under heavy exploitation.Recent increases in biomass of elasmobranchs and principal pelagic species (herring and mackerel) have resulted in further shifts in system structure.The biomass of piscivores is currently high and this shift may act synergistically with increasing exploitation rates to cause further declines in biomass of commercially desirable species.",
+  "authors": [
+    {
+      "name": "Ralph K. Mayo"
+    },
+    {
+      "name": "Michael J. Fogarty"
+    },
+    {
+      "name": "Fredric M. Serchuk"
+    }
+  ],
+  "publication_year": 1992,
+  "cited_by_count": 34,
+  "primary_topic": "Aquatic Ecosystems and Biodiversity",
+  "subfield_topic": "Ecology",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1975432172",
+    "https://openalex.org/W1985061820",
+    "https://openalex.org/W2011303397",
+    "https://openalex.org/W2012953049",
+    "https://openalex.org/W2015710857",
+    "https://openalex.org/W2027348692",
+    "https://openalex.org/W2038450616",
+    "https://openalex.org/W2042464037",
+    "https://openalex.org/W2139178010",
+    "https://openalex.org/W2182817873",
+    "https://openalex.org/W2270864342",
+    "https://openalex.org/W2327351551",
+    "https://openalex.org/W2330231679",
+    "https://openalex.org/W2784764082",
+    "https://openalex.org/W2796187961",
+    "https://openalex.org/W2994701491",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W588498316"
+  ]
+}

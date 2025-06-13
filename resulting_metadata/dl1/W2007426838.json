@@ -1,0 +1,38 @@
+{
+  "id": "https://openalex.org/W2007426838",
+  "title": "A formal model of theory choice in science",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "William A. Brock"
+    },
+    {
+      "name": "Steven N. Durlauf"
+    }
+  ],
+  "publication_year": 1999,
+  "cited_by_count": 174,
+  "primary_topic": "Economic Theory and Institutions",
+  "subfield_topic": "Economics and Econometrics",
+  "field_topic": "Economics, Econometrics and Finance",
+  "domain_topic": "Social Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1751175273",
+    "https://openalex.org/W1965753760",
+    "https://openalex.org/W1966384122",
+    "https://openalex.org/W1968360652",
+    "https://openalex.org/W1972645710",
+    "https://openalex.org/W2006688715",
+    "https://openalex.org/W2063380184",
+    "https://openalex.org/W2073984231",
+    "https://openalex.org/W2082560533",
+    "https://openalex.org/W2088158812",
+    "https://openalex.org/W2143539100",
+    "https://openalex.org/W237359993",
+    "https://openalex.org/W2798568231",
+    "https://openalex.org/W3021548937",
+    "https://openalex.org/W3122133271",
+    "https://openalex.org/W3124943037",
+    "https://openalex.org/W78171483"
+  ]
+}

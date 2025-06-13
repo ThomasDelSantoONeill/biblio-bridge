@@ -1,0 +1,44 @@
+{
+  "id": "https://openalex.org/W1980814141",
+  "title": "Empirical relationships to estimate asymptotic length, length at first maturity and length at maximum yield per recruit in fishes, with a simple method to evaluate length frequency data",
+  "abstract": "Empirical relationships are presented to estimate in fishes, asymptotic length (L∞) from maximum observed length (L max ), length at first maturity (L m ) from L ∞ , life span (t max ) from age at first maturity (t m ), and length at maximum possible yield per recruit (L opt ) from L ∞ and from L m , respectively. The age at L opt is found to be a good indicator of generation time in fishes. A spreadsheet containing the various equations can be downloaded from the Internet at http://www.fishbase.org/download as popdynJFB.zip. A simple method is presented for evaluation of length–frequency data in their relationship to L ∞ , L m and L opt . This can be used to evaluate the quality of the length–frequency sample and the status of the population. Three examples demonstrate the usefulness of this method. 2000 The Fisheries Society of the British Isles",
+  "authors": [
+    {
+      "name": "Rainer Froese"
+    },
+    {
+      "name": "C. Binohlan"
+    }
+  ],
+  "publication_year": 2000,
+  "cited_by_count": 634,
+  "primary_topic": "Fish Biology and Ecology Studies",
+  "subfield_topic": "Aquatic Science",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1503484966",
+    "https://openalex.org/W1966242211",
+    "https://openalex.org/W1986222587",
+    "https://openalex.org/W2010848622",
+    "https://openalex.org/W2016855479",
+    "https://openalex.org/W2035639438",
+    "https://openalex.org/W2047904830",
+    "https://openalex.org/W2059155923",
+    "https://openalex.org/W2059417648",
+    "https://openalex.org/W2094932233",
+    "https://openalex.org/W2111568238",
+    "https://openalex.org/W2140668970",
+    "https://openalex.org/W2145692726",
+    "https://openalex.org/W2148927599",
+    "https://openalex.org/W2149718280",
+    "https://openalex.org/W2342138725",
+    "https://openalex.org/W2558963761",
+    "https://openalex.org/W2600346614",
+    "https://openalex.org/W3168241125",
+    "https://openalex.org/W412246939",
+    "https://openalex.org/W4244789364",
+    "https://openalex.org/W4298217997",
+    "https://openalex.org/W616432747"
+  ]
+}

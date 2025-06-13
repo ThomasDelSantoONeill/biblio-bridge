@@ -1,0 +1,38 @@
+{
+  "id": "https://openalex.org/W2074243714",
+  "title": "Estimation of time-varying selectivity in stock assessments using state-space models",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Anders Nielsen"
+    },
+    {
+      "name": "Casper Willestofte Berg"
+    }
+  ],
+  "publication_year": 2014,
+  "cited_by_count": 218,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W156230102",
+    "https://openalex.org/W1576427343",
+    "https://openalex.org/W1976121415",
+    "https://openalex.org/W2008330101",
+    "https://openalex.org/W2009558139",
+    "https://openalex.org/W2010430464",
+    "https://openalex.org/W2011260969",
+    "https://openalex.org/W2016981947",
+    "https://openalex.org/W2030437201",
+    "https://openalex.org/W2065545475",
+    "https://openalex.org/W2093603746",
+    "https://openalex.org/W2168883058",
+    "https://openalex.org/W2175161454",
+    "https://openalex.org/W2185606213",
+    "https://openalex.org/W2736956077",
+    "https://openalex.org/W345080406",
+    "https://openalex.org/W4256545019"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "https://openalex.org/W2586886342",
+  "title": "A probability-based approach to setting annual catch levels.",
+  "abstract": "The requirement of setting annual catch limits to prevent overfishing has been added to the Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006 (MSRA). Because this requirement is new, a body of applied scientific practice for deriving annual catch limits and accompanying targets does not yet exist. This article demonstrates an approach to setting levels of catch that is intended to keep the probability of future overfishing at a preset low level. The proposed framework is based on stochastic projection with uncertainty in population dynamics. The framework extends common projection methodology by including uncertainty in the limit reference point and in management implementation, and by making explicit the risk of overfishing that managers consider acceptable. The approach is illustrated with application to gag (Mycteroperca microlepis), a grouper that inhabits the waters off the southeastern United States. Although devised to satisfy new legislation of the MSRA, the framework has potential application to any fishery where the management goal is to limit the risk of overfishing by controlling catch.",
+  "authors": [
+    {
+      "name": "Kyle W. Shertzer"
+    },
+    {
+      "name": "Michael H. Prager"
+    },
+    {
+      "name": "Erik H. Williams"
+    }
+  ],
+  "publication_year": 2008,
+  "cited_by_count": 45,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W2020893359",
+    "https://openalex.org/W2064539589",
+    "https://openalex.org/W2066819488",
+    "https://openalex.org/W2089035173",
+    "https://openalex.org/W2093523683",
+    "https://openalex.org/W2110212631",
+    "https://openalex.org/W2124398268",
+    "https://openalex.org/W2130870465",
+    "https://openalex.org/W2132312820",
+    "https://openalex.org/W2132380992",
+    "https://openalex.org/W2153960049",
+    "https://openalex.org/W2171105929",
+    "https://openalex.org/W2329804728"
+  ]
+}

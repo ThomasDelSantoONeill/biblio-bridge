@@ -1,0 +1,43 @@
+{
+  "id": "https://openalex.org/W2120610387",
+  "title": "A framework for risk analysis in fisheries decision-making",
+  "abstract": "Failures in fisheries management have been linked to our inability to embrace the inherent uncertainty of fisheries systems. Fisheries decisions should be made on the basis of integrated evaluations of strategy alternatives, where comparisons of comprehensive scenarios incorporate strategic biological and socio-economic objectives and constraints, and explicitly take account of system uncertainties and evaluated risk. This paper investigates the requirements for integrated decision-making for fisheries systems. It is argued that conceptual change is required, and that such change will form the basis for interdisciplinary studies in \"fisheries management science\". Founded on the principles of decision analysis developed within the field of operational research/management science, the fisheries management science approach provides the requisite methodologies for risk analysis and its components of risk assessment and risk management, and for improved decision support. An illustrative case study based on the herring fishery in NAFO divisions 4WX is used to demonstrate the proposed methodology.",
+  "authors": [
+    {
+      "name": "Daniel E. Lane"
+    }
+  ],
+  "publication_year": 1998,
+  "cited_by_count": 69,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1540680441",
+    "https://openalex.org/W1603462159",
+    "https://openalex.org/W1963991877",
+    "https://openalex.org/W1965602127",
+    "https://openalex.org/W1976209973",
+    "https://openalex.org/W2006154742",
+    "https://openalex.org/W2007654960",
+    "https://openalex.org/W2017933220",
+    "https://openalex.org/W2018001267",
+    "https://openalex.org/W2023110550",
+    "https://openalex.org/W2042464037",
+    "https://openalex.org/W2042796530",
+    "https://openalex.org/W2047970427",
+    "https://openalex.org/W2053983602",
+    "https://openalex.org/W2055862892",
+    "https://openalex.org/W2063513444",
+    "https://openalex.org/W2065942927",
+    "https://openalex.org/W2071700559",
+    "https://openalex.org/W2095986266",
+    "https://openalex.org/W2100904586",
+    "https://openalex.org/W2129090866",
+    "https://openalex.org/W2165306888",
+    "https://openalex.org/W2185921616",
+    "https://openalex.org/W2223575171",
+    "https://openalex.org/W565455913"
+  ]
+}

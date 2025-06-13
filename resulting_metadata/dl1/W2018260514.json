@@ -1,0 +1,48 @@
+{
+  "id": "https://openalex.org/W2018260514",
+  "title": "A terrestrial field experiment showing the impact of eliminating top predators on foliage damage",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "David A. Spiller"
+    },
+    {
+      "name": "Thomas W. Schoener"
+    }
+  ],
+  "publication_year": 1990,
+  "cited_by_count": 148,
+  "primary_topic": "Plant and animal studies",
+  "subfield_topic": "Ecology, Evolution, Behavior and Systematics",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W129831482",
+    "https://openalex.org/W1538865557",
+    "https://openalex.org/W1538886185",
+    "https://openalex.org/W164167242",
+    "https://openalex.org/W194046994",
+    "https://openalex.org/W1977117314",
+    "https://openalex.org/W1978370289",
+    "https://openalex.org/W1987852776",
+    "https://openalex.org/W1997356912",
+    "https://openalex.org/W1997741604",
+    "https://openalex.org/W2003292588",
+    "https://openalex.org/W2004827430",
+    "https://openalex.org/W2008019499",
+    "https://openalex.org/W2061541477",
+    "https://openalex.org/W2066723218",
+    "https://openalex.org/W2074119247",
+    "https://openalex.org/W2078154956",
+    "https://openalex.org/W2085067988",
+    "https://openalex.org/W2095136615",
+    "https://openalex.org/W2107864104",
+    "https://openalex.org/W2316030018",
+    "https://openalex.org/W2321013254",
+    "https://openalex.org/W2330090793",
+    "https://openalex.org/W2331941081",
+    "https://openalex.org/W4230871231",
+    "https://openalex.org/W4302785603",
+    "https://openalex.org/W573304730"
+  ]
+}

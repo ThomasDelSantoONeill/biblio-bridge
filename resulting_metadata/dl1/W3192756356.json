@@ -1,0 +1,173 @@
+{
+  "id": "https://openalex.org/W3192756356",
+  "title": "Spatial Ecology of Atlantic Halibut across the Northwest Atlantic: A Recovering Species in an Era of Climate Change",
+  "abstract": "Interactions between spatial dynamics and stock structure in marine fishes have largely focused on stocks in decline; stock structure is rarely re-visited for expanding species. Here, the spatial ecology of Atlantic halibut (Hippoglossus hippoglossus L.), managed as four stocks in the Northwest Atlantic, is reviewed. Halibut collapsed under high exploitation in the mid-19th century, but the Canadian fisheries value has increased seven-fold since the early 2000s. Atlantic halibut's thermal habitat has increased due to warming, possibly contributing to its expansion. Genomic evidence differentiates two populations in the four management units, whereas there is non-genetic spatial structure within each of the stock boundaries. There are different core juvenile areas and a diversity of spawning migration patterns influenced by timing, fish size, maturity state, and distance between summer-feeding and over-wintering habitats. From tagging studies, multiple estimates of median distance at recapture (⁓3-90 km) are much less than the spatial domain of each stock. Growth rates are faster in the warmer south, as predicted by growing degree day. The current perspective of Atlantic halibut spatial structure is that there are two distinct populations, and within each, there are subpopulations composed of multiple migratory contingents. The level of mixing on common spawning grounds both among and within subpopulations is only partly understood.",
+  "authors": [
+    {
+      "name": "Nancy L. Shackell"
+    },
+    {
+      "name": "Jonathan A. D. Fisher"
+    },
+    {
+      "name": "Cornelia E. den Heyer"
+    },
+    {
+      "name": "Daniel Hennen"
+    },
+    {
+      "name": "Andrew C. Seitz"
+    },
+    {
+      "name": "Arnault Le Bris"
+    },
+    {
+      "name": "Dominique Robert"
+    },
+    {
+      "name": "Michael Kersula"
+    },
+    {
+      "name": "Steven X. Cadrin"
+    },
+    {
+      "name": "Richard S. McBride"
+    },
+    {
+      "name": "Christopher McGuire"
+    },
+    {
+      "name": "Tony Kess"
+    },
+    {
+      "name": "Krista Tomaselli Ransier"
+    },
+    {
+      "name": "Chang Liu"
+    },
+    {
+      "name": "Andrew N. Czich"
+    },
+    {
+      "name": "Kenneth T. Frank"
+    }
+  ],
+  "publication_year": 2021,
+  "cited_by_count": 20,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1643377195",
+    "https://openalex.org/W1904700826",
+    "https://openalex.org/W1916336823",
+    "https://openalex.org/W1965667158",
+    "https://openalex.org/W1972144515",
+    "https://openalex.org/W1975805551",
+    "https://openalex.org/W1976264237",
+    "https://openalex.org/W1976427995",
+    "https://openalex.org/W1979457860",
+    "https://openalex.org/W1983597880",
+    "https://openalex.org/W1985004036",
+    "https://openalex.org/W1991089788",
+    "https://openalex.org/W1996243327",
+    "https://openalex.org/W1999425895",
+    "https://openalex.org/W2000515571",
+    "https://openalex.org/W2005539339",
+    "https://openalex.org/W2007511574",
+    "https://openalex.org/W2007791586",
+    "https://openalex.org/W2014660306",
+    "https://openalex.org/W2015310037",
+    "https://openalex.org/W2022641528",
+    "https://openalex.org/W2024597131",
+    "https://openalex.org/W2026719519",
+    "https://openalex.org/W2028308190",
+    "https://openalex.org/W2034379658",
+    "https://openalex.org/W2048337304",
+    "https://openalex.org/W2048923420",
+    "https://openalex.org/W2050297213",
+    "https://openalex.org/W2052903290",
+    "https://openalex.org/W2059522289",
+    "https://openalex.org/W2065202007",
+    "https://openalex.org/W2067719933",
+    "https://openalex.org/W2068243894",
+    "https://openalex.org/W2071071826",
+    "https://openalex.org/W2072234282",
+    "https://openalex.org/W2072990169",
+    "https://openalex.org/W2074572674",
+    "https://openalex.org/W2080771607",
+    "https://openalex.org/W2081421350",
+    "https://openalex.org/W2084224700",
+    "https://openalex.org/W2087029171",
+    "https://openalex.org/W2087997770",
+    "https://openalex.org/W2089521606",
+    "https://openalex.org/W2093619014",
+    "https://openalex.org/W2095755129",
+    "https://openalex.org/W2122925116",
+    "https://openalex.org/W2124783656",
+    "https://openalex.org/W2126646917",
+    "https://openalex.org/W2140842268",
+    "https://openalex.org/W2141416257",
+    "https://openalex.org/W2142602254",
+    "https://openalex.org/W2146538963",
+    "https://openalex.org/W2147167915",
+    "https://openalex.org/W2150210886",
+    "https://openalex.org/W2151520478",
+    "https://openalex.org/W2168909889",
+    "https://openalex.org/W2171265639",
+    "https://openalex.org/W2172086791",
+    "https://openalex.org/W2174139941",
+    "https://openalex.org/W2178685873",
+    "https://openalex.org/W2182858345",
+    "https://openalex.org/W2190171064",
+    "https://openalex.org/W2268767017",
+    "https://openalex.org/W2311691760",
+    "https://openalex.org/W2312239812",
+    "https://openalex.org/W2313940775",
+    "https://openalex.org/W2323353319",
+    "https://openalex.org/W2329169688",
+    "https://openalex.org/W2476880478",
+    "https://openalex.org/W2483389412",
+    "https://openalex.org/W2528048282",
+    "https://openalex.org/W2562504083",
+    "https://openalex.org/W2604039803",
+    "https://openalex.org/W2614036195",
+    "https://openalex.org/W2626050189",
+    "https://openalex.org/W2714087122",
+    "https://openalex.org/W2738174654",
+    "https://openalex.org/W2752408900",
+    "https://openalex.org/W2755737848",
+    "https://openalex.org/W2764955800",
+    "https://openalex.org/W2767033347",
+    "https://openalex.org/W2781836639",
+    "https://openalex.org/W2792959175",
+    "https://openalex.org/W2911602249",
+    "https://openalex.org/W2945297055",
+    "https://openalex.org/W2945522072",
+    "https://openalex.org/W2954308420",
+    "https://openalex.org/W2969689813",
+    "https://openalex.org/W2977898775",
+    "https://openalex.org/W2979545693",
+    "https://openalex.org/W2999186723",
+    "https://openalex.org/W3005815985",
+    "https://openalex.org/W3013621826",
+    "https://openalex.org/W3025528783",
+    "https://openalex.org/W3028476524",
+    "https://openalex.org/W3084193183",
+    "https://openalex.org/W3095529345",
+    "https://openalex.org/W3097711760",
+    "https://openalex.org/W3099920169",
+    "https://openalex.org/W3113939617",
+    "https://openalex.org/W3125643369",
+    "https://openalex.org/W3138333567",
+    "https://openalex.org/W3164242884",
+    "https://openalex.org/W3169158167",
+    "https://openalex.org/W341162933",
+    "https://openalex.org/W4230399996",
+    "https://openalex.org/W4239051542",
+    "https://openalex.org/W4245014271",
+    "https://openalex.org/W4249678773",
+    "https://openalex.org/W4251181991"
+  ]
+}

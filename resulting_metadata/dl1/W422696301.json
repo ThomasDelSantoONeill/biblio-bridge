@@ -1,0 +1,41 @@
+{
+  "id": "https://openalex.org/W422696301",
+  "title": null,
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Tim D. Smith"
+    }
+  ],
+  "publication_year": 1998,
+  "cited_by_count": 13,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1530848743",
+    "https://openalex.org/W1595526846",
+    "https://openalex.org/W1623158995",
+    "https://openalex.org/W1972584330",
+    "https://openalex.org/W1980450709",
+    "https://openalex.org/W1988516753",
+    "https://openalex.org/W1988937301",
+    "https://openalex.org/W1997879631",
+    "https://openalex.org/W1998552547",
+    "https://openalex.org/W2012923647",
+    "https://openalex.org/W2020846737",
+    "https://openalex.org/W2030737624",
+    "https://openalex.org/W2035058341",
+    "https://openalex.org/W2039949927",
+    "https://openalex.org/W2040763280",
+    "https://openalex.org/W2042486307",
+    "https://openalex.org/W2061300007",
+    "https://openalex.org/W2077858491",
+    "https://openalex.org/W2087765397",
+    "https://openalex.org/W2088395296",
+    "https://openalex.org/W2104175411",
+    "https://openalex.org/W2154348409",
+    "https://openalex.org/W615689223"
+  ]
+}

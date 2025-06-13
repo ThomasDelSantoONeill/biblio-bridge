@@ -1,0 +1,49 @@
+{
+  "id": "https://openalex.org/W4247939325",
+  "title": "Reconstructing trophic interactions as a tool for understanding and managing ecosystems: application to a shallow eutrophic lake",
+  "abstract": "Consequences of disturbance and human intervention on lake ecosystems are difficult to anticipate solely by intuition because of the complex interactions that characterize lake communities. Understanding how the structure of the interactions buffers or amplifies external impacts may have beneficial effects on lake management. In this paper, the food web of a moderately eutrophic lake (Lake Mosvatn, Norway) is reconstructed by using the effects of biomanipulation in combination with loop analysis, a qualitative algorithm. The outcome is a signed digraph that predicts changes in the level of the variables for input entering the system through any component. Model predictions explain the observed patterns of abundance, and this suggests that the graph is a plausible description of the main trophic interactions in Lake Mosvatn. As such, it is used as a predictive tool to discuss problems related to nutrient enrichment. When multiple causes are responsible for the observed effects, explaining their relative contribution to the net outcome is a difficult task. By discussing patterns of abundance observed in Lake Mosvatn as due to different inputs, this paper illustrates how qualitative predictions can help in this respect.",
+  "authors": [
+    {
+      "name": "Antonio Bodini"
+    }
+  ],
+  "publication_year": 2000,
+  "cited_by_count": 30,
+  "primary_topic": "Aquatic Ecosystems and Phytoplankton Dynamics",
+  "subfield_topic": "Environmental Chemistry",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1975816373",
+    "https://openalex.org/W1978370289",
+    "https://openalex.org/W1986322538",
+    "https://openalex.org/W1988201445",
+    "https://openalex.org/W1996878850",
+    "https://openalex.org/W2000256297",
+    "https://openalex.org/W2025793295",
+    "https://openalex.org/W2036540241",
+    "https://openalex.org/W2036602967",
+    "https://openalex.org/W2043802897",
+    "https://openalex.org/W2052184582",
+    "https://openalex.org/W2068349998",
+    "https://openalex.org/W2073735188",
+    "https://openalex.org/W2077071017",
+    "https://openalex.org/W2080162080",
+    "https://openalex.org/W2089344133",
+    "https://openalex.org/W2100640576",
+    "https://openalex.org/W2135052384",
+    "https://openalex.org/W2140426485",
+    "https://openalex.org/W2149049530",
+    "https://openalex.org/W2320359216",
+    "https://openalex.org/W2483786179",
+    "https://openalex.org/W4233238203",
+    "https://openalex.org/W4235802974",
+    "https://openalex.org/W4238708324",
+    "https://openalex.org/W4241238097",
+    "https://openalex.org/W4241362403",
+    "https://openalex.org/W4242593065",
+    "https://openalex.org/W4246564005",
+    "https://openalex.org/W4247769220",
+    "https://openalex.org/W4248201693"
+  ]
+}

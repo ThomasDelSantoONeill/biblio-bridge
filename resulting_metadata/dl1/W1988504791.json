@@ -1,0 +1,33 @@
+{
+  "id": "https://openalex.org/W1988504791",
+  "title": "Regulation of Keystone Predation by Small Changes in Ocean Temperature",
+  "abstract": "Key species interactions that are sensitive to temperature may act as leverage points through which small changes in climate could generate large changes in natural communities. Field and laboratory experiments showed that a slight decrease in water temperature dramatically reduced the effects of a keystone predator, the sea star Pisaster ochraceus , on its principal prey. Ongoing changes in patterns of cold water upwelling, associated with El Niño events and longer term geophysical changes, may thus have far-reaching impacts on the composition and diversity of these rocky intertidal communities.",
+  "authors": [
+    {
+      "name": "Eric Sanford"
+    }
+  ],
+  "publication_year": 1999,
+  "cited_by_count": 522,
+  "primary_topic": "Marine and coastal plant biology",
+  "subfield_topic": "Oceanography",
+  "field_topic": "Earth and Planetary Sciences",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1615699600",
+    "https://openalex.org/W1973675549",
+    "https://openalex.org/W1983430444",
+    "https://openalex.org/W2001600242",
+    "https://openalex.org/W2020100924",
+    "https://openalex.org/W2054126322",
+    "https://openalex.org/W2054637019",
+    "https://openalex.org/W2057650592",
+    "https://openalex.org/W2063150254",
+    "https://openalex.org/W2093075898",
+    "https://openalex.org/W2145411765",
+    "https://openalex.org/W2185752871",
+    "https://openalex.org/W2324892055",
+    "https://openalex.org/W2342988693",
+    "https://openalex.org/W3047497288"
+  ]
+}

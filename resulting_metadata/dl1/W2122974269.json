@@ -1,0 +1,75 @@
+{
+  "id": "https://openalex.org/W2122974269",
+  "title": "Evaluating targets and trade‐offs among fisheries and conservation objectives using a multispecies size spectrum model",
+  "abstract": "Summary Marine environmental management policies seek to ensure that fishing impacts on fished populations and other components of the ecosystem are sustainable, to simultaneously meet objectives for fisheries and conservation. For example, in Europe, targets for (i) biodiversity, (ii) food web structure as indicated by the proportion of large fish and (iii) fishing mortality rates for exploited species that lead to maximum sustainable yield, F MSY, are being proposed to support implementation of the Marine Strategy Framework Directive. Efforts to reconcile any trade‐offs among objectives need to be informed by knowledge on the consequences of alternate management actions. We develop, calibrate and apply a multispecies size spectrum model of the North Sea fish community to assess the response of populations and the community to fishing. The model predicts species' size distributions, abundance, productivity and interactions and therefore provides a single framework for evaluating trade‐offs between population status, community and food web structure, biodiversity and fisheries yield. We show that the model can replicate realistic fish population and community structure and past responses to fishing. We assess whether meeting management targets for exploited North Sea populations (fishing species at F MSY ) will be sufficient to meet proposed targets for biodiversity and food web indicators under two management scenarios (status quo and F MSY ). The recovery in biodiversity indicators is 60% greater when fishing populations at F MSY than if status quo (2010) fishing rates are maintained. The probability of achieving a food web target was 60% under both scenarios in spite of major community restructuring revealed by other indicators of community size structure. Synthesis and applications . Our model can be applied to evaluate indicator targets and trade‐offs among fisheries and conservation objectives. There is a significant probability that reductions in fishing mortality below F MSY would be needed in Europe if managers make a binding commitment to a proposed large fish indicator target, with concomitant reductions in fisheries yield.",
+  "authors": [
+    {
+      "name": "Julia L. Blanchard"
+    },
+    {
+      "name": "Ken H. Andersen"
+    },
+    {
+      "name": "Scott Finlay"
+    },
+    {
+      "name": "Niels T. Hintzen"
+    },
+    {
+      "name": "G.J. Piet"
+    },
+    {
+      "name": "Simon Jennings"
+    }
+  ],
+  "publication_year": 2014,
+  "cited_by_count": 168,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1599305990",
+    "https://openalex.org/W1968027662",
+    "https://openalex.org/W1972321748",
+    "https://openalex.org/W1988265452",
+    "https://openalex.org/W1995948075",
+    "https://openalex.org/W2000359198",
+    "https://openalex.org/W2003512581",
+    "https://openalex.org/W2016293090",
+    "https://openalex.org/W2018608827",
+    "https://openalex.org/W2032299358",
+    "https://openalex.org/W2032616735",
+    "https://openalex.org/W2055121584",
+    "https://openalex.org/W2057695258",
+    "https://openalex.org/W2058499388",
+    "https://openalex.org/W2063245241",
+    "https://openalex.org/W2086702626",
+    "https://openalex.org/W2099309663",
+    "https://openalex.org/W2102619577",
+    "https://openalex.org/W2116815273",
+    "https://openalex.org/W2117709578",
+    "https://openalex.org/W2118496962",
+    "https://openalex.org/W2119927194",
+    "https://openalex.org/W2120830385",
+    "https://openalex.org/W2127032204",
+    "https://openalex.org/W2128713868",
+    "https://openalex.org/W2128793109",
+    "https://openalex.org/W2128860815",
+    "https://openalex.org/W2129580034",
+    "https://openalex.org/W2131988450",
+    "https://openalex.org/W2135136334",
+    "https://openalex.org/W2136402371",
+    "https://openalex.org/W2139832281",
+    "https://openalex.org/W2140613131",
+    "https://openalex.org/W2153437555",
+    "https://openalex.org/W2154277394",
+    "https://openalex.org/W2155667586",
+    "https://openalex.org/W2156523992",
+    "https://openalex.org/W2162997053",
+    "https://openalex.org/W2284968834",
+    "https://openalex.org/W2607828866",
+    "https://openalex.org/W3144859586",
+    "https://openalex.org/W3206086938"
+  ]
+}

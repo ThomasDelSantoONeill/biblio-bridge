@@ -1,0 +1,76 @@
+{
+  "id": "https://openalex.org/W2136896529",
+  "title": "APPLYING ECOLOGICAL CRITERIA TO MARINE RESERVE DESIGN: A CASE STUDY FROM THE CALIFORNIA CHANNEL ISLANDS",
+  "abstract": "Abstract Using ecological criteria as a theoretical framework, we describe the steps involved in designing a network of marine reserves for conservation and fisheries management. Although we describe the case study of the Channel Islands, the approach to marine reserve design may be effective in other regions where traditional management alone does not sustain marine resources. A group of agencies, organizations, and individuals established clear goals for marine reserves in the Channel Islands, including conservation of ecosystem biodiversity, sustainable fisheries, economic viability, natural and cultural heritage, and education. Given the constraints of risk management, experimental design, monitoring, and enforcement, scientists recommended at least one, but no more than four, reserves in each biogeographic region. In general, the percentage of an area to be included in a reserve network depends on the goals. In the Channel Islands, after consideration of both conservation goals and the risk from human threats and natural catastrophes, scientists recommended reserving an area of 30–50% of all representative habitats in each biogeographic region. For most species of concern, except pinnipeds and seabirds, information about distributions, dispersal, and population growth was limited. As an alternative to species distribution information, suitable habitats for species of concern were used to locate potential reserve sites. We used a simulated annealing algorithm to identify potential reserve network scenarios that would represent all habitats within the smallest area possible. The analysis produced an array of potential reserve network scenarios that all met the established goals.",
+  "authors": [
+    {
+      "name": "Satie Airamé"
+    },
+    {
+      "name": "Jenifer E. Dugan"
+    },
+    {
+      "name": "Kevin D. Lafferty"
+    },
+    {
+      "name": "Heather M. Leslie"
+    },
+    {
+      "name": "Deborah McArdle"
+    },
+    {
+      "name": "Robert R. Warner"
+    }
+  ],
+  "publication_year": 2003,
+  "cited_by_count": 340,
+  "primary_topic": "Coral and Marine Ecosystems Studies",
+  "subfield_topic": "Ecology",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1018699527",
+    "https://openalex.org/W140484550",
+    "https://openalex.org/W1529948115",
+    "https://openalex.org/W1594844365",
+    "https://openalex.org/W161995205",
+    "https://openalex.org/W1945061634",
+    "https://openalex.org/W1964705702",
+    "https://openalex.org/W1979023009",
+    "https://openalex.org/W2003273412",
+    "https://openalex.org/W2012819751",
+    "https://openalex.org/W2028683987",
+    "https://openalex.org/W2032283552",
+    "https://openalex.org/W2046040950",
+    "https://openalex.org/W2051677033",
+    "https://openalex.org/W2055339881",
+    "https://openalex.org/W2064903206",
+    "https://openalex.org/W2074395147",
+    "https://openalex.org/W2077754149",
+    "https://openalex.org/W2103675362",
+    "https://openalex.org/W2114175695",
+    "https://openalex.org/W2131218719",
+    "https://openalex.org/W2131402166",
+    "https://openalex.org/W2135060845",
+    "https://openalex.org/W2145411765",
+    "https://openalex.org/W2146199767",
+    "https://openalex.org/W2155854438",
+    "https://openalex.org/W2236713904",
+    "https://openalex.org/W2261357808",
+    "https://openalex.org/W2312764337",
+    "https://openalex.org/W2340698615",
+    "https://openalex.org/W2361687337",
+    "https://openalex.org/W2469202582",
+    "https://openalex.org/W2473447852",
+    "https://openalex.org/W2504638210",
+    "https://openalex.org/W2524202079",
+    "https://openalex.org/W255082525",
+    "https://openalex.org/W2897161657",
+    "https://openalex.org/W4234312447",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W567680692",
+    "https://openalex.org/W578959441",
+    "https://openalex.org/W628579431",
+    "https://openalex.org/W655280645"
+  ]
+}

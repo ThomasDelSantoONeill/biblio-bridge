@@ -1,0 +1,38 @@
+{
+  "id": "https://openalex.org/W2016767879",
+  "title": "Geometric singular perturbation theory for ordinary differential equations",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Neil Fenichel"
+    }
+  ],
+  "publication_year": 1979,
+  "cited_by_count": 2233,
+  "primary_topic": "Differential Equations and Numerical Methods",
+  "subfield_topic": "Numerical Analysis",
+  "field_topic": "Mathematics",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1510240887",
+    "https://openalex.org/W1514801494",
+    "https://openalex.org/W1547590019",
+    "https://openalex.org/W1980434682",
+    "https://openalex.org/W1981479913",
+    "https://openalex.org/W1998959640",
+    "https://openalex.org/W2015857326",
+    "https://openalex.org/W2020779859",
+    "https://openalex.org/W2059625173",
+    "https://openalex.org/W2071347417",
+    "https://openalex.org/W2136003379",
+    "https://openalex.org/W2315795314",
+    "https://openalex.org/W2335757999",
+    "https://openalex.org/W2551377023",
+    "https://openalex.org/W3021722416",
+    "https://openalex.org/W4232625362",
+    "https://openalex.org/W4236897370",
+    "https://openalex.org/W4245184090",
+    "https://openalex.org/W4253175466",
+    "https://openalex.org/W4255200020"
+  ]
+}

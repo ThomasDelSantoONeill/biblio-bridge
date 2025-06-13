@@ -1,0 +1,17 @@
+{
+  "id": "https://openalex.org/W2091071311",
+  "title": "Current and future trends in fisheries stock assessment and management",
+  "abstract": "There are currently three dominant approaches to fisheries stock assessment: analysis of catch-at-age data; simple models of biomass dynamics (often called surplus production models) that rely only on catch and some index of abundance; and analysis of length frequency data. A key characteristic of all these methods is that they rely primarily on one type of data and ignore most of what is known about the biology of the species in question and what has been learned from fisheries elsewhere. Other information is sometimes included subjectively after the stock assessment is complete. The first major trend in assessment methods is developing ways of incorporating all that is known about the biology of a species into a single unified assessment procedure. The second major development is in methods of incorporating uncertainty in stock assessment, using statistical decision theory. At present few agencies have formal methods for treating the uncertainty inherent in stock assessment, and therefore uncertainty is often ignored. A number of trends in fisheries management are reviewed, including adoption of formal harvest strategies, recognition that fisheries management is a matter of decision-making and risk-taking, and the use of Monte-Carlo evaluation of fisheries management options. Future trends in stock assessment and management will likely include more attention to the behaviour of fishermen in response to regulations, more involvement of user-groups in decision-making, much more allocation of property rights, including complete privatization of some fisheries, and demand for evaluation of cost effectiveness of research and management activities. Threats to commercial fisheries as now known are discussed, including growing allocation to recreational and aboriginal users, environmentalists and the impact of aquaculture.",
+  "authors": [
+    {
+      "name": "Ray Hilborn"
+    }
+  ],
+  "publication_year": 1992,
+  "cited_by_count": 60,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": []
+}

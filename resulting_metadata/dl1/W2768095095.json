@@ -1,0 +1,132 @@
+{
+  "id": "https://openalex.org/W2768095095",
+  "title": "Cooperation and the evolution of hunter-gatherer storytelling",
+  "abstract": "Storytelling is a human universal. From gathering around the camp-fire telling tales of ancestors to watching the latest television box-set, humans are inveterate producers and consumers of stories. Despite its ubiquity, little attention has been given to understanding the function and evolution of storytelling. Here we explore the impact of storytelling on hunter-gatherer cooperative behaviour and the individual-level fitness benefits to being a skilled storyteller. Stories told by the Agta, a Filipino hunter-gatherer population, convey messages relevant to coordinating behaviour in a foraging ecology, such as cooperation, sex equality and egalitarianism. These themes are present in narratives from other foraging societies. We also show that the presence of good storytellers is associated with increased cooperation. In return, skilled storytellers are preferred social partners and have greater reproductive success, providing a pathway by which group-beneficial behaviours, such as storytelling, can evolve via individual-level selection. We conclude that one of the adaptive functions of storytelling among hunter gatherers may be to organise cooperation.",
+  "authors": [
+    {
+      "name": "Daniel Major‐Smith"
+    },
+    {
+      "name": "Philip Schlaepfer"
+    },
+    {
+      "name": "Katie Major-Smith"
+    },
+    {
+      "name": "Mark Dyble"
+    },
+    {
+      "name": "Abigail E. Page"
+    },
+    {
+      "name": "James Thompson"
+    },
+    {
+      "name": "Nikhil Chaudhary"
+    },
+    {
+      "name": "Gül Deniz Salalι"
+    },
+    {
+      "name": "Ruth Mace"
+    },
+    {
+      "name": "Leonora H. Astete"
+    },
+    {
+      "name": "Marilyn Ngales"
+    },
+    {
+      "name": "Lucio Vinicius"
+    },
+    {
+      "name": "Andrea Bamberg Migliano"
+    }
+  ],
+  "publication_year": 2017,
+  "cited_by_count": 317,
+  "primary_topic": "Evolutionary Game Theory and Cooperation",
+  "subfield_topic": "Sociology and Political Science",
+  "field_topic": "Social Sciences",
+  "domain_topic": "Social Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1491334090",
+    "https://openalex.org/W1496457576",
+    "https://openalex.org/W1498902283",
+    "https://openalex.org/W1528597864",
+    "https://openalex.org/W1597971200",
+    "https://openalex.org/W1604299710",
+    "https://openalex.org/W1606649754",
+    "https://openalex.org/W1636189349",
+    "https://openalex.org/W1713503745",
+    "https://openalex.org/W1884477277",
+    "https://openalex.org/W1966344422",
+    "https://openalex.org/W1967403042",
+    "https://openalex.org/W1975028322",
+    "https://openalex.org/W1978136073",
+    "https://openalex.org/W2006927477",
+    "https://openalex.org/W2009503271",
+    "https://openalex.org/W2011644829",
+    "https://openalex.org/W2017421713",
+    "https://openalex.org/W2028605443",
+    "https://openalex.org/W2030235211",
+    "https://openalex.org/W2032670230",
+    "https://openalex.org/W2035426384",
+    "https://openalex.org/W2035455310",
+    "https://openalex.org/W2036951652",
+    "https://openalex.org/W2043009635",
+    "https://openalex.org/W2046307793",
+    "https://openalex.org/W2056493313",
+    "https://openalex.org/W2063792498",
+    "https://openalex.org/W2070706581",
+    "https://openalex.org/W2075240471",
+    "https://openalex.org/W2080820689",
+    "https://openalex.org/W2087549015",
+    "https://openalex.org/W2105908933",
+    "https://openalex.org/W2106713015",
+    "https://openalex.org/W2110313102",
+    "https://openalex.org/W2111122711",
+    "https://openalex.org/W2111232745",
+    "https://openalex.org/W2119382550",
+    "https://openalex.org/W2122200712",
+    "https://openalex.org/W2122226023",
+    "https://openalex.org/W2124337033",
+    "https://openalex.org/W2135291602",
+    "https://openalex.org/W2136192424",
+    "https://openalex.org/W2140665118",
+    "https://openalex.org/W2143868963",
+    "https://openalex.org/W2146569853",
+    "https://openalex.org/W2147279990",
+    "https://openalex.org/W2154715890",
+    "https://openalex.org/W2159420548",
+    "https://openalex.org/W2159585297",
+    "https://openalex.org/W2163886718",
+    "https://openalex.org/W2167030552",
+    "https://openalex.org/W2167062553",
+    "https://openalex.org/W2187420062",
+    "https://openalex.org/W2226116768",
+    "https://openalex.org/W2236773329",
+    "https://openalex.org/W2270769484",
+    "https://openalex.org/W2283078002",
+    "https://openalex.org/W2334019669",
+    "https://openalex.org/W2335457836",
+    "https://openalex.org/W2339240816",
+    "https://openalex.org/W2346149270",
+    "https://openalex.org/W2468387353",
+    "https://openalex.org/W2500822719",
+    "https://openalex.org/W2522149191",
+    "https://openalex.org/W2618503787",
+    "https://openalex.org/W2919675873",
+    "https://openalex.org/W3003567406",
+    "https://openalex.org/W3142984989",
+    "https://openalex.org/W4206106017",
+    "https://openalex.org/W4213435783",
+    "https://openalex.org/W4213449084",
+    "https://openalex.org/W4237542790",
+    "https://openalex.org/W4249348015",
+    "https://openalex.org/W4249929982",
+    "https://openalex.org/W46539433",
+    "https://openalex.org/W629996406",
+    "https://openalex.org/W644551759"
+  ]
+}

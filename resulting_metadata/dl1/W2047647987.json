@@ -1,0 +1,34 @@
+{
+  "id": "https://openalex.org/W2047647987",
+  "title": "Characteristic return times for harvested population models with time lag",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Fred Brauer"
+    }
+  ],
+  "publication_year": 1979,
+  "cited_by_count": 17,
+  "primary_topic": "Mathematical and Theoretical Epidemiology and Ecology Models",
+  "subfield_topic": "Public Health, Environmental and Occupational Health",
+  "field_topic": "Medicine",
+  "domain_topic": "Health Sciences",
+  "referenced_works": [
+    "https://openalex.org/W11186904",
+    "https://openalex.org/W1999784292",
+    "https://openalex.org/W2010818373",
+    "https://openalex.org/W2014172170",
+    "https://openalex.org/W2025252830",
+    "https://openalex.org/W2029504568",
+    "https://openalex.org/W2057805880",
+    "https://openalex.org/W2062532291",
+    "https://openalex.org/W2072765534",
+    "https://openalex.org/W2081432959",
+    "https://openalex.org/W2133817570",
+    "https://openalex.org/W2239112467",
+    "https://openalex.org/W2315404609",
+    "https://openalex.org/W2318342481",
+    "https://openalex.org/W4250382023",
+    "https://openalex.org/W4301046466"
+  ]
+}

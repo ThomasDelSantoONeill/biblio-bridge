@@ -1,0 +1,46 @@
+{
+  "id": "https://openalex.org/W2029992452",
+  "title": "A stochastic Pella Tomlinson model and its maximum sustainable yield",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Charles Bordet"
+    },
+    {
+      "name": "Louis‐Paul Rivest"
+    }
+  ],
+  "publication_year": 2014,
+  "cited_by_count": 16,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W119366826",
+    "https://openalex.org/W1599127549",
+    "https://openalex.org/W1719259211",
+    "https://openalex.org/W1967439750",
+    "https://openalex.org/W1969303642",
+    "https://openalex.org/W1972064083",
+    "https://openalex.org/W1982802844",
+    "https://openalex.org/W2011292626",
+    "https://openalex.org/W2026320658",
+    "https://openalex.org/W2026672198",
+    "https://openalex.org/W2036759233",
+    "https://openalex.org/W2046456873",
+    "https://openalex.org/W204940627",
+    "https://openalex.org/W2062916061",
+    "https://openalex.org/W2073008079",
+    "https://openalex.org/W2074726450",
+    "https://openalex.org/W2133006691",
+    "https://openalex.org/W2157445959",
+    "https://openalex.org/W2170201775",
+    "https://openalex.org/W2766610273",
+    "https://openalex.org/W3121190225",
+    "https://openalex.org/W3150844288",
+    "https://openalex.org/W4237956118",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W592576399"
+  ]
+}

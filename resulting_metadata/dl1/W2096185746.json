@@ -1,0 +1,36 @@
+{
+  "id": "https://openalex.org/W2096185746",
+  "title": "A widespread decrease in productivity of sockeye salmon (<i>Oncorhynchus nerka</i>) populations in western North America",
+  "abstract": "We used data on 64 stocks of sockeye salmon ( Oncorhynchus nerka ) from British Columbia (B.C.), Washington, and Alaska to determine whether recent decreases in abundance and productivity observed for Fraser River, B.C., sockeye have occurred more widely. We found that decreasing time trends in productivity have occurred across a large geographic area ranging from Washington, B.C., southeast Alaska, and up through the Yakutat peninsula, Alaska, but not in central and western Alaska. Furthermore, a pattern of predominantly shared trends across southern stocks and opposite trends between them and stocks from western Alaska was present in the past (1950–1985), but correlations have intensified since then. The spatial extent of declining productivity of sockeye salmon has important implications for management as well as research into potential causes of the declines. Further research should focus on mechanisms that operate at large, multiregional spatial scales, and (or) in marine areas where numerous correlated sockeye stocks overlap.",
+  "authors": [
+    {
+      "name": "Randall M. Peterman"
+    },
+    {
+      "name": "Brigitte Dorner"
+    }
+  ],
+  "publication_year": 2012,
+  "cited_by_count": 126,
+  "primary_topic": "Fish Ecology and Management Studies",
+  "subfield_topic": "Nature and Landscape Conservation",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W153131281",
+    "https://openalex.org/W1568287992",
+    "https://openalex.org/W1964846414",
+    "https://openalex.org/W1980279229",
+    "https://openalex.org/W1995948408",
+    "https://openalex.org/W1999748030",
+    "https://openalex.org/W2018585498",
+    "https://openalex.org/W2077959816",
+    "https://openalex.org/W2089452263",
+    "https://openalex.org/W2093401535",
+    "https://openalex.org/W2126455177",
+    "https://openalex.org/W2162574092",
+    "https://openalex.org/W2165424293",
+    "https://openalex.org/W2571446175",
+    "https://openalex.org/W4307492541"
+  ]
+}

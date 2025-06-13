@@ -1,0 +1,182 @@
+{
+  "id": "https://openalex.org/W2581010949",
+  "title": "Inclusion of ecological, economic, social, and institutional considerations when setting targets and limits for multispecies fisheries",
+  "abstract": "Targets and limits for long-term management are used in fisheries advice to operationalize the way management reflects societal priorities on ecological, economic, social and institutional aspects. This study reflects on the available published literature as well as new research presented at the international ICES/Myfish symposium on targets and limits for long term fisheries management. We examine the inclusion of ecological, economic, social and institutional objectives in fisheries management, with the aim of progressing towards including all four objectives when setting management targets or limits, or both, for multispecies fisheries. The topics covered include ecological, economic, social and governance objectives in fisheries management, consistent approaches to management, uncertainty and variability, and fisheries governance. We end by identifying ten ways to more effectively include multiple objectives in setting targets and limits in ecosystem based fisheries management.",
+  "authors": [
+    {
+      "name": "Anna Rindorf"
+    },
+    {
+      "name": "Catherine M. Dichmont"
+    },
+    {
+      "name": "James T. Thorson"
+    },
+    {
+      "name": "Anthony Charles"
+    },
+    {
+      "name": "Lotte Worsøe Clausen"
+    },
+    {
+      "name": "Poul Degnbol"
+    },
+    {
+      "name": "Dorleta García"
+    },
+    {
+      "name": "Niels T. Hintzen"
+    },
+    {
+      "name": "Alexander Kempf"
+    },
+    {
+      "name": "Phillip S. Levin"
+    },
+    {
+      "name": "Pamela M. Mace"
+    },
+    {
+      "name": "Christos D. Maravelias"
+    },
+    {
+      "name": "Cóilín Minto"
+    },
+    {
+      "name": "John Mumford"
+    },
+    {
+      "name": "Sean Pascoe"
+    },
+    {
+      "name": "Raúl Prellezo"
+    },
+    {
+      "name": "André E. Punt"
+    },
+    {
+      "name": "David G. Reid"
+    },
+    {
+      "name": "Christine Röckmann"
+    },
+    {
+      "name": "Robert L. Stephenson"
+    },
+    {
+      "name": "Olivier Thébaud"
+    },
+    {
+      "name": "George Tserpes"
+    },
+    {
+      "name": "R. Voss"
+    }
+  ],
+  "publication_year": 2016,
+  "cited_by_count": 44,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1005632022",
+    "https://openalex.org/W1492835558",
+    "https://openalex.org/W1513070618",
+    "https://openalex.org/W1516231616",
+    "https://openalex.org/W1532595426",
+    "https://openalex.org/W1578453044",
+    "https://openalex.org/W1599127549",
+    "https://openalex.org/W1804013972",
+    "https://openalex.org/W1918542285",
+    "https://openalex.org/W1960744456",
+    "https://openalex.org/W1966041580",
+    "https://openalex.org/W1983913197",
+    "https://openalex.org/W1995732114",
+    "https://openalex.org/W2008386759",
+    "https://openalex.org/W2011998979",
+    "https://openalex.org/W2014665918",
+    "https://openalex.org/W2015468231",
+    "https://openalex.org/W2017602078",
+    "https://openalex.org/W2020581422",
+    "https://openalex.org/W2021021890",
+    "https://openalex.org/W2024403270",
+    "https://openalex.org/W2024635502",
+    "https://openalex.org/W2027740187",
+    "https://openalex.org/W2028717723",
+    "https://openalex.org/W2028787031",
+    "https://openalex.org/W2036146985",
+    "https://openalex.org/W2039631047",
+    "https://openalex.org/W2052903290",
+    "https://openalex.org/W2054172540",
+    "https://openalex.org/W2055402323",
+    "https://openalex.org/W2058436442",
+    "https://openalex.org/W2063466669",
+    "https://openalex.org/W2066819488",
+    "https://openalex.org/W2070579968",
+    "https://openalex.org/W2071419478",
+    "https://openalex.org/W2074243714",
+    "https://openalex.org/W207562031",
+    "https://openalex.org/W2077092969",
+    "https://openalex.org/W2082909414",
+    "https://openalex.org/W2085346877",
+    "https://openalex.org/W2093936898",
+    "https://openalex.org/W2095057751",
+    "https://openalex.org/W2095192200",
+    "https://openalex.org/W2097059940",
+    "https://openalex.org/W2103053511",
+    "https://openalex.org/W2106901314",
+    "https://openalex.org/W2112910299",
+    "https://openalex.org/W2119726237",
+    "https://openalex.org/W2121416505",
+    "https://openalex.org/W2124319379",
+    "https://openalex.org/W2125412860",
+    "https://openalex.org/W2126475261",
+    "https://openalex.org/W2131537725",
+    "https://openalex.org/W2134764708",
+    "https://openalex.org/W2137644058",
+    "https://openalex.org/W2144964858",
+    "https://openalex.org/W2145378599",
+    "https://openalex.org/W2147505534",
+    "https://openalex.org/W2150226967",
+    "https://openalex.org/W2150733207",
+    "https://openalex.org/W2153277552",
+    "https://openalex.org/W2161251836",
+    "https://openalex.org/W2166326044",
+    "https://openalex.org/W2166987133",
+    "https://openalex.org/W2168909889",
+    "https://openalex.org/W2172793776",
+    "https://openalex.org/W218653453",
+    "https://openalex.org/W2219638726",
+    "https://openalex.org/W2278353323",
+    "https://openalex.org/W2291503976",
+    "https://openalex.org/W2302662009",
+    "https://openalex.org/W2319483496",
+    "https://openalex.org/W2320162387",
+    "https://openalex.org/W2322357308",
+    "https://openalex.org/W2335332931",
+    "https://openalex.org/W2344012003",
+    "https://openalex.org/W2363261994",
+    "https://openalex.org/W2397301053",
+    "https://openalex.org/W2494209169",
+    "https://openalex.org/W2503231040",
+    "https://openalex.org/W2511850208",
+    "https://openalex.org/W2520138882",
+    "https://openalex.org/W2525593772",
+    "https://openalex.org/W2531859908",
+    "https://openalex.org/W2533897192",
+    "https://openalex.org/W2564003210",
+    "https://openalex.org/W2586543162",
+    "https://openalex.org/W2737076301",
+    "https://openalex.org/W2887310380",
+    "https://openalex.org/W2906122706",
+    "https://openalex.org/W2977334801",
+    "https://openalex.org/W308661437",
+    "https://openalex.org/W382509713",
+    "https://openalex.org/W4210260625",
+    "https://openalex.org/W4247155106",
+    "https://openalex.org/W4252115095",
+    "https://openalex.org/W4253067540",
+    "https://openalex.org/W929362747"
+  ]
+}

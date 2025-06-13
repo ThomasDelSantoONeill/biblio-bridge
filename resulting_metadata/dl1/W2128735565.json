@@ -1,0 +1,128 @@
+{
+  "id": "https://openalex.org/W2128735565",
+  "title": "Can simple be useful and reliable? Using ecological indicators to represent and compare the states of marine ecosystems",
+  "abstract": "Abstract Shin, Y-J., Bundy, A., Shannon, L. J., Simier, M., Coll, M., Fulton, E. A., Link, J. S., Jouffre, D., Ojaveer, H., Mackinson, S., Heymans, J. J., and Raid, T. 2010. Can simple be useful and reliable? Using ecological indicators to represent and compare the states of marine ecosystems. – ICES Journal of Marine Science, 67: 717–731. Within the IndiSeas WG, the evaluation of exploited marine ecosystems has several steps, from simple binary categorization of ecosystems to a more-complex attempt to rank them and to evaluate their status using decision-tree analyses. With the intention of communicating scientific knowledge to the public and stakeholders, focus is on evaluating and comparing the status of exploited marine ecosystems using a set of six ecological indicators and a simple and transparent graphic representation of ecosystem state (pie charts). A question that arose was whether it was acceptable to compare different types of marine ecosystems using a generic set of indicators. To this end, an attempt is made to provide reference levels to which ecosystems can be objectively compared. Unacceptable thresholds for each indicator are determined based on ecological expertise derived from a questionnaire distributed to a group of scientific experts. Analysis of the questionnaires revealed no significant difference in the thresholds provided for different ecosystem types, suggesting that it was reasonable to compare states directly across different types of ecosystem using the set of indicators selected.",
+  "authors": [
+    {
+      "name": "Yunne‐Jai Shin"
+    },
+    {
+      "name": "Alida Bundy"
+    },
+    {
+      "name": "Lynne J. Shannon"
+    },
+    {
+      "name": "Monique Simier"
+    },
+    {
+      "name": "Marta Coll"
+    },
+    {
+      "name": "Elizabeth A. Fulton"
+    },
+    {
+      "name": "Jason S. Link"
+    },
+    {
+      "name": "Didier Jouffre"
+    },
+    {
+      "name": "Henn Ojaveer"
+    },
+    {
+      "name": "Steven Mackinson"
+    },
+    {
+      "name": "Johanna J. Heymans"
+    },
+    {
+      "name": "Tiit Raid"
+    }
+  ],
+  "publication_year": 2010,
+  "cited_by_count": 117,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1492835558",
+    "https://openalex.org/W1506930440",
+    "https://openalex.org/W1605138272",
+    "https://openalex.org/W191104000",
+    "https://openalex.org/W1968233295",
+    "https://openalex.org/W1968276226",
+    "https://openalex.org/W1974127981",
+    "https://openalex.org/W1978229288",
+    "https://openalex.org/W1980620714",
+    "https://openalex.org/W1995200931",
+    "https://openalex.org/W1998824587",
+    "https://openalex.org/W2002744460",
+    "https://openalex.org/W2004037061",
+    "https://openalex.org/W2011491722",
+    "https://openalex.org/W2021810699",
+    "https://openalex.org/W2029965903",
+    "https://openalex.org/W2031291717",
+    "https://openalex.org/W2033973361",
+    "https://openalex.org/W2035481466",
+    "https://openalex.org/W2047755612",
+    "https://openalex.org/W2050375918",
+    "https://openalex.org/W2055992352",
+    "https://openalex.org/W2058556376",
+    "https://openalex.org/W2066259947",
+    "https://openalex.org/W2066364093",
+    "https://openalex.org/W2069165134",
+    "https://openalex.org/W2070334858",
+    "https://openalex.org/W207052676",
+    "https://openalex.org/W2073322632",
+    "https://openalex.org/W2075272435",
+    "https://openalex.org/W2090603305",
+    "https://openalex.org/W2090635240",
+    "https://openalex.org/W2098876115",
+    "https://openalex.org/W2099421102",
+    "https://openalex.org/W2100890885",
+    "https://openalex.org/W2101547575",
+    "https://openalex.org/W2102709829",
+    "https://openalex.org/W2108685229",
+    "https://openalex.org/W2109430507",
+    "https://openalex.org/W2111830993",
+    "https://openalex.org/W2118496962",
+    "https://openalex.org/W2119070620",
+    "https://openalex.org/W2120830385",
+    "https://openalex.org/W2122474628",
+    "https://openalex.org/W2123921038",
+    "https://openalex.org/W2127032204",
+    "https://openalex.org/W2132644644",
+    "https://openalex.org/W2133536099",
+    "https://openalex.org/W2136189534",
+    "https://openalex.org/W2137345678",
+    "https://openalex.org/W2137523123",
+    "https://openalex.org/W2139556168",
+    "https://openalex.org/W2144872997",
+    "https://openalex.org/W2149876375",
+    "https://openalex.org/W2153437555",
+    "https://openalex.org/W2156523992",
+    "https://openalex.org/W2158854239",
+    "https://openalex.org/W2160436099",
+    "https://openalex.org/W2162290603",
+    "https://openalex.org/W2163793450",
+    "https://openalex.org/W2168792970",
+    "https://openalex.org/W2170532735",
+    "https://openalex.org/W2170759554",
+    "https://openalex.org/W2171055290",
+    "https://openalex.org/W2182311253",
+    "https://openalex.org/W2247068693",
+    "https://openalex.org/W2603447519",
+    "https://openalex.org/W278288665",
+    "https://openalex.org/W2796011417",
+    "https://openalex.org/W2796233506",
+    "https://openalex.org/W289270803",
+    "https://openalex.org/W2912615433",
+    "https://openalex.org/W3010610346",
+    "https://openalex.org/W4211175369",
+    "https://openalex.org/W4252602300",
+    "https://openalex.org/W4298864234",
+    "https://openalex.org/W773734042"
+  ]
+}

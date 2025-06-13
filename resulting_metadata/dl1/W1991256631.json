@@ -1,0 +1,40 @@
+{
+  "id": "https://openalex.org/W1991256631",
+  "title": "Increasing model efficiency by dynamically changing model representations",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Randall Gray"
+    },
+    {
+      "name": "Simon Wotherspoon"
+    }
+  ],
+  "publication_year": 2011,
+  "cited_by_count": 13,
+  "primary_topic": "Marine and coastal ecosystems",
+  "subfield_topic": "Oceanography",
+  "field_topic": "Earth and Planetary Sciences",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1483113211",
+    "https://openalex.org/W164087953",
+    "https://openalex.org/W1966532532",
+    "https://openalex.org/W1978035236",
+    "https://openalex.org/W2015377341",
+    "https://openalex.org/W2016867299",
+    "https://openalex.org/W2022129204",
+    "https://openalex.org/W2035644560",
+    "https://openalex.org/W2041334887",
+    "https://openalex.org/W2071150319",
+    "https://openalex.org/W2077106577",
+    "https://openalex.org/W2077428003",
+    "https://openalex.org/W2091884289",
+    "https://openalex.org/W2122054996",
+    "https://openalex.org/W2127032204",
+    "https://openalex.org/W2145408484",
+    "https://openalex.org/W2152100187",
+    "https://openalex.org/W2152962869",
+    "https://openalex.org/W4205193750"
+  ]
+}

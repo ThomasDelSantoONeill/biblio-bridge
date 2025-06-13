@@ -1,0 +1,40 @@
+{
+  "id": "https://openalex.org/W1988592479",
+  "title": "Regulation of Structure in Complex Systems: Experimental Temporary Pond Communities",
+  "abstract": "Interactions among competition, predation, and disturbance in determining the abundances of four species of anurans were studied in a factoral experiment using 36 replicated experimental ponds. Hatchlings of the four species (Rana utricularia, Scaphiopus holbrooki, Bufo americanus, and Hyla chrysoscelis) were introduced at the same relative abundances at a low or high initial density. Competition determined survival, body size at metamorphosis, and length of larval period in high—density communities, which were food—limited. The predatory salamander Notophthalmus viridescens did not alter either the total number of metamorphs or their combined biomass in the high—density communities, but the relative abundance of metamorphs was shifted as Scaphiopus holbrooki, the competitive dominant, was selectively eaten. In low—density communities, predation decreased survival and biomass production of tadpoles, often to zero, in all species. For each of the four combinations of tadpole density and presence or absence of predators, ponds were drained at three rates to simulate different drying regimes. Competition slowed growth and thus increased the risk of desiccation in high—density populations in drying ponds. Predation ameliorated the effects of competition, allowing survivors to grow rapidly enough to metamorphose before ponds dried. Survival of tadpoles to metamorphosis, body size at metamorphosis, and the timing of metamorphosis were determined in a complex way by interactions among all of the treatment effects and the life history characteristics of the four species studied. Scaphiopus was the species least sensitive to tadpole density and was the competitive dominant in ponds without newts. It has a rapid growth rate and metamorphosed soon enough to escape desiccation. It suffered the greatest risk of predation and was eliminated from even some of the high—density communities. Rana was most successful in low—density communities without predators. No Rana survived in rapidly drying (50—d) ponds because of insufficient time to obtain a minimum size for metamorphosis. Rana were also eliminated from most populations exposed to predation. The effect of competition on Bufo in high—density populations, few or no survivors, was reversed by predation as newts selectively fed on Scaphiopus and Rana. This result was most striking in the tanks that dried most rapidly. Hyla did very poorly in all slowly drying (100—d) tanks compared with controls because of intense competition. It had moderate success in high—density communities where newts had removed most competitors. These results show that biological and environmental factors interact to determine the structure of anuran communities. Neither competition no predation is the single unifying force, but rather they interact to determine the different consequences of the date of drying of a pond to the success of each species.",
+  "authors": [
+    {
+      "name": "Henry M. Wilbur"
+    }
+  ],
+  "publication_year": 1987,
+  "cited_by_count": 456,
+  "primary_topic": "Amphibian and Reptile Biology",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1987790565",
+    "https://openalex.org/W2009018885",
+    "https://openalex.org/W2009772373",
+    "https://openalex.org/W2010981035",
+    "https://openalex.org/W2013945534",
+    "https://openalex.org/W2014323961",
+    "https://openalex.org/W2019433975",
+    "https://openalex.org/W2031289676",
+    "https://openalex.org/W2034207977",
+    "https://openalex.org/W2037961171",
+    "https://openalex.org/W2043147909",
+    "https://openalex.org/W2056127655",
+    "https://openalex.org/W2061144016",
+    "https://openalex.org/W2067096659",
+    "https://openalex.org/W2070783958",
+    "https://openalex.org/W2074793134",
+    "https://openalex.org/W2086931196",
+    "https://openalex.org/W2128569550",
+    "https://openalex.org/W2139156166",
+    "https://openalex.org/W2163957612",
+    "https://openalex.org/W2168883256",
+    "https://openalex.org/W4249479329"
+  ]
+}

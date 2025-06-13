@@ -1,0 +1,56 @@
+{
+  "id": "https://openalex.org/W2123890994",
+  "title": "Implementing a science-based system for preventing overfishing and guiding sustainable fisheries in the United States",
+  "abstract": "Abstract Methot, R. D., Tromble, G. R., Lambert, D. M., and Greene, K. E. 2014. Implementing a science-based system for preventing overfishing and guiding sustainable fisheries in the United States. – ICES Journal of Marine Science, 71: 183–194. Fisheries management in the United States is primarily governed by the Magnuson–Stevens Fishery Conservation and Management Act, first enacted in 1976. Overarching principles are that fishing mortality rates should not jeopardize the capacity of a stock to produce maximum sustainable yield (MSY) and that overfished stocks (i.e. biomass is too low) should be rebuilt to the level that will support MSY. The science-based system for achieving sustainable fisheries is implemented, in part, through setting annual catch limits (ACLs) that cannot exceed the acceptable biological catch that is recommended by Scientific and Statistical Committees using methods that account for scientific uncertainty. Accountability measures (AMs) are management measures to prevent ACLs from being exceeded or correct any overages that occur. Implementation in 2012 of ACLs and AMs in all Federal fisheries was a historical achievement in the United States; one that will help rebuild stocks and ensure sustainable fisheries into the future. Some remaining challenges include: determining appropriate catch levels and management approaches for stocks with incomplete data; assessing more stocks, more frequently; addressing differences between managing stocks as a complex vs. managing individual stocks in a multistock fishery; and incorporating social and economic factors in determining the appropriate response to uncertainty.",
+  "authors": [
+    {
+      "name": "Richard D. Methot"
+    },
+    {
+      "name": "Galen R. Tromble"
+    },
+    {
+      "name": "Debra M. Lambert"
+    },
+    {
+      "name": "Karen E. Greene"
+    }
+  ],
+  "publication_year": 2013,
+  "cited_by_count": 75,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1218902586",
+    "https://openalex.org/W1990511590",
+    "https://openalex.org/W1996325709",
+    "https://openalex.org/W2006962983",
+    "https://openalex.org/W2032961319",
+    "https://openalex.org/W2055402323",
+    "https://openalex.org/W2065545475",
+    "https://openalex.org/W2102849960",
+    "https://openalex.org/W2137345678",
+    "https://openalex.org/W2148311895",
+    "https://openalex.org/W2156523992",
+    "https://openalex.org/W2158512197",
+    "https://openalex.org/W2167091506",
+    "https://openalex.org/W2167906040",
+    "https://openalex.org/W2306999627",
+    "https://openalex.org/W2312190857",
+    "https://openalex.org/W2340698615",
+    "https://openalex.org/W2342293050",
+    "https://openalex.org/W2397383529",
+    "https://openalex.org/W2494209169",
+    "https://openalex.org/W2502452037",
+    "https://openalex.org/W2504140558",
+    "https://openalex.org/W2560876123",
+    "https://openalex.org/W2586886342",
+    "https://openalex.org/W2742121316",
+    "https://openalex.org/W3140286839",
+    "https://openalex.org/W4253067540",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W4418212"
+  ]
+}

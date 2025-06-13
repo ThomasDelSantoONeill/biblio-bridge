@@ -1,0 +1,25 @@
+{
+  "id": "https://openalex.org/W2000836282",
+  "title": "Empirical Model Building and Response Surfaces",
+  "abstract": "Introduction to Response Surface Methodology. The Use of Graduating Functions. Least Squares for Response Surface Work. Factorial Designs at Two Levels. Blocking and Fractionating 2 k Factorial Designs. The Use of Steepest Ascent to Achieve System Improvement. Fitting Second--Order Models. Adequacy of Estimation and the Use of Transformation. Exploration of Maxima and Ridge Systems with Second--Order Response Surfaces. Occurrence and Elucidation of Ridge Systems, I. Occurrence and Elucidation of Ridge Systems, II. Links Between Emprirical and Theoretical Models. Design Aspects of Variance, Bias, and Lack of Fit. Variance----Optimal Designs. Practical Choice of a Response Surface Design. Subject Index. Index.",
+  "authors": [
+    {
+      "name": "Anne E. Freeny"
+    },
+    {
+      "name": "George E. P. Box"
+    },
+    {
+      "name": "Norman R. Draper"
+    }
+  ],
+  "publication_year": 1988,
+  "cited_by_count": 5194,
+  "primary_topic": "Optimal Experimental Design Methods",
+  "subfield_topic": "Management Science and Operations Research",
+  "field_topic": "Decision Sciences",
+  "domain_topic": "Social Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1968226729"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "https://openalex.org/W2006906998",
+  "title": "Stability and Traveling Fronts in Lotka-Volterra Competition Models with Stage Structure",
+  "abstract": "This paper is concerned with a delay differential equation model for the interaction between two species, the adult members of which are in competition. The competitive effects are of the Lotka--Volterra kind, and in the absence of competition it is assumed that each species evolves according to the predictions of a simple age-structured model which reduces to a single equation for the total adult population. For each of the two species the model incorporates a time delay which represents the time from birth to maturity of that species. Thus, the time delays appear in the adult recruitment terms. The dynamics of the model are determined, and global stability results are established for each equilibrium. The equilibria of the model involve the maturation delays. The criteria for global convergence to each equilibrium are sharp and involve these delays. A reaction-diffusion extension of the model is also studied for the case when only the adult members of each species can diffuse. We prove the existence of a traveling front solution connecting the two boundary equilibria for the case when there is no coexistence equilibrium. This represents invasion by the stronger species of territory previously inhabited only by the weaker. The proof of the existence of such a front uses Wu and Zou's theory for traveling front solutions of delayed reaction-diffusion systems.",
+  "authors": [
+    {
+      "name": "J. F. M. Al-Omari"
+    },
+    {
+      "name": "Stephen A. Gourley"
+    }
+  ],
+  "publication_year": 2003,
+  "cited_by_count": 72,
+  "primary_topic": "Mathematical and Theoretical Epidemiology and Ecology Models",
+  "subfield_topic": "Public Health, Environmental and Occupational Health",
+  "field_topic": "Medicine",
+  "domain_topic": "Health Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1485975088",
+    "https://openalex.org/W2028915135",
+    "https://openalex.org/W2041823824",
+    "https://openalex.org/W2047926127",
+    "https://openalex.org/W2070319312",
+    "https://openalex.org/W2084741964",
+    "https://openalex.org/W2105206465",
+    "https://openalex.org/W2110527583",
+    "https://openalex.org/W4232746761",
+    "https://openalex.org/W4250716583"
+  ]
+}

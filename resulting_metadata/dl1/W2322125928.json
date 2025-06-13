@@ -1,0 +1,61 @@
+{
+  "id": "https://openalex.org/W2322125928",
+  "title": "Interactions between Sculpins, Net-Spinning Caddis Larvae and Midge Larvae",
+  "abstract": "Meta-analyses have shown that benthic feeding fish tend to exert strong negative effects on densities of stream-living chironomids, but it is not known whether this pattern reflects variation in consumption rates or prey movement rates. We reanalysed data from an experimental study that showed strong effects of a benthic feeding fish (Cottus gobio) on chironomid densities. Gut content data suggested that chironomids were rarely consumed by sculpins. Path analysis suggested that indirect interactions mediated by net-spinning polycentropodid caddis larvae (fish-net-spinners-chironomids) were much more important than the direct interaction (fish-chironomids). The effects of the net-spinning caddisfly larva Polycentropus flavomaculatus on chironomid densities were examined in a manipulative field experiment. Artificial substrates, stone-filled plastic baskets, were exposed in a stream for 5, 14 or 26 d. P. flavomaculatus had a pronounced positive effect on the densities of most chironomid taxa. The experimental design allowed us to separate the effects of P. flavomaculatus nets from the effects of the larvae. Observed effects were primarily due to the presence of the nets. Negative effects of P. flavomaculatus larvae, which could be caused by direct predation, were not found. We conclude that sculpins reduced chironomid densities through an indirect interaction involving a negative effect of sculpins on net-spinning caddis larvae and a positive effect of caddis larval nets on chironomid densities. To examine the potential generality of this indirect interaction, we reviewed experiments examining effects of benthic feeding fish on chironomid densities. A majority of the experiments were performed in systems where net-spinning caddis larvae either were absent or occurred in low numbers. However, one third of the experiments reported negative effects on net-spinners and was performed in systems with reasonably high densities of net-spinners, suggesting that this mechanism may be more common than is presently believed.",
+  "authors": [
+    {
+      "name": "Göran Englund"
+    },
+    {
+      "name": "Dan Evander"
+    }
+  ],
+  "publication_year": 1999,
+  "cited_by_count": 23,
+  "primary_topic": "Freshwater macroinvertebrate diversity and ecology",
+  "subfield_topic": "Ecology",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1964915882",
+    "https://openalex.org/W1978988558",
+    "https://openalex.org/W1979397543",
+    "https://openalex.org/W1983972013",
+    "https://openalex.org/W1992089967",
+    "https://openalex.org/W1999607531",
+    "https://openalex.org/W2005827487",
+    "https://openalex.org/W2008585671",
+    "https://openalex.org/W2015308273",
+    "https://openalex.org/W2024424774",
+    "https://openalex.org/W2032269753",
+    "https://openalex.org/W2035925266",
+    "https://openalex.org/W2041215166",
+    "https://openalex.org/W2043778196",
+    "https://openalex.org/W2048725475",
+    "https://openalex.org/W2052927279",
+    "https://openalex.org/W2059657951",
+    "https://openalex.org/W2061626363",
+    "https://openalex.org/W2066348961",
+    "https://openalex.org/W2068125307",
+    "https://openalex.org/W2070786369",
+    "https://openalex.org/W2072959381",
+    "https://openalex.org/W2073597558",
+    "https://openalex.org/W2084974143",
+    "https://openalex.org/W2094695188",
+    "https://openalex.org/W2095749195",
+    "https://openalex.org/W2096742130",
+    "https://openalex.org/W2116920326",
+    "https://openalex.org/W2134791182",
+    "https://openalex.org/W2147194623",
+    "https://openalex.org/W2147904784",
+    "https://openalex.org/W2159936468",
+    "https://openalex.org/W2316054965",
+    "https://openalex.org/W2323105600",
+    "https://openalex.org/W2325052271",
+    "https://openalex.org/W2329624990",
+    "https://openalex.org/W2773093086",
+    "https://openalex.org/W2795536332",
+    "https://openalex.org/W318249166",
+    "https://openalex.org/W78801775"
+  ]
+}

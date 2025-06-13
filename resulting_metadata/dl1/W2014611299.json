@@ -1,0 +1,47 @@
+{
+  "id": "https://openalex.org/W2014611299",
+  "title": "Re–evaluating the omnivory–stability relationship in food webs",
+  "abstract": "Under equilibrium conditions, previous theory has shown that the presence of omnivory destabilizes food webs. Correspondingly, omnivory ought to be rare in real food webs. Although, early food web data appeared to verify this, recently many ecologists have found omnivory to be ubiquitous in food web data gathered at a high taxonomic resolution. In this paper, we re–investigate the role of omnivory in food webs using a non–equilibrium perspective. We find that the addition of omnivory to a simple food chain model (thus a simple food web) locally stabilizes the food web in a very complete way. First, non–equilibrium dynamics (e.g. chaos) tend to be eliminated or bounded further away from zero via period–doubling reversals invoked by the omnivorous trophic link. Second, food chains without interior attractors tend to gain a stable interior attractor with moderate amounts of omnivory.",
+  "authors": [
+    {
+      "name": "Kevin S. McCann"
+    },
+    {
+      "name": "Alan Hastings"
+    }
+  ],
+  "publication_year": 1997,
+  "cited_by_count": 417,
+  "primary_topic": "Plant and animal studies",
+  "subfield_topic": "Ecology, Evolution, Behavior and Systematics",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1961220616",
+    "https://openalex.org/W1965978029",
+    "https://openalex.org/W1969087343",
+    "https://openalex.org/W1973383209",
+    "https://openalex.org/W1977242824",
+    "https://openalex.org/W1983096747",
+    "https://openalex.org/W1987852776",
+    "https://openalex.org/W1999855446",
+    "https://openalex.org/W2015823673",
+    "https://openalex.org/W2018360205",
+    "https://openalex.org/W2022666585",
+    "https://openalex.org/W2023645682",
+    "https://openalex.org/W2025981294",
+    "https://openalex.org/W2026269078",
+    "https://openalex.org/W2042626082",
+    "https://openalex.org/W2061180844",
+    "https://openalex.org/W2063717430",
+    "https://openalex.org/W2064346432",
+    "https://openalex.org/W2068349998",
+    "https://openalex.org/W2077954418",
+    "https://openalex.org/W2177495254",
+    "https://openalex.org/W2181199992",
+    "https://openalex.org/W2318480350",
+    "https://openalex.org/W2320681200",
+    "https://openalex.org/W4230871231",
+    "https://openalex.org/W4299993032"
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "id": "https://openalex.org/W2104560441",
+  "title": "Towards an ecosystem approach to fisheries management (EAFM) when trawl surveys provide the main source of information",
+  "abstract": "Ideas and considerations are put forward for managing fisheries and marine populations using primarily trawl surveys to supply biological and spatial indicators of the state of stocks, and to permit catch per unit effort (CPUE)-based assessments. Trawl surveys seldom allow absolute estimates of fish population sizes but, if appropriately located, timed, and designed, can provide a broad range of information about catchable fish species and the ecosystem that supports them. This information may be more conducive to sustainable management of fisheries than the traditional focus on the abundances of selected stocks. The paper first briefly proposes how survey-based methods might supplement existing fishery-dependent stock assessments, as would be necessary during a transition phase to a more ecosystem-orientated system of management. Full survey-based management is then considered in relation to management objectives, the selection of indicators, survey design, reference periods, levels and directions, statistical aspects, CPUE-based assessments, and management responses to good and bad signals from the ecosystem. We argue that existing fishery-dependent stock assessments cannot be claimed to produce absolute estimates of stock abundance and fishing mortality because natural mortality (M) is seldom known accurately and, therefore, that they should not be presumed superior to the relative information from surveys, and an agreeable form of adaptive management.",
+  "authors": [
+    {
+      "name": "John Cotter"
+    },
+    {
+      "name": "Pierre Petitgas"
+    },
+    {
+      "name": "A. Abella"
+    },
+    {
+      "name": "Panayiota Apostolaki"
+    },
+    {
+      "name": "Benoît Mesnil"
+    },
+    {
+      "name": "Chrissi‐Yianna Politou"
+    },
+    {
+      "name": "Jacques Rivoirard"
+    },
+    {
+      "name": "Marie-Joëlle Rochet"
+    },
+    {
+      "name": "María Teresa Spedicato"
+    },
+    {
+      "name": "Verena M. Trenkel"
+    },
+    {
+      "name": "Mathieu Woillez"
+    }
+  ],
+  "publication_year": 2009,
+  "cited_by_count": 41,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1485933093",
+    "https://openalex.org/W1492835558",
+    "https://openalex.org/W1508785627",
+    "https://openalex.org/W1513136390",
+    "https://openalex.org/W1519547577",
+    "https://openalex.org/W1575827355",
+    "https://openalex.org/W1589902022",
+    "https://openalex.org/W1593898515",
+    "https://openalex.org/W1601756220",
+    "https://openalex.org/W1858562211",
+    "https://openalex.org/W1975962195",
+    "https://openalex.org/W1983950287",
+    "https://openalex.org/W1985098578",
+    "https://openalex.org/W1991560151",
+    "https://openalex.org/W1998411717",
+    "https://openalex.org/W2004037061",
+    "https://openalex.org/W2011156772",
+    "https://openalex.org/W2031792916",
+    "https://openalex.org/W2035481466",
+    "https://openalex.org/W204164260",
+    "https://openalex.org/W2042464037",
+    "https://openalex.org/W2045108890",
+    "https://openalex.org/W2045242020",
+    "https://openalex.org/W2047755612",
+    "https://openalex.org/W2047928207",
+    "https://openalex.org/W2048020255",
+    "https://openalex.org/W2048923420",
+    "https://openalex.org/W2050375918",
+    "https://openalex.org/W2052373119",
+    "https://openalex.org/W2057618445",
+    "https://openalex.org/W2059398300",
+    "https://openalex.org/W2060930016",
+    "https://openalex.org/W2065454979",
+    "https://openalex.org/W2066568085",
+    "https://openalex.org/W2066586126",
+    "https://openalex.org/W2069280266",
+    "https://openalex.org/W2089246520",
+    "https://openalex.org/W2090344614",
+    "https://openalex.org/W2095414997",
+    "https://openalex.org/W2097931888",
+    "https://openalex.org/W2098585257",
+    "https://openalex.org/W2099421102",
+    "https://openalex.org/W2101547575",
+    "https://openalex.org/W2104513995",
+    "https://openalex.org/W2108306142",
+    "https://openalex.org/W2110487643",
+    "https://openalex.org/W2111064727",
+    "https://openalex.org/W2111830993",
+    "https://openalex.org/W2112135527",
+    "https://openalex.org/W2114772294",
+    "https://openalex.org/W2116362418",
+    "https://openalex.org/W2117600933",
+    "https://openalex.org/W2117672043",
+    "https://openalex.org/W2118424667",
+    "https://openalex.org/W2118496962",
+    "https://openalex.org/W2119070620",
+    "https://openalex.org/W2120830385",
+    "https://openalex.org/W2122540461",
+    "https://openalex.org/W2123395471",
+    "https://openalex.org/W2123774274",
+    "https://openalex.org/W2123932663",
+    "https://openalex.org/W2125509445",
+    "https://openalex.org/W2125640780",
+    "https://openalex.org/W2127032204",
+    "https://openalex.org/W2127804848",
+    "https://openalex.org/W2129694054",
+    "https://openalex.org/W2130259933",
+    "https://openalex.org/W2133152419",
+    "https://openalex.org/W2135581923",
+    "https://openalex.org/W2136187322",
+    "https://openalex.org/W2137523123",
+    "https://openalex.org/W2137686572",
+    "https://openalex.org/W2137938547",
+    "https://openalex.org/W2139369917",
+    "https://openalex.org/W2139416498",
+    "https://openalex.org/W2139709824",
+    "https://openalex.org/W2140314901",
+    "https://openalex.org/W2143162352",
+    "https://openalex.org/W2143358109",
+    "https://openalex.org/W2143557693",
+    "https://openalex.org/W2143632990",
+    "https://openalex.org/W2147807123",
+    "https://openalex.org/W2148874431",
+    "https://openalex.org/W2154277394",
+    "https://openalex.org/W2156898219",
+    "https://openalex.org/W2158223744",
+    "https://openalex.org/W2161201532",
+    "https://openalex.org/W2163588452",
+    "https://openalex.org/W2164656016",
+    "https://openalex.org/W2171287183",
+    "https://openalex.org/W2171915845",
+    "https://openalex.org/W2207258278",
+    "https://openalex.org/W2220712574",
+    "https://openalex.org/W2293625988",
+    "https://openalex.org/W2463802608",
+    "https://openalex.org/W2481182535",
+    "https://openalex.org/W2738671105",
+    "https://openalex.org/W2796329266",
+    "https://openalex.org/W4237288144",
+    "https://openalex.org/W4251814075",
+    "https://openalex.org/W4256181533",
+    "https://openalex.org/W584175391",
+    "https://openalex.org/W630887448"
+  ]
+}

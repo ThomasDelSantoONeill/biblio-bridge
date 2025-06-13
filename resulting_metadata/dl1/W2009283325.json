@@ -1,0 +1,30 @@
+{
+  "id": "https://openalex.org/W2009283325",
+  "title": "The Importance of the Mechanisms of Interspecific Competition",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "David Tilman"
+    }
+  ],
+  "publication_year": 1987,
+  "cited_by_count": 374,
+  "primary_topic": "Marine Biology and Ecology Research",
+  "subfield_topic": "Oceanography",
+  "field_topic": "Earth and Planetary Sciences",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1532540194",
+    "https://openalex.org/W1991992709",
+    "https://openalex.org/W1998245410",
+    "https://openalex.org/W2010981035",
+    "https://openalex.org/W2013945534",
+    "https://openalex.org/W2024882325",
+    "https://openalex.org/W2035346239",
+    "https://openalex.org/W2064242117",
+    "https://openalex.org/W2084800608",
+    "https://openalex.org/W2085722279",
+    "https://openalex.org/W2149049530",
+    "https://openalex.org/W3025136633"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "https://openalex.org/W2029028922",
+  "title": "Global-scale predictions of community and ecosystem properties from simple ecological theory",
+  "abstract": "We show how theoretical developments in macroecology, life-history theory and food-web ecology can be combined to formulate a simple model for predicting the potential biomass, production, size and trophic structure of consumer communities. The strength of our approach is that it uses remote sensing data to predict properties of consumer communities in environments that are challenging and expensive to sample directly. An application of the model to the marine environment on a global scale, using primary production and temperature estimates from satellite remote sensing as inputs, suggests that the global biomass of marine animals more than 10 −5 g wet weight is 2.62×10 9 t (=8.16 g m −2 ocean) and production is 1.00×10 10 t yr −1 (31.15 g m −2 yr −1 ). Based on the life-history theory, we propose and apply an approximation for distinguishing the relative contributions of different animal groups. Fish biomass and production, for example, are estimated as 8.99×10 8 t (2.80 g m −2 ) and 7.91×10 8 t yr −1 (2.46 g m −2 yr −1 ), respectively, and 50% of fish biomass is shown to occur in 17% of the total ocean area (8.22 g m −2 ). The analyses show that emerging ecological theory can be synthesized to set baselines for assessing human and climate impacts on global scales.",
+  "authors": [
+    {
+      "name": "Simon Jennings"
+    },
+    {
+      "name": "Frédéric Mélin"
+    },
+    {
+      "name": "Julia L. Blanchard"
+    },
+    {
+      "name": "Rodney Forster"
+    },
+    {
+      "name": "Nicholas K. Dulvy"
+    },
+    {
+      "name": "Rod W. Wilson"
+    }
+  ],
+  "publication_year": 2008,
+  "cited_by_count": 238,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W113660925",
+    "https://openalex.org/W146535024",
+    "https://openalex.org/W1488900145",
+    "https://openalex.org/W1497050477",
+    "https://openalex.org/W1507156144",
+    "https://openalex.org/W1542975808",
+    "https://openalex.org/W1575394158",
+    "https://openalex.org/W1599127549",
+    "https://openalex.org/W1608337536",
+    "https://openalex.org/W1952312374",
+    "https://openalex.org/W1983154388",
+    "https://openalex.org/W1994796172",
+    "https://openalex.org/W1996800093",
+    "https://openalex.org/W2002744460",
+    "https://openalex.org/W2008733299",
+    "https://openalex.org/W2010557655",
+    "https://openalex.org/W2011423414",
+    "https://openalex.org/W2013976039",
+    "https://openalex.org/W2016637157",
+    "https://openalex.org/W2023493166",
+    "https://openalex.org/W2050323979",
+    "https://openalex.org/W2050873627",
+    "https://openalex.org/W2056521767",
+    "https://openalex.org/W2060789210",
+    "https://openalex.org/W2060930016",
+    "https://openalex.org/W2093463708",
+    "https://openalex.org/W2094881695",
+    "https://openalex.org/W2096287003",
+    "https://openalex.org/W2098828870",
+    "https://openalex.org/W2105385194",
+    "https://openalex.org/W2108084128",
+    "https://openalex.org/W2109430507",
+    "https://openalex.org/W2110256211",
+    "https://openalex.org/W2112653599",
+    "https://openalex.org/W2114494594",
+    "https://openalex.org/W2114795157",
+    "https://openalex.org/W2116721474",
+    "https://openalex.org/W2117994187",
+    "https://openalex.org/W2119893467",
+    "https://openalex.org/W2124730005",
+    "https://openalex.org/W2128713868",
+    "https://openalex.org/W2132644644",
+    "https://openalex.org/W2135767802",
+    "https://openalex.org/W2137561156",
+    "https://openalex.org/W2143829462",
+    "https://openalex.org/W2143892532",
+    "https://openalex.org/W2144623926",
+    "https://openalex.org/W2150097329",
+    "https://openalex.org/W2153161865",
+    "https://openalex.org/W2154277394",
+    "https://openalex.org/W2155667586",
+    "https://openalex.org/W2156244620",
+    "https://openalex.org/W2156961869",
+    "https://openalex.org/W2160427391",
+    "https://openalex.org/W2171599533",
+    "https://openalex.org/W2399833623",
+    "https://openalex.org/W2773320302",
+    "https://openalex.org/W3146946838",
+    "https://openalex.org/W4210260625",
+    "https://openalex.org/W4247639729",
+    "https://openalex.org/W577903050",
+    "https://openalex.org/W594809065",
+    "https://openalex.org/W63962589"
+  ]
+}

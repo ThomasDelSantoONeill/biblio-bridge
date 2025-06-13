@@ -1,0 +1,22 @@
+{
+  "id": "https://openalex.org/W4253820701",
+  "title": "Model Selection and Inference",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Kenneth P. Burnham"
+    },
+    {
+      "name": "David R. Anderson"
+    }
+  ],
+  "publication_year": 1998,
+  "cited_by_count": 3271,
+  "primary_topic": "Neural Networks and Applications",
+  "subfield_topic": "Artificial Intelligence",
+  "field_topic": "Computer Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W197545041"
+  ]
+}

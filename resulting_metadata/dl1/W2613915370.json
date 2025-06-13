@@ -1,0 +1,83 @@
+{
+  "id": "https://openalex.org/W2613915370",
+  "title": "Trade-offs between forage fish fisheries and their predators in the California Current",
+  "abstract": "Abstract Forage fish generate economic benefits through directed fisheries, but also generate benefits through their role as prey to other valued species (large piscivorous fish, seabirds, and marine mammals). Previous evaluations of the ecosystem consequences of forage fish fisheries used models with coarse taxonomic resolution of forage fish and their predators. Here, we quantify trade-offs between forage fish fisheries and predator fisheries, and between forage fish fisheries and species of conservation interest in the California Current, using a taxonomically detailed foodweb model and a generalized equilibrium model. We propagated uncertainty in trade-offs to forage fish fishing based on uncertainty in foodweb model parameterization and uncertainty in predator–prey functional relationships in the generalized equilibrium model. The model predicted loss in catch of some higher trophic level fisheries [mainly salmon (Oncorhynchus sp.) and halibut (Paralichthys californicus)] from fishing sardine (Sardinops sagax), anchovy (Engraulis mordax), herring (Clupea pallasii), or aggregated forage fish, but the lost economic revenue from predators never exceeded the economic benefit from additional forage fish catch. Predicted reductions in biomass of seabirds and marine mammals were sufficiently large that, depending on the value of these nonmarket species, consideration of nonmarket predators could tip the balance of trade-offs toward conservation of forage fish and away from harvest. This work highlights specific predators [brown pelicans (Pelecanus occidentalis), marbled murrelets (Brachyramphus marmoratus), multiple other seabirds, sea lions (Zalophus californianus and Eumetopias jubatus), baleen whales (Mysticeti)] that are potentially sensitive to specific forage fish fisheries in the California Current.",
+  "authors": [
+    {
+      "name": "Laura E. Koehn"
+    },
+    {
+      "name": "Timothy E. Essington"
+    },
+    {
+      "name": "Kristin N. Marshall"
+    },
+    {
+      "name": "William J. Sydeman"
+    },
+    {
+      "name": "Amber I. Szoboszlai"
+    },
+    {
+      "name": "Julie A. Thayer"
+    }
+  ],
+  "publication_year": 2017,
+  "cited_by_count": 39,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1592703928",
+    "https://openalex.org/W1826744562",
+    "https://openalex.org/W1895417829",
+    "https://openalex.org/W1935636950",
+    "https://openalex.org/W1935765107",
+    "https://openalex.org/W1966695144",
+    "https://openalex.org/W1968302182",
+    "https://openalex.org/W1973350069",
+    "https://openalex.org/W1973734690",
+    "https://openalex.org/W1987465339",
+    "https://openalex.org/W1992640758",
+    "https://openalex.org/W1994823924",
+    "https://openalex.org/W2011674953",
+    "https://openalex.org/W2018523216",
+    "https://openalex.org/W2019680662",
+    "https://openalex.org/W2031752682",
+    "https://openalex.org/W2046756733",
+    "https://openalex.org/W2058377302",
+    "https://openalex.org/W2061513338",
+    "https://openalex.org/W2066284161",
+    "https://openalex.org/W2074578024",
+    "https://openalex.org/W2081651987",
+    "https://openalex.org/W2088096406",
+    "https://openalex.org/W2097047487",
+    "https://openalex.org/W2101204002",
+    "https://openalex.org/W2110116721",
+    "https://openalex.org/W2117218220",
+    "https://openalex.org/W2118074382",
+    "https://openalex.org/W2130802655",
+    "https://openalex.org/W2143984308",
+    "https://openalex.org/W2145043680",
+    "https://openalex.org/W2145378599",
+    "https://openalex.org/W2145590418",
+    "https://openalex.org/W2155952421",
+    "https://openalex.org/W2156695268",
+    "https://openalex.org/W2159464477",
+    "https://openalex.org/W2159666708",
+    "https://openalex.org/W2161890892",
+    "https://openalex.org/W2163437592",
+    "https://openalex.org/W2177938258",
+    "https://openalex.org/W2183312623",
+    "https://openalex.org/W2312518378",
+    "https://openalex.org/W2319934624",
+    "https://openalex.org/W2328298996",
+    "https://openalex.org/W2338973639",
+    "https://openalex.org/W2339983891",
+    "https://openalex.org/W2414763461",
+    "https://openalex.org/W2465232828",
+    "https://openalex.org/W2901789054",
+    "https://openalex.org/W968377511"
+  ]
+}

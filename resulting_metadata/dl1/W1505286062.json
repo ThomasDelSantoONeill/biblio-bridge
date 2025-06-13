@@ -1,0 +1,63 @@
+{
+  "id": "https://openalex.org/W1505286062",
+  "title": "Toward Ecosystem-Based Fisheries Management",
+  "abstract": "Considerable effort has been directed in the last decade towards the development of multispecies, ecosystem-based approaches to fisheries management. One aspect of this is the development of models that take into account direct and indirect ecological interactions among species and their environment. We review four multispecies modeling approaches that we feel have great potential for use in fisheries management: multispecies production models, multispecies virtual population analysis, Ecopath with Ecosim, and multispecies bioenergetics models. All four can predict biomass trajectories over time and under various fishing pressures, but with different spatial, temporal, and biological resolution, quantitative/qualitative nature of the results, and insight into system function. We present the data requirements of each model and give examples of field programs that have provided data for model construction and validation. We conclude with a set of issues to consider when designing a coupled field-modeling research program, including the scale of the problem, appropriate sampling platform, and data collection.",
+  "authors": [
+    {
+      "name": "Robert J. Latour"
+    },
+    {
+      "name": "Mark J. Brush"
+    },
+    {
+      "name": "Christopher F Bonzek"
+    }
+  ],
+  "publication_year": 2003,
+  "cited_by_count": 104,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W119366826",
+    "https://openalex.org/W1589375716",
+    "https://openalex.org/W1599127549",
+    "https://openalex.org/W1967049079",
+    "https://openalex.org/W1980101723",
+    "https://openalex.org/W1982893256",
+    "https://openalex.org/W1985342263",
+    "https://openalex.org/W1988326917",
+    "https://openalex.org/W1998468685",
+    "https://openalex.org/W1998871093",
+    "https://openalex.org/W2003647390",
+    "https://openalex.org/W2011292626",
+    "https://openalex.org/W2016702081",
+    "https://openalex.org/W2028000068",
+    "https://openalex.org/W2030232515",
+    "https://openalex.org/W2032033968",
+    "https://openalex.org/W2032392783",
+    "https://openalex.org/W2035503922",
+    "https://openalex.org/W2049579944",
+    "https://openalex.org/W2050065723",
+    "https://openalex.org/W2053060033",
+    "https://openalex.org/W2059537763",
+    "https://openalex.org/W2064882667",
+    "https://openalex.org/W2075747219",
+    "https://openalex.org/W2077092969",
+    "https://openalex.org/W2078535346",
+    "https://openalex.org/W2078544204",
+    "https://openalex.org/W2081050205",
+    "https://openalex.org/W2103037732",
+    "https://openalex.org/W2131915744",
+    "https://openalex.org/W2138829457",
+    "https://openalex.org/W2150203206",
+    "https://openalex.org/W2170230705",
+    "https://openalex.org/W2739880501",
+    "https://openalex.org/W2766432511",
+    "https://openalex.org/W2916955673",
+    "https://openalex.org/W42114903",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W52226609"
+  ]
+}

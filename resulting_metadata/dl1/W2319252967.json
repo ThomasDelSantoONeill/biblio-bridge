@@ -1,0 +1,31 @@
+{
+  "id": "https://openalex.org/W2319252967",
+  "title": "An overview of the multispecies VPA ? theory and applications",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "KjartanG. Magn�sson"
+    }
+  ],
+  "publication_year": 1995,
+  "cited_by_count": 144,
+  "primary_topic": "Mathematical and Theoretical Epidemiology and Ecology Models",
+  "subfield_topic": "Public Health, Environmental and Occupational Health",
+  "field_topic": "Medicine",
+  "domain_topic": "Health Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1560850815",
+    "https://openalex.org/W1985750732",
+    "https://openalex.org/W2040333886",
+    "https://openalex.org/W2041671012",
+    "https://openalex.org/W2049579944",
+    "https://openalex.org/W2078544204",
+    "https://openalex.org/W2082031293",
+    "https://openalex.org/W2084142454",
+    "https://openalex.org/W2131915744",
+    "https://openalex.org/W2134705291",
+    "https://openalex.org/W2328376824",
+    "https://openalex.org/W2444417684",
+    "https://openalex.org/W3216061933"
+  ]
+}

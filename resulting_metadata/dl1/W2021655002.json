@@ -1,0 +1,42 @@
+{
+  "id": "https://openalex.org/W2021655002",
+  "title": "Use of Annular Flumes to Determine the Influence of Current Velocity and Bivalves on Material Flux at the Sediment-Water Interface",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "J. Widdows"
+    },
+    {
+      "name": "Mary D. Brinsley"
+    },
+    {
+      "name": "Peter N. Salkeld"
+    },
+    {
+      "name": "Michael Elliott"
+    }
+  ],
+  "publication_year": 1998,
+  "cited_by_count": 148,
+  "primary_topic": "Aquatic Invertebrate Ecology and Behavior",
+  "subfield_topic": "Ecology",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W125496145",
+    "https://openalex.org/W1990953364",
+    "https://openalex.org/W1992913702",
+    "https://openalex.org/W2005760415",
+    "https://openalex.org/W2012102731",
+    "https://openalex.org/W2017338922",
+    "https://openalex.org/W2037505492",
+    "https://openalex.org/W2038607341",
+    "https://openalex.org/W2052951211",
+    "https://openalex.org/W2058957821",
+    "https://openalex.org/W2071514020",
+    "https://openalex.org/W2073665023",
+    "https://openalex.org/W2092622349",
+    "https://openalex.org/W2135717743",
+    "https://openalex.org/W627544854"
+  ]
+}

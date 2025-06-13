@@ -1,0 +1,73 @@
+{
+  "id": "https://openalex.org/W2181237941",
+  "title": "Bioeconomics and biodiversity in harvested metacommunities: a patch‐occupancy approach",
+  "abstract": "We develop a coupled economic‐metacommunity model to investigate the trade‐off between diversity and profit for multispecies systems. The model keeps track of the presence or absence of species in habitat patches. With this approach, it becomes (relatively) simple to include more species than can typically be included in models that track species population density. We use this patch‐occupancy framework to understand how profit and biodiversity are impacted by (1) community assembly, (2) pricing structures that value species equally or unequally, and (3) the implementation of marine reserves. We find that when local communities assemble slowly as a result of facilitative colonization, there are lower profits and optimal harvest rates, but the trade‐off with diversity may be either large or small. The trade‐off is diminished if later colonizing species are more highly valued than early colonizers. When the cost of harvesting is low, maximizing profits tends to sharply reduce biodiversity and maximizing diversity entails a large harvesting opportunity cost. In the models we analyze, marine reserves are never economically optimal for a profit‐maximizing owner. However, management using marine reserves may provide low‐cost biodiversity protection if the community is over‐harvested.",
+  "authors": [
+    {
+      "name": "Emily Moberg"
+    },
+    {
+      "name": "Julie B. Kellner"
+    },
+    {
+      "name": "Michael G. Neubert"
+    }
+  ],
+  "publication_year": 2015,
+  "cited_by_count": 1,
+  "primary_topic": "Economic and Environmental Valuation",
+  "subfield_topic": "Economics and Econometrics",
+  "field_topic": "Economics, Econometrics and Finance",
+  "domain_topic": "Social Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1852236651",
+    "https://openalex.org/W1983940846",
+    "https://openalex.org/W1989909542",
+    "https://openalex.org/W2012819751",
+    "https://openalex.org/W201978879",
+    "https://openalex.org/W2029733813",
+    "https://openalex.org/W2036075425",
+    "https://openalex.org/W2041772064",
+    "https://openalex.org/W2048622139",
+    "https://openalex.org/W2051542377",
+    "https://openalex.org/W2051891570",
+    "https://openalex.org/W2058160626",
+    "https://openalex.org/W2059851732",
+    "https://openalex.org/W2062488937",
+    "https://openalex.org/W2063236099",
+    "https://openalex.org/W2071288077",
+    "https://openalex.org/W2081656950",
+    "https://openalex.org/W2084177163",
+    "https://openalex.org/W2087024523",
+    "https://openalex.org/W2098289883",
+    "https://openalex.org/W2099499886",
+    "https://openalex.org/W2104698864",
+    "https://openalex.org/W2108320756",
+    "https://openalex.org/W2116246966",
+    "https://openalex.org/W2116422701",
+    "https://openalex.org/W2118647365",
+    "https://openalex.org/W2119726237",
+    "https://openalex.org/W2121612917",
+    "https://openalex.org/W2124565737",
+    "https://openalex.org/W2127003042",
+    "https://openalex.org/W2127856085",
+    "https://openalex.org/W2129163149",
+    "https://openalex.org/W2130925314",
+    "https://openalex.org/W2132102506",
+    "https://openalex.org/W2132204437",
+    "https://openalex.org/W2148739159",
+    "https://openalex.org/W2152295386",
+    "https://openalex.org/W2155345697",
+    "https://openalex.org/W2156447381",
+    "https://openalex.org/W2156709416",
+    "https://openalex.org/W2157363306",
+    "https://openalex.org/W2279076893",
+    "https://openalex.org/W2298195985",
+    "https://openalex.org/W2316424987",
+    "https://openalex.org/W2322741287",
+    "https://openalex.org/W2334731585",
+    "https://openalex.org/W2463857368",
+    "https://openalex.org/W332345030",
+    "https://openalex.org/W4285719527"
+  ]
+}

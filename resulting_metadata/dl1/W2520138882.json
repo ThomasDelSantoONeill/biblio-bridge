@@ -1,0 +1,77 @@
+{
+  "id": "https://openalex.org/W2520138882",
+  "title": "Achieving maximum sustainable yield in mixed fisheries: a management approach for the North Sea demersal fisheries",
+  "abstract": "Achieving single species maximum sustainable yield (MSY) in complex and dynamic fisheries targeting multiple species (mixed fisheries) is challenging because achieving the objective for one species may mean missing the objective for another. The North Sea mixed fisheries are a representative example of an issue that is generic across most demersal fisheries worldwide, with the diversity of species and fisheries inducing numerous biological and technical interactions. Building on a rich knowledge base for the understanding and quantification of these interactions, new approaches have emerged. Recent paths towards operationalizing MSY at the regional scale have suggested the expansion of the concept into a desirable area of “pretty good yield”, implemented through a range around FMSY that would allow for more flexibility in management targets. This article investigates the potential of FMSY ranges to combine long-term single-stock targets with flexible, short-term, mixed-fisheries management requirements applied to the main North Sea demersal stocks. It is shown that sustained fishing at the upper bound of the range may lead to unacceptable risks when technical interactions occur. An objective method is suggested that provides an optimal set of fishing mortality within the range, minimizing the risk of total allowable catch mismatches among stocks captured within mixed fisheries, and addressing explicitly the trade-offs between the most and least productive stocks.",
+  "authors": [
+    {
+      "name": "Clara Ulrich"
+    },
+    {
+      "name": "Youen Vermard"
+    },
+    {
+      "name": "Paul J. Dolder"
+    },
+    {
+      "name": "Thomas Brunel"
+    },
+    {
+      "name": "Ernesto Jardim"
+    },
+    {
+      "name": "Steven J. Holmes"
+    },
+    {
+      "name": "Alexander Kempf"
+    },
+    {
+      "name": "Lars O. Mortensen"
+    },
+    {
+      "name": "Jan Jaap Poos"
+    },
+    {
+      "name": "Anna Rindorf"
+    }
+  ],
+  "publication_year": 2016,
+  "cited_by_count": 44,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1567110536",
+    "https://openalex.org/W1636522059",
+    "https://openalex.org/W1931831004",
+    "https://openalex.org/W1972064083",
+    "https://openalex.org/W1977895254",
+    "https://openalex.org/W2023474632",
+    "https://openalex.org/W2028717723",
+    "https://openalex.org/W2037180688",
+    "https://openalex.org/W2038593889",
+    "https://openalex.org/W2058481707",
+    "https://openalex.org/W2066819488",
+    "https://openalex.org/W2067610363",
+    "https://openalex.org/W2082726346",
+    "https://openalex.org/W2087290694",
+    "https://openalex.org/W2099647993",
+    "https://openalex.org/W2114360274",
+    "https://openalex.org/W2122338940",
+    "https://openalex.org/W2125412860",
+    "https://openalex.org/W2125509445",
+    "https://openalex.org/W2134764708",
+    "https://openalex.org/W2142520545",
+    "https://openalex.org/W2148311895",
+    "https://openalex.org/W2158355436",
+    "https://openalex.org/W2164070727",
+    "https://openalex.org/W2165028288",
+    "https://openalex.org/W2179296759",
+    "https://openalex.org/W2213058966",
+    "https://openalex.org/W2233368448",
+    "https://openalex.org/W2266750726",
+    "https://openalex.org/W2315618296",
+    "https://openalex.org/W2344012003",
+    "https://openalex.org/W2363261994"
+  ]
+}

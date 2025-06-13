@@ -1,0 +1,33 @@
+{
+  "id": "https://openalex.org/W1966734316",
+  "title": "Can We Manage Our Multispecies Fisheries?",
+  "abstract": "Fishery resources (fish, invertebrates, marine mammals, and reptiles) of the U.S. exclusive economic zone (EEZ, 3–200 nautical miles from the coast) are currently regulated under several pieces of key legislation enacted during the early 1970s. At that time fishery science was only beginning to appreciate the interactions among species and fisheries as being potential impediments to simultaneous realization of competitive management goals. Many of the important management problems currently faced in the EEZ are exacerbated by the incompatibility of regulations promulgated separately under these statutes, for what are ecologically- or technologically-related species. Reconciling the management of interacting species and fishermen will require an institutional framework for evaluating the multispecies/multifishery consequences of management decisions, and for articulating a clear set of compatible management goals for the various constituents. Traditional single-species biological reference points for fishery management must be reevaluated considering the effects of harvesting on ecosystem attributes such as stability, diversity, resistance, and resilience, and economic attributes including optimization. Currently, dynamic mechanisms underlying species and fishery interactions are poorly understood. The scientific basis of decision making will increasingly have to come from research emphasizing the dynamic relationships of interacting species as well as the biological, economic, and technological factors contributing to fishery interactions. Such studies cannot replace traditional single-species, single-fishery analyses, but must compliment and build upon them.",
+  "authors": [
+    {
+      "name": "Steven A. Murawski"
+    }
+  ],
+  "publication_year": 1991,
+  "cited_by_count": 61,
+  "primary_topic": "Genetic diversity and population structure",
+  "subfield_topic": "Genetics",
+  "field_topic": "Biochemistry, Genetics and Molecular Biology",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1116570461",
+    "https://openalex.org/W1970699386",
+    "https://openalex.org/W1972064083",
+    "https://openalex.org/W1985342263",
+    "https://openalex.org/W1986300815",
+    "https://openalex.org/W1989575796",
+    "https://openalex.org/W2026425898",
+    "https://openalex.org/W2027665073",
+    "https://openalex.org/W2061011338",
+    "https://openalex.org/W2069963803",
+    "https://openalex.org/W2078194646",
+    "https://openalex.org/W2081644371",
+    "https://openalex.org/W2172604121",
+    "https://openalex.org/W2592699553",
+    "https://openalex.org/W982477292"
+  ]
+}

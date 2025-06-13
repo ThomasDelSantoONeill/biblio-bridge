@@ -1,0 +1,70 @@
+{
+  "id": "https://openalex.org/W2107330811",
+  "title": "Vismon: Facilitating Analysis of Trade‐Offs, Uncertainty, and Sensitivity In Fisheries Management Decision Making",
+  "abstract": "Abstract In this design study, we present an analysis and abstraction of the data and task in the domain of fisheries management, and the design and implementation of the Vismon tool to address the identified requirements. Vismon was designed to support sophisticated data analysis of simulation results by managers who are highly knowledgeable about the fisheries domain but not experts in simulation software and statistical data analysis. The previous workflow required the scientists who built the models to spearhead the analysis process. The features of Vismon include sensitivity analysis, comprehensive and global trade‐offs analysis, and a staged approach to the visualization of the uncertainty of the underlying simulation model. The tool was iteratively refined through a multi‐year engagement with fisheries scientists with a two‐phase approach, where an initial diverging experimentation phase to test many alternatives was followed by a converging phase where the set of multiple linked views that proved effective were integrated together in a useable way. Several fisheries scientists have used Vismon to communicate with policy makers, and it is scheduled for deployment to policy makers in Alaska.",
+  "authors": [
+    {
+      "name": "Maryam Booshehrian"
+    },
+    {
+      "name": "Torsten Möller"
+    },
+    {
+      "name": "Randall M. Peterman"
+    },
+    {
+      "name": "Tamara Munzner"
+    }
+  ],
+  "publication_year": 2012,
+  "cited_by_count": 84,
+  "primary_topic": "Data Visualization and Analytics",
+  "subfield_topic": "Computer Vision and Pattern Recognition",
+  "field_topic": "Computer Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W100650110",
+    "https://openalex.org/W1589375716",
+    "https://openalex.org/W1608747981",
+    "https://openalex.org/W1918069932",
+    "https://openalex.org/W1964146567",
+    "https://openalex.org/W1979686514",
+    "https://openalex.org/W2002061707",
+    "https://openalex.org/W2010759743",
+    "https://openalex.org/W2025095868",
+    "https://openalex.org/W2039740901",
+    "https://openalex.org/W2046369094",
+    "https://openalex.org/W2069388715",
+    "https://openalex.org/W2073336401",
+    "https://openalex.org/W2082229705",
+    "https://openalex.org/W2095964499",
+    "https://openalex.org/W2098300754",
+    "https://openalex.org/W2100565272",
+    "https://openalex.org/W2100613188",
+    "https://openalex.org/W2103111128",
+    "https://openalex.org/W2105552354",
+    "https://openalex.org/W2106281550",
+    "https://openalex.org/W2113942092",
+    "https://openalex.org/W2114566476",
+    "https://openalex.org/W2118660081",
+    "https://openalex.org/W2126927905",
+    "https://openalex.org/W2127775323",
+    "https://openalex.org/W2142407987",
+    "https://openalex.org/W2144348826",
+    "https://openalex.org/W2147062644",
+    "https://openalex.org/W2147846431",
+    "https://openalex.org/W2149386833",
+    "https://openalex.org/W2155377374",
+    "https://openalex.org/W2157887077",
+    "https://openalex.org/W2161114148",
+    "https://openalex.org/W2186808920",
+    "https://openalex.org/W2229412420",
+    "https://openalex.org/W2293034963",
+    "https://openalex.org/W2810762492",
+    "https://openalex.org/W2899740253",
+    "https://openalex.org/W2914973542",
+    "https://openalex.org/W3183778717",
+    "https://openalex.org/W4242628327",
+    "https://openalex.org/W4285719527"
+  ]
+}

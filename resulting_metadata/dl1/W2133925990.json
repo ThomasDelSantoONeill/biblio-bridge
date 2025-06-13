@@ -1,0 +1,44 @@
+{
+  "id": "https://openalex.org/W2133925990",
+  "title": "An Experimental Test of the Effects of Predation Risk on Habitat Use in Fish",
+  "abstract": "We present an experiment designed to test the hypothesis that fish respond to both relative predation risk and habitat profitability in choosing habitats in which to feed. Identical populations of three size—classes of bluegill sunfish (Lepomis macrochirus) were stocked on both sides of a divided pond (29 m in diameter), and eight piscivorous largemouth bass (Micropterus salmoides) were introduced to one side. Sizes of both species were chosen such that the small class of bluegills was very vulnerable to the bass, whereas the largest class was invulnerable to bass predation. We then compared mortality, habitat use, and growth of each size—class in the presence and absence of the bass. Only the small size—class suffered significant mortality from the bass (each bass consumed on average about one small bluegill every 3.8 d); the two larger size—classes exhibited similar mortality rates on both sides of the pond. In the absence of the bass, we found that habitat use of all size—classes was similar and that the pattern of habitat use maximized foraging return rates (Werner et al. 1983). In the presence of the bass the two larger size—classes chose habitats to maximize return rates, but the small size—class obtained a greater fraction of its diet from the vegetation habitat, where foraging return rates were only one—third of those in the more open habitats. The small size—class further exhibited a significant depression in individual growth in the presence of the bass; the growth increment during the experiment was 27% less than that for small bluegills in the absence of the bass. Because of the reduced utilization of more open habitats by the small fish in the presence of bass, resources in these habitats were released to the larger size—classes, which showed greater growth in the presence of the bass than in its absence. We develop methods to predict the additional mortality expected on a cohort due to a reduction in growth rate (because individuals are spending a longer time in vunerable sizes), and discuss and potential for predation risk to enforce size—class segregation, which leads de facto to resource partitioning.",
+  "authors": [
+    {
+      "name": "Earl E. Werner"
+    },
+    {
+      "name": "James F. Gilliam"
+    },
+    {
+      "name": "Donald J. Hall"
+    },
+    {
+      "name": "Gary G. Mittelbach"
+    }
+  ],
+  "publication_year": 1983,
+  "cited_by_count": 1658,
+  "primary_topic": "Fish Ecology and Management Studies",
+  "subfield_topic": "Nature and Landscape Conservation",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1513938701",
+    "https://openalex.org/W1978955541",
+    "https://openalex.org/W1999664127",
+    "https://openalex.org/W2023915165",
+    "https://openalex.org/W2024142792",
+    "https://openalex.org/W2028771556",
+    "https://openalex.org/W2041786762",
+    "https://openalex.org/W2043112645",
+    "https://openalex.org/W2044368830",
+    "https://openalex.org/W2050481397",
+    "https://openalex.org/W2063050219",
+    "https://openalex.org/W2066261007",
+    "https://openalex.org/W2163509599",
+    "https://openalex.org/W2323358873",
+    "https://openalex.org/W2484684159",
+    "https://openalex.org/W2490372990",
+    "https://openalex.org/W3210076569"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "https://openalex.org/W1993646858",
+  "title": "Putting the Pieces Together: Testing the Independence of Interactions among Organisms",
+  "abstract": "An important challenge in ecology is determining the degree to which the dynamics at one level of organization can be predicted by the behavior of its component parts at a lower level of organization. This endeavor is likely to succeed only if the behavior of the component parts remains essentially the same regardless of the state of other elements in the system. For example, the behavior of multi—species communities is predictable from a knowledge of interactions among species pairs only if the functions describing the pair—wise interactions are not modified by the abundance of other species in the community. Here I discuss some of the problems in identifying empirically whether such interaction modifications (“higher order interactions”) occur. Four persistent problems include (1) confusion about the definition of “higher order interactions,” (2) discrepancies between the currency typically used in theoretical work (instantaneous rates) and that required in empirical work (the states of variables [e.g., abundances] after a discrete time period), (3) frequent incongruities between statistical procedures and the underlying theory being tested, and (4) a failure to explicitly consider the theoretical framework being tested. Progress may be more rapid in the future if the theory being tested is specified, and if empirical investigations shift their focus toward identifying possible mechanisms by which interactions can be modified.",
+  "authors": [
+    {
+      "name": "J. Timothy Wootton"
+    }
+  ],
+  "publication_year": 1994,
+  "cited_by_count": 148,
+  "primary_topic": "Plant and animal studies",
+  "subfield_topic": "Ecology, Evolution, Behavior and Systematics",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1972861805",
+    "https://openalex.org/W1983292092",
+    "https://openalex.org/W1993082516",
+    "https://openalex.org/W1994507967",
+    "https://openalex.org/W1995631375",
+    "https://openalex.org/W1997765943",
+    "https://openalex.org/W1999047637",
+    "https://openalex.org/W2007168967",
+    "https://openalex.org/W2009772373",
+    "https://openalex.org/W2010429517",
+    "https://openalex.org/W2010981035",
+    "https://openalex.org/W2029554231",
+    "https://openalex.org/W2037441395",
+    "https://openalex.org/W2040463603",
+    "https://openalex.org/W2047790876",
+    "https://openalex.org/W2063120112",
+    "https://openalex.org/W2068211543",
+    "https://openalex.org/W2069518818",
+    "https://openalex.org/W2071272142",
+    "https://openalex.org/W2075406908",
+    "https://openalex.org/W2077667895",
+    "https://openalex.org/W2081363984",
+    "https://openalex.org/W2082878438",
+    "https://openalex.org/W2093682328",
+    "https://openalex.org/W2104882826",
+    "https://openalex.org/W2105079925",
+    "https://openalex.org/W2115939055",
+    "https://openalex.org/W2127642180",
+    "https://openalex.org/W2157258388",
+    "https://openalex.org/W2171437247",
+    "https://openalex.org/W2259801033",
+    "https://openalex.org/W2328682234",
+    "https://openalex.org/W3048022990",
+    "https://openalex.org/W4299993032"
+  ]
+}

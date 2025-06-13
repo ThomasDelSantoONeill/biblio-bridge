@@ -1,0 +1,23 @@
+{
+  "id": "https://openalex.org/W2749675060",
+  "title": "Use of Ecopath with Ecosim to Evaluate Strategies for Sustainable Exploitation of Multi-Species Resources",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Daniel Pauly"
+    },
+    {
+      "name": "Gunna Weingartner"
+    }
+  ],
+  "publication_year": 1998,
+  "cited_by_count": 13,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W2007263482",
+    "https://openalex.org/W2772101700"
+  ]
+}

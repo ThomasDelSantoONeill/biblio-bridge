@@ -1,0 +1,52 @@
+{
+  "id": "https://openalex.org/W2418222615",
+  "title": "Stock Assessment of Pacific Hake, Merluccius productus, (a.k.a. Whiting) in U.S. and Canadian Waters in 2010",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Ian J. Stewart"
+    },
+    {
+      "name": "Owen S. Hamel"
+    }
+  ],
+  "publication_year": 2010,
+  "cited_by_count": 20,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W115302004",
+    "https://openalex.org/W1973289795",
+    "https://openalex.org/W2005535313",
+    "https://openalex.org/W2008685979",
+    "https://openalex.org/W2010179823",
+    "https://openalex.org/W2032794323",
+    "https://openalex.org/W2085597054",
+    "https://openalex.org/W2104501974",
+    "https://openalex.org/W2104759740",
+    "https://openalex.org/W2106235534",
+    "https://openalex.org/W2107398138",
+    "https://openalex.org/W2120378694",
+    "https://openalex.org/W2128013562",
+    "https://openalex.org/W2130870465",
+    "https://openalex.org/W2161252226",
+    "https://openalex.org/W2290325049",
+    "https://openalex.org/W2331182131",
+    "https://openalex.org/W2332843626",
+    "https://openalex.org/W2339582465",
+    "https://openalex.org/W263947280",
+    "https://openalex.org/W2738088071",
+    "https://openalex.org/W2740345027",
+    "https://openalex.org/W2767905780",
+    "https://openalex.org/W2795198553",
+    "https://openalex.org/W2807829746",
+    "https://openalex.org/W2910700079",
+    "https://openalex.org/W2917189131",
+    "https://openalex.org/W2917971459",
+    "https://openalex.org/W3123540983",
+    "https://openalex.org/W349428087",
+    "https://openalex.org/W42114903"
+  ]
+}

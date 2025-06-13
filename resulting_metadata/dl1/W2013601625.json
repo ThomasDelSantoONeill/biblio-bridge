@@ -1,0 +1,22 @@
+{
+  "id": "https://openalex.org/W2013601625",
+  "title": "THE BACKWARD‐BENDING SUPPLY CURVE OF THE FISHING INDUSTRY1",
+  "abstract": "Proceeding from an article by Gordon, published in 1954, the substance of an economic theory of the fisheries has emerged from the writings of a number of economists. 2 The theory has emphasized the common‐ property nature of the fishery resource, generally leading to an ‘over‐exploitation’ that results in dissipation of the rent that the resource could yield.",
+  "authors": [
+    {
+      "name": "Parzival Copes"
+    }
+  ],
+  "publication_year": 1970,
+  "cited_by_count": 143,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W2006690779",
+    "https://openalex.org/W2091192181",
+    "https://openalex.org/W2319917573",
+    "https://openalex.org/W3088713371"
+  ]
+}

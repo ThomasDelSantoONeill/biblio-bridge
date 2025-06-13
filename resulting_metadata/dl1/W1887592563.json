@@ -1,0 +1,56 @@
+{
+  "id": "https://openalex.org/W1887592563",
+  "title": "A complex quota-managed fishery: science and management in Australia's South East Fishery. Introduction and overview",
+  "abstract": "The stock assessment process in the South East Fishery involves scientists, industry, fishery managers, economists and non-government organizations. A comparison with such processes in other countries, where stakeholder involvement ranges from government scientists only to involvement of scientists, industry and conservation non-government organizations, suggests that Australia is the only country in which fishery managers are active and integral stock-assessment participants. In Australia, as in several other countries, the form of advice is comparative (consequences of alternative decisions) rather than prescriptive. Although all approaches have advantages and disadvantages, the South East Fishery process has advantages that appear to clearly outweigh the disadvantages. The advantages include better communication among interest groups, improved ownership of and hence support for outcomes and better interactions among groups. The disadvantages include the cost of the process, lack of consistency among assessments, vulnerability of scientists and the frustrations of industry.",
+  "authors": [
+    {
+      "name": "Anthony D. M. Smith"
+    },
+    {
+      "name": "David C. Smith"
+    }
+  ],
+  "publication_year": 2001,
+  "cited_by_count": 33,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1513653038",
+    "https://openalex.org/W1542514783",
+    "https://openalex.org/W1559037605",
+    "https://openalex.org/W1569734317",
+    "https://openalex.org/W1582073618",
+    "https://openalex.org/W1602637469",
+    "https://openalex.org/W1628940936",
+    "https://openalex.org/W1635280619",
+    "https://openalex.org/W1636293335",
+    "https://openalex.org/W1668540824",
+    "https://openalex.org/W1825662194",
+    "https://openalex.org/W1831548524",
+    "https://openalex.org/W1836233414",
+    "https://openalex.org/W1899023904",
+    "https://openalex.org/W1900173427",
+    "https://openalex.org/W1904986853",
+    "https://openalex.org/W1905866255",
+    "https://openalex.org/W1912090344",
+    "https://openalex.org/W1913880863",
+    "https://openalex.org/W1937913792",
+    "https://openalex.org/W1948064085",
+    "https://openalex.org/W1969695801",
+    "https://openalex.org/W2006031742",
+    "https://openalex.org/W2012980517",
+    "https://openalex.org/W2041685795",
+    "https://openalex.org/W2048778350",
+    "https://openalex.org/W2067023514",
+    "https://openalex.org/W2099907639",
+    "https://openalex.org/W2100012356",
+    "https://openalex.org/W2126475261",
+    "https://openalex.org/W2142681906",
+    "https://openalex.org/W2154883354",
+    "https://openalex.org/W2160730567",
+    "https://openalex.org/W2172072762",
+    "https://openalex.org/W3123681283"
+  ]
+}

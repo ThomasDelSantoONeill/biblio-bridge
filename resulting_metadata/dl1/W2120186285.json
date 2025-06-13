@@ -1,0 +1,30 @@
+{
+  "id": "https://openalex.org/W2120186285",
+  "title": "RECENT INCREASED ABUNDANCE AND POTENTIAL PRODUCTIVITY OF PAC1 FIC MACKEREL (SCOMBER JAPONICUS)",
+  "abstract": "Cohort analysis (VPA) of recent Pacific mackerel catches off southern California and northern Baja California shows that total biomass (age I+) increased sharply beginning in 1977. The increase followed a period of extreme depletion, and continued for several years, reaching a peak of 300,000 to 500,000 MT in 1982. Abundance decreased substantially in 1983 and 1984 because of very weak recruitment. The 1978 year class was considerably stronger than the previous largest year class. The recent pattern of reproductive success has been more variable than was seen historically, although the underlying cycle seems to continue. We investigate potential productivity of the Pacific mackerel resource by simulating the fishery from 1929 to 1968. The model assumes a Ricker stockrecruitment relationship, and retains the historical pattern in anomalies in reproductive successes, logarithm of recruits per spawner. We examine sensitivity of the simulation results to several alternative models of stock-recruitment compensation; the results are most robust to these assumptions if exploitation rates (annual catch divided by total biomass) are near 0.2. A yield isopleth diagram summarizes average annual yields for linear harvest formulas of the type: harvest equals afruction of the total biomass in excess of a curoff level. The present California Pacific mackerel fishery regulations (fraction = 0.2, cutofs = 18,144 MT total biomass) should produce an average yield of 27,000 MT/yr with an annual standard deviation of about 15,000 MT. Average yield could be increased to about 29,000 MT/yr if the fraction is increased to 0.28, but the annual standard deviation would increase to about 19,000 MT, and the average total biomass would decrease by about 25 percent. Because present California fishery regulations do not include all catches of Pacific mackerel in the harvest formula, the present effective value of the fraction exceeds its nominal value of 0.2.",
+  "authors": [
+    {
+      "name": "Alec D. MacCall"
+    },
+    {
+      "name": "Richard D. Methot"
+    },
+    {
+      "name": "West Broadway"
+    }
+  ],
+  "publication_year": 1985,
+  "cited_by_count": 35,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W2012143975",
+    "https://openalex.org/W2026218441",
+    "https://openalex.org/W2108201922",
+    "https://openalex.org/W2142174867",
+    "https://openalex.org/W2152522115",
+    "https://openalex.org/W2444417684"
+  ]
+}

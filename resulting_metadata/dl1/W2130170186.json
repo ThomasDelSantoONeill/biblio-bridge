@@ -1,0 +1,58 @@
+{
+  "id": "https://openalex.org/W2130170186",
+  "title": "Re-assessment of the stock–recruit and temperature–recruit relationships for Pacific sardine (<i>Sardinops sagax</i>)",
+  "abstract": "The harvest guideline for Pacific sardine ( Sardinops sagax ) incorporates an environmental parameter based on averaged surface temperatures at the Scripps Institution of Oceanography pier (SIO pier) in La Jolla, California, USA, which would be invoked after a series of cool years to reduce commercial catches using a precautionary decision rule. We revisit the stock–recruit and temperature–recruit relationships underpinning the currently used environmental parameter for sardine assessment and found that the temperature–recruit relationship no longer holds for the SIO pier when time series are updated with data from more recent years. The significance of the correlation between temperature and recruitment was also artificially increased by autocorrelation in the time series. In contrast, the stock–recruit relationship was still valid when recent data were added. SIO pier surface temperatures are warmer than 10 m-depth Southern California Bight (SCB) temperatures where the sardine spawn, and the difference has increased since the late 1970s. Sardine recruitment was also not related to offshore temperatures in the SCB. We demonstrate that the environmental proxy derived from SIO pier temperature, which has never affected the harvest guideline since its implementation, no longer predicts recruitment of Pacific sardine, and should be removed from sardine management.",
+  "authors": [
+    {
+      "name": "Sam McClatchie"
+    },
+    {
+      "name": "Ralf Goericke"
+    },
+    {
+      "name": "Guillermo Auad"
+    },
+    {
+      "name": "Kevin T. Hill"
+    }
+  ],
+  "publication_year": 2010,
+  "cited_by_count": 77,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1982929126",
+    "https://openalex.org/W1989031733",
+    "https://openalex.org/W1994875220",
+    "https://openalex.org/W1996618370",
+    "https://openalex.org/W2014425332",
+    "https://openalex.org/W2017938334",
+    "https://openalex.org/W2024081693",
+    "https://openalex.org/W2032129321",
+    "https://openalex.org/W2057507252",
+    "https://openalex.org/W2064382320",
+    "https://openalex.org/W2067613017",
+    "https://openalex.org/W2073289890",
+    "https://openalex.org/W2089701218",
+    "https://openalex.org/W2095875769",
+    "https://openalex.org/W2108527489",
+    "https://openalex.org/W2114251535",
+    "https://openalex.org/W2134535827",
+    "https://openalex.org/W2152846356",
+    "https://openalex.org/W2155742343",
+    "https://openalex.org/W2162691261",
+    "https://openalex.org/W2165689515",
+    "https://openalex.org/W2167950101",
+    "https://openalex.org/W2169254357",
+    "https://openalex.org/W2464468806",
+    "https://openalex.org/W2914252064",
+    "https://openalex.org/W2949175816",
+    "https://openalex.org/W4231725137",
+    "https://openalex.org/W4238360943",
+    "https://openalex.org/W4253016408",
+    "https://openalex.org/W610857469",
+    "https://openalex.org/W786189746"
+  ]
+}

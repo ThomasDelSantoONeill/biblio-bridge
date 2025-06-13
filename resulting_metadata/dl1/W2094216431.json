@@ -1,0 +1,53 @@
+{
+  "id": "https://openalex.org/W2094216431",
+  "title": "Effect of Increased Productivity on the Abundances of Trophic Levels",
+  "abstract": "Increasing productivity can have a variety of effects on the abundances of higher trophic levels. Previous work, based on models with one type per trophic level, has suggested that increasing nutrient input to the lowest trophic level (1) always increases the abundance of the highest trophic level and (2) increases the abundances of levels that are an even number of levels below the top, while leaving others unchanged. This article investigates how these predictions are altered by the presence of different species or types (i.e., heterogeneity) within trophic levels. The models investigated are Lotka-Volterra-type models of food webs with two or three trophic levels and one or two types per level. Less complete results are derived for models with more levels and more types per level. Several different food web structures may cause the highest level to be independent of nutrient input or actually decrease with nutrient input. However, the majority of possible food web configurations with two species on some or all levels can produce productivity-abundance relationships similar to those obtained when trophic levels are homogeneous. Factors other than heterogeneity within levels can affect the productivity abundance relationships; these factors and available information on relationships in nature are discussed.",
+  "authors": [
+    {
+      "name": "Peter A. Abrams"
+    }
+  ],
+  "publication_year": 1993,
+  "cited_by_count": 238,
+  "primary_topic": "Evolution and Genetic Dynamics",
+  "subfield_topic": "Genetics",
+  "field_topic": "Biochemistry, Genetics and Molecular Biology",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W108214371",
+    "https://openalex.org/W129831482",
+    "https://openalex.org/W136454471",
+    "https://openalex.org/W1509995973",
+    "https://openalex.org/W1515583326",
+    "https://openalex.org/W1968909733",
+    "https://openalex.org/W1975626823",
+    "https://openalex.org/W1983570458",
+    "https://openalex.org/W1988201445",
+    "https://openalex.org/W1997356912",
+    "https://openalex.org/W1999855446",
+    "https://openalex.org/W2001741189",
+    "https://openalex.org/W2004728046",
+    "https://openalex.org/W2004827430",
+    "https://openalex.org/W2006903570",
+    "https://openalex.org/W2008019499",
+    "https://openalex.org/W2024882325",
+    "https://openalex.org/W2026572668",
+    "https://openalex.org/W2041284684",
+    "https://openalex.org/W2049111297",
+    "https://openalex.org/W2052231134",
+    "https://openalex.org/W2053318772",
+    "https://openalex.org/W2060852353",
+    "https://openalex.org/W2072959381",
+    "https://openalex.org/W2078154956",
+    "https://openalex.org/W2086290199",
+    "https://openalex.org/W2086457515",
+    "https://openalex.org/W2089357070",
+    "https://openalex.org/W2090413088",
+    "https://openalex.org/W2093745521",
+    "https://openalex.org/W2141044638",
+    "https://openalex.org/W2757476527",
+    "https://openalex.org/W3025136633",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W76223228"
+  ]
+}

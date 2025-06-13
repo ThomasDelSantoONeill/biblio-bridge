@@ -1,0 +1,63 @@
+{
+  "id": "https://openalex.org/W2022293658",
+  "title": "On Measuring Economic Values for Nature",
+  "abstract": "This paper describes how economists ascribe values to the things people can choose. The economic value of an ecosystem function or service relates to the contribution it makes to human welfare, where human welfare is measured in terms of each individual's own assessment of well-being. After developing how this definition is used, the paper describes problems and opportunities for advancing the state-of-the-art in measuring economic values for nature. These arguments are developed using recent studies that attempted to estimate economic values for ecosystems on a global scale. One implication of this evaluation is that there is a need for greater communication between ecologists and economists. Economic analyses must reflect the intricate web of physical interrelationships linking activities that have harmful effects in one part of an ecosystem to the potential effects on other parts. At the same time, economic values for ecosystems accept consumer sovereignty and should be interpreted as descriptions of the tradeoffs involved in evaluating well-defined changes to specific ecosystems.",
+  "authors": [
+    {
+      "name": "Nancy E. Bockstael"
+    },
+    {
+      "name": "A. Myrick Freeman"
+    },
+    {
+      "name": "Raymond J. Kopp"
+    },
+    {
+      "name": "Paul R. Portney"
+    },
+    {
+      "name": "V. Kerry Smith"
+    }
+  ],
+  "publication_year": 2000,
+  "cited_by_count": 450,
+  "primary_topic": "Economic and Environmental Valuation",
+  "subfield_topic": "Economics and Econometrics",
+  "field_topic": "Economics, Econometrics and Finance",
+  "domain_topic": "Social Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1557575149",
+    "https://openalex.org/W1567537035",
+    "https://openalex.org/W1973408638",
+    "https://openalex.org/W1973474410",
+    "https://openalex.org/W1980462045",
+    "https://openalex.org/W1989559005",
+    "https://openalex.org/W1991422542",
+    "https://openalex.org/W2013825297",
+    "https://openalex.org/W2016869022",
+    "https://openalex.org/W2020200324",
+    "https://openalex.org/W2024783004",
+    "https://openalex.org/W2024871043",
+    "https://openalex.org/W2039197526",
+    "https://openalex.org/W2055891847",
+    "https://openalex.org/W2067427828",
+    "https://openalex.org/W2077375191",
+    "https://openalex.org/W2097022543",
+    "https://openalex.org/W2134480024",
+    "https://openalex.org/W2289004222",
+    "https://openalex.org/W2316563059",
+    "https://openalex.org/W2484604054",
+    "https://openalex.org/W2563901513",
+    "https://openalex.org/W2746485780",
+    "https://openalex.org/W2796787051",
+    "https://openalex.org/W2891423662",
+    "https://openalex.org/W3163538121",
+    "https://openalex.org/W412293127",
+    "https://openalex.org/W4235127691",
+    "https://openalex.org/W4247118747",
+    "https://openalex.org/W4301014253",
+    "https://openalex.org/W574858887",
+    "https://openalex.org/W641345682",
+    "https://openalex.org/W6551181"
+  ]
+}

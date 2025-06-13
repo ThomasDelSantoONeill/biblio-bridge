@@ -1,0 +1,57 @@
+{
+  "id": "https://openalex.org/W2982605914",
+  "title": "Management strategies for spasmodic stocks: a Canadian Atlantic redfish fishery case study",
+  "abstract": "There exist few recommendations for managing stocks with spasmodic recruitment, despite such stocks being not uncommon. Management procedures (MPs), developed for two species of redfish (Sebastes mentella and Sebastes fasciatus) in eastern Canada, are recommended for setting catch limits during periods of high and low abundance. A well-designed fishery-independent trawl survey is essential to provide advance warning of strong recruitment events and project future recruitment. Under an “inventory management” strategy, a more appropriate aim in spasmodic stocks may be to maximize the number of years with “good catches,” instead of maximizing total catches, as is traditionally considered in management strategy evaluation (MSE). Following a spasmodic recruitment event, an empirical harvest control rule based on larger fish delays the harvest of large cohorts by a few years, targets more commercially valuable fish sizes, and reduces the risk of growth overfishing. Capped MPs produced longer periods of large catches than uncapped MPs. MPs allowed for low harvests during periods of low abundance, thus avoiding unnecessary hardship in the industry. MPs evaluated here could be good candidates for other stocks with similar or less extreme recruitment variability.",
+  "authors": [
+    {
+      "name": "Roberto Licandeo"
+    },
+    {
+      "name": "Daniel E. Duplisea"
+    },
+    {
+      "name": "Caroline Senay"
+    },
+    {
+      "name": "Julie R. Marentette"
+    },
+    {
+      "name": "Murdoch K. McAllister"
+    }
+  ],
+  "publication_year": 2019,
+  "cited_by_count": 9,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1599127549",
+    "https://openalex.org/W1919658345",
+    "https://openalex.org/W2015617037",
+    "https://openalex.org/W2025440419",
+    "https://openalex.org/W2067965812",
+    "https://openalex.org/W2093603746",
+    "https://openalex.org/W2101899888",
+    "https://openalex.org/W2104743785",
+    "https://openalex.org/W2110884666",
+    "https://openalex.org/W2122719118",
+    "https://openalex.org/W2122737795",
+    "https://openalex.org/W2124167374",
+    "https://openalex.org/W2125109756",
+    "https://openalex.org/W2129079193",
+    "https://openalex.org/W2140988233",
+    "https://openalex.org/W2147505534",
+    "https://openalex.org/W2152353861",
+    "https://openalex.org/W2153277552",
+    "https://openalex.org/W2161667482",
+    "https://openalex.org/W2163056827",
+    "https://openalex.org/W2168739862",
+    "https://openalex.org/W2180668368",
+    "https://openalex.org/W2197567846",
+    "https://openalex.org/W2321982946",
+    "https://openalex.org/W2764297456",
+    "https://openalex.org/W2905771629",
+    "https://openalex.org/W4210260625"
+  ]
+}

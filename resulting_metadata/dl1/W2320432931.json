@@ -1,0 +1,30 @@
+{
+  "id": "https://openalex.org/W2320432931",
+  "title": "Fluctuations of Animal Populations and a Measure of Community Stability",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Robert H. MacArthur"
+    }
+  ],
+  "publication_year": 1955,
+  "cited_by_count": 2106,
+  "primary_topic": "Stochastic processes and statistical mechanics",
+  "subfield_topic": "Mathematical Physics",
+  "field_topic": "Mathematics",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1500291103",
+    "https://openalex.org/W1546755579",
+    "https://openalex.org/W1604169409",
+    "https://openalex.org/W1983956066",
+    "https://openalex.org/W2015345446",
+    "https://openalex.org/W2086272729",
+    "https://openalex.org/W2158807368",
+    "https://openalex.org/W2317845212",
+    "https://openalex.org/W2331625639",
+    "https://openalex.org/W2751862591",
+    "https://openalex.org/W2797096936",
+    "https://openalex.org/W2993383518"
+  ]
+}

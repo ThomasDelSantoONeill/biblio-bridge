@@ -1,0 +1,20 @@
+{
+  "id": "https://openalex.org/W166037773",
+  "title": "Dynamique des populations marines exploitées. Tome 1. Concepts et méthodes",
+  "abstract": "This book constitutes the first of a series of three volumes, the purpose of which is to cover the principal methods used in fish population dynamics. It is devoted to the definition of the main concepts, ami the presentation of the usual mathematical models. The second volume will deal with the fitting of the models, and the estimation of parameters. The third will be devoted to sampling problems. These volumes will be recollections of communications presented during ad hoc seminars, hold in Brest (GSG/COB) in 1980 and 1981. The first part deals with the basic concepts related to the two components whose relationship is being described by the population dynamics, namely the fish stock, to its relations with biological populations, and to the partition of catchabtiity into its components (vulnerability, availability...). The second chapter of this part is devoted to the quantification of exploitation. This leads to a discussion of nominal and effective fishing effort and fishing intensity. A brief review of the use of catch per unit of effort as an index of abundance is followed by a discussion of the concept of fishing power. The second part starts with some general remarks on mathematical modelling (chapter III), then comes to the two classical categories of models : global (surplus production) models (chapter IV), and structural models (chapter V). Chapter IV is mainly a review, based upon the SCHAEFER and PELLATOMLINSON models. Some less classical formulas from the recent literature are also introduced. Attention is paid to the underlying hypotheses and to the limitation of such models. The reader is finally referred to papers presenting the developments that could make it possible to overcome some of these limitations. Chapter V is based upon the classical BEVERTON and HOLT and RlCKER models, and the yield per recruit concepts. This field is however inlarged. Other commonly used variants of structural models are presented with an effort being made to clarify the real differences between all these variants. Special attention is also paid to so-called regenerative models and to the use of spawing-biomass or fecundity per recruit, which are likely to become commonly used in the coming years. In all cases, special attention is paid to the presentation of the basic formulas, that the reader might have to use if faced with a practical problem. Finally, a discussion of the underlying hypotheses takes place, before a brief review of the main developments, where the reader is referred to the appropriate literature.",
+  "authors": [
+    {
+      "name": "Alain Laurec"
+    },
+    {
+      "name": "Jean-Claude Le Guen"
+    }
+  ],
+  "publication_year": 1981,
+  "cited_by_count": 17,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": []
+}

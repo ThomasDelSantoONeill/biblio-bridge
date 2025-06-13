@@ -1,0 +1,181 @@
+{
+  "id": "https://openalex.org/W2256116549",
+  "title": "A Vulnerability Assessment of Fish and Invertebrates to Climate Change on the Northeast U.S. Continental Shelf",
+  "abstract": "Climate change and decadal variability are impacting marine fish and invertebrate species worldwide and these impacts will continue for the foreseeable future. Quantitative approaches have been developed to examine climate impacts on productivity, abundance, and distribution of various marine fish and invertebrate species. However, it is difficult to apply these approaches to large numbers of species owing to the lack of mechanistic understanding sufficient for quantitative analyses, as well as the lack of scientific infrastructure to support these more detailed studies. Vulnerability assessments provide a framework for evaluating climate impacts over a broad range of species with existing information. These methods combine the exposure of a species to a stressor (climate change and decadal variability) and the sensitivity of species to the stressor. These two components are then combined to estimate an overall vulnerability. Quantitative data are used when available, but qualitative information and expert opinion are used when quantitative data is lacking. Here we conduct a climate vulnerability assessment on 82 fish and invertebrate species in the Northeast U.S. Shelf including exploited, forage, and protected species. We define climate vulnerability as the extent to which abundance or productivity of a species in the region could be impacted by climate change and decadal variability. We find that the overall climate vulnerability is high to very high for approximately half the species assessed; diadromous and benthic invertebrate species exhibit the greatest vulnerability. In addition, the majority of species included in the assessment have a high potential for a change in distribution in response to projected changes in climate. Negative effects of climate change are expected for approximately half of the species assessed, but some species are expected to be positively affected (e.g., increase in productivity or move into the region). These results will inform research and management activities related to understanding and adapting marine fisheries management and conservation to climate change and decadal variability.",
+  "authors": [
+    {
+      "name": "Jonathan A. Hare"
+    },
+    {
+      "name": "Wendy E. Morrison"
+    },
+    {
+      "name": "Mark Nelson"
+    },
+    {
+      "name": "Megan M. Stachura"
+    },
+    {
+      "name": "Eric J. Teeters"
+    },
+    {
+      "name": "Roger Griffis"
+    },
+    {
+      "name": "Michael A. Alexander"
+    },
+    {
+      "name": "James D. Scott"
+    },
+    {
+      "name": "Larry Alade"
+    },
+    {
+      "name": "Richard J. Bell"
+    },
+    {
+      "name": "Antonie S. Chute"
+    },
+    {
+      "name": "Kiersten L. Curti"
+    },
+    {
+      "name": "Tobey H. Curtis"
+    },
+    {
+      "name": "Daniel Kircheis"
+    },
+    {
+      "name": "John F. Kocik"
+    },
+    {
+      "name": "Sean M. Lucey"
+    },
+    {
+      "name": "Camilla T. McCandless"
+    },
+    {
+      "name": "Lisa M. Milke"
+    },
+    {
+      "name": "David E. Richardson"
+    },
+    {
+      "name": "Eric Robillard"
+    },
+    {
+      "name": "Harvey J. Walsh"
+    },
+    {
+      "name": "M. Conor McManus"
+    },
+    {
+      "name": "Katrin E. Marancik"
+    },
+    {
+      "name": "Carolyn A. Griswold"
+    }
+  ],
+  "publication_year": 2016,
+  "cited_by_count": 462,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1465938231",
+    "https://openalex.org/W1483087230",
+    "https://openalex.org/W1537583980",
+    "https://openalex.org/W1561461563",
+    "https://openalex.org/W1643377195",
+    "https://openalex.org/W1852209334",
+    "https://openalex.org/W1900761131",
+    "https://openalex.org/W1935084695",
+    "https://openalex.org/W1943648329",
+    "https://openalex.org/W1973950923",
+    "https://openalex.org/W1984133743",
+    "https://openalex.org/W1991308688",
+    "https://openalex.org/W1994482092",
+    "https://openalex.org/W1997065014",
+    "https://openalex.org/W1998170036",
+    "https://openalex.org/W2001092428",
+    "https://openalex.org/W2001829963",
+    "https://openalex.org/W2002296014",
+    "https://openalex.org/W2004128153",
+    "https://openalex.org/W2008691250",
+    "https://openalex.org/W2008951609",
+    "https://openalex.org/W2012800330",
+    "https://openalex.org/W2016800147",
+    "https://openalex.org/W2018535815",
+    "https://openalex.org/W2021200641",
+    "https://openalex.org/W2026178092",
+    "https://openalex.org/W2028787031",
+    "https://openalex.org/W2029274083",
+    "https://openalex.org/W2029345767",
+    "https://openalex.org/W2042924629",
+    "https://openalex.org/W2045299376",
+    "https://openalex.org/W2046485595",
+    "https://openalex.org/W2046761447",
+    "https://openalex.org/W2050022705",
+    "https://openalex.org/W2050761907",
+    "https://openalex.org/W2051776212",
+    "https://openalex.org/W2058266123",
+    "https://openalex.org/W2078087608",
+    "https://openalex.org/W2087029171",
+    "https://openalex.org/W2095807316",
+    "https://openalex.org/W2096911721",
+    "https://openalex.org/W2097151205",
+    "https://openalex.org/W2098324222",
+    "https://openalex.org/W2099968071",
+    "https://openalex.org/W2104744700",
+    "https://openalex.org/W2109922942",
+    "https://openalex.org/W2110310854",
+    "https://openalex.org/W2110324036",
+    "https://openalex.org/W2112362415",
+    "https://openalex.org/W2113487278",
+    "https://openalex.org/W2114795157",
+    "https://openalex.org/W2115613452",
+    "https://openalex.org/W2122532121",
+    "https://openalex.org/W2123111228",
+    "https://openalex.org/W2123900386",
+    "https://openalex.org/W2125270554",
+    "https://openalex.org/W2126369296",
+    "https://openalex.org/W2132441771",
+    "https://openalex.org/W2133762778",
+    "https://openalex.org/W2134841119",
+    "https://openalex.org/W2135362707",
+    "https://openalex.org/W2136761514",
+    "https://openalex.org/W2137598290",
+    "https://openalex.org/W2137631906",
+    "https://openalex.org/W2141342294",
+    "https://openalex.org/W2142486647",
+    "https://openalex.org/W2151098473",
+    "https://openalex.org/W2156208116",
+    "https://openalex.org/W2157727063",
+    "https://openalex.org/W2158321278",
+    "https://openalex.org/W2158482034",
+    "https://openalex.org/W2158952496",
+    "https://openalex.org/W2162365320",
+    "https://openalex.org/W2163492266",
+    "https://openalex.org/W2167302090",
+    "https://openalex.org/W2168449366",
+    "https://openalex.org/W2168909889",
+    "https://openalex.org/W2170590389",
+    "https://openalex.org/W2171566988",
+    "https://openalex.org/W2172742089",
+    "https://openalex.org/W2174139941",
+    "https://openalex.org/W2206046656",
+    "https://openalex.org/W2278081136",
+    "https://openalex.org/W2322130052",
+    "https://openalex.org/W2333770661",
+    "https://openalex.org/W2397383529",
+    "https://openalex.org/W2566546937",
+    "https://openalex.org/W2795468737",
+    "https://openalex.org/W2803209057",
+    "https://openalex.org/W3140894067",
+    "https://openalex.org/W382509713",
+    "https://openalex.org/W563861735",
+    "https://openalex.org/W624834527",
+    "https://openalex.org/W625530531"
+  ]
+}

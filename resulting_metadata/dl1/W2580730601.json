@@ -1,0 +1,92 @@
+{
+  "id": "https://openalex.org/W2580730601",
+  "title": "Are fish outside their usual ranges early indicators of climate‐driven range shifts?",
+  "abstract": "Shifts in species ranges are a global phenomenon, well known to occur in response to a changing climate. New species arriving in an area may become pest species, modify ecosystem structure, or represent challenges or opportunities for fisheries and recreation. Early detection of range shifts and prompt implementation of any appropriate management strategies is therefore crucial. This study investigates whether 'first sightings' of marine species outside their normal ranges could provide an early warning of impending climate-driven range shifts. We examine the relationships between first sightings and marine regions defined by patterns of local climate velocities (calculated on a 50-year timescale), while also considering the distribution of observational effort (i.e. number of sampling days recorded with biological observations in global databases). The marine trajectory regions include climate 'source' regions (areas lacking connections to warmer areas), 'corridor' regions (areas where moving isotherms converge), and 'sink' regions (areas where isotherms locally disappear). Additionally, we investigate the latitudinal band in which first sightings were recorded, and species' thermal affiliations. We found that first sightings are more likely to occur in climate sink and 'divergent' regions (areas where many rapid and diverging climate trajectories pass through) indicating a role of temperature in driving changes in marine species distributions. The majority of our fish first sightings appear to be tropical and subtropical species moving towards high latitudes, as would be expected in climate warming. Our results indicate that first sightings are likely related to longer-term climatic processes, and therefore have potential use to indicate likely climate-driven range shifts. The development of an approach to detect impending range shifts at an early stage will allow resource managers and researchers to better manage opportunities resulting from range-shifting species before they potentially colonize.",
+  "authors": [
+    {
+      "name": "Hannah E. Fogarty"
+    },
+    {
+      "name": "Michael T. Burrows"
+    },
+    {
+      "name": "GT Pecl"
+    },
+    {
+      "name": "Lucy M. Robinson"
+    },
+    {
+      "name": "Elvira S. Poloczanska"
+    }
+  ],
+  "publication_year": 2017,
+  "cited_by_count": 76,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1503900815",
+    "https://openalex.org/W1512870236",
+    "https://openalex.org/W1581162269",
+    "https://openalex.org/W1689783173",
+    "https://openalex.org/W169370418",
+    "https://openalex.org/W1966424485",
+    "https://openalex.org/W1972162246",
+    "https://openalex.org/W1974478347",
+    "https://openalex.org/W1977349887",
+    "https://openalex.org/W1984133743",
+    "https://openalex.org/W1988129240",
+    "https://openalex.org/W1999491524",
+    "https://openalex.org/W2004156639",
+    "https://openalex.org/W2014196359",
+    "https://openalex.org/W2018291779",
+    "https://openalex.org/W2019373835",
+    "https://openalex.org/W2028787031",
+    "https://openalex.org/W2032826461",
+    "https://openalex.org/W2049002706",
+    "https://openalex.org/W2053110663",
+    "https://openalex.org/W2081460741",
+    "https://openalex.org/W2082455532",
+    "https://openalex.org/W2088591886",
+    "https://openalex.org/W2091504879",
+    "https://openalex.org/W2092418241",
+    "https://openalex.org/W2094220611",
+    "https://openalex.org/W2095018223",
+    "https://openalex.org/W2102765796",
+    "https://openalex.org/W2106721771",
+    "https://openalex.org/W2109372948",
+    "https://openalex.org/W2110194779",
+    "https://openalex.org/W2117930979",
+    "https://openalex.org/W2119847130",
+    "https://openalex.org/W2120581912",
+    "https://openalex.org/W2126473499",
+    "https://openalex.org/W2126817880",
+    "https://openalex.org/W2129337133",
+    "https://openalex.org/W2130144784",
+    "https://openalex.org/W2132441771",
+    "https://openalex.org/W2133501143",
+    "https://openalex.org/W2134891582",
+    "https://openalex.org/W2139693244",
+    "https://openalex.org/W2153905523",
+    "https://openalex.org/W2157850483",
+    "https://openalex.org/W2160139399",
+    "https://openalex.org/W2166232337",
+    "https://openalex.org/W2170153270",
+    "https://openalex.org/W2170590389",
+    "https://openalex.org/W2178030162",
+    "https://openalex.org/W2182323380",
+    "https://openalex.org/W2229214809",
+    "https://openalex.org/W2267470873",
+    "https://openalex.org/W2323326607",
+    "https://openalex.org/W2338326115",
+    "https://openalex.org/W2511450769",
+    "https://openalex.org/W2530597942",
+    "https://openalex.org/W2772435389",
+    "https://openalex.org/W3047992374",
+    "https://openalex.org/W3104534135",
+    "https://openalex.org/W330591721",
+    "https://openalex.org/W36869706",
+    "https://openalex.org/W4255983256"
+  ]
+}

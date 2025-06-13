@@ -1,0 +1,31 @@
+{
+  "id": "https://openalex.org/W2006265485",
+  "title": "The stability of real ecosystems",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Peter Yodzis"
+    }
+  ],
+  "publication_year": 1981,
+  "cited_by_count": 347,
+  "primary_topic": "Evolutionary Game Theory and Cooperation",
+  "subfield_topic": "Sociology and Political Science",
+  "field_topic": "Social Sciences",
+  "domain_topic": "Social Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1546156674",
+    "https://openalex.org/W1974393545",
+    "https://openalex.org/W1987852776",
+    "https://openalex.org/W1993193096",
+    "https://openalex.org/W2008771244",
+    "https://openalex.org/W2024601874",
+    "https://openalex.org/W2061541477",
+    "https://openalex.org/W2091467602",
+    "https://openalex.org/W2093383057",
+    "https://openalex.org/W2141394518",
+    "https://openalex.org/W2321937847",
+    "https://openalex.org/W4297440205",
+    "https://openalex.org/W4299993032"
+  ]
+}

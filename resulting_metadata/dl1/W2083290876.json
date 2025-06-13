@@ -1,0 +1,53 @@
+{
+  "id": "https://openalex.org/W2083290876",
+  "title": "Fixed exploitation rate strategies for coping with effects of climate change",
+  "abstract": "Survival rates and carrying capacities for larval and juvenile fishes may be strongly affected by long-term, unpredictable climatic fluctuations. When climate impacts produce strongly autocorrelated interannual variations in recruitment, harvesting a constant fraction of the stock each year allows the spawning stock to track such variations. Dynamic programming analysis indicates that this tracking effect is likely to produce long-term harvests that are very close (within 15%) to the theoretical optimum that could be achieved if all future climatic variations were known in advance. Fixed harvest rate strategies are likely to degrade performance more than 10% only when there is little interannual correlation in environmental effects or when there is a large, abrupt climate change that can be predicted well in advance if it is going to increase carrying capacity, or detected immediately if it causes a decrease in capacity. This finding implies that it may be more cost effective to invest in research on how to implement fixed harvest rate strategies than to invest in research on explaining and predicting climatic effects. Successful implementation may require a combination of improved stock size assessments, and stringent regulatory measures to substantially restrict the proportion of fish at risk to fishing each year. Resume : Les taux de survie des larves et des juveniles de poissons et la capacite portante de leurs habitats peuvent etre profondement affectes par des fluctuations climatiques imprevisibles et a long terme. Quand l'impact du climat produit des variations interannuelles du recrutement qui sont fortement autocorrelees, le prelevement d'une fraction constante de la population chaque annee permet au stock reproducteur de s'aligner sur ces variations. L'analyse par programmation dynamique indique que cet effet d'alignement doit vraisemblablement produire a long terme des prelevements qui sont tres proches (en-deca de 15%) de l'optimum theorique qui pourrait etre atteint si on connaissait d'avance toutes les variations climatiques futures. Les strategies du taux fixe de prelevement ne reduisent la production de plus de 10% que lorsqu'il y a peu de correlation interannuelle dans les effets environnementaux ou que se produit une modification climatique importante et brutale que l'on peut prevoir longtemps a l'avance si elle doit accroitre la capacite portante, ou que l'on peut detecter immediatement si elle cause une baisse de la capacite. Cette decouverte permet de penser qu'il serait plus rentable d'investir dans la recherche sur les facons de mettre en oeuvre des strategies de taux de prelevement fixe plutot que d'investir dans la recherche sur l'explication et la prediction des effets climatiques. Pour mettre en oeuvre avec succes de telles strategies, il peut etre necessaire de combiner des evaluations plus fiables de la taille des stocks et des mesures de reglementation stricte de facon a restreindre substantiellement la proportion de poissons susceptibles d'etre peches chaque annee. (Traduit par la Redaction)",
+  "authors": [
+    {
+      "name": "Carl J. Walters"
+    },
+    {
+      "name": "Ana M. Parma"
+    }
+  ],
+  "publication_year": 1996,
+  "cited_by_count": 189,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1523938686",
+    "https://openalex.org/W1536861631",
+    "https://openalex.org/W1599127549",
+    "https://openalex.org/W193619936",
+    "https://openalex.org/W1969241986",
+    "https://openalex.org/W1973348534",
+    "https://openalex.org/W1975738701",
+    "https://openalex.org/W1982523367",
+    "https://openalex.org/W1984922131",
+    "https://openalex.org/W1986400874",
+    "https://openalex.org/W2017450885",
+    "https://openalex.org/W2019253172",
+    "https://openalex.org/W2031569377",
+    "https://openalex.org/W2032131096",
+    "https://openalex.org/W2035058341",
+    "https://openalex.org/W2042464037",
+    "https://openalex.org/W2050117658",
+    "https://openalex.org/W2052850964",
+    "https://openalex.org/W2054032249",
+    "https://openalex.org/W2055402323",
+    "https://openalex.org/W2059008864",
+    "https://openalex.org/W2071700559",
+    "https://openalex.org/W2076153258",
+    "https://openalex.org/W2083527376",
+    "https://openalex.org/W2103675362",
+    "https://openalex.org/W2103937295",
+    "https://openalex.org/W2137333568",
+    "https://openalex.org/W2158261246",
+    "https://openalex.org/W2334359902",
+    "https://openalex.org/W2634955313",
+    "https://openalex.org/W2700821087",
+    "https://openalex.org/W37985204"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "https://openalex.org/W3182944815",
+  "title": "Moving reference point goalposts and implications for fisheries sustainability",
+  "abstract": "Abstract For many environmental indicators, the sustainable status can change because of changes in either the monitored state or the policy goal. Fisheries provide an intensively monitored setting to investigate the relative impacts of such change. Key fisheries sustainability indicators comprise the ratio between fishing pressure or biomass and their respective reference levels. We developed a retrospective database of population status, reference point changes and reported reasons for changes for all data‐rich stocks in the ICES region. We derived methods to distinguish the impacts of either source of change (monitored state or policy goal) on sustainable status. We found that reference points changed frequently (64% of populations had reference point changes) with varying magnitudes. Contrary to expectation, reference point changes were often not compensated by changes in the state thus significantly impacting inferred sustainability status and dependent scientific advice. Across a range of life histories and assessments, changes in reference points dominate retrospective revisions in status over the full time series. Overall, status before and after the change of reference point had no significant directional differences that would suggest reference point change effecting movement towards or away from sustainability. Although multiple factors have contributed to reference point changes, our results show that the reference point definition and the technical basis for estimation were the most important reasons for change. Recognizing that reference points are not constant in time but rather form reference series is paramount to quantifying present and historical sustainability. Properly documenting, justifying and quantifying the impacts of such change is an ongoing challenge.",
+  "authors": [
+    {
+      "name": "Paula Silvar‐Viladomiu"
+    },
+    {
+      "name": "Cóilín Minto"
+    },
+    {
+      "name": "Ghassen Halouani"
+    },
+    {
+      "name": "Luke Batts"
+    },
+    {
+      "name": "Deirdre Brophy"
+    },
+    {
+      "name": "Colm Lordan"
+    },
+    {
+      "name": "David G. Reid"
+    }
+  ],
+  "publication_year": 2021,
+  "cited_by_count": 9,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1918069932",
+    "https://openalex.org/W2039498209",
+    "https://openalex.org/W2051208206",
+    "https://openalex.org/W2057501712",
+    "https://openalex.org/W2066819488",
+    "https://openalex.org/W2102380848",
+    "https://openalex.org/W2123069546",
+    "https://openalex.org/W2147505534",
+    "https://openalex.org/W2147807123",
+    "https://openalex.org/W2149537945",
+    "https://openalex.org/W2153277552",
+    "https://openalex.org/W2156523992",
+    "https://openalex.org/W2156709416",
+    "https://openalex.org/W2161425101",
+    "https://openalex.org/W2169149537",
+    "https://openalex.org/W2206654068",
+    "https://openalex.org/W2295177640",
+    "https://openalex.org/W2302950870",
+    "https://openalex.org/W2496603371",
+    "https://openalex.org/W2560876123",
+    "https://openalex.org/W2608202490",
+    "https://openalex.org/W2616686337",
+    "https://openalex.org/W2766071999",
+    "https://openalex.org/W2768439440",
+    "https://openalex.org/W2898461106",
+    "https://openalex.org/W2900955981",
+    "https://openalex.org/W2951580579",
+    "https://openalex.org/W2999917256",
+    "https://openalex.org/W3012370193",
+    "https://openalex.org/W3089326327",
+    "https://openalex.org/W3092393576",
+    "https://openalex.org/W3165854352",
+    "https://openalex.org/W4285719527"
+  ]
+}

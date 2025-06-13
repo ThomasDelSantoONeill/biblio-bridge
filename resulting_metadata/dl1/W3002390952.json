@@ -1,0 +1,107 @@
+{
+  "id": "https://openalex.org/W3002390952",
+  "title": "Informing management decisions for ecological networks, using dynamic models calibrated to noisy time‐series data",
+  "abstract": "Abstract Well‐intentioned environmental management can backfire, causing unforeseen damage. To avoid this, managers and ecologists seek accurate predictions of the ecosystem‐wide impacts of interventions, given small and imprecise datasets, which is an incredibly difficult task. We generated and analysed thousands of ecosystem population time series to investigate whether fitted models can aid decision‐makers to select interventions. Using these time‐series data (sparse and noisy datasets drawn from deterministic Lotka‐Volterra systems with two to nine species, of known network structure), dynamic model forecasts of whether a species’ future population will be positively or negatively affected by rapid eradication of another species were correct &gt; 70% of the time. Although 70% correct classifications is only slightly better than an uninformative prediction (50%), this classification accuracy can be feasibly improved by increasing monitoring accuracy and frequency. Our findings suggest that models may not need to produce well‐constrained predictions before they can inform decisions that improve environmental outcomes.",
+  "authors": [
+    {
+      "name": "Matthew Adams"
+    },
+    {
+      "name": "Scott A. Sisson"
+    },
+    {
+      "name": "Kate J. Helmstedt"
+    },
+    {
+      "name": "Christopher M. Baker"
+    },
+    {
+      "name": "Matthew Holden"
+    },
+    {
+      "name": "Michaela Plein"
+    },
+    {
+      "name": "Jacinta Holloway"
+    },
+    {
+      "name": "Kerrie Mengersen"
+    },
+    {
+      "name": "Eve McDonald‐Madden"
+    }
+  ],
+  "publication_year": 2020,
+  "cited_by_count": 39,
+  "primary_topic": "Species Distribution and Climate Change",
+  "subfield_topic": "Ecological Modeling",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1481546449",
+    "https://openalex.org/W1528968666",
+    "https://openalex.org/W1967809830",
+    "https://openalex.org/W1968604118",
+    "https://openalex.org/W1982363149",
+    "https://openalex.org/W1988201445",
+    "https://openalex.org/W1991799868",
+    "https://openalex.org/W1992057706",
+    "https://openalex.org/W1997233747",
+    "https://openalex.org/W2000256297",
+    "https://openalex.org/W2046809321",
+    "https://openalex.org/W2052828691",
+    "https://openalex.org/W2053852032",
+    "https://openalex.org/W2065840674",
+    "https://openalex.org/W2071216578",
+    "https://openalex.org/W2072568153",
+    "https://openalex.org/W2073027009",
+    "https://openalex.org/W2082208382",
+    "https://openalex.org/W2089855625",
+    "https://openalex.org/W2092124742",
+    "https://openalex.org/W2096877383",
+    "https://openalex.org/W2103660236",
+    "https://openalex.org/W2112405959",
+    "https://openalex.org/W2116165854",
+    "https://openalex.org/W2120041700",
+    "https://openalex.org/W2123645154",
+    "https://openalex.org/W2123878749",
+    "https://openalex.org/W2126736494",
+    "https://openalex.org/W2128868249",
+    "https://openalex.org/W2132453181",
+    "https://openalex.org/W2134151301",
+    "https://openalex.org/W2135267747",
+    "https://openalex.org/W2136187322",
+    "https://openalex.org/W2149060829",
+    "https://openalex.org/W2154002209",
+    "https://openalex.org/W2157202374",
+    "https://openalex.org/W2161394647",
+    "https://openalex.org/W2161629963",
+    "https://openalex.org/W2165132341",
+    "https://openalex.org/W2212956024",
+    "https://openalex.org/W2290977356",
+    "https://openalex.org/W2337888439",
+    "https://openalex.org/W2346537720",
+    "https://openalex.org/W2498384772",
+    "https://openalex.org/W2510796315",
+    "https://openalex.org/W2524280995",
+    "https://openalex.org/W2563614562",
+    "https://openalex.org/W2584072963",
+    "https://openalex.org/W2606212059",
+    "https://openalex.org/W2607441640",
+    "https://openalex.org/W2619821824",
+    "https://openalex.org/W2706448119",
+    "https://openalex.org/W2747959511",
+    "https://openalex.org/W2786425804",
+    "https://openalex.org/W2787154907",
+    "https://openalex.org/W2802532024",
+    "https://openalex.org/W2806334026",
+    "https://openalex.org/W2895152177",
+    "https://openalex.org/W2897105411",
+    "https://openalex.org/W2899504030",
+    "https://openalex.org/W2952344797",
+    "https://openalex.org/W2952490502",
+    "https://openalex.org/W2953106474",
+    "https://openalex.org/W3102426116",
+    "https://openalex.org/W4237997615"
+  ]
+}

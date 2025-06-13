@@ -1,0 +1,43 @@
+{
+  "id": "https://openalex.org/W187985878",
+  "title": "Predator facilitation: the combined effect of snakes and owls on the foraging behavior of gerbils",
+  "abstract": "Predator facilitation occurs when prey face two or more predator species and cannot forage and be safe from both types of predators simultaneously: avoiding one predator necessarily leads to increased exposure to the other. Two species of coexisting gerbils 0Gerbillus allenbyi and G. pyramidum) which coexist in sandy habitats in the Negev Desert, Israel may face such conflicting demands from vipers and owls. We tested this by subjecting the gerbils to the presence of snakes and owls in a factorial experiment carried out in a large aviary. We also manipulated illumination and microhabitat, two factors which affect the risk of predation. Gerbils responded to owls by reducing foraging activity, avoiding the open microhabitat, and exploiting resource patches less intensively. Also, G. pyramidum showed a significant light x snake x owl interaction indicative of predator facilitation: the gerbils avoided the open entirely when faced with lights and owls, but increased their exposure to owls if vipers were also present. The fangs of the snakes are driving the gerbils into the talons of the owls. Such facilitation may affect the foraging behavior, species interactions, and community structure of the gerbils.",
+  "authors": [
+    {
+      "name": "Burt P. Kotler"
+    },
+    {
+      "name": "Leon Blaustein"
+    },
+    {
+      "name": "Joel S. Brown"
+    }
+  ],
+  "publication_year": 1992,
+  "cited_by_count": 206,
+  "primary_topic": "Wildlife Ecology and Conservation",
+  "subfield_topic": "Ecology",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1989979831",
+    "https://openalex.org/W1994270476",
+    "https://openalex.org/W1997356912",
+    "https://openalex.org/W2026099078",
+    "https://openalex.org/W2030384556",
+    "https://openalex.org/W2033267409",
+    "https://openalex.org/W2035316688",
+    "https://openalex.org/W2074220424",
+    "https://openalex.org/W2081996570",
+    "https://openalex.org/W2088182855",
+    "https://openalex.org/W2144412688",
+    "https://openalex.org/W2313925485",
+    "https://openalex.org/W2322034893",
+    "https://openalex.org/W2323844668",
+    "https://openalex.org/W2324844869",
+    "https://openalex.org/W2325615552",
+    "https://openalex.org/W2327235033",
+    "https://openalex.org/W2333524914",
+    "https://openalex.org/W2487864820"
+  ]
+}

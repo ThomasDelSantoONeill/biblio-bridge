@@ -1,0 +1,20 @@
+{
+  "id": "https://openalex.org/W2010785444",
+  "title": "Recruitment: a Problem of Multispecies Interaction and Environmental Perturbations, with Special Reference to Gulf of St. Lawrence Atlantic Herring (<i>Clupea harengus harengus</i>)",
+  "abstract": "A stochastic model was developed to study effects of temperature perturbations, predation, and competition from Atlantic mackerel (Scomber scombrus) on the recruitment process for Gulf of St. Lawrence Atlantic herring (Clupea harengus harengus). Multivariate statistics were used to determine the structural equation for portions of the life history of herring. Temperature and the abundance of age-group 0 mackerel affected the herring growth rate, but neither total herring biomass nor total pelagic biomass had any measurable effect on herring growth rate. Herring growth rate, coupled with adult stock size and environmental effects, mediated through temperature were the prime determinants of larval abundance less than 10 mm. Density-dependent growth was found in the l 1 stage but is argued as being anomalous in relation to age-group 0 herring maximizing their production to simultaneously stabilize both l 1 , (the 1st yr of life) and year-class size. Predation, tempered by available food density, is discussed as a major population stabilizing and a fine-tuning mechanism for year-class formation. The ramifications of variation in recruitment are discussed in relation to the Beverton and Holt and the Schaefer models. In addition, the Ricker recruitment curve is confirmed as being a viable fisheries management tool.",
+  "authors": [
+    {
+      "name": "Patrick F. Lett"
+    },
+    {
+      "name": "Axel Kohler"
+    }
+  ],
+  "publication_year": 1976,
+  "cited_by_count": 42,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": []
+}

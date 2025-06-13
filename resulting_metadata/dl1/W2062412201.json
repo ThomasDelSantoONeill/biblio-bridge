@@ -1,0 +1,54 @@
+{
+  "id": "https://openalex.org/W2062412201",
+  "title": "Direct and Indirect Competition Between Spider Mites Feeding on Grapes",
+  "abstract": "Agents for biological control of arthropod pests have generally come from the trophic level above the pest (predators, parasites, diseases) rather than from the same trophic level (competitors). The rationale behind this approach is twofold. First, interspecific competition among herbivorous arthropods is thought to be weak; populations are kept at low levels through the action of natural enemies. Second, the potential benefits of an herbivorous biological control agent must be weighed against the damage it causes to the host plant through its feeding. In the field we have been successful at using less economically important Willamette mites to control economically important Pacific mites. In greenhouse and field experiments reported here, we examined both direct and indirect mechanisms (via the host plant or a shared predator) to explain this negative interaction. In our first greenhouse experiment we injured leaves on single canes of young Zinfandel grapevines with Willamette mites at four density levels, removed theses mites and then measured consequences of this past injury on Pacific mites placed on newly produced leaves. Pacific mite populations were reduced significantly by previous Willamette mite injury, suggesting a systemic induced response. In our second greenhouse experiment we measured the relative importance of interspecific interactions between concurrent populations of Willamette and Pacific mites, direct predation by a phytoseiid predator, and interactions between predation and competition (apparent competition). Predators and prey were confined to single canes and, at this small scale, direct predation was of overriding importance while interspecific competition and apparent competition were not significant in determining Pacific mite populations. We examined the relative importance of an early season release of Willamette mites, predaceous mites, or both in a large field experiment conducted in a commercial Zinfandel vineyard. Pacific mite populations were most strongly reduced by the early release of Willamette mites and by midseason abundance of predaceous mites. Our ANOVA results did not detect a significant interaction between the early season release of Williamette mites and predaceous mites. The presence of Willamette mites did not make releases of predators more effective at controlling Pacific mites. Grape yield and berry sugar concentration were unaffected by either Willamette mite or predaceous mite treatments in the year of the mite releases nor in the following season. Path analysis showed that Willamette mite density was never strongly negatively correlated with Pacific mite density in the subsequent time period (2-wk intervals between sampling dates), despite the strong negative effect that the early-season release of Willamette mites had on Pacific mite densities later in the season. This suggests that Willamette mites affected Pacific mites indirectly.",
+  "authors": [
+    {
+      "name": "Gregory M. English‐Loeb"
+    },
+    {
+      "name": "Richard Karban"
+    },
+    {
+      "name": "David Hougen-Eitzman"
+    }
+  ],
+  "publication_year": 1993,
+  "cited_by_count": 39,
+  "primary_topic": "Insect-Plant Interactions and Control",
+  "subfield_topic": "Insect Science",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1514146759",
+    "https://openalex.org/W1529972356",
+    "https://openalex.org/W1553946241",
+    "https://openalex.org/W1575970281",
+    "https://openalex.org/W1965791263",
+    "https://openalex.org/W1981751960",
+    "https://openalex.org/W1994388514",
+    "https://openalex.org/W1999047637",
+    "https://openalex.org/W2006666561",
+    "https://openalex.org/W2024882325",
+    "https://openalex.org/W2031682813",
+    "https://openalex.org/W2034207977",
+    "https://openalex.org/W2038423019",
+    "https://openalex.org/W2045658274",
+    "https://openalex.org/W2049053063",
+    "https://openalex.org/W2060510704",
+    "https://openalex.org/W2060727057",
+    "https://openalex.org/W2062524740",
+    "https://openalex.org/W2064242117",
+    "https://openalex.org/W2071928828",
+    "https://openalex.org/W2118267147",
+    "https://openalex.org/W2135673380",
+    "https://openalex.org/W2140889639",
+    "https://openalex.org/W2173797149",
+    "https://openalex.org/W2320384807",
+    "https://openalex.org/W2334638783",
+    "https://openalex.org/W2991806028",
+    "https://openalex.org/W3021334217",
+    "https://openalex.org/W3208685724",
+    "https://openalex.org/W950367241"
+  ]
+}

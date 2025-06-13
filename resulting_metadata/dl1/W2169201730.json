@@ -1,0 +1,84 @@
+{
+  "id": "https://openalex.org/W2169201730",
+  "title": "Social Equity Matters in Payments for Ecosystem Services",
+  "abstract": "Although conservation efforts have sometimes succeeded in meeting environmental goals at the expense of equity considerations, the changing context of conservation and a growing body of evidence increasingly suggest that equity considerations should be integrated into conservation planning and implementation. However, this approach is often perceived to be at odds with the prevailing focus on economic efficiency that characterizes many payment for ecosystem services (PES) schemes. Drawing from examples across the literature, we show how the equity impacts of PES can create positive and negative feedbacks that influence ecological outcomes. We caution against equity-blind PES, which overlooks these relationships as a result of a primary and narrow focus on economic efficiency. We call for further analysis and better engagement between the social and ecological science communities to understand the relationships and trade-offs among efficiency, equity, and ecological outcomes.",
+  "authors": [
+    {
+      "name": "Unai Pascual"
+    },
+    {
+      "name": "Jacob Phelps"
+    },
+    {
+      "name": "Eneko Garmendia"
+    },
+    {
+      "name": "Katrina Brown"
+    },
+    {
+      "name": "Esteve Corbera"
+    },
+    {
+      "name": "Adrian Martin"
+    },
+    {
+      "name": "Erik Gómez‐Baggethun"
+    },
+    {
+      "name": "Roldán Muradian"
+    }
+  ],
+  "publication_year": 2014,
+  "cited_by_count": 545,
+  "primary_topic": "Conservation, Biodiversity, and Resource Management",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1605741828",
+    "https://openalex.org/W1914573667",
+    "https://openalex.org/W1940284908",
+    "https://openalex.org/W1965936517",
+    "https://openalex.org/W1975580813",
+    "https://openalex.org/W1979922701",
+    "https://openalex.org/W2009483767",
+    "https://openalex.org/W2010938524",
+    "https://openalex.org/W2019045583",
+    "https://openalex.org/W2034553126",
+    "https://openalex.org/W2038448452",
+    "https://openalex.org/W2050647433",
+    "https://openalex.org/W2063763380",
+    "https://openalex.org/W2071040227",
+    "https://openalex.org/W2071962320",
+    "https://openalex.org/W2073041351",
+    "https://openalex.org/W2080240657",
+    "https://openalex.org/W2082252945",
+    "https://openalex.org/W2085303201",
+    "https://openalex.org/W2089315562",
+    "https://openalex.org/W2101804582",
+    "https://openalex.org/W2103975681",
+    "https://openalex.org/W2104024295",
+    "https://openalex.org/W2105205521",
+    "https://openalex.org/W2108214746",
+    "https://openalex.org/W2109043109",
+    "https://openalex.org/W2113260181",
+    "https://openalex.org/W2114044277",
+    "https://openalex.org/W2114955946",
+    "https://openalex.org/W2114971411",
+    "https://openalex.org/W2116335571",
+    "https://openalex.org/W2120997513",
+    "https://openalex.org/W2127085433",
+    "https://openalex.org/W2127602796",
+    "https://openalex.org/W2131253344",
+    "https://openalex.org/W2145725211",
+    "https://openalex.org/W2153509701",
+    "https://openalex.org/W2156354220",
+    "https://openalex.org/W2157805396",
+    "https://openalex.org/W2164561846",
+    "https://openalex.org/W2166815243",
+    "https://openalex.org/W2289544279",
+    "https://openalex.org/W2344746897",
+    "https://openalex.org/W2582985779",
+    "https://openalex.org/W3122482098"
+  ]
+}

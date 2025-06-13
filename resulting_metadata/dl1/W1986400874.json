@@ -1,0 +1,28 @@
+{
+  "id": "https://openalex.org/W1986400874",
+  "title": "Is Research on Environmental Factors Useful to Fisheries Management?",
+  "abstract": "The study of environmental effects on fish distributions and recruitment rates has become a major research focus with substantial funding. This research is justified by rather vague claims about understanding the causes of variability and making more accurate predictions based on this understanding, claims which often do not bear close inspection. Improved prediction is often impossible in principle because environmental factors are not predictable even if fish responses are. In some fisheries, prediction could be achieved more cheaply and reliably by direct monitoring programs such as precruitment surveys of year-class strengths. In others, prediction is unnecessary because of existing feedback tactics for regulation, or would be primarily valuable to particular industrial interest groups and hence should not necessarily be subsidized by public research investment. Better understanding is needed for situations in which the effects of environmental factors are confounded with the effects of stock size and fishing. In these cases the key uncertainties will not be resolved by continued correlative and biological process studies and will instead require bold management experiments in which environmental studies are coupled with deliberate manipulation of stock sizes through changes in harvest policies.",
+  "authors": [
+    {
+      "name": "Carl J. Walters"
+    },
+    {
+      "name": "Jeremy S. Collie"
+    }
+  ],
+  "publication_year": 1988,
+  "cited_by_count": 245,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1988768345",
+    "https://openalex.org/W2010233267",
+    "https://openalex.org/W2018378009",
+    "https://openalex.org/W2025940594",
+    "https://openalex.org/W2041258132",
+    "https://openalex.org/W2053492936",
+    "https://openalex.org/W2149049530"
+  ]
+}

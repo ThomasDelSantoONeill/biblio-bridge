@@ -1,0 +1,47 @@
+{
+  "id": "https://openalex.org/W2169359757",
+  "title": "On the complexity of the parity argument and other inefficient proofs of existence",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Christos H. Papadimitriou"
+    }
+  ],
+  "publication_year": 1994,
+  "cited_by_count": 822,
+  "primary_topic": "Advanced Graph Theory Research",
+  "subfield_topic": "Computational Theory and Mathematics",
+  "field_topic": "Computer Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1504855246",
+    "https://openalex.org/W1519375772",
+    "https://openalex.org/W1569394207",
+    "https://openalex.org/W1569752386",
+    "https://openalex.org/W1768197485",
+    "https://openalex.org/W1960909089",
+    "https://openalex.org/W1980813953",
+    "https://openalex.org/W2000825158",
+    "https://openalex.org/W2004329945",
+    "https://openalex.org/W2004936497",
+    "https://openalex.org/W2006725243",
+    "https://openalex.org/W2017781790",
+    "https://openalex.org/W2036062917",
+    "https://openalex.org/W2037028865",
+    "https://openalex.org/W2040194491",
+    "https://openalex.org/W2045664183",
+    "https://openalex.org/W2052876170",
+    "https://openalex.org/W2063416709",
+    "https://openalex.org/W2078461582",
+    "https://openalex.org/W2089649903",
+    "https://openalex.org/W2103981148",
+    "https://openalex.org/W2121956325",
+    "https://openalex.org/W2138444790",
+    "https://openalex.org/W2151192928",
+    "https://openalex.org/W2152122625",
+    "https://openalex.org/W2165807407",
+    "https://openalex.org/W2984078714",
+    "https://openalex.org/W4234277722",
+    "https://openalex.org/W4298414065"
+  ]
+}

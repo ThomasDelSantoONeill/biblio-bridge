@@ -1,0 +1,64 @@
+{
+  "id": "https://openalex.org/W2111064727",
+  "title": "The dynamics of collapse in world fisheries",
+  "abstract": "Abstract The fear of a rapid depletion of world fish stocks because of over‐exploitation is increasing. Analysis of 1519 main series of the FAO world fisheries catch database over the last 50 years reveals that 366 fisheries’ collapses occurred, that is nearly one fishery of four. The robustness of this result is tested by performing several complementary analyses using different conservative options. The number of collapses has been stable through time since 1950s indicating no improvement in the overall fisheries management. Three typical patterns emerge from the analysis of catch series during the period preceding the collapses: smooth collapse (33%), i.e. a long regular decline, erratic collapse (45%), i.e. a fall after several ups and downs, and a plateau‐shaped collapse (21%), i.e. a sudden fall after a relatively long and stable persistence of high level of catches. Using a simple mathematical model, we relate the plateau‐shaped collapses (which are, by nature, the most difficult to predict) to surreptitiously increasing exploitation and a depensatory mechanism at low population levels. Thus, a stable level of catch over several years is shown to conceal the risk of a sudden collapse. This jeopardizes the common assumption that considers the stability of catch as a goal for fisheries sustainability.",
+  "authors": [
+    {
+      "name": "Christian Mullon"
+    },
+    {
+      "name": "Pierre Fréon"
+    },
+    {
+      "name": "Philippe Cury"
+    }
+  ],
+  "publication_year": 2005,
+  "cited_by_count": 330,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1517955383",
+    "https://openalex.org/W1554663460",
+    "https://openalex.org/W1599127549",
+    "https://openalex.org/W1602770268",
+    "https://openalex.org/W1730562156",
+    "https://openalex.org/W1897666593",
+    "https://openalex.org/W1968233295",
+    "https://openalex.org/W1972601195",
+    "https://openalex.org/W198586560",
+    "https://openalex.org/W1999748030",
+    "https://openalex.org/W2007263482",
+    "https://openalex.org/W2011153857",
+    "https://openalex.org/W2026789678",
+    "https://openalex.org/W2029579385",
+    "https://openalex.org/W2033973361",
+    "https://openalex.org/W2035058341",
+    "https://openalex.org/W2048020255",
+    "https://openalex.org/W204940627",
+    "https://openalex.org/W2051761097",
+    "https://openalex.org/W2059068077",
+    "https://openalex.org/W2066677449",
+    "https://openalex.org/W2069280266",
+    "https://openalex.org/W2075310522",
+    "https://openalex.org/W2081232482",
+    "https://openalex.org/W2088865141",
+    "https://openalex.org/W2090062393",
+    "https://openalex.org/W2102892532",
+    "https://openalex.org/W2110899929",
+    "https://openalex.org/W2147807123",
+    "https://openalex.org/W2148062549",
+    "https://openalex.org/W2155765024",
+    "https://openalex.org/W2165809550",
+    "https://openalex.org/W2308071243",
+    "https://openalex.org/W2479766333",
+    "https://openalex.org/W3002341712",
+    "https://openalex.org/W3122611793",
+    "https://openalex.org/W3149145656",
+    "https://openalex.org/W4210260625",
+    "https://openalex.org/W4292411114",
+    "https://openalex.org/W4388297464"
+  ]
+}

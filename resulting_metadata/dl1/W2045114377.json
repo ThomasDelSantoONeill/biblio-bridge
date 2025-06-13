@@ -1,0 +1,17 @@
+{
+  "id": "https://openalex.org/W2045114377",
+  "title": "Estimates of the food consumption of haddock (Melanogrammus aeglefinus) and cod (Gadus morhua)",
+  "abstract": "Estimates were made of the annual food consumption of North Sea and Faroe haddock and cod of various sizes. Two methods of computation have been used. One is based on estimates of the energy required for maintenance, growth and reproduction, the other is based on mean stomach content weights. Estimates based on energy requirement made use of the following sources of data: (1) observations on the relationship between growth and feeding under aquarium conditions; (2) observations on the relationship between oxygen consumption and swimming speed; (3) observations on the relationship between oxygen consumption and body weight; (4) observations on annual growth rates; and (5) estimates of energy content of eggs produced. From an analysis of the available data, equations were determined for estimating the annual energy requirements of a fish. Equation (10) takes account of the energy required for growth and maintenance and is applicable to the immature fish. Equation (11) takes account also of the energy required for reproduction and is applicable to the mature fish. An alternative method of estimation was also investigated using mean stomach content weights. This method is based on the fact that on average, the rate at which food enters a stomach must be equal to the rate at which it is eliminated. To a first approximation therefore, estimates of the rate of elimination of food (based on stomach content weights) should be equivalent to estimates of the rate of food intake. Estimates of food intake were made by both methods and it was concluded that: (1) for both haddock and cod, energy intake can be treated as proportional to (body weight) b; for haddock the coefficient b varied from 0·77–0·80, for cod, the values ranged from 0·80–1·3, depending partly on the range of body weights involved, and (2) weight for weight, North Sea and Faroe cod require more energy than North Sea and Faroe haddock.",
+  "authors": [
+    {
+      "name": "Roy Jones"
+    }
+  ],
+  "publication_year": 1978,
+  "cited_by_count": 51,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": []
+}

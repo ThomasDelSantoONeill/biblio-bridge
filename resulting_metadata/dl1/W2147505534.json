@@ -1,0 +1,68 @@
+{
+  "id": "https://openalex.org/W2147505534",
+  "title": "Frequency and intensity of productivity regime shifts in marine fish stocks",
+  "abstract": "Fish stocks fluctuate both in abundance and productivity (net population increase), and there are many examples demonstrating that productivity increased or decreased due to changes in abundance caused by fishing and, alternatively, where productivity shifted between low and high regimes, entirely unrelated to abundance. Although shifts in productivity regimes have been described, their frequency and intensity have not previously been assessed. We use a database of trends in harvest and abundance of 230 fish stocks to evaluate the proportion of fish stocks in which productivity is primarily related to abundance vs. those that appear to manifest regimes of high or low productivity. We evaluated the statistical support for four hypotheses: ( i ) the abundance hypothesis, where production is always related to population abundance; ( ii ) the regimes hypothesis, where production shifts irregularly between regimes that are unrelated to abundance; ( iii ) the mixed hypothesis, where even though production is related to population abundance, there are irregular changes in this relationship; and ( iv ) the random hypothesis, where production is random from year to year. We found that the abundance hypothesis best explains 18.3% of stocks, the regimes hypothesis 38.6%, the mixed hypothesis 30.5%, and the random hypothesis 12.6%. Fisheries management agencies need to recognize that irregular changes in productivity are common and that harvest regulation and management targets may need to be adjusted whenever productivity changes.",
+  "authors": [
+    {
+      "name": "Katyana A. Vert-pre"
+    },
+    {
+      "name": "Ricardo O. Amoroso"
+    },
+    {
+      "name": "Olaf P. Jensen"
+    },
+    {
+      "name": "Ray Hilborn"
+    }
+  ],
+  "publication_year": 2013,
+  "cited_by_count": 275,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1507571811",
+    "https://openalex.org/W1589375716",
+    "https://openalex.org/W1662882894",
+    "https://openalex.org/W1966269030",
+    "https://openalex.org/W1997211505",
+    "https://openalex.org/W2001699177",
+    "https://openalex.org/W2009435671",
+    "https://openalex.org/W2019253172",
+    "https://openalex.org/W2021963301",
+    "https://openalex.org/W2025440419",
+    "https://openalex.org/W2028717723",
+    "https://openalex.org/W2043984082",
+    "https://openalex.org/W2046617398",
+    "https://openalex.org/W2061328952",
+    "https://openalex.org/W2075388586",
+    "https://openalex.org/W2083290876",
+    "https://openalex.org/W2085474907",
+    "https://openalex.org/W2091682565",
+    "https://openalex.org/W2094548193",
+    "https://openalex.org/W2102586571",
+    "https://openalex.org/W2102688196",
+    "https://openalex.org/W2103423125",
+    "https://openalex.org/W2105620701",
+    "https://openalex.org/W2107601624",
+    "https://openalex.org/W2108204502",
+    "https://openalex.org/W2111064727",
+    "https://openalex.org/W2123069546",
+    "https://openalex.org/W2140103666",
+    "https://openalex.org/W2141910352",
+    "https://openalex.org/W2142174867",
+    "https://openalex.org/W2146664037",
+    "https://openalex.org/W2153196636",
+    "https://openalex.org/W2153729162",
+    "https://openalex.org/W2156523992",
+    "https://openalex.org/W2156623230",
+    "https://openalex.org/W2167906040",
+    "https://openalex.org/W2168487879",
+    "https://openalex.org/W2634955313",
+    "https://openalex.org/W32396108",
+    "https://openalex.org/W4253739688",
+    "https://openalex.org/W4285719527"
+  ]
+}

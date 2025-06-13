@@ -1,0 +1,95 @@
+{
+  "id": "https://openalex.org/W2060920808",
+  "title": "Spatial and temporal density dependence regulates the condition of central Baltic Sea clupeids: compelling evidence using an extensive international acoustic survey",
+  "abstract": "Abstract For the first time an international acoustic survey dataset covering three decades was used to investigate the factors shaping the spatial and temporal patterns in the condition of sprat and herring in the Baltic Proper. Generalized additive models showed that the spatial and temporal fluctuations in sprat density have been the main drivers of the spatio‐temporal changes of both sprat and herring condition, evidencing intra‐ and inter‐specific density dependence mediated by the size and distribution of the sprat population. Salinity was also an important predictor of herring condition, whereas temperature explained only a minor part of sprat model deviance. Herring density was an additional albeit weak significant predictor for herring condition, evidencing also intra‐specific density dependence within the herring population. For both species, condition was high and similar in all areas of the Baltic Proper until the early 1990s, coincident with low sprat densities. Afterwards, a drop in condition occurred and a clear south–north pattern emerged. The drop in condition after the early 1990s was stronger in the northern areas, where sprat population increased the most. We suggest that the increase in sprat density in the northern areas, and the consequent spatial differentiation in clupeid condition, have been triggered by the almost total disappearance of the predator cod from the northern Baltic Proper. This study provides a step forward in understanding clupeid condition in the Baltic Sea, presenting evidence that density‐dependent mechanisms also operate at the spatial scale within stock units. This stresses the importance of spatio‐temporal considerations in the management of exploited fish.",
+  "authors": [
+    {
+      "name": "Michele Casini"
+    },
+    {
+      "name": "Georgs Kornilovs"
+    },
+    {
+      "name": "Massimiliano Cardinale"
+    },
+    {
+      "name": "Christian Möllmann"
+    },
+    {
+      "name": "Włodzimierz Grygiel"
+    },
+    {
+      "name": "Patrik Jönsson"
+    },
+    {
+      "name": "Tiit Raid"
+    },
+    {
+      "name": "Juha Flinkman"
+    },
+    {
+      "name": "Valeriy Feldman"
+    }
+  ],
+  "publication_year": 2011,
+  "cited_by_count": 107,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1533910287",
+    "https://openalex.org/W1556339518",
+    "https://openalex.org/W1830805930",
+    "https://openalex.org/W1904909766",
+    "https://openalex.org/W1981245969",
+    "https://openalex.org/W1982191767",
+    "https://openalex.org/W1989978375",
+    "https://openalex.org/W1990549477",
+    "https://openalex.org/W1993920411",
+    "https://openalex.org/W1997730191",
+    "https://openalex.org/W2007514915",
+    "https://openalex.org/W2015451670",
+    "https://openalex.org/W2029544389",
+    "https://openalex.org/W2050183836",
+    "https://openalex.org/W2058778886",
+    "https://openalex.org/W2061784349",
+    "https://openalex.org/W2063236099",
+    "https://openalex.org/W2070538295",
+    "https://openalex.org/W2074248086",
+    "https://openalex.org/W2080169924",
+    "https://openalex.org/W2082776215",
+    "https://openalex.org/W2083966614",
+    "https://openalex.org/W2085196599",
+    "https://openalex.org/W2090717574",
+    "https://openalex.org/W2090993408",
+    "https://openalex.org/W2094101763",
+    "https://openalex.org/W2097492601",
+    "https://openalex.org/W2111056546",
+    "https://openalex.org/W2115122902",
+    "https://openalex.org/W2126912169",
+    "https://openalex.org/W2128092399",
+    "https://openalex.org/W2128725458",
+    "https://openalex.org/W2132139647",
+    "https://openalex.org/W2133564450",
+    "https://openalex.org/W2140308441",
+    "https://openalex.org/W2142052460",
+    "https://openalex.org/W2148828128",
+    "https://openalex.org/W2150157867",
+    "https://openalex.org/W2152166843",
+    "https://openalex.org/W2153213592",
+    "https://openalex.org/W2155260122",
+    "https://openalex.org/W2162575138",
+    "https://openalex.org/W2170759554",
+    "https://openalex.org/W2170984825",
+    "https://openalex.org/W2188856077",
+    "https://openalex.org/W2314420971",
+    "https://openalex.org/W2611736676",
+    "https://openalex.org/W2797583072",
+    "https://openalex.org/W2911320546",
+    "https://openalex.org/W345080406",
+    "https://openalex.org/W4249303080",
+    "https://openalex.org/W4320930502",
+    "https://openalex.org/W966618925"
+  ]
+}

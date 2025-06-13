@@ -1,0 +1,60 @@
+{
+  "id": "https://openalex.org/W2169174652",
+  "title": "Growth in Northwest Atlantic Harp seals Phoca groenlandica",
+  "abstract": "Morphometric data were collected from 204 Northwest Atlantic Harp seals aged one month and older sampled between 1976 and 1979. Length as a function of age gave the most precise measure of body size. Lean body (core) weight and total body weight were more variable measures of growth. Weight of blubber with skin attached (sculp weight) and blubber thickness exhibited greatest variation with age and (or) sampling date. There was no evidence of sexual dimorphism in any growth parameter. Several Richards‐type models provided adequate descriptions of Harp seal growth. The growth curve of body length as a function of age suggested a larger size of zero age‐class animals and a higher absolute growth rate than reported for animals from the same stock during the 1950s. These results are discussed in relation to the observed changes in mean age of maturity which accompanied the decline in stock abundance from the 1950s to the 1970s.",
+  "authors": [
+    {
+      "name": "S. Innes"
+    },
+    {
+      "name": "Robert E. Stewart"
+    },
+    {
+      "name": "D. M. Lavigne"
+    }
+  ],
+  "publication_year": 1981,
+  "cited_by_count": 67,
+  "primary_topic": "Marine animal studies overview",
+  "subfield_topic": "Ecology",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1503752630",
+    "https://openalex.org/W1543004965",
+    "https://openalex.org/W1967739596",
+    "https://openalex.org/W1993440141",
+    "https://openalex.org/W1999748030",
+    "https://openalex.org/W2002919483",
+    "https://openalex.org/W2002928196",
+    "https://openalex.org/W2006553330",
+    "https://openalex.org/W2007853836",
+    "https://openalex.org/W2009276987",
+    "https://openalex.org/W2019722724",
+    "https://openalex.org/W2021756343",
+    "https://openalex.org/W2033325966",
+    "https://openalex.org/W2037416397",
+    "https://openalex.org/W2046186845",
+    "https://openalex.org/W2054926471",
+    "https://openalex.org/W2087007059",
+    "https://openalex.org/W2091140706",
+    "https://openalex.org/W2091899715",
+    "https://openalex.org/W2101393077",
+    "https://openalex.org/W2108835167",
+    "https://openalex.org/W2130223327",
+    "https://openalex.org/W2173419906",
+    "https://openalex.org/W2320261647",
+    "https://openalex.org/W2327108498",
+    "https://openalex.org/W2329039174",
+    "https://openalex.org/W2333291373",
+    "https://openalex.org/W2395979588",
+    "https://openalex.org/W2415957843",
+    "https://openalex.org/W2418281307",
+    "https://openalex.org/W2588677549",
+    "https://openalex.org/W2603306123",
+    "https://openalex.org/W4229945070",
+    "https://openalex.org/W4248856567",
+    "https://openalex.org/W4292411114",
+    "https://openalex.org/W4301041382"
+  ]
+}

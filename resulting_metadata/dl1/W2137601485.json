@@ -1,0 +1,45 @@
+{
+  "id": "https://openalex.org/W2137601485",
+  "title": "On Managing Variable Marine Fisheries",
+  "abstract": "Marine fisheries are difficult to manage because they are highly variable; yet the stock must be protected from over exploitation and possible collapse. Here we demonstrate that the most important source of uncertainty in estimating long-term productivity of a fishery is the degree of density dependence in the stock–recruitment relationship and not the environmental factors that influence annual recruitment rates. We evaluate the performance of three harvest policies in managing dynamically contrasting fisheries and conclude that close to maximum expected sustainable yield can be obtained by policies that have very different implications for short-term yields. In stochastic fisheries, the variability inherent in the stock can be ignored in determining optimal effort levels or it can be transferred into the fishery by allowing yield and effort levels to vary considerably. Thus it is relatively easy for the manager to ensure long-term maximization of yield. The hard problem is finding a suitable compromise between short-term stability of the fishery and long-term viability of the stock.",
+  "authors": [
+    {
+      "name": "Wayne M. Getz"
+    },
+    {
+      "name": "Robert C. Francis"
+    },
+    {
+      "name": "Gordon L. Swartzman"
+    }
+  ],
+  "publication_year": 1987,
+  "cited_by_count": 45,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1602246669",
+    "https://openalex.org/W1972922896",
+    "https://openalex.org/W1984922131",
+    "https://openalex.org/W1987474746",
+    "https://openalex.org/W2010362952",
+    "https://openalex.org/W2019252145",
+    "https://openalex.org/W2026290501",
+    "https://openalex.org/W2035058341",
+    "https://openalex.org/W2038467302",
+    "https://openalex.org/W2049650248",
+    "https://openalex.org/W2053492936",
+    "https://openalex.org/W2057805880",
+    "https://openalex.org/W2074631671",
+    "https://openalex.org/W2091682565",
+    "https://openalex.org/W2129484744",
+    "https://openalex.org/W2140379777",
+    "https://openalex.org/W2140798124",
+    "https://openalex.org/W2162020584",
+    "https://openalex.org/W2483396272",
+    "https://openalex.org/W3088713371",
+    "https://openalex.org/W54118135"
+  ]
+}

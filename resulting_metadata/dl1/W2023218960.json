@@ -1,0 +1,77 @@
+{
+  "id": "https://openalex.org/W2023218960",
+  "title": "Direct and indirect climate forcing in a multi-species marine system",
+  "abstract": "Interactions within and between species complicate quantification of climate effects, by causing indirect, often delayed, effects of climate fluctuations and compensation of mortality. Here we identify direct and indirect climate effects by analysing unique Russian time-series data from the Norwegian Sea-Barents Sea ecosystem on the first life stages of cod, capelin, herring and haddock, their predators, competitors and zooplanktonic prey. By analysing growth and survival from one life stage to the next (eggs-larvae-juveniles-recruits), we find evidence for both bottom-up, direct and top-down effects of climate. Ambient zooplankton biomass predicts survival of all species, whereas ambient temperature mainly affects survival through effects on growth. In warm years, all species experienced improved growth and feeding conditions. Cohorts born following a warm year will, however, experience increased predation and competition because of increased densities of subadult cod and herring, leading to delayed climate effects. While climate thus affects early growth and survival through several mechanisms, only some of the identified mechanisms were found to be significant predictors of population growth. In particular, our findings exemplify that climate impacts are barely propagated to later life stages when density dependence is strong.",
+  "authors": [
+    {
+      "name": "Leif Christian Stige"
+    },
+    {
+      "name": "Geir Ottersen"
+    },
+    {
+      "name": "Padmini Dalpadado"
+    },
+    {
+      "name": "Kung‐Sik Chan"
+    },
+    {
+      "name": "Dag Ø. Hjermann"
+    },
+    {
+      "name": "Dmitry Lajus"
+    },
+    {
+      "name": "Natalia A. Yaragina"
+    },
+    {
+      "name": "Nils Chr. Stenseth"
+    }
+  ],
+  "publication_year": 2010,
+  "cited_by_count": 50,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1506368255",
+    "https://openalex.org/W1556631438",
+    "https://openalex.org/W1608747981",
+    "https://openalex.org/W1968371014",
+    "https://openalex.org/W1972610317",
+    "https://openalex.org/W1984479416",
+    "https://openalex.org/W2005402359",
+    "https://openalex.org/W2010400606",
+    "https://openalex.org/W2023873882",
+    "https://openalex.org/W2026128738",
+    "https://openalex.org/W2035842090",
+    "https://openalex.org/W2042796856",
+    "https://openalex.org/W2055420868",
+    "https://openalex.org/W2079497438",
+    "https://openalex.org/W2079612965",
+    "https://openalex.org/W2089311733",
+    "https://openalex.org/W2090545784",
+    "https://openalex.org/W2096315786",
+    "https://openalex.org/W2096391232",
+    "https://openalex.org/W2098040315",
+    "https://openalex.org/W2110308299",
+    "https://openalex.org/W2116695869",
+    "https://openalex.org/W2122843799",
+    "https://openalex.org/W2127531318",
+    "https://openalex.org/W2150700909",
+    "https://openalex.org/W2152902357",
+    "https://openalex.org/W2161184033",
+    "https://openalex.org/W2168603047",
+    "https://openalex.org/W2171599301",
+    "https://openalex.org/W2298938463",
+    "https://openalex.org/W2460166382",
+    "https://openalex.org/W2491433157",
+    "https://openalex.org/W2582743722",
+    "https://openalex.org/W2797508167",
+    "https://openalex.org/W4243372666",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W4298870098",
+    "https://openalex.org/W773065715"
+  ]
+}

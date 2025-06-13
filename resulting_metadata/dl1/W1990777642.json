@@ -1,0 +1,23 @@
+{
+  "id": "https://openalex.org/W1990777642",
+  "title": "Introduction to ROBOTICS mechanics and control",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "John Baillieul"
+    }
+  ],
+  "publication_year": 1987,
+  "cited_by_count": 1087,
+  "primary_topic": "Robotic Mechanisms and Dynamics",
+  "subfield_topic": "Control and Systems Engineering",
+  "field_topic": "Engineering",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W134451811",
+    "https://openalex.org/W1607747992",
+    "https://openalex.org/W1983443215",
+    "https://openalex.org/W1996537938",
+    "https://openalex.org/W2028099324"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "https://openalex.org/W1584727259",
+  "title": "Linking modelling, monitoring and management: an integrated approach to controlling overabundant wildlife",
+  "abstract": "Summary 1. Overabundant wildlife can cause economic and ecological damage. Therefore population control typically seeks to maintain species’ abundance within desired control limits. Efficient control requires targets, methods for estimating population size before and after control, and reliable means of forecasting population size. Demographic stochasticity, environmental variability and model uncertainty complicate these tasks. Monitoring provides critical feedback in the control process, yet examples of integrated monitoring and management are scarce. 2. We developed an integrated Bayesian population modelling and monitoring algorithm to assist with dynamic cull control of an overabundant population. We describe components of the control algorithm and their combination to produce a structured, sequential prescription for implementing control of a kangaroo population. We demonstrate its application within a single management year and evaluate its performance over a multi‐year horizon under a range of scenarios reflecting uncertainties about population dynamics. 3. Simulation testing of the algorithm demonstrates that it provides a coherent, flexible, efficient and robust basis for managing population control. It is coherent in that connections between management objectives, models and operating rules are explicit and logically integrated. It is flexible in that the management objectives can be freely varied. It is both cost and operationally efficient because: (i) it avoids the need for an expensive, dedicated sampling process to estimate population size prior to culling; (ii) a relatively small number of culls produces reasonable population size estimates and (iii) the estimation by removal process enables direct assessment of whether control has been achieved. Lastly, it is robust because even when there is substantial uncertainty about system state and dynamics, the algorithm performs well at keeping the population under control over the duration of the management horizon. 4. Synthesis and applications . We provide a general and flexible framework for integrated monitoring and culling when the objective is to keep a species’ abundance within control limits. Our framework explicitly deals with uncertainty arising from demographic stochasticity, ecological complexity and lack of knowledge, and provides the foundation for maximizing efficiency and cost‐effectiveness of control operations. Our approach could be applied in any instances where control is effected via culling.",
+  "authors": [
+    {
+      "name": "Yung En Chee"
+    },
+    {
+      "name": "Brendan A. Wintle"
+    }
+  ],
+  "publication_year": 2010,
+  "cited_by_count": 41,
+  "primary_topic": "Wildlife Ecology and Conservation",
+  "subfield_topic": "Ecology",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W119053260",
+    "https://openalex.org/W151321814",
+    "https://openalex.org/W1517555081",
+    "https://openalex.org/W1967364044",
+    "https://openalex.org/W1970332207",
+    "https://openalex.org/W1999748030",
+    "https://openalex.org/W2002483293",
+    "https://openalex.org/W2008188489",
+    "https://openalex.org/W2009114867",
+    "https://openalex.org/W2009394906",
+    "https://openalex.org/W2025991375",
+    "https://openalex.org/W2026416225",
+    "https://openalex.org/W2033830980",
+    "https://openalex.org/W2034734353",
+    "https://openalex.org/W2035537103",
+    "https://openalex.org/W2062941920",
+    "https://openalex.org/W2067199939",
+    "https://openalex.org/W2081825135",
+    "https://openalex.org/W2084993356",
+    "https://openalex.org/W2090383672",
+    "https://openalex.org/W2122505518",
+    "https://openalex.org/W2124398268",
+    "https://openalex.org/W2126475261",
+    "https://openalex.org/W2145024273",
+    "https://openalex.org/W2148311895",
+    "https://openalex.org/W2153002539",
+    "https://openalex.org/W2163986247",
+    "https://openalex.org/W2171146701",
+    "https://openalex.org/W2320809598",
+    "https://openalex.org/W2321688178",
+    "https://openalex.org/W2322379396",
+    "https://openalex.org/W2324746287",
+    "https://openalex.org/W2325200591",
+    "https://openalex.org/W2329804728",
+    "https://openalex.org/W4236537482"
+  ]
+}

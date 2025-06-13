@@ -1,0 +1,117 @@
+{
+  "id": "https://openalex.org/W2982568963",
+  "title": "Progress on Implementing Ecosystem-Based Fisheries Management in the United States Through the Use of Ecosystem Models and Analysis",
+  "abstract": "Worldwide fisheries management has been undergoing a paradigm shift from a single-species approach to ecosystem approaches. In the U.S., NOAA has adopted a policy statement and Road Map to guide the development and implementation of ecosystem-based fisheries management (EBFM). NOAA's EBFM policy supports addressing the ecosystem interconnections to help maintain resilient and productive ecosystems, even as they respond to climate, habitat, ecological, and social and economic changes. Managing natural marine resources while taking into account their interactions with their environment and our human interactions with our resources and environment requires the support of ecosystem science, modeling, and analysis. Implementing EBFM will require using existing mandates and approaches that fit regional management structures and cultures. The primary mandate for managing marine fisheries in the U.S. is the Magnuson-Stevens Fishery Conservation and Management Act. Many tenets of the Act align well with the EBFM policy; however, incorporating ecosystem analysis and models into fisheries management processes has faced procedural challenges in many jurisdictions. In this paper, we review example cases where scientists have had success in using ecosystem analysis and modeling to inform management priorities, and identify practices that help bring new ecosystem science information into existing policy processes.",
+  "authors": [
+    {
+      "name": "Howard Townsend"
+    },
+    {
+      "name": "Chris J. Harvey"
+    },
+    {
+      "name": "Yvonne L. deReynier"
+    },
+    {
+      "name": "Dawn Davis"
+    },
+    {
+      "name": "Stephani G. Zador"
+    },
+    {
+      "name": "Sarah Gaichas"
+    },
+    {
+      "name": "Mariska Weijerman"
+    },
+    {
+      "name": "Elliott L. Hazen"
+    },
+    {
+      "name": "Isaac C. Kaplan"
+    }
+  ],
+  "publication_year": 2019,
+  "cited_by_count": 97,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1505286062",
+    "https://openalex.org/W1543409689",
+    "https://openalex.org/W1600860903",
+    "https://openalex.org/W1963912158",
+    "https://openalex.org/W1967049079",
+    "https://openalex.org/W1969952399",
+    "https://openalex.org/W1975873501",
+    "https://openalex.org/W1988802816",
+    "https://openalex.org/W1990566709",
+    "https://openalex.org/W1990698593",
+    "https://openalex.org/W2014042014",
+    "https://openalex.org/W2016293090",
+    "https://openalex.org/W2017148881",
+    "https://openalex.org/W2018504314",
+    "https://openalex.org/W2037136618",
+    "https://openalex.org/W2043284071",
+    "https://openalex.org/W2044351200",
+    "https://openalex.org/W2050854142",
+    "https://openalex.org/W2061513338",
+    "https://openalex.org/W2082903711",
+    "https://openalex.org/W2084828496",
+    "https://openalex.org/W2091884289",
+    "https://openalex.org/W2097047487",
+    "https://openalex.org/W2098481144",
+    "https://openalex.org/W2100957500",
+    "https://openalex.org/W2101298479",
+    "https://openalex.org/W2116422701",
+    "https://openalex.org/W2122719118",
+    "https://openalex.org/W2127934149",
+    "https://openalex.org/W2144348826",
+    "https://openalex.org/W2152353861",
+    "https://openalex.org/W2152434909",
+    "https://openalex.org/W2156695268",
+    "https://openalex.org/W2162200022",
+    "https://openalex.org/W2163492266",
+    "https://openalex.org/W2191432955",
+    "https://openalex.org/W2223833156",
+    "https://openalex.org/W2334740899",
+    "https://openalex.org/W2418804175",
+    "https://openalex.org/W2462377765",
+    "https://openalex.org/W2467282877",
+    "https://openalex.org/W2473695566",
+    "https://openalex.org/W2515243374",
+    "https://openalex.org/W2531396069",
+    "https://openalex.org/W2531624408",
+    "https://openalex.org/W2536841614",
+    "https://openalex.org/W2566943586",
+    "https://openalex.org/W2600530559",
+    "https://openalex.org/W2606861157",
+    "https://openalex.org/W264678455",
+    "https://openalex.org/W2681829666",
+    "https://openalex.org/W2735288378",
+    "https://openalex.org/W2752221887",
+    "https://openalex.org/W2765767290",
+    "https://openalex.org/W2774969502",
+    "https://openalex.org/W2793872986",
+    "https://openalex.org/W2805366996",
+    "https://openalex.org/W2805781528",
+    "https://openalex.org/W2849766892",
+    "https://openalex.org/W2893414243",
+    "https://openalex.org/W2898461106",
+    "https://openalex.org/W2900138199",
+    "https://openalex.org/W2900286048",
+    "https://openalex.org/W2900617712",
+    "https://openalex.org/W2901122171",
+    "https://openalex.org/W2901606954",
+    "https://openalex.org/W2910056239",
+    "https://openalex.org/W2917763305",
+    "https://openalex.org/W292611967",
+    "https://openalex.org/W2971844517",
+    "https://openalex.org/W2993914124",
+    "https://openalex.org/W3034944025",
+    "https://openalex.org/W3041124472",
+    "https://openalex.org/W3150234440",
+    "https://openalex.org/W402219611"
+  ]
+}

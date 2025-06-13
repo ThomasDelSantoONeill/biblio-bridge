@@ -1,0 +1,65 @@
+{
+  "id": "https://openalex.org/W2314849475",
+  "title": "Regional trade-offs from multi-species maximum sustainable yield (MMSY) management options",
+  "abstract": "MEPS Marine Ecology Progress Series Contact the journal Facebook Twitter RSS Mailing List Subscribe to our mailing list via Mailchimp HomeLatest VolumeAbout the JournalEditorsTheme Sections MEPS 498:1-12 (2014) - DOI: https://doi.org/10.3354/meps10639 FEATURE ARTICLE Regional trade-offs from multi-species maximum sustainable yield (MMSY) management options Rudi Voss*, Martin F. Quaas, Jörn O. Schmidt, Julia Hoffmann Department of Economics, University of Kiel, Wilhelm-Seelig-Platz 1, 24118 Kiel, Germany *Corresponding author: voss@economics.uni-kiel.de ABSTRACT: The maximum sustainable yield (MSY) is, theoretically, the largest yield that can be taken from a single species’ stock over an indefinite period. Formulation of strategic MSY management goals is, however, complicated by the need to move beyond biological single-species considerations. Interactions among species necessitate multi-species (MMSY) definitions, incorporating ecological, economic and social considerations. We developed an ecological-economic model of the Baltic Sea, simulating stock dynamics of interacting populations of cod Gadus morhua, herring Clupea harengus and sprat Sprattus sprattus. We investigated a set of different strategic management options. These likely, yet non-formalized experiments evaluate and illuminate alternative regional trade-offs. We computed multi-species maximum economic yield (MMEY) under certain ecological constraints, with profits as a performance indicator. An unconstrained profit-maximizing management strategy would lead to a highly profitable cod fishery in a cod-dominated ecosystem. Concurrent sprat stock size (and profits) would be low, falling below ecological precautionary reference points. Consideration of ecological constraints on minimum stock sizes leaves a range of strategies, including the change from a cod-dominated to a more clupeid-dominated system. The regional distribution of profits depends on the management. Therefore, adjustment payments or other forms of compensation might be needed to achieve a concordant agreement on strategic multi-species management goals. KEY WORDS:Equity · Baltic Sea · Distribution · Relative stability · Profits · Economic optimization · Bio-economic model Full text in pdf format Information about this Feature Article NextCite this article as: Voss R, Quaas MF, Schmidt JO, Hoffmann J (2014) Regional trade-offs from multi-species maximum sustainable yield (MMSY) management options. Mar Ecol Prog Ser 498:1-12. https://doi.org/10.3354/meps10639 Export citation RSS - Facebook - Tweet - linkedIn Cited by Published in MEPS Vol. 498. Online publication date: February 17, 2014 Print ISSN: 0171-8630; Online ISSN: 1616-1599 Copyright © 2014 Inter-Research.",
+  "authors": [
+    {
+      "name": "R. Voss"
+    },
+    {
+      "name": "Martin F. Quaas"
+    },
+    {
+      "name": "Jörn Schmidt"
+    },
+    {
+      "name": "Julia Hoffmann"
+    }
+  ],
+  "publication_year": 2013,
+  "cited_by_count": 44,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1500009688",
+    "https://openalex.org/W1522749990",
+    "https://openalex.org/W1530566540",
+    "https://openalex.org/W1543409689",
+    "https://openalex.org/W1909301623",
+    "https://openalex.org/W1918069932",
+    "https://openalex.org/W1968466770",
+    "https://openalex.org/W1970090935",
+    "https://openalex.org/W2005987558",
+    "https://openalex.org/W2007732185",
+    "https://openalex.org/W2012740428",
+    "https://openalex.org/W2030764027",
+    "https://openalex.org/W2035058341",
+    "https://openalex.org/W2039498209",
+    "https://openalex.org/W2041546122",
+    "https://openalex.org/W2060920808",
+    "https://openalex.org/W2074248086",
+    "https://openalex.org/W2077092969",
+    "https://openalex.org/W2080949125",
+    "https://openalex.org/W2088867799",
+    "https://openalex.org/W2098197115",
+    "https://openalex.org/W2099466651",
+    "https://openalex.org/W2100891518",
+    "https://openalex.org/W2102221182",
+    "https://openalex.org/W2116372941",
+    "https://openalex.org/W2121612917",
+    "https://openalex.org/W2123470521",
+    "https://openalex.org/W2127042341",
+    "https://openalex.org/W2133051125",
+    "https://openalex.org/W2133327019",
+    "https://openalex.org/W2142597494",
+    "https://openalex.org/W2145729265",
+    "https://openalex.org/W2156298348",
+    "https://openalex.org/W2170759554",
+    "https://openalex.org/W248978500",
+    "https://openalex.org/W3033934990",
+    "https://openalex.org/W345080406",
+    "https://openalex.org/W4292411114"
+  ]
+}

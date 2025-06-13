@@ -1,0 +1,31 @@
+{
+  "id": "https://openalex.org/W2337969303",
+  "title": "Common International Classification of Ecosystem Services (CICES): Consultation on Version 4, August-December 2012",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Roy Haines‐Young"
+    },
+    {
+      "name": "Marion Potschin"
+    }
+  ],
+  "publication_year": 2013,
+  "cited_by_count": 366,
+  "primary_topic": "Land Use and Ecosystem Services",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1551533759",
+    "https://openalex.org/W1998161309",
+    "https://openalex.org/W2002785625",
+    "https://openalex.org/W2007394139",
+    "https://openalex.org/W2077300472",
+    "https://openalex.org/W2093580582",
+    "https://openalex.org/W2105402903",
+    "https://openalex.org/W2129974232",
+    "https://openalex.org/W2161703612",
+    "https://openalex.org/W3124677426"
+  ]
+}

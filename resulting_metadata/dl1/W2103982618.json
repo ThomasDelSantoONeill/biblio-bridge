@@ -1,0 +1,71 @@
+{
+  "id": "https://openalex.org/W2103982618",
+  "title": "Changing central Pacific El Niños reduce stability of North American salmon survival rates",
+  "abstract": "Significance Historically, many Pacific salmon species were thought to be influenced by the Pacific Decadal Oscillation (PDO), an indicator of ocean conditions, associated with El Niños. As the nature of El Niños has changed recently, another ocean indicator, the North Pacific Gyre Oscillation (NPGO) has become more important. By comparing time series, we find that coho and Chinook salmon survival rates along the west coast of North America are more strongly connected to the NPGO than the PDO. This was accompanied by increased similarity in survival rates of both species. Society seeks to maintain biodiversity among ecosystem components to provide a stable supply of ecosystem services through a portfolio effect. Increasingly similar salmon survivals implies reduced stability of these ecosystem services.",
+  "authors": [
+    {
+      "name": "D. Patrick Kilduff"
+    },
+    {
+      "name": "Emanuele Di Lorenzo"
+    },
+    {
+      "name": "Louis W. Botsford"
+    },
+    {
+      "name": "Steven L. H. Teo"
+    }
+  ],
+  "publication_year": 2015,
+  "cited_by_count": 121,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1511683044",
+    "https://openalex.org/W1556360057",
+    "https://openalex.org/W1686734230",
+    "https://openalex.org/W1789224711",
+    "https://openalex.org/W1821436614",
+    "https://openalex.org/W1866523842",
+    "https://openalex.org/W1931214894",
+    "https://openalex.org/W1963806048",
+    "https://openalex.org/W1977859404",
+    "https://openalex.org/W1988201788",
+    "https://openalex.org/W1991269345",
+    "https://openalex.org/W1999234809",
+    "https://openalex.org/W1999912325",
+    "https://openalex.org/W2002073094",
+    "https://openalex.org/W2012575421",
+    "https://openalex.org/W2014042014",
+    "https://openalex.org/W2014396625",
+    "https://openalex.org/W2015440141",
+    "https://openalex.org/W2021752782",
+    "https://openalex.org/W2023875545",
+    "https://openalex.org/W2024621839",
+    "https://openalex.org/W2025908258",
+    "https://openalex.org/W2057912276",
+    "https://openalex.org/W2071880023",
+    "https://openalex.org/W2092629131",
+    "https://openalex.org/W2093401535",
+    "https://openalex.org/W2096273072",
+    "https://openalex.org/W2105620701",
+    "https://openalex.org/W2108725623",
+    "https://openalex.org/W2119849769",
+    "https://openalex.org/W2120483198",
+    "https://openalex.org/W2120834162",
+    "https://openalex.org/W2132707399",
+    "https://openalex.org/W2138317269",
+    "https://openalex.org/W2142806814",
+    "https://openalex.org/W2142923292",
+    "https://openalex.org/W2152634574",
+    "https://openalex.org/W2152928439",
+    "https://openalex.org/W2159761638",
+    "https://openalex.org/W2169286869",
+    "https://openalex.org/W2170639940",
+    "https://openalex.org/W2176670204",
+    "https://openalex.org/W2785980980",
+    "https://openalex.org/W3105022067"
+  ]
+}

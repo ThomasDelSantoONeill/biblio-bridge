@@ -1,0 +1,41 @@
+{
+  "id": "https://openalex.org/W2029775095",
+  "title": "Simple Rules for Interspecific Dominance in Systems with Exploitative and Apparent Competition",
+  "abstract": "Because mechanistic models of interspecific interactions are often complex, one should deliberately seek simple unifying principles that transcend system-specific details. Earlier work on resource competition has led to the \"R* rule,\" which states that a dominant competitor suppresses resources to a lower level than any other competing species. This rule describes the outcome of even ornate models of competition. Here we show that analogous simple rules can characterize systems with predation. We first demonstrate, for a simple two-prey, one-predator model without resource competition but with a predator numerical response leading to apparent competition, that the winning prey supports (and withstands) the higher predator density; that is, the outcome is described by a \"P* rule.\" We then develop a general model in which predation is inflicted evenhandedly on two prey species competing for a single resource and show that the R* and P* rules hold: the winning prey both depresses resources to the lowest level and sustains the higher predator density. We next examine a more complex model with differential predation. Assuming a closed system (i.e., a fixed nutrient pool), we portray the four-dimensional system dynamics in a two-dimensional graphical model, and we assess the domain of applicability of simple dominance rules in more complex systems. We address the generality of our conclusions and end by examining the implications of different, reasonable biological constraints for community structure.",
+  "authors": [
+    {
+      "name": "Robert D. Holt"
+    },
+    {
+      "name": "James P. Grover"
+    },
+    {
+      "name": "David Tilman"
+    }
+  ],
+  "publication_year": 1994,
+  "cited_by_count": 648,
+  "primary_topic": "Evolution and Genetic Dynamics",
+  "subfield_topic": "Genetics",
+  "field_topic": "Biochemistry, Genetics and Molecular Biology",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1976438437",
+    "https://openalex.org/W1983254603",
+    "https://openalex.org/W1987759914",
+    "https://openalex.org/W1993239640",
+    "https://openalex.org/W1995847853",
+    "https://openalex.org/W1997356912",
+    "https://openalex.org/W2000750074",
+    "https://openalex.org/W2008968713",
+    "https://openalex.org/W2011517916",
+    "https://openalex.org/W2012704593",
+    "https://openalex.org/W2018177009",
+    "https://openalex.org/W2035346239",
+    "https://openalex.org/W2041549882",
+    "https://openalex.org/W2061867342",
+    "https://openalex.org/W2065099092",
+    "https://openalex.org/W2073434072",
+    "https://openalex.org/W2114208341"
+  ]
+}

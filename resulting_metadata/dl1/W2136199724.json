@@ -1,0 +1,56 @@
+{
+  "id": "https://openalex.org/W2136199724",
+  "title": "Reconstructing ecosystem dynamics in the central Pacific Ocean, 19521998. II. A preliminary assessment of the trophic impacts of fishing and effects on tuna dynamics",
+  "abstract": "Pelagic fisheries in the Pacific Ocean target both large (Thunnus spp.) and small tunas (juveniles of Thunnus spp; Katsuwonus pelamis) but also take billfishes (Xiphias gladius, Makaira spp., Tetrapturus spp., Istiophorus platypterus) and sharks (Prionace glauca, Alopias superciliosus, Isurus oxyrinchus, Carcharhinus longimanus, Galeocerdo cuvieri) as bycatch. We developed a multispecies model using the Ecopath with Ecosim software that incorporated time-series estimates of biomass, fishing mortality, and bycatch rates (19521998) to evaluate the relative contributions of fishing and trophic impacts on tuna dynamics in the central Pacific (0°N to 40°N and 130°E to 150°W). The Ecosim model reproduced the observed trends in abundance indices and biomass estimates for most large tunas and billfishes. A decline in predation mortality owing to depletion of large predators was greatest for small yellowfin tuna and could possibly account for apparent increases in biomass. For other tunas, however, predicted changes in predation mortality rates were small (small bigeye) or were overwhelmed by much larger increases in fishing mortality (skipjack and small albacore). Limited evidence of trophic impacts associated with declining apex predator abundance likely results from the difficulties of applying detailed trophic models to open ocean systems in which ecological and fishery data uncertainties are large.",
+  "authors": [
+    {
+      "name": "Sean Cox"
+    },
+    {
+      "name": "Timothy E. Essington"
+    },
+    {
+      "name": "James F. Kitchell"
+    },
+    {
+      "name": "Steven J.D. Martell"
+    },
+    {
+      "name": "Carl J. Walters"
+    },
+    {
+      "name": "Christofer H. Boggs"
+    },
+    {
+      "name": "Isaac C. Kaplan"
+    }
+  ],
+  "publication_year": 2002,
+  "cited_by_count": 143,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1487300983",
+    "https://openalex.org/W1980631672",
+    "https://openalex.org/W1982939018",
+    "https://openalex.org/W1984648152",
+    "https://openalex.org/W1997649950",
+    "https://openalex.org/W2003647390",
+    "https://openalex.org/W2007263482",
+    "https://openalex.org/W2008585602",
+    "https://openalex.org/W2017191017",
+    "https://openalex.org/W2047904830",
+    "https://openalex.org/W2059433007",
+    "https://openalex.org/W2064980833",
+    "https://openalex.org/W2087830067",
+    "https://openalex.org/W2143271190",
+    "https://openalex.org/W2147807123",
+    "https://openalex.org/W2243304014",
+    "https://openalex.org/W2786977151",
+    "https://openalex.org/W3031389563",
+    "https://openalex.org/W42114903",
+    "https://openalex.org/W73913191"
+  ]
+}

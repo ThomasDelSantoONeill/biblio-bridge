@@ -1,0 +1,59 @@
+{
+  "id": "https://openalex.org/W2043284071",
+  "title": "The Scotia Sea krill fishery and its possible impacts on dependent predators: modeling localized depletion of prey",
+  "abstract": "The nature and impact of fishing on predators that share a fished resource is an important consideration in ecosystem-based fisheries management. Krill (Euphausia superba) is a keystone species in the Antarctic, serving as a fundamental forage source for predators and simultaneously being subject to fishing. We developed a spatial multispecies operating model (SMOM) of krill-predator fishery dynamics to help advise on allocation of the total krill catch among 15 small-scale management units (SSMUs) in the Scotia Sea, with a goal to reduce the potential impact of fishing on krill predators. The operating model describes the underlying population dynamics and is used in simulations to compare different management options for adjusting fishing activities (e.g., a different spatial distribution of catches). The numerous uncertainties regarding the choice of parameter values pose a major impediment to constructing reliable ecosystem models. The pragmatic solution proposed here involves the use of operating models that are composed of alternative combinations of parameters that essentially try to bound the uncertainty in, for example, the choice of survival rate estimates as well as the functional relationships between predators and prey. Despite the large uncertainties, it is possible to discriminate the ecosystem impacts of different spatial fishing allocations. The spatial structure of the model is fundamental to addressing concerns of localized depletion of prey in the vicinity of land-based predator breeding colonies. Results of the model have been considered in recent management deliberations for spatial allocations of krill catches in the Scotia Sea and their associated impacts on dependent predator species.",
+  "authors": [
+    {
+      "name": "Éva E. Plagányi"
+    },
+    {
+      "name": "Doug S Butterworth"
+    }
+  ],
+  "publication_year": 2011,
+  "cited_by_count": 59,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1526242112",
+    "https://openalex.org/W1583194033",
+    "https://openalex.org/W1595733363",
+    "https://openalex.org/W1982378294",
+    "https://openalex.org/W1988209208",
+    "https://openalex.org/W1991560151",
+    "https://openalex.org/W2017729094",
+    "https://openalex.org/W2020046994",
+    "https://openalex.org/W2072760418",
+    "https://openalex.org/W2074578024",
+    "https://openalex.org/W2082119996",
+    "https://openalex.org/W2087354163",
+    "https://openalex.org/W2091884289",
+    "https://openalex.org/W2093603746",
+    "https://openalex.org/W2097508216",
+    "https://openalex.org/W2102301843",
+    "https://openalex.org/W2107564013",
+    "https://openalex.org/W2114364088",
+    "https://openalex.org/W2116071932",
+    "https://openalex.org/W2119714081",
+    "https://openalex.org/W2122505518",
+    "https://openalex.org/W2122719118",
+    "https://openalex.org/W2126475261",
+    "https://openalex.org/W2128532601",
+    "https://openalex.org/W2128619673",
+    "https://openalex.org/W2138293634",
+    "https://openalex.org/W2148311895",
+    "https://openalex.org/W2160092531",
+    "https://openalex.org/W2167213205",
+    "https://openalex.org/W2171113886",
+    "https://openalex.org/W2312401788",
+    "https://openalex.org/W2317087053",
+    "https://openalex.org/W2325431903",
+    "https://openalex.org/W2536117037",
+    "https://openalex.org/W3150234440",
+    "https://openalex.org/W4238757186",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W90209462"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "https://openalex.org/W2063307896",
+  "title": "The von Bertalanffy growth function, bioenergetics, and the consumption rates of fish",
+  "abstract": "The von Bertalanffy growth function (VBGF) is based on a bioenergetic expression of fish growth; therefore, size-at-age data can theoretically be used to estimate fish consumption rates. We evaluated the accuracy of VBGF-derived consumption rates by performing a meta-analysis and sensitivity analysis of VBGF assumptions, and we used Bayesian parameter estimation to quantify uncertainty in these estimates. The VBGF was robust to its assumption regarding the allometry of catabolism but was highly sensitive to the assumed allometry of consumption. Consequently, the commonly used form (\"specialized\" VBGF), which makes a strong assumption regarding the allometric slope of consumption, often grossly underestimates (&gt;50%) consumption. The precision of the VBGF depended on characteristics of the size-at-age data used to parameterize the model. When data indicate decelerating growth, consumption rates were estimated with good precision; we estimated a 70% probability that bluefin tuna (Thunnus thynnus) consumption rates were between 1 and 2% body mass per day. Otherwise, consumption estimates were poorly defined; yellowfin tuna (Thunnus albacares) consumption rates between 2 and 7% per day were all equally likely. We conclude that VBGF can be a useful tool for estimating fish consumption rates, but potential biases and precision of these estimates should be evaluated on a case-by-case basis.",
+  "authors": [
+    {
+      "name": "Timothy E. Essington"
+    },
+    {
+      "name": "James F. Kitchell"
+    },
+    {
+      "name": "Carl J. Walters"
+    }
+  ],
+  "publication_year": 2001,
+  "cited_by_count": 166,
+  "primary_topic": "Fish Ecology and Management Studies",
+  "subfield_topic": "Nature and Landscape Conservation",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W113674547",
+    "https://openalex.org/W1516238711",
+    "https://openalex.org/W1965651711",
+    "https://openalex.org/W1967698132",
+    "https://openalex.org/W1973734690",
+    "https://openalex.org/W1984752790",
+    "https://openalex.org/W1992328386",
+    "https://openalex.org/W1994727944",
+    "https://openalex.org/W1998882307",
+    "https://openalex.org/W2007044690",
+    "https://openalex.org/W2012741475",
+    "https://openalex.org/W2031173067",
+    "https://openalex.org/W2035058341",
+    "https://openalex.org/W2035901776",
+    "https://openalex.org/W2040480245",
+    "https://openalex.org/W2045656233",
+    "https://openalex.org/W2048247737",
+    "https://openalex.org/W2057696269",
+    "https://openalex.org/W2059537763",
+    "https://openalex.org/W2061269229",
+    "https://openalex.org/W2072453933",
+    "https://openalex.org/W2075637343",
+    "https://openalex.org/W2095046689",
+    "https://openalex.org/W2106109376",
+    "https://openalex.org/W2114646189",
+    "https://openalex.org/W2141235092",
+    "https://openalex.org/W2147945222",
+    "https://openalex.org/W2157348076",
+    "https://openalex.org/W2175554735",
+    "https://openalex.org/W2184294873",
+    "https://openalex.org/W2310506975",
+    "https://openalex.org/W2317051445",
+    "https://openalex.org/W2402840930",
+    "https://openalex.org/W2547178410",
+    "https://openalex.org/W2577040454",
+    "https://openalex.org/W2588677549",
+    "https://openalex.org/W2967034320",
+    "https://openalex.org/W4233480426",
+    "https://openalex.org/W4244852844"
+  ]
+}

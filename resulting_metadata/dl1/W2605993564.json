@@ -1,0 +1,43 @@
+{
+  "id": "https://openalex.org/W2605993564",
+  "title": "A database of global marine commercial, small-scale, illegal and unreported fisheries catch 1950–2014",
+  "abstract": "Global fisheries landings data from a range of public sources was harmonised and mapped to 30-min spatial cells based on the distribution of the reported taxa and the fishing fleets involved. This data was extended to include the associated fishing gear used, as well as estimates of illegal, unregulated and unreported catch (IUU) and discards at sea. Expressed as catch rates, these results also separated small-scale fisheries from other fishing operations. The dataset covers 1950 to 2014 inclusive. Mapped catch allows study of the impacts of fisheries on habitats and fauna, on overlap with the diets of marine birds and mammals, and on the related use of fuels and release of greenhouse gases. The fine-scale spatial data can be aggregated to the exclusive economic zone claims of countries and will allow study of the value of landed marine products to their economies and food security, and to those of their trading partners.",
+  "authors": [
+    {
+      "name": "Reg Watson"
+    }
+  ],
+  "publication_year": 2017,
+  "cited_by_count": 120,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1570509537",
+    "https://openalex.org/W1905622249",
+    "https://openalex.org/W1923495213",
+    "https://openalex.org/W1994028708",
+    "https://openalex.org/W1999491524",
+    "https://openalex.org/W2008059600",
+    "https://openalex.org/W2015918764",
+    "https://openalex.org/W2024468670",
+    "https://openalex.org/W2054534384",
+    "https://openalex.org/W2089327955",
+    "https://openalex.org/W2095212350",
+    "https://openalex.org/W2100452138",
+    "https://openalex.org/W2118956924",
+    "https://openalex.org/W2123069546",
+    "https://openalex.org/W2124565737",
+    "https://openalex.org/W2124832186",
+    "https://openalex.org/W2156709416",
+    "https://openalex.org/W2163657866",
+    "https://openalex.org/W2170590389",
+    "https://openalex.org/W2276139955",
+    "https://openalex.org/W2289852197",
+    "https://openalex.org/W2302526566",
+    "https://openalex.org/W2523535972",
+    "https://openalex.org/W3010123147",
+    "https://openalex.org/W636331266"
+  ]
+}

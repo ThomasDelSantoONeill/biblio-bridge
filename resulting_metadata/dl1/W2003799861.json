@@ -1,0 +1,20 @@
+{
+  "id": "https://openalex.org/W2003799861",
+  "title": "Towards rational harvesting of the South African anchovy considering survey imprecision and recruitment variability",
+  "abstract": "Alternative harvesting schemes for the South African anchovy resource are considered. For this preliminary study, strategies in which quotas are simply related to the pre-catch survey estimates of spawning biomass and recruitment are investigated, using a Monte Carlo simulation approach. The schemes evaluated are the strategies of a constant catch, a constant proportion of the recruitment estimate, and a variant on constant escapement. The relationship between modal recruitment and spawning biomass is assumed known, and the values of parameters such as natural mortality and mass-at-age are initially taken to be exact. True recruitment is assumed log-normally distributed about its modal value. The annual survey estimates of recruitment and spawning biomass are generated with typical measurement errors included. The results show the cost (expressed as a loss of potential annual yield) of imperfect survey information, natural recruitment variability, and constraints on year-to-year catch variability. The analysis is extended to integrate the outcome of specific harvesting strategies over the current estimates of the probability distributions for the model parameters, assuming that these are not updated as harvesting is continued. The final results suggest that the mean annual yield of the South African anchovy resource could be increased by about 40 per cent through use of a more flexible harvesting strategy than is the current practice, without at the same time increasing the risk of collapse.",
+  "authors": [
+    {
+      "name": "M. O. Bergh"
+    },
+    {
+      "name": "Doug S Butterworth"
+    }
+  ],
+  "publication_year": 1987,
+  "cited_by_count": 51,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": []
+}

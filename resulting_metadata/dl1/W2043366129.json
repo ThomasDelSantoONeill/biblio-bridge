@@ -1,0 +1,23 @@
+{
+  "id": "https://openalex.org/W2043366129",
+  "title": "Learning to Enhance Salmon Production: Lessons from the Salmonid Enhancement Program",
+  "abstract": "We evaluate the Salmonid Enhancement Program (SEP) to determine its effectiveness at producing adult fish in the catch and its ability to learn from experience. The original goal of SEP was to produce up to 86 000 metric tons (t) of salmon per year, and it has relied primarily on three major technologies to achieve this goal: hatcheries, spawning channels, and lake enrichment. We estimate that SEP's annual production is about 12 400 t of salmon per year. Thus, the program has fallen short of its objective. We show that SEP has devoted considerable effort in evaluating individual facilities and sites: however, SEP has been unable or unwilling to evaluate overall program success and direction. Due to natural variation in survival rates, it is difficult to determine, even after 15 yr, which technologies are likely to be successful. Furthermore, there is a paucity of information on wild stocks and the extent to which these enhancement activities have an effect on their numbers. We conclude that no technology has been proven, that 15 yr is insufficient to determine which technologies to explore, and that programs like SEP must rely on outside evaluation of overall program success and outside direction for program guidance.",
+  "authors": [
+    {
+      "name": "Ray Hilborn"
+    },
+    {
+      "name": "John Winton"
+    }
+  ],
+  "publication_year": 1993,
+  "cited_by_count": 76,
+  "primary_topic": "Fish Ecology and Management Studies",
+  "subfield_topic": "Nature and Landscape Conservation",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W2067989033",
+    "https://openalex.org/W2730293341"
+  ]
+}

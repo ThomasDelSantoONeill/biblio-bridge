@@ -1,0 +1,25 @@
+{
+  "id": "https://openalex.org/W2067151918",
+  "title": "On equilibria in finite games",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Valentinas Bubelis"
+    }
+  ],
+  "publication_year": 1979,
+  "cited_by_count": 45,
+  "primary_topic": "Game Theory and Applications",
+  "subfield_topic": "Management Science and Operations Research",
+  "field_topic": "Decision Sciences",
+  "domain_topic": "Social Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1990861705",
+    "https://openalex.org/W2004329945",
+    "https://openalex.org/W2089649903",
+    "https://openalex.org/W2325117413",
+    "https://openalex.org/W2483516974",
+    "https://openalex.org/W2485909091",
+    "https://openalex.org/W2984019567"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "https://openalex.org/W1593939215",
+  "title": "Diffusion and Ecological Problems: Modern Perspectives",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Akira Ōkubo"
+    },
+    {
+      "name": "Simon A. Levin"
+    }
+  ],
+  "publication_year": 2001,
+  "cited_by_count": 1332,
+  "primary_topic": "Sustainability and Ecological Systems Analysis",
+  "subfield_topic": "Environmental Engineering",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W2206947827",
+    "https://openalex.org/W2499368172"
+  ]
+}

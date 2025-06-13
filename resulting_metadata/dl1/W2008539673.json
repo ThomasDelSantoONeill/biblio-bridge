@@ -1,0 +1,26 @@
+{
+  "id": "https://openalex.org/W2008539673",
+  "title": "On the stability of systems with random parameters",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "I.Ia. Kats"
+    },
+    {
+      "name": "N. N. Krasovskiĭ"
+    }
+  ],
+  "publication_year": 1960,
+  "cited_by_count": 216,
+  "primary_topic": "Adaptive Control of Nonlinear Systems",
+  "subfield_topic": "Control and Systems Engineering",
+  "field_topic": "Engineering",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1531285985",
+    "https://openalex.org/W1772052208",
+    "https://openalex.org/W1985109155",
+    "https://openalex.org/W1991047018",
+    "https://openalex.org/W2168758461"
+  ]
+}

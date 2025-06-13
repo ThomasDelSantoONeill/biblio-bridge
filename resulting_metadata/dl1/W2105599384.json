@@ -1,0 +1,51 @@
+{
+  "id": "https://openalex.org/W2105599384",
+  "title": "Using demographic methods to construct Bayesian priors for the intrinsic rate of increase in the Schaefer model and implications for stock rebuilding",
+  "abstract": "Even though Bayesian methods can provide statistically rigorous assessments of the biological status of fisheries resources, uninformative data (e.g., declining catch rate series with little variation in fishing effort) can produce highly imprecise parameter estimates. This can be counteracted with the use of informative Bayesian prior distributions (priors) for model parameters. We develop priors for the intrinsic rate of increase (r) in the Schaefer surplus production model using demographic methods and illustrate the utility of this with an application to large coastal sharks in the Atlantic. In 1996, a U.S. stock assessment obtained a point estimate for r of 0.26. For such long-lived and low-fecund organisms, this could potentially be too high. Yet it was used to predict that within about 10 years, a 50% reduction in the 1995 catch level should result in &gt;50% chance of increasing the population to the abundance required to produce maximum sustainable yield. In contrast, a Bayesian assessment that used demographic analysis to construct a prior for r with a median of 0.07 and coefficient of variation (CV) of 0.7 indicated that within 30 years, this policy would have only a very small chance of increasing the population to maximum sustainable yield.",
+  "authors": [
+    {
+      "name": "M.K. McAllister"
+    },
+    {
+      "name": "Ellen K. Pikitch"
+    },
+    {
+      "name": "Elizabeth A. Babcock"
+    }
+  ],
+  "publication_year": 2001,
+  "cited_by_count": 148,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1532540194",
+    "https://openalex.org/W1589375716",
+    "https://openalex.org/W1599127549",
+    "https://openalex.org/W1988520084",
+    "https://openalex.org/W1994727944",
+    "https://openalex.org/W2001376713",
+    "https://openalex.org/W2005091274",
+    "https://openalex.org/W2005474744",
+    "https://openalex.org/W2015617037",
+    "https://openalex.org/W2016709688",
+    "https://openalex.org/W2030361515",
+    "https://openalex.org/W2045656233",
+    "https://openalex.org/W2071536679",
+    "https://openalex.org/W2075431265",
+    "https://openalex.org/W2076098400",
+    "https://openalex.org/W2101278610",
+    "https://openalex.org/W2104759740",
+    "https://openalex.org/W2106461708",
+    "https://openalex.org/W2108756112",
+    "https://openalex.org/W2108848485",
+    "https://openalex.org/W2130870465",
+    "https://openalex.org/W2149319738",
+    "https://openalex.org/W2152942727",
+    "https://openalex.org/W2598092628",
+    "https://openalex.org/W2796225780",
+    "https://openalex.org/W3095349305",
+    "https://openalex.org/W4285719527"
+  ]
+}

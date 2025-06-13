@@ -1,0 +1,31 @@
+{
+  "id": "https://openalex.org/W2131925211",
+  "title": "Productivity, consumers, and the structure of a river food chain.",
+  "abstract": "We tested models of food chain dynamics in experimentally manipulated channels within a natural river. As light levels increased, primary productivity and the biomass of algae and primary predators increased, but the biomass of grazers remained relatively constant. In the presence of a fourth trophic level, algae and primary predators decreased, but grazers increased. These results match predictions of food chain models based on classical predator-prey theory and suggest that simple models of multitrophic level interactions are sometimes sufficient to predict the responses of natural communities to changes in environmental productivity and predators.",
+  "authors": [
+    {
+      "name": "J. Timothy Wootton"
+    },
+    {
+      "name": "Mary E. Power"
+    }
+  ],
+  "publication_year": 1993,
+  "cited_by_count": 225,
+  "primary_topic": "Mathematical and Theoretical Epidemiology and Ecology Models",
+  "subfield_topic": "Public Health, Environmental and Occupational Health",
+  "field_topic": "Medicine",
+  "domain_topic": "Health Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1577120698",
+    "https://openalex.org/W1969466353",
+    "https://openalex.org/W1980177068",
+    "https://openalex.org/W2028435430",
+    "https://openalex.org/W2060852353",
+    "https://openalex.org/W2072959381",
+    "https://openalex.org/W2335728124",
+    "https://openalex.org/W3040940214",
+    "https://openalex.org/W4297440205",
+    "https://openalex.org/W4300623997"
+  ]
+}

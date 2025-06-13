@@ -1,0 +1,30 @@
+{
+  "id": "https://openalex.org/W2117648113",
+  "title": "Length and species-dependent diurnal variation of catch rates in the Norwegian Barents Sea bottom-trawl surveys",
+  "abstract": "Diurnal variation in capture efficiency may add to the variability in swept area estimates (or indices) of abundance from bottom-trawl surveys. In the present study the relationship between the day/night ratio of swept area estimates and fish length was examined for five species observed in the Barents Sea bottom-trawl survey in winter in the years 1985–1996. Generally, most species showed increased catch rates during daylight at all sizes as compared with darkness. For cod the day/night ratio peaked at a length interval 23–31cm with a substantial reduction for larger fish. For haddock the ratio was highest at the minimum size group, 12–15cm, and decreased with increasing size. Some possible behavioural explanations for these findings are discussed. A change in groundgear during the time period analysed had a pronounced effect on the day/night ratios for all species. In addition there seem to be a tendency for the day/night ratios of catch rates for both cod and haddock to increase with stock size. This is a matter to be aware of when survey results are interpreted and used in stock assessments.",
+  "authors": [
+    {
+      "name": "Knut Korsbrekke"
+    }
+  ],
+  "publication_year": 1999,
+  "cited_by_count": 42,
+  "primary_topic": "Fish Ecology and Management Studies",
+  "subfield_topic": "Nature and Landscape Conservation",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W2002729444",
+    "https://openalex.org/W2025119241",
+    "https://openalex.org/W2046699458",
+    "https://openalex.org/W2114313837",
+    "https://openalex.org/W2124614738",
+    "https://openalex.org/W2140189361",
+    "https://openalex.org/W2157658390",
+    "https://openalex.org/W2464683977",
+    "https://openalex.org/W2467836747",
+    "https://openalex.org/W2472035137",
+    "https://openalex.org/W2475004663",
+    "https://openalex.org/W2496667380"
+  ]
+}

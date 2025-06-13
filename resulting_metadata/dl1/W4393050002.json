@@ -1,0 +1,35 @@
+{
+  "id": "https://openalex.org/W4393050002",
+  "title": "‘Sustainable Development’: Is it a Useful Concept?",
+  "abstract": "It is argued that ‘sustainable development’ has been defined in such a way as to be either morally repugnant or logically redundant. ‘Strong’ sustainability, overriding all other considerations, is morally unacceptable as well as totally impractical; and ‘weak’ sustainability, in which compensation is made for resources consumed, offers nothing beyond traditional economic welfare maximisation. The ‘sustainability’ requirement that human well-being should never be allowed to decline is shown to be irrational. Welfare economics can accommodate distributional considerations, and, suitably defined, the concept of welfare can include the subjective effects of changes in – as well as the levels of – well-being. Hence there is no reason why welfare maximisation should not remain an overriding policy objective. Nor can sustainability be regarded as a ‘constraint’ on welfare maximisation unless there is a clear conflict between the two – which has yet to be demonstrated. This is not to deny the importance of intergenerational justice, nor the need for economic incentives to correct market imperfections if the environment is to be managed in a socially optimal manner. Apart from a few small developing countries heavily dependent on minerals or other finite primary products, the measurement of some wider concept of ‘sustainable’ GNP is a waste of time and such estimates as have been made are virtually worthless.",
+  "authors": [
+    {
+      "name": "Wilfred Beckerman"
+    }
+  ],
+  "publication_year": 1994,
+  "cited_by_count": 51,
+  "primary_topic": "Sustainable Development and Environmental Policy",
+  "subfield_topic": "Management, Monitoring, Policy and Law",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1513862577",
+    "https://openalex.org/W1520900594",
+    "https://openalex.org/W1529322912",
+    "https://openalex.org/W1536726302",
+    "https://openalex.org/W2013592578",
+    "https://openalex.org/W2038491445",
+    "https://openalex.org/W2242750115",
+    "https://openalex.org/W2326947753",
+    "https://openalex.org/W2483763669",
+    "https://openalex.org/W2740833419",
+    "https://openalex.org/W2951112740",
+    "https://openalex.org/W4231309593",
+    "https://openalex.org/W4235740510",
+    "https://openalex.org/W4301503085",
+    "https://openalex.org/W4308665322",
+    "https://openalex.org/W4361187814",
+    "https://openalex.org/W644603212"
+  ]
+}

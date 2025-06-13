@@ -1,0 +1,62 @@
+{
+  "id": "https://openalex.org/W2146671544",
+  "title": "Performance of Surplus Production Models with Time‐Varying Parameters for Assessing Multispecies Assemblages",
+  "abstract": "Abstract Single‐species surplus production models are often used to assess multispecies assemblages in data‐poor situations where catch and effort data are insufficient to perform individual species assessments. We examined the performance of single‐species surplus production models applied to aggregated multispecies assemblages and explored the incorporation of time‐varying parameters to improve model estimates. We simulated the dynamics of three species with different intrinsic growth rates and survey catchabilities over 50 years in the presence of fishing and a single fishery‐independent survey. Schaefer surplus production models with and without time‐varying growth rate and catchability were fitted to simulated data. We then compared the ability of each model to accurately estimate multispecies maximum sustainable yield and terminal year biomass and to accurately reflect overall trends in individual component stocks. All models produced biased estimates, but the accuracy of multispecies assemblage maximum sustainable yield was improved with the incorporation of time‐varying parameters. The terminal biomass of the assemblage was best estimated by a basic production model in two of three scenarios. Multispecies assemblage trends were not reflective of all individual component species, resulting in situations in which some species were overexploited and others underexploited. Although the incorporation of time‐varying parameters improved the accuracy of some estimates in this application, the direction and magnitude of bias may not be predictable unless the relative differences in growth rate and catchability among species in the assemblage are known. If single‐species surplus production models are the only viable option for modeling assemblages, precautionary reference points should be adopted. Scaling the level of precaution to the range of growth rates among species in the assemblage is recommended. Received February 19, 2012; accepted August 8, 2012",
+  "authors": [
+    {
+      "name": "Geneviève M. Nesslage"
+    },
+    {
+      "name": "Michael J. Wilberg"
+    }
+  ],
+  "publication_year": 2012,
+  "cited_by_count": 7,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1589375716",
+    "https://openalex.org/W1599127549",
+    "https://openalex.org/W1963725928",
+    "https://openalex.org/W1967845488",
+    "https://openalex.org/W1971444137",
+    "https://openalex.org/W1979691895",
+    "https://openalex.org/W1985342263",
+    "https://openalex.org/W1994276086",
+    "https://openalex.org/W2005615963",
+    "https://openalex.org/W2017691342",
+    "https://openalex.org/W2029748101",
+    "https://openalex.org/W203731482",
+    "https://openalex.org/W204940627",
+    "https://openalex.org/W2049788366",
+    "https://openalex.org/W2071098563",
+    "https://openalex.org/W2080155770",
+    "https://openalex.org/W2082936408",
+    "https://openalex.org/W2093603746",
+    "https://openalex.org/W2094097304",
+    "https://openalex.org/W2102127468",
+    "https://openalex.org/W2102849960",
+    "https://openalex.org/W2105599384",
+    "https://openalex.org/W2108221251",
+    "https://openalex.org/W2117210156",
+    "https://openalex.org/W2132270486",
+    "https://openalex.org/W2133443904",
+    "https://openalex.org/W2135547947",
+    "https://openalex.org/W2138829457",
+    "https://openalex.org/W2161277812",
+    "https://openalex.org/W2167607966",
+    "https://openalex.org/W2182817873",
+    "https://openalex.org/W2185022291",
+    "https://openalex.org/W2276050679",
+    "https://openalex.org/W2315549469",
+    "https://openalex.org/W2528631554",
+    "https://openalex.org/W2598092628",
+    "https://openalex.org/W2802684754",
+    "https://openalex.org/W3216061933",
+    "https://openalex.org/W36209408",
+    "https://openalex.org/W4210260625",
+    "https://openalex.org/W592416205"
+  ]
+}

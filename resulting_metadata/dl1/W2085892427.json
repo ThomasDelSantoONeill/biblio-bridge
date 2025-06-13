@@ -1,0 +1,36 @@
+{
+  "id": "https://openalex.org/W2085892427",
+  "title": "The dynamics of spatial pollution: The case of phosphorus runoff from agricultural land",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Renan Goetz"
+    },
+    {
+      "name": "David Zilberman"
+    }
+  ],
+  "publication_year": 2000,
+  "cited_by_count": 84,
+  "primary_topic": "Soil and Water Nutrient Dynamics",
+  "subfield_topic": "Environmental Chemistry",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W143959427",
+    "https://openalex.org/W1501888906",
+    "https://openalex.org/W1514913587",
+    "https://openalex.org/W1558359282",
+    "https://openalex.org/W1567364607",
+    "https://openalex.org/W2052876170",
+    "https://openalex.org/W2055503016",
+    "https://openalex.org/W2089652306",
+    "https://openalex.org/W2094531915",
+    "https://openalex.org/W2112230784",
+    "https://openalex.org/W2202255104",
+    "https://openalex.org/W2480071687",
+    "https://openalex.org/W279496888",
+    "https://openalex.org/W3000495851",
+    "https://openalex.org/W73617557"
+  ]
+}

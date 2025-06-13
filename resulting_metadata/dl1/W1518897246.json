@@ -1,0 +1,43 @@
+{
+  "id": "https://openalex.org/W1518897246",
+  "title": "Mixed effects models and extensions in ecology with R",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Alain F. Zuur"
+    },
+    {
+      "name": "Elena N. Ieno"
+    },
+    {
+      "name": "N. P. J. Walker"
+    },
+    {
+      "name": "Anatoly A. Saveliev"
+    },
+    {
+      "name": "Graham M. Smith"
+    }
+  ],
+  "publication_year": 2009,
+  "cited_by_count": 16545,
+  "primary_topic": "Data Analysis with R",
+  "subfield_topic": "Artificial Intelligence",
+  "field_topic": "Computer Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W136159158",
+    "https://openalex.org/W1505290733",
+    "https://openalex.org/W159095670",
+    "https://openalex.org/W192663138",
+    "https://openalex.org/W1955318000",
+    "https://openalex.org/W2067402552",
+    "https://openalex.org/W2172991129",
+    "https://openalex.org/W2269783957",
+    "https://openalex.org/W2272393948",
+    "https://openalex.org/W24825842",
+    "https://openalex.org/W287702468",
+    "https://openalex.org/W4237376950",
+    "https://openalex.org/W52713581"
+  ]
+}

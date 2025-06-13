@@ -1,0 +1,57 @@
+{
+  "id": "https://openalex.org/W2939727353",
+  "title": "Performance of multispecies assessment models: insights on the influence of diet data",
+  "abstract": "Abstract Multispecies stock assessment models require predator diet data, e.g. stomach samples. Diet data can be unavailable, sparse, of small sample size, or very noisy. It is unclear if multispecies interactions can be estimated without bias when interactions are weak. Research is needed about how model performance is affected by the availability or quality of diet data and by the method for fitting it. We developed seven age-structured operating models that simulate trophic interactions for two fish species and different scenarios of diet data availability or quality. The simulated data sets were fitted using four statistical catch-at-age models that estimated fishing, predation and residual natural mortality and differed in the way the diet data was fitted. Fitting the models to diet data averaged over time should be avoided since it resulted in estimation bias. Fitting annual diet composition per stomach produced bias estimates due to the occurrence of zeros in the observed proportions and the statistical assumptions for the diet model. Fitting to annual stomach proportions averaged across stomachs led to unbiased results even if the number of stomachs was small, the interactions were weak or some sampled years and ages were missing. These methods should be preferred when fitting multispecies models.",
+  "authors": [
+    {
+      "name": "Vanessa Trijoulet"
+    },
+    {
+      "name": "Gavin Fay"
+    },
+    {
+      "name": "Kiersten L. Curti"
+    },
+    {
+      "name": "Brian E. Smith"
+    },
+    {
+      "name": "Timothy J. Miller"
+    }
+  ],
+  "publication_year": 2019,
+  "cited_by_count": 17,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W142584611",
+    "https://openalex.org/W1521037391",
+    "https://openalex.org/W1790462712",
+    "https://openalex.org/W1921490285",
+    "https://openalex.org/W1934921310",
+    "https://openalex.org/W1990566709",
+    "https://openalex.org/W2016293090",
+    "https://openalex.org/W2019727683",
+    "https://openalex.org/W2050441977",
+    "https://openalex.org/W2051806801",
+    "https://openalex.org/W2063307896",
+    "https://openalex.org/W2076803781",
+    "https://openalex.org/W2084828496",
+    "https://openalex.org/W2090041956",
+    "https://openalex.org/W2131746234",
+    "https://openalex.org/W2131915744",
+    "https://openalex.org/W2132270486",
+    "https://openalex.org/W2150844962",
+    "https://openalex.org/W2202282372",
+    "https://openalex.org/W2213612645",
+    "https://openalex.org/W2320624544",
+    "https://openalex.org/W2520338460",
+    "https://openalex.org/W2792720167",
+    "https://openalex.org/W3103300580",
+    "https://openalex.org/W3216061933",
+    "https://openalex.org/W382509713",
+    "https://openalex.org/W4252115095"
+  ]
+}

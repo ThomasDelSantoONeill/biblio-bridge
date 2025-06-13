@@ -1,0 +1,64 @@
+{
+  "id": "https://openalex.org/W2023413516",
+  "title": "Interpreting phenotypic variation in plants",
+  "abstract": "Plant ecologists and evolutionary biologists frequently examine patterns of phenotypic variation across variable environments or genetic identities. Too often, we ignore the fact that most phenotypic traits change throughout growth and development of individual plants, and that rates of growth and development are highly variable. Plants growing in different environments are likely to grow at different rates, and will be of different sizes and stages of development at a particular age. When we compare plants as a function of plant size or developmental stage, as well as a function of age, we broaden our understanding of phenotypic variation between plants.",
+  "authors": [
+    {
+      "name": "James S. Coleman"
+    },
+    {
+      "name": "K. D. M. McConnaughay"
+    },
+    {
+      "name": "David D. Ackerly"
+    }
+  ],
+  "publication_year": 1994,
+  "cited_by_count": 658,
+  "primary_topic": "Plant and animal studies",
+  "subfield_topic": "Ecology, Evolution, Behavior and Systematics",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1488595547",
+    "https://openalex.org/W1489473758",
+    "https://openalex.org/W1547519816",
+    "https://openalex.org/W1580912102",
+    "https://openalex.org/W1859957646",
+    "https://openalex.org/W1964763178",
+    "https://openalex.org/W1966663465",
+    "https://openalex.org/W1968865872",
+    "https://openalex.org/W1969648693",
+    "https://openalex.org/W1988831334",
+    "https://openalex.org/W1994935041",
+    "https://openalex.org/W2013373422",
+    "https://openalex.org/W2023239702",
+    "https://openalex.org/W2026225377",
+    "https://openalex.org/W2028216963",
+    "https://openalex.org/W2033994423",
+    "https://openalex.org/W2043037373",
+    "https://openalex.org/W2045368723",
+    "https://openalex.org/W2047511104",
+    "https://openalex.org/W2069750651",
+    "https://openalex.org/W2070855241",
+    "https://openalex.org/W2097792027",
+    "https://openalex.org/W2104919199",
+    "https://openalex.org/W2106015768",
+    "https://openalex.org/W2112286451",
+    "https://openalex.org/W2119290487",
+    "https://openalex.org/W2129657791",
+    "https://openalex.org/W2140720064",
+    "https://openalex.org/W2142933258",
+    "https://openalex.org/W2154524337",
+    "https://openalex.org/W2161917459",
+    "https://openalex.org/W2170553852",
+    "https://openalex.org/W2175150171",
+    "https://openalex.org/W2317901174",
+    "https://openalex.org/W2318250217",
+    "https://openalex.org/W2324955919",
+    "https://openalex.org/W2556946441",
+    "https://openalex.org/W2607726562",
+    "https://openalex.org/W2980019961",
+    "https://openalex.org/W4285719527"
+  ]
+}

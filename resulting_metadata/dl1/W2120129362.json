@@ -1,0 +1,88 @@
+{
+  "id": "https://openalex.org/W2120129362",
+  "title": "Global marine primary production constrains fisheries catches",
+  "abstract": "Primary production must constrain the amount of fish and invertebrates available to expanding fisheries; however the degree of limitation has only been demonstrated at regional scales to date. Here we show that phytoplanktonic primary production, estimated from an ocean-colour satellite (SeaWiFS), is related to global fisheries catches at the scale of Large Marine Ecosystems, while accounting for temperature and ecological factors such as ecosystem size and type, species richness, animal body size, and the degree and nature of fisheries exploitation. Indeed we show that global fisheries catches since 1950 have been increasingly constrained by the amount of primary production. The primary production appropriated by current global fisheries is 17-112% higher than that appropriated by sustainable fisheries. Global primary production appears to be declining, in some part due to climate variability and change, with consequences for the near future fisheries catches.",
+  "authors": [
+    {
+      "name": "Emmanuel Chassot"
+    },
+    {
+      "name": "Sylvain Bonhommeau"
+    },
+    {
+      "name": "Nicholas K. Dulvy"
+    },
+    {
+      "name": "Frédéric Mélin"
+    },
+    {
+      "name": "Reg Watson"
+    },
+    {
+      "name": "Didier Gascuel"
+    },
+    {
+      "name": "Olivier Le Pape"
+    }
+  ],
+  "publication_year": 2010,
+  "cited_by_count": 465,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1492835558",
+    "https://openalex.org/W1627180673",
+    "https://openalex.org/W1628022084",
+    "https://openalex.org/W1909116965",
+    "https://openalex.org/W1973933025",
+    "https://openalex.org/W1975626823",
+    "https://openalex.org/W1982786302",
+    "https://openalex.org/W2000562182",
+    "https://openalex.org/W2007513128",
+    "https://openalex.org/W2008733299",
+    "https://openalex.org/W2010557655",
+    "https://openalex.org/W2010588943",
+    "https://openalex.org/W2015918764",
+    "https://openalex.org/W2016637157",
+    "https://openalex.org/W2018580425",
+    "https://openalex.org/W2029028922",
+    "https://openalex.org/W2029579385",
+    "https://openalex.org/W2029937379",
+    "https://openalex.org/W2030786060",
+    "https://openalex.org/W2042162102",
+    "https://openalex.org/W2052748906",
+    "https://openalex.org/W2053022429",
+    "https://openalex.org/W2059155923",
+    "https://openalex.org/W2060789210",
+    "https://openalex.org/W2066259947",
+    "https://openalex.org/W2069280266",
+    "https://openalex.org/W2076349474",
+    "https://openalex.org/W2082678969",
+    "https://openalex.org/W2093463708",
+    "https://openalex.org/W2096623946",
+    "https://openalex.org/W2096950322",
+    "https://openalex.org/W2097554509",
+    "https://openalex.org/W2098828870",
+    "https://openalex.org/W2099189943",
+    "https://openalex.org/W2108084128",
+    "https://openalex.org/W2111273878",
+    "https://openalex.org/W2113039267",
+    "https://openalex.org/W2116721474",
+    "https://openalex.org/W2118956924",
+    "https://openalex.org/W2122930237",
+    "https://openalex.org/W2137345678",
+    "https://openalex.org/W2148636866",
+    "https://openalex.org/W2157832927",
+    "https://openalex.org/W2158569580",
+    "https://openalex.org/W2160427391",
+    "https://openalex.org/W2167239677",
+    "https://openalex.org/W2170590389",
+    "https://openalex.org/W2174461436",
+    "https://openalex.org/W2284218353",
+    "https://openalex.org/W2317845212",
+    "https://openalex.org/W2726333806",
+    "https://openalex.org/W402219611"
+  ]
+}

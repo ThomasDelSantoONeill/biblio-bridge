@@ -1,0 +1,63 @@
+{
+  "id": "https://openalex.org/W2082776215",
+  "title": "Feeding ecology of central Baltic Sea herring and sprat",
+  "abstract": "A unique dataset of stomach contents sampled between 1977 and 1999 in the central Baltic Sea was used to perform a comprehensive study of the feeding ecology of Central Baltic herring Clupea harengus and sprat Sprattus sprattus . Both fish species were mainly preying upon calanoid copepods with Pseudocalanus sp. dominating the diet of herring, whereas sprat generally preferred Temora longicornis . Sprat preyed upon older copepodite stages, indicating size‐selective particulate feeding, whereas herring additionally fed on smaller copepodite stages, indicating occasional low food supply inducing filter‐feeding. Additional food sources other than copepods were mysids in winter and autumn for medium to large herring, as well as cladocerans for sprat in spring and summer, determined by the seasonal occurrence of these plankton species. Seasonally the highest feeding activity of both fishes species occurred in spring and summer, the main reproductive periods of calanoid copepods. The most important food item for both predators in spring was Pseudocalanus sp. In summer sprat switched to T. longicornis and Acartia spp. Since the late 1970s, the total stomach fullness decreased and the fraction of empty stomachs increased. In parallel the amount of Pseudocalanus sp. in the diets of both fish species decreased. Further, a considerable dietary overlap between both species in spring indicated considerable competition for food resources, especially due to an enlarged sprat stock. The results of this study support the hypothesis that growth reductions observed in Baltic herring and sprat are due to combination of a change in food availability and an increase in density‐dependent competition.",
+  "authors": [
+    {
+      "name": "Christian Möllmann"
+    },
+    {
+      "name": "Georgs Kornilovs"
+    },
+    {
+      "name": "M. Fetter"
+    },
+    {
+      "name": "Friedrich W. Köster"
+    }
+  ],
+  "publication_year": 2004,
+  "cited_by_count": 178,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W102388460",
+    "https://openalex.org/W1976704708",
+    "https://openalex.org/W1983055700",
+    "https://openalex.org/W1989978375",
+    "https://openalex.org/W1994490131",
+    "https://openalex.org/W2007044690",
+    "https://openalex.org/W2016467295",
+    "https://openalex.org/W2016685230",
+    "https://openalex.org/W2021650957",
+    "https://openalex.org/W2023633889",
+    "https://openalex.org/W2029544389",
+    "https://openalex.org/W2032033968",
+    "https://openalex.org/W2049149681",
+    "https://openalex.org/W2054563314",
+    "https://openalex.org/W2067375304",
+    "https://openalex.org/W2090661312",
+    "https://openalex.org/W2090993408",
+    "https://openalex.org/W2101369997",
+    "https://openalex.org/W2104188330",
+    "https://openalex.org/W2109149330",
+    "https://openalex.org/W2116946539",
+    "https://openalex.org/W2126912169",
+    "https://openalex.org/W2145374773",
+    "https://openalex.org/W2151482884",
+    "https://openalex.org/W2171303770",
+    "https://openalex.org/W2252524374",
+    "https://openalex.org/W2298938463",
+    "https://openalex.org/W2479033261",
+    "https://openalex.org/W2615180781",
+    "https://openalex.org/W2995431673",
+    "https://openalex.org/W3145359390",
+    "https://openalex.org/W4252017076",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W4320930502",
+    "https://openalex.org/W955604077",
+    "https://openalex.org/W966618925"
+  ]
+}

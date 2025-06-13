@@ -1,0 +1,72 @@
+{
+  "id": "https://openalex.org/W1986443283",
+  "title": "Using a Bayesian belief network to predict suitable habitat of an endangered mammal – The Julia Creek dunnart (Sminthopsis douglasi)",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Carl Smith"
+    },
+    {
+      "name": "Alison Howes"
+    },
+    {
+      "name": "Bronwyn Price"
+    },
+    {
+      "name": "Clive McAlpine"
+    }
+  ],
+  "publication_year": 2007,
+  "cited_by_count": 179,
+  "primary_topic": "Species Distribution and Climate Change",
+  "subfield_topic": "Ecological Modeling",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1482267292",
+    "https://openalex.org/W1482289351",
+    "https://openalex.org/W1494131642",
+    "https://openalex.org/W1530529744",
+    "https://openalex.org/W1621929451",
+    "https://openalex.org/W1755360231",
+    "https://openalex.org/W1946738347",
+    "https://openalex.org/W1971759734",
+    "https://openalex.org/W1973107043",
+    "https://openalex.org/W1984491304",
+    "https://openalex.org/W1997955593",
+    "https://openalex.org/W2003873378",
+    "https://openalex.org/W2007698559",
+    "https://openalex.org/W2014791061",
+    "https://openalex.org/W2016389310",
+    "https://openalex.org/W2039028425",
+    "https://openalex.org/W2040283498",
+    "https://openalex.org/W2047575372",
+    "https://openalex.org/W2050702833",
+    "https://openalex.org/W2066015174",
+    "https://openalex.org/W2067547755",
+    "https://openalex.org/W2089336157",
+    "https://openalex.org/W2100590984",
+    "https://openalex.org/W2114828048",
+    "https://openalex.org/W2117843969",
+    "https://openalex.org/W2138973222",
+    "https://openalex.org/W2140305176",
+    "https://openalex.org/W2152139374",
+    "https://openalex.org/W2158420346",
+    "https://openalex.org/W2161319876",
+    "https://openalex.org/W2163102062",
+    "https://openalex.org/W2185222835",
+    "https://openalex.org/W2231419205",
+    "https://openalex.org/W2259326973",
+    "https://openalex.org/W2312997001",
+    "https://openalex.org/W2403272310",
+    "https://openalex.org/W2483791554",
+    "https://openalex.org/W2552204916",
+    "https://openalex.org/W341849635",
+    "https://openalex.org/W4236732175",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W4299670631",
+    "https://openalex.org/W52211652",
+    "https://openalex.org/W61301821",
+    "https://openalex.org/W627939130"
+  ]
+}

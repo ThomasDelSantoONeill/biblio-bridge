@@ -1,0 +1,113 @@
+{
+  "id": "https://openalex.org/W2771688973",
+  "title": "Evidence use in decision-making on introducing innovations: a systematic scoping review with stakeholder feedback",
+  "abstract": "A range of evidence informs decision-making on innovation in health care, including formal research findings, local data and professional opinion. However, cultural and organisational factors often prevent the translation of evidence for innovations into practice. In addition to the characteristics of evidence, it is known that processes at the individual level influence its impact on decision-making. Less is known about the ways in which processes at the professional, organisational and local system level shape evidence use and its role in decisions to adopt innovations. A systematic scoping review was used to review the health literature on innovations within acute and primary care and map processes at the professional, organisational and local system levels which influence how evidence informs decision-making on innovation. Stakeholder feedback on the themes identified was collected via focus groups to test and develop the findings. Following database and manual searches, 31 studies reporting primary qualitative data met the inclusion criteria: 24 were of sufficient methodological quality to be included in the thematic analysis. Evidence use in decision-making on innovation is influenced by multi-level processes (professional, organisational, local system) and interactions across these levels. Preferences for evidence vary by professional group and health service setting. Organisations can shape professional behaviour by requiring particular forms of evidence to inform decision-making. Pan-regional organisations shape innovation decision-making at lower levels. Political processes at all levels shape the selection and use of evidence in decision-making. The synthesis of results from primary qualitative studies found that evidence use in decision-making on innovation is influenced by processes at multiple levels. Interactions between different levels shape evidence use in decision-making (e.g. professional groups and organisations can use local systems to validate evidence and legitimise innovations, while local systems can tailor or frame evidence to influence activity at lower levels). Organisational leaders need to consider whether the environment in which decisions are made values diverse evidence and stakeholder perspectives. Further qualitative research on decision-making practices that highlights how and why different types of evidence come to count during decisions, and tracks the political aspects of decisions about innovation, is needed.",
+  "authors": [
+    {
+      "name": "Simon Turner"
+    },
+    {
+      "name": "Danielle D’Lima"
+    },
+    {
+      "name": "Emma Hudson"
+    },
+    {
+      "name": "Stephen Morris"
+    },
+    {
+      "name": "Jessica Sheringham"
+    },
+    {
+      "name": "Nicholas Swart"
+    },
+    {
+      "name": "Naomi Fulop"
+    }
+  ],
+  "publication_year": 2017,
+  "cited_by_count": 53,
+  "primary_topic": "Health Policy Implementation Science",
+  "subfield_topic": "General Health Professions",
+  "field_topic": "Health Professions",
+  "domain_topic": "Health Sciences",
+  "referenced_works": [
+    "https://openalex.org/W102951394",
+    "https://openalex.org/W1485877798",
+    "https://openalex.org/W1502511610",
+    "https://openalex.org/W1514544689",
+    "https://openalex.org/W1551159424",
+    "https://openalex.org/W1601128533",
+    "https://openalex.org/W1921044162",
+    "https://openalex.org/W1968302661",
+    "https://openalex.org/W1968832457",
+    "https://openalex.org/W1971190521",
+    "https://openalex.org/W1972005689",
+    "https://openalex.org/W1981717548",
+    "https://openalex.org/W1983511061",
+    "https://openalex.org/W1985916619",
+    "https://openalex.org/W1988905542",
+    "https://openalex.org/W1990513740",
+    "https://openalex.org/W1992071146",
+    "https://openalex.org/W1994592819",
+    "https://openalex.org/W1995042950",
+    "https://openalex.org/W1999068081",
+    "https://openalex.org/W2006520721",
+    "https://openalex.org/W2011699569",
+    "https://openalex.org/W2019827595",
+    "https://openalex.org/W2023760594",
+    "https://openalex.org/W2034008987",
+    "https://openalex.org/W2038381326",
+    "https://openalex.org/W2039389706",
+    "https://openalex.org/W2044408039",
+    "https://openalex.org/W2045281006",
+    "https://openalex.org/W2046354675",
+    "https://openalex.org/W2054271469",
+    "https://openalex.org/W2060938686",
+    "https://openalex.org/W2075950485",
+    "https://openalex.org/W2080361588",
+    "https://openalex.org/W2081753990",
+    "https://openalex.org/W2081925149",
+    "https://openalex.org/W2084154288",
+    "https://openalex.org/W2091123812",
+    "https://openalex.org/W2091527106",
+    "https://openalex.org/W2097139268",
+    "https://openalex.org/W2098348335",
+    "https://openalex.org/W2106952837",
+    "https://openalex.org/W2108920717",
+    "https://openalex.org/W2109979595",
+    "https://openalex.org/W2111637361",
+    "https://openalex.org/W2115227481",
+    "https://openalex.org/W2117460543",
+    "https://openalex.org/W2135247075",
+    "https://openalex.org/W2138664283",
+    "https://openalex.org/W2141566744",
+    "https://openalex.org/W2145892978",
+    "https://openalex.org/W2149471975",
+    "https://openalex.org/W2150137577",
+    "https://openalex.org/W2151955137",
+    "https://openalex.org/W2154814920",
+    "https://openalex.org/W2161601567",
+    "https://openalex.org/W2163047160",
+    "https://openalex.org/W2163344666",
+    "https://openalex.org/W2168844311",
+    "https://openalex.org/W2170457652",
+    "https://openalex.org/W2176055284",
+    "https://openalex.org/W2238710746",
+    "https://openalex.org/W2252717833",
+    "https://openalex.org/W2261406464",
+    "https://openalex.org/W2327745339",
+    "https://openalex.org/W2328336734",
+    "https://openalex.org/W2331278477",
+    "https://openalex.org/W2340036613",
+    "https://openalex.org/W2340093013",
+    "https://openalex.org/W2343934612",
+    "https://openalex.org/W2397047231",
+    "https://openalex.org/W2409490356",
+    "https://openalex.org/W2606712725",
+    "https://openalex.org/W2806703257",
+    "https://openalex.org/W3036588604",
+    "https://openalex.org/W4252621549",
+    "https://openalex.org/W4285719527"
+  ]
+}

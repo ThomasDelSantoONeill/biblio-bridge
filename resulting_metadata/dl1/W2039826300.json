@@ -1,0 +1,23 @@
+{
+  "id": "https://openalex.org/W2039826300",
+  "title": "The dynamics of Baltic fish stocks based on a multispecies stock production model",
+  "abstract": "The multispecies stock-production model of Horbowy developed in 1996 was further extended to include the unexploited part of a stock. The model was then applied to simulate stock dynamics and species interactions of cod, herring, and sprat in the Baltic from 1982 to 2001. The model indicates that there have been large declines in cod and herring biomass over the past two decades and a strong increase in sprat biomass in the 1990s. Using the extended stock-production model, the relative changes in stock biomass were similar to the changes derived using the age-structured multispecies model, the multispecies virtual population analysis (MSVPA). However, the production model estimates of the average predation mortality of young cod and young sprat are much lower than those derived from MSVPA, although the estimates for young and adult herring and adult sprat are similar in both approaches. The estimates of food suitability show that the preferred food of adult cod is adult sprat and young herring, while the suitability of young sprat, young cod, and adult herring is much smaller. The simulations performed show that the multispecies production model, which is less data-demanding than age-structured MSVPA, can provide estimates of stock dynamics and species interactions that are largely consistent with those estimated by MSVPA. The quality of input data in terms of recruitment and fishing-effort indices strongly impacts the reliability of the model's results.",
+  "authors": [
+    {
+      "name": "Jan Horbowy"
+    }
+  ],
+  "publication_year": 2005,
+  "cited_by_count": 16,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W2005212304",
+    "https://openalex.org/W2025552145",
+    "https://openalex.org/W2034346170",
+    "https://openalex.org/W2124181495",
+    "https://openalex.org/W2153083000"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "https://openalex.org/W2016469924",
+  "title": "The Importance of Being Discrete (and Spatial)",
+  "abstract": "We consider and compare four approaches to modeling the dynamics of spatially distributed systems: mean field approaches (described by ordinary differential equations) in which every individual is considered to have equal probability of interacting with every other individual; patch models that group discrete individuals into patches without additional spatial structure; reaction-diffusion equations, in which infinitesimal individuals are distributed in space; and interacting particle systems, in which individuals are discrete and space is treated explicitly. We apply these four approaches to three examples of species interactions in spatially distributed populations and compare their predictions. Each represents different assumptions about the biology and hence a comparison among them has biological as well as modeling implications. In the first case all four approaches agree, in the second the spatial models disagree with the nonspatial ones, while in the third the stochastic models with discrete individuals disagree with the ones based on differential equations. We show further that the limiting reaction-diffusion equations associated with particle systems can have different qualitative behavior from those obtained by simply adding diffusion terms to mean field equations.",
+  "authors": [
+    {
+      "name": "Rick Durrett"
+    },
+    {
+      "name": "Simon A. Levin"
+    }
+  ],
+  "publication_year": 1994,
+  "cited_by_count": 1077,
+  "primary_topic": "Stochastic processes and statistical mechanics",
+  "subfield_topic": "Mathematical Physics",
+  "field_topic": "Mathematics",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": []
+}

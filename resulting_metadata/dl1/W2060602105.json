@@ -1,0 +1,22 @@
+{
+  "id": "https://openalex.org/W2060602105",
+  "title": "A note on incorporating stochastic recruitment into deterministic age structured population models",
+  "abstract": "Most fish population dynamics models used in New Zealand are based on a deterministic age structured model which incorporates deterministic equilibrium in the virgin population. Stochastic recruitment has generally been incorporated by using independent identically distributed log normal random variables, with expectation equal to 1, as multipliers of the average recruitment from a deterministic Beverton-Holt stock-recruitment relationship. It was generally thought that with each multipliers expectation equal to 1, that the average virgin biomass in the stochastic model was equal to the deterministic virgin biomass. However, an analysis of an example of this type of stochastic model shows that, due to the non-linearity of the stock-recruitment model, the deterministic virgin biomass will generally be greater than the average virgin biomass. The difference is generally small unless recruitment variability is very large.",
+  "authors": [
+    {
+      "name": "Patrick L. Cordue"
+    }
+  ],
+  "publication_year": 2001,
+  "cited_by_count": 5,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W2058577544",
+    "https://openalex.org/W2074673068",
+    "https://openalex.org/W2100904586",
+    "https://openalex.org/W2801464996"
+  ]
+}

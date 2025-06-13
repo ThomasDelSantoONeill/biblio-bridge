@@ -1,0 +1,27 @@
+{
+  "id": "https://openalex.org/W2315404609",
+  "title": "The Effect of Management Policies on the Stability and Resilience of British Grey Seal Populations",
+  "abstract": "(1) There are some economic reasons for maintaining the British grey seal population below the level necessary for the maximum sustained yield of pups. (2) The effects of management policies aimed at achieving this on the stability and resilience (measured by the characteristic return time) of the resulting equilibria are investigated. (3) The use of a proportional pup quota produces a stable equilibrium, but a long return time. (4) Constant pup quotas are potentially destabilizing. (5) A suitable combination of a proportional pup quota and a density dependent adult quota will always produce a stable equilibrium with a shorter return time than that for an unexploited population. (6) Many combinations of constant pup quotas and density dependent adult quotas also possess this property.",
+  "authors": [
+    {
+      "name": "John Harwood"
+    }
+  ],
+  "publication_year": 1978,
+  "cited_by_count": 13,
+  "primary_topic": "Marine Bivalve and Aquaculture Studies",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W2040893674",
+    "https://openalex.org/W2057805880",
+    "https://openalex.org/W2085136125",
+    "https://openalex.org/W2133817570",
+    "https://openalex.org/W2165880612",
+    "https://openalex.org/W2318342481",
+    "https://openalex.org/W2319733443",
+    "https://openalex.org/W2320605314",
+    "https://openalex.org/W2992360954"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "https://openalex.org/W1490210902",
+  "title": "Resilience and the Behavior of Large‐Scale Systems",
+  "abstract": "Scientists and researchers concerned with the behaviour of large ecosystems have focused in recent years on the concept of resilience. Traditional perspectives held that ecological systems exist close to a steady state and resilience is the ability of the system to return rapidly to that state following perturbation. However, beginning with the work of C.S. Holling in the early 1970s, researchers began to look at conditions far from the steady state where instabilities can cause a system to shift into an entirely different regime of behaviour, and where resilience is measured by the magnitude of disturbance that can be absorbed before the system is restructured. This volume examines theories of resilience and change, offering readers a thorough understanding of how the properties of ecological resilience and human adaptability interact in complex, regional-scale systems. The book addresses the theoretical concepts of resilience and stability in large-scale ecosystems as well as the empirical application of those concepts in a diverse set of cases. In addition, it discusses the practical implications of the new theoretical approaches and their role in the sustainability of human-modified ecosystems.",
+  "authors": [
+    {
+      "name": "Lance Gunderson"
+    }
+  ],
+  "publication_year": 2003,
+  "cited_by_count": 243,
+  "primary_topic": "Ecosystem dynamics and resilience",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": []
+}

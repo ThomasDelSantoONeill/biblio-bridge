@@ -1,0 +1,63 @@
+{
+  "id": "https://openalex.org/W2134243823",
+  "title": "Issues in ecosystem valuation: improving information for decision making",
+  "abstract": "In Spring 1991, the U.S. Environmental Protection Agency convened an expert group of ecologists, economists and other social scientists for the purpose of advancing the state of the art of ecosystem valuation methods. This Ecosystem Valuation Forum was organized as a dialogue because it has been clear from the outset that agreement even on the meaning of the term \"ecosystem valuation\" could not be taken for granted. Individuals from diverse disciplines, and from industry, environmental groups and government agencies disagree about what information about ecosystem services is needed, how it should be used and, therefore, what would constitute an advance in the methods that analysts should employ. The Forum discussed the varied ways in which experts from different disciplines approach valuation, what ecosystem attributes or services are important to value, and the factors that complicate the task of assigning values to ecosystem attributes. The Forum placed particular importance on approaching the problem of ecosystem valuation from the perspective of decision makers. Therefore, members discussed the variety of decision makers who might need valuation information, the controversy over where balancing decisions about costs and benefits should be made, and the implications for what information is needed within different institutional constraints. In addition, agency decision makers operate under real time and resource constraints. Thus, the Forum discussed the need to develop protocols that would guide analysts in a search for decisive information. The Forum concluded that the time is ripe for making new progress in solving some of these problems, while acknowledging that it may not be possible to develop a single unifying definition of value. Instead, the goal would be to understand how various concepts of value are structured, how they relate to each other, and how they can guide us toward a more integrated valuation process. The Forum recommended that next steps in addressing these issues be organized around case studies, particularly those that would enable researchers to improve linkages between ecological and economic methods and to develop improved protocols for valuation studies.",
+  "authors": [
+    {
+      "name": "Gail E. Bingham"
+    },
+    {
+      "name": "Richard C. Bishop"
+    },
+    {
+      "name": "Michael Brody"
+    },
+    {
+      "name": "Daniel W. Bromley"
+    },
+    {
+      "name": "Edwin S. Clark"
+    },
+    {
+      "name": "William E. Cooper"
+    },
+    {
+      "name": "Robert Costanza"
+    },
+    {
+      "name": "Thomas Hale"
+    },
+    {
+      "name": "Gregory F. Hayden"
+    },
+    {
+      "name": "Stephen R. Kellert"
+    },
+    {
+      "name": "Richard B. Norgaard"
+    },
+    {
+      "name": "Bryan G. Norton"
+    },
+    {
+      "name": "John W. Payne"
+    },
+    {
+      "name": "Clifford S. Russell"
+    },
+    {
+      "name": "Glenn W. Suter"
+    }
+  ],
+  "publication_year": 1995,
+  "cited_by_count": 306,
+  "primary_topic": "Land Use and Ecosystem Services",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W2088026126",
+    "https://openalex.org/W2561325352",
+    "https://openalex.org/W2562515212"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "https://openalex.org/W2102484329",
+  "title": "Management of Complex Fisheries: Lessons Learned from a Simulation Model",
+  "abstract": "The purpose of this paper is to demonstrate how fisheries economics management issues or problems can be analyzed by using a complex model based on conventional bioeconomic theory. Complex simulation models contain a number of details that make them suitable for practical management advice, including taking into account the response of the fishermen to implemented management measures. To demonstrate the use of complex management models this paper assesses a number of second best management schemes against a first rank optimum (FRO), an ideal individual transferable quotas (ITQ) system. This is defined as the management scheme which produces the highest net present value over a 25 year period. The assessed management schemes (scenarios) are composed by several measures as used in the Common Fisheries Policy of the European Union for the cod fishery in the Baltic Sea. The scenarios are total allowable catches in combination with entry restrictions, and maximum number of days at sea in combination with entry restrictions. These two scenarios are assessed under assumptions of no cooperative behavior and cooperative behavior, and compliance and noncompliance with various management restrictions. Apart from showing the magnitude of the resource rent, the impact on fleet structure and the adjustment paths is shown. The result is that the resource rent gained from these second best management schemes is lower than FRO, the ideal ITQ system, but may in practice not be so different.",
+  "authors": [
+    {
+      "name": "Hans Frost"
+    },
+    {
+      "name": "Peder Andersen"
+    },
+    {
+      "name": "Ayoe Hoff"
+    }
+  ],
+  "publication_year": 2013,
+  "cited_by_count": 16,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1495173108",
+    "https://openalex.org/W1574534256",
+    "https://openalex.org/W1587153563",
+    "https://openalex.org/W1594797298",
+    "https://openalex.org/W1598014916",
+    "https://openalex.org/W1599305990",
+    "https://openalex.org/W1775022051",
+    "https://openalex.org/W1795286345",
+    "https://openalex.org/W1858562211",
+    "https://openalex.org/W1876202090",
+    "https://openalex.org/W1883628585",
+    "https://openalex.org/W1968989424",
+    "https://openalex.org/W1970398827",
+    "https://openalex.org/W1980003788",
+    "https://openalex.org/W1996935219",
+    "https://openalex.org/W2019190709",
+    "https://openalex.org/W2020377393",
+    "https://openalex.org/W2030080051",
+    "https://openalex.org/W2032575879",
+    "https://openalex.org/W2043897662",
+    "https://openalex.org/W2065812737",
+    "https://openalex.org/W2085442476",
+    "https://openalex.org/W2109443450",
+    "https://openalex.org/W2111855688",
+    "https://openalex.org/W2124104310",
+    "https://openalex.org/W2125342289",
+    "https://openalex.org/W2126282479",
+    "https://openalex.org/W2165702945",
+    "https://openalex.org/W2168737049",
+    "https://openalex.org/W2235823239",
+    "https://openalex.org/W2765379520",
+    "https://openalex.org/W3124087697",
+    "https://openalex.org/W4249696676",
+    "https://openalex.org/W4250510953",
+    "https://openalex.org/W4251731664",
+    "https://openalex.org/W68663460",
+    "https://openalex.org/W82086786",
+    "https://openalex.org/W89664922"
+  ]
+}

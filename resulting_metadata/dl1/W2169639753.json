@@ -1,0 +1,19 @@
+{
+  "id": "https://openalex.org/W2169639753",
+  "title": "Growth of a fur seal population",
+  "abstract": "The Antarctic fur seal Arctocephalus gazella is a polygynous Otarid in which a single pup is produced annually by cows over the age of 2 years. Following exploitation to the verge of extinction, a small breeding colony was discovered at Bird Island, South Georgia, in the 1930s. Up to 10000 pups a year were produced in the early 1960s and by 1975 the figure had reached an estimated 90000. The rapid population increase has resulted in the colonization of extensive breeding areas on the adjacent mainland of South Georgia with incipient colonies springing up on more distant parts of the island, and also in the South Sandwich, South Orkney and South Shetland Islands. Age determinations from the teeth of 195 breeding cows reveal a low mean age, early first breeding and a predominance of the younger age groups relative to the age structure of a stable population of northern fur seals Callorhinus ursinus . Annual adult cow survival is estimated at 89.8%, while that of first-year animals is about 64.5%. A decline in the rate of population increase is forecast within ten years and an outline for investigating the most likely factors influencing such a change is suggested.",
+  "authors": [
+    {
+      "name": "Margaret Payne"
+    }
+  ],
+  "publication_year": 1977,
+  "cited_by_count": 213,
+  "primary_topic": "Marine animal studies overview",
+  "subfield_topic": "Ecology",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W352354103"
+  ]
+}

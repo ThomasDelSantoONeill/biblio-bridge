@@ -1,0 +1,68 @@
+{
+  "id": "https://openalex.org/W2145183290",
+  "title": "The trophic spectrum: theory and application as an ecosystem indicator",
+  "abstract": "Abstract Trophic spectra represent the distribution of biomass, abundance, or catch by trophic level, and may be used as indicators of the trophic structure and functioning of aquatic ecosystems in a fisheries context. As a theoretical background, we present a simple ecosystem model of biomass flow reflecting predation and ontogenetic processes. Biomass trophic spectrum of total biomass can be modelled as the result of three major factors and processes: trophic efficiency, transfer kinetics, and extent of top-down control. In the simulations, changes in the spectrum highlight fishing impacts on trophic structure and reveal some functional characteristics of the underlying ecosystem. As examples of potential applications, three case studies of trophic spectra are presented. Catch trophic spectra allow description of structural differences among European fishing areas and periods. Abundance trophic spectra of coral-reef fish assemblages display different trophic signatures, characterizing different reef habitats in New Caledonia and highlighting fishing effects in a marine protected area context. Biomass trophic spectra of demersal resources off Northwest Africa show a shift in ecosystem structure that can be attributed to the rapid increase in fishing pressure during the past few decades. Off Senegal, total biomass remained fairly constant, suggesting a strong top-down control linked to fisheries targeting high trophic level species. Off Guinea, exploitation rates are spread over a wider range of trophic levels, and the total biomass of demersal resources tended to decrease. The trophic spectrum is concluded to be a useful indicator describing and comparing systems in time and space, detecting phase shifts linked to natural or anthropogenic perturbations, and revealing differences in ecosystem functioning.",
+  "authors": [
+    {
+      "name": "Didier Gascuel"
+    },
+    {
+      "name": "Yves‐Marie Bozec"
+    },
+    {
+      "name": "Emmanuel Chassot"
+    },
+    {
+      "name": "Audrey Colomb"
+    },
+    {
+      "name": "Martial Laurans"
+    }
+  ],
+  "publication_year": 2005,
+  "cited_by_count": 110,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W106367233",
+    "https://openalex.org/W1524760816",
+    "https://openalex.org/W1539363365",
+    "https://openalex.org/W1568026218",
+    "https://openalex.org/W1967049079",
+    "https://openalex.org/W1968233295",
+    "https://openalex.org/W1973805519",
+    "https://openalex.org/W1989037552",
+    "https://openalex.org/W2002744460",
+    "https://openalex.org/W2007263482",
+    "https://openalex.org/W2015345446",
+    "https://openalex.org/W2025818964",
+    "https://openalex.org/W2032077594",
+    "https://openalex.org/W2048020255",
+    "https://openalex.org/W2060789210",
+    "https://openalex.org/W2063367321",
+    "https://openalex.org/W2067829577",
+    "https://openalex.org/W2077576708",
+    "https://openalex.org/W2079084947",
+    "https://openalex.org/W2081050205",
+    "https://openalex.org/W2103037732",
+    "https://openalex.org/W2104424180",
+    "https://openalex.org/W2113023092",
+    "https://openalex.org/W2118496962",
+    "https://openalex.org/W2124394919",
+    "https://openalex.org/W2130534187",
+    "https://openalex.org/W2137156205",
+    "https://openalex.org/W2140309257",
+    "https://openalex.org/W2155009193",
+    "https://openalex.org/W2169929809",
+    "https://openalex.org/W2317845212",
+    "https://openalex.org/W2334377694",
+    "https://openalex.org/W2356230867",
+    "https://openalex.org/W2478813743",
+    "https://openalex.org/W2504577315",
+    "https://openalex.org/W4255983256",
+    "https://openalex.org/W585736859",
+    "https://openalex.org/W938260885"
+  ]
+}

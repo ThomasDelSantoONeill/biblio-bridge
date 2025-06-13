@@ -1,0 +1,24 @@
+{
+  "id": "https://openalex.org/W2001451047",
+  "title": "SOME FURTHER NOTES ON THE USE OF MATRICES IN POPULATION MATHEMATICS",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Paula Leslie"
+    }
+  ],
+  "publication_year": 1948,
+  "cited_by_count": 1276,
+  "primary_topic": "Stochastic processes and statistical mechanics",
+  "subfield_topic": "Mathematical Physics",
+  "field_topic": "Mathematics",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1974720686",
+    "https://openalex.org/W2006989616",
+    "https://openalex.org/W2010362952",
+    "https://openalex.org/W2051057749",
+    "https://openalex.org/W2157258388",
+    "https://openalex.org/W2331625639"
+  ]
+}

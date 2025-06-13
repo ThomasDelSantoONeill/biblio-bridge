@@ -1,0 +1,43 @@
+{
+  "id": "https://openalex.org/W2089265619",
+  "title": "Management of interacting species: regulation under nonlinearities and hysteresis",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "William A. Brock"
+    },
+    {
+      "name": "A. Xepapadeas"
+    }
+  ],
+  "publication_year": 2004,
+  "cited_by_count": 14,
+  "primary_topic": "Mathematical and Theoretical Epidemiology and Ecology Models",
+  "subfield_topic": "Public Health, Environmental and Occupational Health",
+  "field_topic": "Medicine",
+  "domain_topic": "Health Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1529590645",
+    "https://openalex.org/W1539285921",
+    "https://openalex.org/W1570728057",
+    "https://openalex.org/W1582346146",
+    "https://openalex.org/W2053581859",
+    "https://openalex.org/W2080376048",
+    "https://openalex.org/W2084177163",
+    "https://openalex.org/W2108651270",
+    "https://openalex.org/W2114489703",
+    "https://openalex.org/W2121227443",
+    "https://openalex.org/W2175723801",
+    "https://openalex.org/W2479760086",
+    "https://openalex.org/W2547386957",
+    "https://openalex.org/W3021059853",
+    "https://openalex.org/W3088713371",
+    "https://openalex.org/W3122560929",
+    "https://openalex.org/W3125775482",
+    "https://openalex.org/W3125924440",
+    "https://openalex.org/W4233654598",
+    "https://openalex.org/W4240855764",
+    "https://openalex.org/W4308665322",
+    "https://openalex.org/W77134577"
+  ]
+}

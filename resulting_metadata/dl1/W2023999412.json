@@ -1,0 +1,64 @@
+{
+  "id": "https://openalex.org/W2023999412",
+  "title": "A multispecies biomass dynamics model for investigating predator–prey interactions in the Bering Sea groundfish community",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Tadayasu Uchiyama"
+    },
+    {
+      "name": "Gordon H. Kruse"
+    },
+    {
+      "name": "Franz J. Mueter"
+    }
+  ],
+  "publication_year": 2015,
+  "cited_by_count": 6,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1489430206",
+    "https://openalex.org/W1490279797",
+    "https://openalex.org/W1505286062",
+    "https://openalex.org/W1542077477",
+    "https://openalex.org/W1543409689",
+    "https://openalex.org/W1589375716",
+    "https://openalex.org/W1599127549",
+    "https://openalex.org/W1975933594",
+    "https://openalex.org/W1982802844",
+    "https://openalex.org/W1985750732",
+    "https://openalex.org/W1993920411",
+    "https://openalex.org/W2004551471",
+    "https://openalex.org/W2022961523",
+    "https://openalex.org/W2027665073",
+    "https://openalex.org/W2043950073",
+    "https://openalex.org/W2048020255",
+    "https://openalex.org/W2069280266",
+    "https://openalex.org/W2073221851",
+    "https://openalex.org/W2076153258",
+    "https://openalex.org/W2090041956",
+    "https://openalex.org/W2093603746",
+    "https://openalex.org/W2099653221",
+    "https://openalex.org/W2100629188",
+    "https://openalex.org/W2102849960",
+    "https://openalex.org/W2104694207",
+    "https://openalex.org/W2107916932",
+    "https://openalex.org/W2112446421",
+    "https://openalex.org/W2132270486",
+    "https://openalex.org/W2141342294",
+    "https://openalex.org/W2147741964",
+    "https://openalex.org/W2150203206",
+    "https://openalex.org/W2230576313",
+    "https://openalex.org/W2322154153",
+    "https://openalex.org/W2479378631",
+    "https://openalex.org/W2494384994",
+    "https://openalex.org/W2499277134",
+    "https://openalex.org/W2887310380",
+    "https://openalex.org/W2901122171",
+    "https://openalex.org/W2909950388",
+    "https://openalex.org/W4235047410"
+  ]
+}

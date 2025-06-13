@@ -1,0 +1,48 @@
+{
+  "id": "https://openalex.org/W2100012356",
+  "title": "Review of progress in the introduction of management strategy evaluation (MSE) approaches in Australia's South East Fishery",
+  "abstract": "The MSE approach provides a simulation-based framework within which harvest strategies, stock assessment methods, performance indicators and research programmes can be compared. This approach has been used in the Australian South East Fishery (SEF) to assess harvest strategies for the over-exploited eastern gemfish resource and to compare different levels of discard monitoring for blue grenadier. The main challenges to use of the MSE approach in the SEF are poorly specified management objectives and the lack of quantitative stock assessments on which to build operating models for many of the species.",
+  "authors": [
+    {
+      "name": "André E. Punt"
+    },
+    {
+      "name": "Anthony D. M. Smith"
+    },
+    {
+      "name": "Gurong Cui"
+    }
+  ],
+  "publication_year": 2001,
+  "cited_by_count": 66,
+  "primary_topic": "Fish Ecology and Management Studies",
+  "subfield_topic": "Nature and Landscape Conservation",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1582073618",
+    "https://openalex.org/W1973360430",
+    "https://openalex.org/W1975250828",
+    "https://openalex.org/W1978739354",
+    "https://openalex.org/W1994727944",
+    "https://openalex.org/W2000450592",
+    "https://openalex.org/W2006031742",
+    "https://openalex.org/W2006647779",
+    "https://openalex.org/W2019253172",
+    "https://openalex.org/W2049788366",
+    "https://openalex.org/W2056041233",
+    "https://openalex.org/W2071533006",
+    "https://openalex.org/W2089672216",
+    "https://openalex.org/W2119193905",
+    "https://openalex.org/W2120864028",
+    "https://openalex.org/W2122505518",
+    "https://openalex.org/W2122782653",
+    "https://openalex.org/W2126475261",
+    "https://openalex.org/W2128013562",
+    "https://openalex.org/W2148311895",
+    "https://openalex.org/W2182938762",
+    "https://openalex.org/W2185921616",
+    "https://openalex.org/W2495292174",
+    "https://openalex.org/W2714869658"
+  ]
+}

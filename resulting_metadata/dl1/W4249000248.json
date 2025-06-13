@@ -1,0 +1,36 @@
+{
+  "id": "https://openalex.org/W4249000248",
+  "title": "The effects of harvesting on competitive systems",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Peter Yodzis"
+    }
+  ],
+  "publication_year": 1976,
+  "cited_by_count": 22,
+  "primary_topic": "Plant and animal studies",
+  "subfield_topic": "Ecology, Evolution, Behavior and Systematics",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1493919779",
+    "https://openalex.org/W1968786866",
+    "https://openalex.org/W1978955541",
+    "https://openalex.org/W1989860243",
+    "https://openalex.org/W2014358514",
+    "https://openalex.org/W2029796932",
+    "https://openalex.org/W2040883784",
+    "https://openalex.org/W2048070542",
+    "https://openalex.org/W2054637019",
+    "https://openalex.org/W2061867342",
+    "https://openalex.org/W2071553182",
+    "https://openalex.org/W2096921364",
+    "https://openalex.org/W2133420739",
+    "https://openalex.org/W2136434689",
+    "https://openalex.org/W2320274638",
+    "https://openalex.org/W2323947810",
+    "https://openalex.org/W4206020472",
+    "https://openalex.org/W4300464628"
+  ]
+}

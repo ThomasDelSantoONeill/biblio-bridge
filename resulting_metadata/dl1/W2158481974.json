@@ -1,0 +1,97 @@
+{
+  "id": "https://openalex.org/W2158481974",
+  "title": "A framework for assessing the biodiversity and fishery aspects of marine reserves",
+  "abstract": "Summary 1. Resource management agencies are often charged with managing natural resources for economic and social goals, while also protecting and conserving biodiversity and ecosystem function. However, this may not always be possible. Ecosystem‐based management is frequently suggested as a way to achieve multiple objectives in resource management and requires that trade‐offs among conflicting objectives be identified and an effective means to utilize these trade‐offs developed. 2. We examine the relationship between area and species richness in a diverse assemblage of fishes along the US West Coast and then use parameters from this relationship as input for a model that considers trade‐offs between fisheries yield and the number of species protected by different management strategies. 3. The species–area relationship ( S = cA z ) for fishes along the US Pacific coast is well described by the relationship S = 16·18 A 0·226 . 4. There are nearly linear trade‐offs between diversity and yield when fishing effort is low. However, the trade‐offs become nonlinear as fishing effort increases and imposing MPAs increases both the conservation and fisheries value of the system when the system is overfished. 5. Synthesis and applications . Solving conflicts between fisheries and conservation requires attention as to how conservation benefits accrue as fishing effort is reduced. However, scientists often lack quantitative information about the trade‐offs inherent in human activities such as fisheries. The approach we develop here can begin to help frame the questions to be posed and evaluate the likely consequences of different management options.",
+  "authors": [
+    {
+      "name": "Phillip S. Levin"
+    },
+    {
+      "name": "Isaac C. Kaplan"
+    },
+    {
+      "name": "Rikki Grober‐Dunsmore"
+    },
+    {
+      "name": "Paul M. Chittaro"
+    },
+    {
+      "name": "Seichi Oyamada"
+    },
+    {
+      "name": "Kate I. Andrews"
+    },
+    {
+      "name": "Marc Mangel"
+    }
+  ],
+  "publication_year": 2009,
+  "cited_by_count": 25,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1493688546",
+    "https://openalex.org/W1543409689",
+    "https://openalex.org/W1557891363",
+    "https://openalex.org/W1603294148",
+    "https://openalex.org/W1608747981",
+    "https://openalex.org/W163013491",
+    "https://openalex.org/W1974362173",
+    "https://openalex.org/W1975003732",
+    "https://openalex.org/W1983940846",
+    "https://openalex.org/W1989961176",
+    "https://openalex.org/W1993405983",
+    "https://openalex.org/W2004494679",
+    "https://openalex.org/W2011998979",
+    "https://openalex.org/W2018204894",
+    "https://openalex.org/W2026942650",
+    "https://openalex.org/W2027700292",
+    "https://openalex.org/W2028683987",
+    "https://openalex.org/W2029046702",
+    "https://openalex.org/W2035842090",
+    "https://openalex.org/W2039606403",
+    "https://openalex.org/W2041342278",
+    "https://openalex.org/W2053845169",
+    "https://openalex.org/W2056499430",
+    "https://openalex.org/W2060488587",
+    "https://openalex.org/W2061517408",
+    "https://openalex.org/W2075635211",
+    "https://openalex.org/W2089662507",
+    "https://openalex.org/W2091395676",
+    "https://openalex.org/W2098341292",
+    "https://openalex.org/W2099947954",
+    "https://openalex.org/W2099953362",
+    "https://openalex.org/W2102126857",
+    "https://openalex.org/W2106867424",
+    "https://openalex.org/W2107794977",
+    "https://openalex.org/W2108579795",
+    "https://openalex.org/W2110281201",
+    "https://openalex.org/W2120108422",
+    "https://openalex.org/W2121052692",
+    "https://openalex.org/W2124323026",
+    "https://openalex.org/W2126408903",
+    "https://openalex.org/W2131302185",
+    "https://openalex.org/W2132194304",
+    "https://openalex.org/W2132853588",
+    "https://openalex.org/W2146393371",
+    "https://openalex.org/W2149190788",
+    "https://openalex.org/W2159372089",
+    "https://openalex.org/W2160371297",
+    "https://openalex.org/W2163492266",
+    "https://openalex.org/W2171785206",
+    "https://openalex.org/W2183098272",
+    "https://openalex.org/W2312591860",
+    "https://openalex.org/W2330000074",
+    "https://openalex.org/W2332731797",
+    "https://openalex.org/W2461295353",
+    "https://openalex.org/W2553839695",
+    "https://openalex.org/W2618972019",
+    "https://openalex.org/W2917189131",
+    "https://openalex.org/W3024118362",
+    "https://openalex.org/W4230008002",
+    "https://openalex.org/W4251181991",
+    "https://openalex.org/W4285719527"
+  ]
+}

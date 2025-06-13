@@ -1,0 +1,81 @@
+{
+  "id": "https://openalex.org/W2044840718",
+  "title": "Decadal trends in marine reserves reveal differential rates of change in direct and indirect effects",
+  "abstract": "Decadal-scale observations of marine reserves suggest that indirect effects on taxa that occur through cascading trophic interactions take longer to develop than direct effects on target species. Combining and analyzing a unique set of long-term time series of ecologic data in and out of fisheries closures from disparate regions, we found that the time to initial detection of direct effects on target species (±SE) was 5.13 ± 1.9 years, whereas initial detection of indirect effects on other taxa, which were often trait mediated, took significantly longer (13.1 ± 2.0 years). Most target species showed initial direct effects, but their trajectories over time were highly variable. Many target species continued to increase, some leveled off, and others decreased. Decreases were due to natural fluctuations, fishing impacts from outside reserves, or indirect effects from target species at higher trophic levels. The average duration of stable periods for direct effects was 6.2 ± 1.2 years, even in studies of more than 15 years. For indirect effects, stable periods averaged 9.1 ± 1.6 years, although this was not significantly different from direct effects. Populations of directly targeted species were more stable in reserves than in fished areas, suggesting increased ecologic resilience. This is an important benefit of marine reserves with respect to their function as a tool for conservation and restoration.",
+  "authors": [
+    {
+      "name": "Russell C. Babcock"
+    },
+    {
+      "name": "Nick T. Shears"
+    },
+    {
+      "name": "A. C. Alcala"
+    },
+    {
+      "name": "NS Barrett"
+    },
+    {
+      "name": "Graham J. Edgar"
+    },
+    {
+      "name": "K. D. Lafferty"
+    },
+    {
+      "name": "Tim R. McClanahan"
+    },
+    {
+      "name": "GR Russ"
+    }
+  ],
+  "publication_year": 2010,
+  "cited_by_count": 556,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W114226098",
+    "https://openalex.org/W1599127549",
+    "https://openalex.org/W1969891888",
+    "https://openalex.org/W1976497918",
+    "https://openalex.org/W1990581918",
+    "https://openalex.org/W1991624639",
+    "https://openalex.org/W2006014174",
+    "https://openalex.org/W2015416743",
+    "https://openalex.org/W2016029928",
+    "https://openalex.org/W2021010705",
+    "https://openalex.org/W2022490618",
+    "https://openalex.org/W2023749885",
+    "https://openalex.org/W2025455365",
+    "https://openalex.org/W2029537149",
+    "https://openalex.org/W2029636602",
+    "https://openalex.org/W2034944831",
+    "https://openalex.org/W2048070542",
+    "https://openalex.org/W204940627",
+    "https://openalex.org/W2050614888",
+    "https://openalex.org/W2055959583",
+    "https://openalex.org/W2059398271",
+    "https://openalex.org/W2067253669",
+    "https://openalex.org/W2072966288",
+    "https://openalex.org/W2073812067",
+    "https://openalex.org/W2078353730",
+    "https://openalex.org/W2083191094",
+    "https://openalex.org/W2084902742",
+    "https://openalex.org/W2086067408",
+    "https://openalex.org/W2093553811",
+    "https://openalex.org/W2099315753",
+    "https://openalex.org/W2099484847",
+    "https://openalex.org/W2119350048",
+    "https://openalex.org/W2121052692",
+    "https://openalex.org/W2121981479",
+    "https://openalex.org/W2122032662",
+    "https://openalex.org/W2138786953",
+    "https://openalex.org/W2139983830",
+    "https://openalex.org/W2147945290",
+    "https://openalex.org/W2153903774",
+    "https://openalex.org/W2165029944",
+    "https://openalex.org/W2203340318",
+    "https://openalex.org/W4210260625"
+  ]
+}

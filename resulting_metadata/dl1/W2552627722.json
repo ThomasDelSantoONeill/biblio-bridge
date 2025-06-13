@@ -1,0 +1,46 @@
+{
+  "id": "https://openalex.org/W2552627722",
+  "title": "To Model or not to Model, That is no Longer the Question for Ecologists",
+  "abstract": "Here, I argue that we should abandon the division between \"field ecologists\" and \"modelers,\" and embrace modeling and empirical research as two powerful and often complementary approaches in the toolbox of 21st century ecologists, to be deployed alone or in combination depending on the task at hand. As empirical research has the longer tradition in ecology, and modeling is the more recent addition to the methodological arsenal, I provide both practical and theoretical reasons for integrating modeling more deeply into ecosystem research. Empirical research has epistemological priority over modeling; however, that is, for models to realize their full potential, and for modelers to wield this power wisely, empirical research is of fundamental importance. Combining both methodological approaches or forming \"super ties\" with colleagues using different methods are promising pathways to creatively exploit the methodological possibilities resulting from increasing computing power. To improve the proficiency of the growing group of model users and ensure future innovation in model development, we need to increase the modeling literacy among ecology students. However, an improved training in modeling must not curtail education in basic ecological principles and field methods, as these skills form the foundation for building and applying models in ecology.",
+  "authors": [
+    {
+      "name": "Rupert Seidl"
+    }
+  ],
+  "publication_year": 2016,
+  "cited_by_count": 49,
+  "primary_topic": "Species Distribution and Climate Change",
+  "subfield_topic": "Ecological Modeling",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1608414978",
+    "https://openalex.org/W1631180306",
+    "https://openalex.org/W1711183357",
+    "https://openalex.org/W1991076449",
+    "https://openalex.org/W1999167944",
+    "https://openalex.org/W2010365184",
+    "https://openalex.org/W2019652370",
+    "https://openalex.org/W2023165546",
+    "https://openalex.org/W2032964004",
+    "https://openalex.org/W2063278695",
+    "https://openalex.org/W2080693688",
+    "https://openalex.org/W2083310645",
+    "https://openalex.org/W2090954740",
+    "https://openalex.org/W2095646001",
+    "https://openalex.org/W2096845639",
+    "https://openalex.org/W2119834018",
+    "https://openalex.org/W2138088346",
+    "https://openalex.org/W2144423540",
+    "https://openalex.org/W2148434025",
+    "https://openalex.org/W2168612962",
+    "https://openalex.org/W2169969573",
+    "https://openalex.org/W2174670974",
+    "https://openalex.org/W2195127326",
+    "https://openalex.org/W2320197046",
+    "https://openalex.org/W2322165607",
+    "https://openalex.org/W338929813",
+    "https://openalex.org/W4302597423",
+    "https://openalex.org/W633547975"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "https://openalex.org/W2746485780",
+  "title": "The value of the world's ecosystem services and natural capital",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Robert Costanza"
+    },
+    {
+      "name": "Ralph C. d’Arge"
+    },
+    {
+      "name": "R.S. de Groot"
+    },
+    {
+      "name": "Stephen Färber"
+    },
+    {
+      "name": "Monica Grasso"
+    },
+    {
+      "name": "Bruce Hannon"
+    },
+    {
+      "name": "Karin E. Limburg"
+    },
+    {
+      "name": "Shahid Naeem"
+    },
+    {
+      "name": "Robert V. O’Neill"
+    },
+    {
+      "name": "José M. Paruelo"
+    },
+    {
+      "name": "R. Raskin"
+    },
+    {
+      "name": "Paul C. Sutton"
+    },
+    {
+      "name": "Marjan van den Belt"
+    }
+  ],
+  "publication_year": 1997,
+  "cited_by_count": 20754,
+  "primary_topic": "Sustainable Development and Environmental Policy",
+  "subfield_topic": "Management, Monitoring, Policy and Law",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W115314074",
+    "https://openalex.org/W1497801447",
+    "https://openalex.org/W1504076883",
+    "https://openalex.org/W1513220049",
+    "https://openalex.org/W1585155531",
+    "https://openalex.org/W1934338210",
+    "https://openalex.org/W1965677657",
+    "https://openalex.org/W1970317388",
+    "https://openalex.org/W1984381123",
+    "https://openalex.org/W2003605835",
+    "https://openalex.org/W2008733299",
+    "https://openalex.org/W2027271929",
+    "https://openalex.org/W2037384258",
+    "https://openalex.org/W2060789210",
+    "https://openalex.org/W2061086232",
+    "https://openalex.org/W2062523558",
+    "https://openalex.org/W2078851046",
+    "https://openalex.org/W2085764337",
+    "https://openalex.org/W2121001671",
+    "https://openalex.org/W2124350766",
+    "https://openalex.org/W2134243823",
+    "https://openalex.org/W2491384641",
+    "https://openalex.org/W2891423662"
+  ]
+}

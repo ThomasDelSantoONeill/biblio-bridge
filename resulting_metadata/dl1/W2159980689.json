@@ -1,0 +1,73 @@
+{
+  "id": "https://openalex.org/W2159980689",
+  "title": "Field evidence of trait‐mediated indirect interactions in a rocky intertidal food web",
+  "abstract": "Studies on the implications of food web interactions to community structure have often focused on density‐mediated interactions between predators and their prey. This approach emphasizes the importance of predator regulation of prey density via consumption (i.e. lethal effects), which, in turn, leads to cascading effects on the prey’s resources. A more recent and contrasting view emphasizes the importance of non‐lethal predator effects on prey traits (e.g. behaviour, morphology), or trait‐mediated interactions. On rocky intertidal shores in New England, green crab ( Carcinus maenas ) predation is thought to be important to patterns of algal abundance and diversity by regulating the density of herbivorous snails ( Littorina littorea ). We found, however, that risk cues from green crabs can dramatically suppress snail grazing, with large effects on fucoid algal communities. Our results suggest that predator‐induced changes in prey behaviour may be an important and under‐appreciated component of food web interactions and community dynamics on rocky intertidal shores.",
+  "authors": [
+    {
+      "name": "Geoffrey C. Trussell"
+    },
+    {
+      "name": "Patrick J. Ewanchuk"
+    },
+    {
+      "name": "Mark D. Bertness"
+    }
+  ],
+  "publication_year": 2002,
+  "cited_by_count": 172,
+  "primary_topic": "Marine and coastal plant biology",
+  "subfield_topic": "Oceanography",
+  "field_topic": "Earth and Planetary Sciences",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1531640261",
+    "https://openalex.org/W1597871704",
+    "https://openalex.org/W1974032446",
+    "https://openalex.org/W1980101723",
+    "https://openalex.org/W1987148902",
+    "https://openalex.org/W2002315210",
+    "https://openalex.org/W2008103688",
+    "https://openalex.org/W2010019606",
+    "https://openalex.org/W2019703979",
+    "https://openalex.org/W2020190465",
+    "https://openalex.org/W2022437883",
+    "https://openalex.org/W2028435430",
+    "https://openalex.org/W2030553947",
+    "https://openalex.org/W2039933964",
+    "https://openalex.org/W2047448864",
+    "https://openalex.org/W2049553651",
+    "https://openalex.org/W2052184582",
+    "https://openalex.org/W2054637019",
+    "https://openalex.org/W2054990683",
+    "https://openalex.org/W2056931625",
+    "https://openalex.org/W2062716050",
+    "https://openalex.org/W2064359817",
+    "https://openalex.org/W2072990366",
+    "https://openalex.org/W2081287885",
+    "https://openalex.org/W2085911315",
+    "https://openalex.org/W2085938041",
+    "https://openalex.org/W2086067408",
+    "https://openalex.org/W2094147098",
+    "https://openalex.org/W2101201513",
+    "https://openalex.org/W2111131028",
+    "https://openalex.org/W2112575085",
+    "https://openalex.org/W2113736155",
+    "https://openalex.org/W2115430522",
+    "https://openalex.org/W2123005490",
+    "https://openalex.org/W2124514497",
+    "https://openalex.org/W2131060409",
+    "https://openalex.org/W2136537978",
+    "https://openalex.org/W2141111072",
+    "https://openalex.org/W2144254283",
+    "https://openalex.org/W2146602246",
+    "https://openalex.org/W2151070152",
+    "https://openalex.org/W2151355062",
+    "https://openalex.org/W2165999897",
+    "https://openalex.org/W2178504862",
+    "https://openalex.org/W2183352897",
+    "https://openalex.org/W2314213654",
+    "https://openalex.org/W4236106535",
+    "https://openalex.org/W4237620409",
+    "https://openalex.org/W4285719527"
+  ]
+}

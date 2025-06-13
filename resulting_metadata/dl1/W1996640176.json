@@ -1,0 +1,55 @@
+{
+  "id": "https://openalex.org/W1996640176",
+  "title": "Evolutionary emergence of size-structured food webs",
+  "abstract": "Explaining the structure of terrestrial and aquatic food webs remains one of the most important challenges of ecological theory. Most existing models use emergent properties of food webs, such as diversity and connectance as parameters, to determine other food-web descriptors. Lower-level processes, in particular adaptation (whether by behavioral, developmental, or evolutionary mechanisms), are usually not considered. Here, we show that complex, realistic food webs may emerge by evolution from a single ancestor based on very simple ecological and evolutionary rules. In our model, adaptation acts on body size, whose impact on the metabolism and interactions of organisms is well established. Based on parameters defined at the organism scale, the model predicts emergent properties at the food-web scale. Variations of two key parameters (width of consumption niche and competition intensity) allow very different food-web structures and functionings to emerge, which are similar to those observed in some of the best-documented food webs.",
+  "authors": [
+    {
+      "name": "Nicolas Loeuille"
+    },
+    {
+      "name": "Michel Loreau"
+    }
+  ],
+  "publication_year": 2005,
+  "cited_by_count": 358,
+  "primary_topic": "Plant and animal studies",
+  "subfield_topic": "Ecology, Evolution, Behavior and Systematics",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1509995973",
+    "https://openalex.org/W1562852527",
+    "https://openalex.org/W1970356584",
+    "https://openalex.org/W1972644681",
+    "https://openalex.org/W1975998971",
+    "https://openalex.org/W1979523581",
+    "https://openalex.org/W1986904488",
+    "https://openalex.org/W1999855446",
+    "https://openalex.org/W2000312122",
+    "https://openalex.org/W2004270844",
+    "https://openalex.org/W2008019499",
+    "https://openalex.org/W2008432220",
+    "https://openalex.org/W2015823673",
+    "https://openalex.org/W2016668245",
+    "https://openalex.org/W2029128808",
+    "https://openalex.org/W2030757694",
+    "https://openalex.org/W2038150374",
+    "https://openalex.org/W2042426187",
+    "https://openalex.org/W2055828837",
+    "https://openalex.org/W2063339845",
+    "https://openalex.org/W2067198755",
+    "https://openalex.org/W2077576708",
+    "https://openalex.org/W2079515213",
+    "https://openalex.org/W2079647856",
+    "https://openalex.org/W2086457515",
+    "https://openalex.org/W2092590782",
+    "https://openalex.org/W2094216431",
+    "https://openalex.org/W2116686451",
+    "https://openalex.org/W2140318578",
+    "https://openalex.org/W2149060829",
+    "https://openalex.org/W2168409038",
+    "https://openalex.org/W2320681200",
+    "https://openalex.org/W2325268470",
+    "https://openalex.org/W4231868959"
+  ]
+}

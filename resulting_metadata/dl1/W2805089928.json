@@ -1,0 +1,69 @@
+{
+  "id": "https://openalex.org/W2805089928",
+  "title": "End-to-end model of Icelandic waters using the Atlantis framework: Exploring system dynamics and model reliability",
+  "abstract": "Icelandic waters are very productive and the fisheries are economically important for the Icelandic nation. The importance of the fisheries has led to progressive fisheries management and extensive monitoring of the ecosystem. However, fisheries management is mainly built on single species stock assessment models, and multi-species or ecological models are essential for building capacity around ecosystem-based fisheries management. This paper describes the first end-to-end model for the Icelandic waters using the Atlantis modeling framework. The modeled area is 1,600,000 km2, and covers the area from Greenland through Icelandic waters to the Faroe Islands. The ocean area was divided into 51 spatial boxes, each with multiple vertical layers. There were 52 functional groups in the model: 20 fish groups (8 at a species level), 5 groups of mammals, 1 seabird group, 16 invertebrates, 5 primary producers, 2 bacteria and 3 detritus groups. The reliability of the model was evaluated using a skill assessment and a sensitivity analysis was conducted to understand the dynamics of the system. The sensitivity study revealed that saithe, redfish and tooth whales had the greatest effect on other groups in the system. The skill assessment showed that the model was able to replicate time-series of biomass and landings for the most important commercial groups and that modeling of the recruitment processes was important for some of the groups. This model now provides a solid basis for evaluating alternative ecosystem and fisheries management scenarios, and should produce reliable results for the most important commercial groups.",
+  "authors": [
+    {
+      "name": "Erla Sturludóttir"
+    },
+    {
+      "name": "C. Desjardins"
+    },
+    {
+      "name": "Bjarki Þór Elvarsson"
+    },
+    {
+      "name": "Elizabeth A. Fulton"
+    },
+    {
+      "name": "Rebecca Gorton"
+    },
+    {
+      "name": "Kai Logemann"
+    },
+    {
+      "name": "Gunnar Stefánsson"
+    }
+  ],
+  "publication_year": 2018,
+  "cited_by_count": 47,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W169104655",
+    "https://openalex.org/W1963764071",
+    "https://openalex.org/W1974969369",
+    "https://openalex.org/W1990566709",
+    "https://openalex.org/W2031638140",
+    "https://openalex.org/W2036539150",
+    "https://openalex.org/W2060842690",
+    "https://openalex.org/W2065635880",
+    "https://openalex.org/W2074936109",
+    "https://openalex.org/W2079791672",
+    "https://openalex.org/W2088765131",
+    "https://openalex.org/W2097441841",
+    "https://openalex.org/W2098876115",
+    "https://openalex.org/W2111954092",
+    "https://openalex.org/W2116422701",
+    "https://openalex.org/W2126654525",
+    "https://openalex.org/W2127619543",
+    "https://openalex.org/W2130089609",
+    "https://openalex.org/W2131699397",
+    "https://openalex.org/W2137001683",
+    "https://openalex.org/W2140103666",
+    "https://openalex.org/W2140659444",
+    "https://openalex.org/W2230623843",
+    "https://openalex.org/W229097380",
+    "https://openalex.org/W2313308972",
+    "https://openalex.org/W2529198495",
+    "https://openalex.org/W2606712417",
+    "https://openalex.org/W2620086506",
+    "https://openalex.org/W2791936127",
+    "https://openalex.org/W2807043575",
+    "https://openalex.org/W2897417239",
+    "https://openalex.org/W2899508278",
+    "https://openalex.org/W3150234440"
+  ]
+}

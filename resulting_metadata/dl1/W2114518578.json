@@ -1,0 +1,70 @@
+{
+  "id": "https://openalex.org/W2114518578",
+  "title": "Simple prediction of interaction strengths in complex food webs",
+  "abstract": "Darwin's classic image of an “entangled bank” of interdependencies among species has long suggested that it is difficult to predict how the loss of one species affects the abundance of others. We show that for dynamical models of realistically structured ecological networks in which pair-wise consumer-resource interactions allometrically scale to the ¾ power—as suggested by metabolic theory—the effect of losing one species on another can be predicted well by simple functions of variables easily observed in nature. By systematically removing individual species from 600 networks ranging from 10–30 species, we analyzed how the strength of 254,032 possible pair-wise species interactions depended on 90 stochastically varied species, link, and network attributes. We found that the interaction strength between a pair of species is predicted well by simple functions of the two species' biomasses and the body mass of the species removed. On average, prediction accuracy increases with network size, suggesting that greater web complexity simplifies predicting interaction strengths. Applied to field data, our model successfully predicts interactions dominated by trophic effects and illuminates the sign and magnitude of important nontrophic interactions.",
+  "authors": [
+    {
+      "name": "Eric L. Berlow"
+    },
+    {
+      "name": "Jennifer A. Dunne"
+    },
+    {
+      "name": "Neo D. Martinez"
+    },
+    {
+      "name": "Philip B. Stark"
+    },
+    {
+      "name": "Richard J. Williams"
+    },
+    {
+      "name": "Ulrich Brose"
+    }
+  ],
+  "publication_year": 2008,
+  "cited_by_count": 345,
+  "primary_topic": "Plant and animal studies",
+  "subfield_topic": "Ecology, Evolution, Behavior and Systematics",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1594031697",
+    "https://openalex.org/W1653752995",
+    "https://openalex.org/W1946886856",
+    "https://openalex.org/W1967793983",
+    "https://openalex.org/W1972753341",
+    "https://openalex.org/W1975998971",
+    "https://openalex.org/W1978723196",
+    "https://openalex.org/W1988201445",
+    "https://openalex.org/W1999654666",
+    "https://openalex.org/W2002315210",
+    "https://openalex.org/W2025278182",
+    "https://openalex.org/W2026269078",
+    "https://openalex.org/W2031844997",
+    "https://openalex.org/W2033316778",
+    "https://openalex.org/W2044255160",
+    "https://openalex.org/W2047989966",
+    "https://openalex.org/W2088373804",
+    "https://openalex.org/W2092590782",
+    "https://openalex.org/W2094023494",
+    "https://openalex.org/W2096877383",
+    "https://openalex.org/W2099534828",
+    "https://openalex.org/W2114795157",
+    "https://openalex.org/W2123202461",
+    "https://openalex.org/W2123704786",
+    "https://openalex.org/W2124514497",
+    "https://openalex.org/W2128239029",
+    "https://openalex.org/W2133648623",
+    "https://openalex.org/W2136733476",
+    "https://openalex.org/W2140306747",
+    "https://openalex.org/W2142063041",
+    "https://openalex.org/W2142471683",
+    "https://openalex.org/W2151402778",
+    "https://openalex.org/W2152643012",
+    "https://openalex.org/W2158084754",
+    "https://openalex.org/W2158403734",
+    "https://openalex.org/W2165927934",
+    "https://openalex.org/W66612238"
+  ]
+}

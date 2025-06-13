@@ -1,0 +1,31 @@
+{
+  "id": "https://openalex.org/W1975250040",
+  "title": "An optimal harvesting policy for a logistic model in a randomly varying environment",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Andris Abakuks"
+    },
+    {
+      "name": "Prajneshu"
+    }
+  ],
+  "publication_year": 1981,
+  "cited_by_count": 12,
+  "primary_topic": "Stochastic processes and statistical mechanics",
+  "subfield_topic": "Mathematical Physics",
+  "field_topic": "Mathematics",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1970789054",
+    "https://openalex.org/W1986275454",
+    "https://openalex.org/W2025941533",
+    "https://openalex.org/W2026290501",
+    "https://openalex.org/W2044922622",
+    "https://openalex.org/W2057805880",
+    "https://openalex.org/W2085136125",
+    "https://openalex.org/W2326776129",
+    "https://openalex.org/W4246178541",
+    "https://openalex.org/W4250382023"
+  ]
+}

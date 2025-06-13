@@ -1,0 +1,90 @@
+{
+  "id": "https://openalex.org/W2334255662",
+  "title": "Model to manage and reduce crown-of-thorns starfish outbreaks",
+  "abstract": "MEPS Marine Ecology Progress Series Contact the journal Facebook Twitter RSS Mailing List Subscribe to our mailing list via Mailchimp HomeLatest VolumeAbout the JournalEditorsTheme Sections MEPS 512:167-183 (2014) - DOI: https://doi.org/10.3354/meps10858 Model to manage and reduce crown-of-thorns starfish outbreaks Elisabetta B. Morello1,*, Éva E. Plagányi1, Russell C. Babcock1, Hugh Sweatman2, Richard Hillary3, André E. Punt3,4 1CSIRO Oceans & Atmosphere, Ecosciences Precinct, 41 Boggo Rd, Dutton Park, QLD 4102, Australia 2Australian Institute of Marine Science, PMB 3, Townsville MC, QLD 4810, Australia 3CSIRO Oceans & Atmosphere, Castray Esplanade, Hobart, TAS 7000, Australia 4School of Aquatic and Fishery Sciences, Box 355020, University of Washington, Seattle, WA 98195-5020, USA *Corresponding author: elisabetta.morello@csiro.au ABSTRACT: The crown-of-thorns starfish (COTS) Acanthaster planci is one of the largest causes of coral cover loss on Australia’s Great Barrier Reef. Numerous trophic-mediated and anthropogenic-related hypotheses, singly or in combination, have been proposed to explain COTS outbreaks, but the evidence remains inconclusive. There is, however, an urgent need for effective control and mitigation strategies. We develop a model of intermediate complexity for ecosystem assessments to describe the trophic interactions between juvenile and adult COTS and 2 groups of coral (fast- and slow-growing corals). By fitting to available data, the impact of prey-switching behaviour by COTS and its effects on the system are quantified. Simulations are used to evaluate the effects of (1) predation by large fish on adult COTS, (2) predation by benthic invertebrates on juvenile COTS, and (3) manual removal of adult COTS. The results highlight the effectiveness of invertebrate predation at reducing juvenile COTS numbers and suggest that manual removal is unlikely to be an effective control method except on a small scale. Our model focuses on the importance of trophic interactions in COTS control and provides an initial platform for future work which foresees the estimation of the effects of key predators, no-take areas, anthropogenic nutrient enhancement, and reef connectivity in mediating the spatio-temporal heterogeneity of COTS outbreaks. KEY WORDS: Acanthaster planci · COTS · Coral · Great Barrier Reef · Models of intermediate complexity · Predation · Trophodynamics Full text in pdf format Supplementary material PreviousNextCite this article as: Morello EB, Plagányi ÉE, Babcock RC, Sweatman H, Hillary R, Punt AE (2014) Model to manage and reduce crown-of-thorns starfish outbreaks. Mar Ecol Prog Ser 512:167-183. https://doi.org/10.3354/meps10858 Export citation RSS - Facebook - Tweet - linkedIn Cited by Published in MEPS Vol. 512. Online publication date: October 09, 2014 Print ISSN: 0171-8630; Online ISSN: 1616-1599 Copyright © 2014 Inter-Research.",
+  "authors": [
+    {
+      "name": "EB Morello"
+    },
+    {
+      "name": "Éva E. Plagányi"
+    },
+    {
+      "name": "Russell C. Babcock"
+    },
+    {
+      "name": "Hugh Sweatman"
+    },
+    {
+      "name": "Richard Hillary"
+    },
+    {
+      "name": "André E. Punt"
+    }
+  ],
+  "publication_year": 2014,
+  "cited_by_count": 55,
+  "primary_topic": "Coral and Marine Ecosystems Studies",
+  "subfield_topic": "Ecology",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W143693354",
+    "https://openalex.org/W1545797445",
+    "https://openalex.org/W1969023820",
+    "https://openalex.org/W1975093661",
+    "https://openalex.org/W1975307508",
+    "https://openalex.org/W1977657078",
+    "https://openalex.org/W1980011567",
+    "https://openalex.org/W1980838797",
+    "https://openalex.org/W1983758021",
+    "https://openalex.org/W1986911911",
+    "https://openalex.org/W1988206322",
+    "https://openalex.org/W1994569754",
+    "https://openalex.org/W1997389118",
+    "https://openalex.org/W1999137017",
+    "https://openalex.org/W1999917571",
+    "https://openalex.org/W2001224535",
+    "https://openalex.org/W2009753286",
+    "https://openalex.org/W2012408382",
+    "https://openalex.org/W2014585495",
+    "https://openalex.org/W2016293090",
+    "https://openalex.org/W2016467425",
+    "https://openalex.org/W2021324102",
+    "https://openalex.org/W2023622663",
+    "https://openalex.org/W2024351902",
+    "https://openalex.org/W2028612275",
+    "https://openalex.org/W2036299875",
+    "https://openalex.org/W2043284071",
+    "https://openalex.org/W2047268989",
+    "https://openalex.org/W2047976451",
+    "https://openalex.org/W2054263484",
+    "https://openalex.org/W2055007283",
+    "https://openalex.org/W2064876521",
+    "https://openalex.org/W2070396914",
+    "https://openalex.org/W2075181296",
+    "https://openalex.org/W2076945378",
+    "https://openalex.org/W2080774417",
+    "https://openalex.org/W2086059462",
+    "https://openalex.org/W2090946851",
+    "https://openalex.org/W2093603746",
+    "https://openalex.org/W2094040117",
+    "https://openalex.org/W2095229602",
+    "https://openalex.org/W2097293413",
+    "https://openalex.org/W2100828586",
+    "https://openalex.org/W2115827666",
+    "https://openalex.org/W2131915744",
+    "https://openalex.org/W2148537343",
+    "https://openalex.org/W2169389867",
+    "https://openalex.org/W2172617509",
+    "https://openalex.org/W2249715571",
+    "https://openalex.org/W253333907",
+    "https://openalex.org/W2577734125",
+    "https://openalex.org/W2737215350",
+    "https://openalex.org/W2744893186",
+    "https://openalex.org/W2899848058",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W44188601",
+    "https://openalex.org/W93889387"
+  ]
+}

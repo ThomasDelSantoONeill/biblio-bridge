@@ -1,0 +1,20 @@
+{
+  "id": "https://openalex.org/W1618587029",
+  "title": "An Extension of the Basic Theorems of Classical Welfare Economics",
+  "abstract": "1. Summary The classical theorem of welfare economics on the relation between the price system and the achievement of optimal economic welfare is reviewed from the viewpoint of convex set theory. It is found that the theorem can be extended to cover the cases where the social optima are of the nature of corner maxima, and also where there are points of saturation in the preference fields of the members of the society. The first point is related to an item in the Hicks-Kuznets discussion of real national income. The assumptions underlying the analysis are briefly reviewed and criticized. I wish to thank Gerard Debreu, Cowles Commission for Research in Economics, for helpful comments.",
+  "authors": [
+    {
+      "name": "Kenneth J. Arrow"
+    }
+  ],
+  "publication_year": 1951,
+  "cited_by_count": 619,
+  "primary_topic": "Economic theories and models",
+  "subfield_topic": "Economics and Econometrics",
+  "field_topic": "Economics, Econometrics and Finance",
+  "domain_topic": "Social Sciences",
+  "referenced_works": [
+    "https://openalex.org/W2043278166",
+    "https://openalex.org/W2334091915"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "https://openalex.org/W2150918587",
+  "title": "Global Resilience of Tropical Forest and Savanna to Critical Transitions",
+  "abstract": "It has been suggested that tropical forest and savanna could represent alternative stable states, implying critical transitions at tipping points in response to altered climate or other drivers. So far, evidence for this idea has remained elusive, and integrated climate models assume smooth vegetation responses. We analyzed data on the distribution of tree cover in Africa, Australia, and South America to reveal strong evidence for the existence of three distinct attractors: forest, savanna, and a treeless state. Empirical reconstruction of the basins of attraction indicates that the resilience of the states varies in a universal way with precipitation. These results allow the identification of regions where forest or savanna may most easily tip into an alternative state, and they pave the way to a new generation of coupled climate models.",
+  "authors": [
+    {
+      "name": "Marina Hirota"
+    },
+    {
+      "name": "Milena Holmgren"
+    },
+    {
+      "name": "Egbert H. van Nes"
+    },
+    {
+      "name": "Marten Scheffer"
+    }
+  ],
+  "publication_year": 2011,
+  "cited_by_count": 1177,
+  "primary_topic": "Ecosystem dynamics and resilience",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1702032637",
+    "https://openalex.org/W1871310204",
+    "https://openalex.org/W1971946554",
+    "https://openalex.org/W1977907079",
+    "https://openalex.org/W1980030918",
+    "https://openalex.org/W1985045595",
+    "https://openalex.org/W1989754324",
+    "https://openalex.org/W2002884927",
+    "https://openalex.org/W2025615860",
+    "https://openalex.org/W2030350658",
+    "https://openalex.org/W2034878206",
+    "https://openalex.org/W2058521008",
+    "https://openalex.org/W2062254008",
+    "https://openalex.org/W2062526709",
+    "https://openalex.org/W2071070271",
+    "https://openalex.org/W2076351161",
+    "https://openalex.org/W2088443113",
+    "https://openalex.org/W2090489255",
+    "https://openalex.org/W2100622042",
+    "https://openalex.org/W2104968988",
+    "https://openalex.org/W2107814890",
+    "https://openalex.org/W2110005565",
+    "https://openalex.org/W2112844731",
+    "https://openalex.org/W2116199452",
+    "https://openalex.org/W2117779820",
+    "https://openalex.org/W2141450180",
+    "https://openalex.org/W2142651218",
+    "https://openalex.org/W2158031389",
+    "https://openalex.org/W2177364508",
+    "https://openalex.org/W2317055971",
+    "https://openalex.org/W3117295889",
+    "https://openalex.org/W330247109",
+    "https://openalex.org/W4241783250",
+    "https://openalex.org/W4299870202",
+    "https://openalex.org/W4301068587"
+  ]
+}

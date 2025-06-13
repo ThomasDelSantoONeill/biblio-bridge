@@ -1,0 +1,44 @@
+{
+  "id": "https://openalex.org/W2045213575",
+  "title": "Managing Systems with Non-convex Positive Feedback",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "William A. Brock"
+    },
+    {
+      "name": "David A. Starrett"
+    }
+  ],
+  "publication_year": 2006,
+  "cited_by_count": 113,
+  "primary_topic": "Aquatic Ecosystems and Phytoplankton Dynamics",
+  "subfield_topic": "Environmental Chemistry",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1535023463",
+    "https://openalex.org/W1582346146",
+    "https://openalex.org/W1963984047",
+    "https://openalex.org/W1967290965",
+    "https://openalex.org/W1983989831",
+    "https://openalex.org/W1999256455",
+    "https://openalex.org/W2034720068",
+    "https://openalex.org/W2040692920",
+    "https://openalex.org/W2047006371",
+    "https://openalex.org/W2055749545",
+    "https://openalex.org/W2058670254",
+    "https://openalex.org/W2060197083",
+    "https://openalex.org/W2064220656",
+    "https://openalex.org/W2073782990",
+    "https://openalex.org/W2101366052",
+    "https://openalex.org/W2114489703",
+    "https://openalex.org/W2161764778",
+    "https://openalex.org/W2316812274",
+    "https://openalex.org/W2332536056",
+    "https://openalex.org/W2479760086",
+    "https://openalex.org/W2493459381",
+    "https://openalex.org/W3183400433",
+    "https://openalex.org/W594750912"
+  ]
+}

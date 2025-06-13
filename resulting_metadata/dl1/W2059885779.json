@@ -1,0 +1,35 @@
+{
+  "id": "https://openalex.org/W2059885779",
+  "title": "Local Influence Diagnostics for Quasi‐Likelihood and Lognormal Estimates of a Biological Reference Point from Some Fish Stock and Recruitment Models",
+  "abstract": "We present local influence diagnostics to measure the sensitivity of a biological limit reference point (LRP) estimated from fitting a model to stock and recruitment data. LRPs are low levels of stock size that the management of commercial fisheries should avoid with high probability. The LRP we examine is the stock size at which recruitment is 50% of the maximum (S(50%)). We derive analytic equations to describe the effects on S(50%) of changing the weight that observations are given in estimation. We derive equations for the Ricker, Beverton-Holt, and hockey-stick stock-recruit models, and four estimation methods including the error sums of squares method on log responses and three quasi-likelihood methods. We conclude from case studies that the hockey-stick model produces the most robust estimates.",
+  "authors": [
+    {
+      "name": "Noel G. Cadigan"
+    }
+  ],
+  "publication_year": 2006,
+  "cited_by_count": 3,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W101398530",
+    "https://openalex.org/W1218902586",
+    "https://openalex.org/W1528905581",
+    "https://openalex.org/W1570472658",
+    "https://openalex.org/W2013616647",
+    "https://openalex.org/W2034980861",
+    "https://openalex.org/W2100891518",
+    "https://openalex.org/W2112126852",
+    "https://openalex.org/W2115966971",
+    "https://openalex.org/W2139821036",
+    "https://openalex.org/W2164647633",
+    "https://openalex.org/W2334359902",
+    "https://openalex.org/W2472024274",
+    "https://openalex.org/W4234077763",
+    "https://openalex.org/W4236265107",
+    "https://openalex.org/W4292411114",
+    "https://openalex.org/W4301861531"
+  ]
+}

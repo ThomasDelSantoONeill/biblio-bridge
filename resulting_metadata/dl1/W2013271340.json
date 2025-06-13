@@ -1,0 +1,23 @@
+{
+  "id": "https://openalex.org/W2013271340",
+  "title": "Fisheries Management Strategies: an introduction by the Conveners",
+  "abstract": "How will we navigate these times?The answer is together.We need each other differently now.We cannot hide behind our boundaries, or hold onto the belief that we can survive alone.We need each other to test our ideas, to share what we are learning,",
+  "authors": [
+    {
+      "name": "Jake Rice"
+    },
+    {
+      "name": "P. Connolly"
+    }
+  ],
+  "publication_year": 2007,
+  "cited_by_count": 19,
+  "primary_topic": "Coastal and Marine Management",
+  "subfield_topic": "Management, Monitoring, Policy and Law",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W2002198100",
+    "https://openalex.org/W2374803534"
+  ]
+}

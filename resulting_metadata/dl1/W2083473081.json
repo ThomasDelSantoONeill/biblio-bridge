@@ -1,0 +1,26 @@
+{
+  "id": "https://openalex.org/W2083473081",
+  "title": "Maximum Parasitism Rates and Successful Biological Control",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Bradford A. Hawkins"
+    },
+    {
+      "name": "Howard V. Cornell"
+    }
+  ],
+  "publication_year": 1994,
+  "cited_by_count": 124,
+  "primary_topic": "Insect and Pesticide Research",
+  "subfield_topic": "Insect Science",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W2000772258",
+    "https://openalex.org/W2016851692",
+    "https://openalex.org/W2045791283",
+    "https://openalex.org/W3206539894",
+    "https://openalex.org/W4250784944"
+  ]
+}

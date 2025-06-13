@@ -1,0 +1,53 @@
+{
+  "id": "https://openalex.org/W3102715269",
+  "title": "Parallel Problem Solving from Nature - PPSN VIII",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Xin Yao"
+    },
+    {
+      "name": "Edmund Burke"
+    },
+    {
+      "name": "José A. Lozano"
+    },
+    {
+      "name": "James E. Smith"
+    },
+    {
+      "name": "J. J. Merelo"
+    },
+    {
+      "name": "John A. Bullinaria"
+    },
+    {
+      "name": "Jonathan E. Rowe"
+    },
+    {
+      "name": "Peter Tiňo"
+    },
+    {
+      "name": "Ata Kabán"
+    },
+    {
+      "name": "Hans–Paul Schwefel"
+    }
+  ],
+  "publication_year": 2004,
+  "cited_by_count": 1146,
+  "primary_topic": "Scheduling and Timetabling Solutions",
+  "subfield_topic": "Management Science and Operations Research",
+  "field_topic": "Decision Sciences",
+  "domain_topic": "Social Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1503617813",
+    "https://openalex.org/W1515573175",
+    "https://openalex.org/W1536772732",
+    "https://openalex.org/W1556407863",
+    "https://openalex.org/W1559950192",
+    "https://openalex.org/W1560883996",
+    "https://openalex.org/W2115701074",
+    "https://openalex.org/W2163939728"
+  ]
+}

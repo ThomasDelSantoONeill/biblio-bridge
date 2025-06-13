@@ -1,0 +1,27 @@
+{
+  "id": "https://openalex.org/W2022326868",
+  "title": "Marine ecosystem management: Fish abundance and size under exploitation",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Joe Horwood"
+    }
+  ],
+  "publication_year": 2010,
+  "cited_by_count": 6,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W2002744460",
+    "https://openalex.org/W2023474632",
+    "https://openalex.org/W2033911592",
+    "https://openalex.org/W2048020255",
+    "https://openalex.org/W2156523992",
+    "https://openalex.org/W2162290603",
+    "https://openalex.org/W2193449188",
+    "https://openalex.org/W3206086938",
+    "https://openalex.org/W4285719527"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "https://openalex.org/W2102778165",
+  "title": "Food web structure and the evolution of ecological communities",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Christopher Quince"
+    },
+    {
+      "name": "Paul G. Higgs"
+    },
+    {
+      "name": "Alan J. McKane"
+    }
+  ],
+  "publication_year": 2007,
+  "cited_by_count": 20,
+  "primary_topic": "Evolution and Genetic Dynamics",
+  "subfield_topic": "Genetics",
+  "field_topic": "Biochemistry, Genetics and Molecular Biology",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1509995973",
+    "https://openalex.org/W1545824766",
+    "https://openalex.org/W1562543616",
+    "https://openalex.org/W1812541371",
+    "https://openalex.org/W1966151890",
+    "https://openalex.org/W1969027200",
+    "https://openalex.org/W1973432171",
+    "https://openalex.org/W1997297480",
+    "https://openalex.org/W2004728046",
+    "https://openalex.org/W2004893601",
+    "https://openalex.org/W2006489016",
+    "https://openalex.org/W2008432220",
+    "https://openalex.org/W2022666585",
+    "https://openalex.org/W2025981294",
+    "https://openalex.org/W2028568622",
+    "https://openalex.org/W2029032412",
+    "https://openalex.org/W2036801602",
+    "https://openalex.org/W2038092372",
+    "https://openalex.org/W2042426187",
+    "https://openalex.org/W2060501565",
+    "https://openalex.org/W2079883354",
+    "https://openalex.org/W2085728653",
+    "https://openalex.org/W2112316079",
+    "https://openalex.org/W2125897475",
+    "https://openalex.org/W2165207708",
+    "https://openalex.org/W2165864535",
+    "https://openalex.org/W2325278432",
+    "https://openalex.org/W2594075426",
+    "https://openalex.org/W332359294",
+    "https://openalex.org/W4230871231",
+    "https://openalex.org/W4250222862",
+    "https://openalex.org/W4299993032",
+    "https://openalex.org/W4302079205",
+    "https://openalex.org/W4388248053",
+    "https://openalex.org/W65812570"
+  ]
+}

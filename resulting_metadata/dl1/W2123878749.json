@@ -1,0 +1,80 @@
+{
+  "id": "https://openalex.org/W2123878749",
+  "title": "How to predict community responses to perturbations in the face of imperfect knowledge and network complexity",
+  "abstract": "It is a challenge to predict the response of a large, complex system to a perturbation. Recent attempts to predict the behaviour of food webs have revealed that the effort needed to understand a system grows quickly with its complexity, because increasingly precise information on the elements of the system is required. Here, we show that not all elements of the system need to be measured equally well. This suggests that a more efficient allocation of effort to understand a complex systems is possible. We develop an iterative technique for determining an efficient measurement strategy. Finally, in our assessment of model food webs, we find that it is most important to precisely measure the mortality and predation rates of long-lived, generalist, top predators. Prioritizing the study of such species will make it easier to understand the response of complex food webs to perturbations.",
+  "authors": [
+    {
+      "name": "Helge Aufderheide"
+    },
+    {
+      "name": "Lars Rudolf"
+    },
+    {
+      "name": "Thilo Groß"
+    },
+    {
+      "name": "Kevin D. Lafferty"
+    }
+  ],
+  "publication_year": 2013,
+  "cited_by_count": 48,
+  "primary_topic": "Plant and animal studies",
+  "subfield_topic": "Ecology, Evolution, Behavior and Systematics",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1572650998",
+    "https://openalex.org/W1596321532",
+    "https://openalex.org/W1598363147",
+    "https://openalex.org/W1606784130",
+    "https://openalex.org/W1963746482",
+    "https://openalex.org/W1965753518",
+    "https://openalex.org/W1970342740",
+    "https://openalex.org/W1973383209",
+    "https://openalex.org/W1975998971",
+    "https://openalex.org/W1976772498",
+    "https://openalex.org/W1978294673",
+    "https://openalex.org/W1978809795",
+    "https://openalex.org/W1979680609",
+    "https://openalex.org/W1988201445",
+    "https://openalex.org/W1989952213",
+    "https://openalex.org/W1992057706",
+    "https://openalex.org/W1993444065",
+    "https://openalex.org/W1995776512",
+    "https://openalex.org/W2002315210",
+    "https://openalex.org/W2008053698",
+    "https://openalex.org/W2011795712",
+    "https://openalex.org/W2022782365",
+    "https://openalex.org/W2026001064",
+    "https://openalex.org/W2036215206",
+    "https://openalex.org/W2047827879",
+    "https://openalex.org/W2049297416",
+    "https://openalex.org/W2053852032",
+    "https://openalex.org/W2056403249",
+    "https://openalex.org/W2080748515",
+    "https://openalex.org/W2081201855",
+    "https://openalex.org/W2090688544",
+    "https://openalex.org/W2094305273",
+    "https://openalex.org/W2096106881",
+    "https://openalex.org/W2097265416",
+    "https://openalex.org/W2112388438",
+    "https://openalex.org/W2114518578",
+    "https://openalex.org/W2120939234",
+    "https://openalex.org/W2123878749",
+    "https://openalex.org/W2125576890",
+    "https://openalex.org/W2126001334",
+    "https://openalex.org/W2130439396",
+    "https://openalex.org/W2134151301",
+    "https://openalex.org/W2141116886",
+    "https://openalex.org/W2151402778",
+    "https://openalex.org/W2162344694",
+    "https://openalex.org/W2166969766",
+    "https://openalex.org/W2226715233",
+    "https://openalex.org/W276233706",
+    "https://openalex.org/W3011106173",
+    "https://openalex.org/W3103031374",
+    "https://openalex.org/W4206651839",
+    "https://openalex.org/W4238617721",
+    "https://openalex.org/W4388364842"
+  ]
+}

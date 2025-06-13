@@ -1,0 +1,45 @@
+{
+  "id": "https://openalex.org/W2021265043",
+  "title": "New Inductive Population Model for Insect Parasites and its Bearing on Biological Control",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "M. P. Hassell"
+    },
+    {
+      "name": "G. C. Varley"
+    }
+  ],
+  "publication_year": 1969,
+  "cited_by_count": 924,
+  "primary_topic": "Evolution and Genetic Dynamics",
+  "subfield_topic": "Genetics",
+  "field_topic": "Biochemistry, Genetics and Molecular Biology",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1969027200",
+    "https://openalex.org/W1972458189",
+    "https://openalex.org/W1983773468",
+    "https://openalex.org/W1991287187",
+    "https://openalex.org/W2000464329",
+    "https://openalex.org/W2027266297",
+    "https://openalex.org/W2043310236",
+    "https://openalex.org/W2051487832",
+    "https://openalex.org/W2062733557",
+    "https://openalex.org/W2069933380",
+    "https://openalex.org/W2081527029",
+    "https://openalex.org/W2087730194",
+    "https://openalex.org/W2095871238",
+    "https://openalex.org/W2108289478",
+    "https://openalex.org/W2166443997",
+    "https://openalex.org/W2316679010",
+    "https://openalex.org/W2322615388",
+    "https://openalex.org/W2325375479",
+    "https://openalex.org/W2326724626",
+    "https://openalex.org/W2328446656",
+    "https://openalex.org/W2328919166",
+    "https://openalex.org/W2334463101",
+    "https://openalex.org/W3128728324",
+    "https://openalex.org/W4239437043"
+  ]
+}

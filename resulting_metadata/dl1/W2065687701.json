@@ -1,0 +1,83 @@
+{
+  "id": "https://openalex.org/W2065687701",
+  "title": "The Ecological Role of Water-Column Microbes in the Sea",
+  "abstract": "Recently developed techniques for estimating bacterial biomass and productivity indicate that bacterial biomass in the sea is related to phytoplankton concentration and that bacteria utilise 10 to 50 % of carbon fixed by photosynthesis.Evidence is presented to suggest that numbers of free bacteria are controlled by nanoplankton~c heterotrophic flagellates which are ubiquitous in the marine water column.The flagellates in turn are preyed upon by microzooplankton.Heterotrophic flagellates and microzooplankton cover the same size range as the phytoplankton, thus providing the means for returning some energy from the 'microbial loop' to the conventional planktonic food chain.",
+  "authors": [
+    {
+      "name": "F Azam"
+    },
+    {
+      "name": "Tom Fenchel"
+    },
+    {
+      "name": "JG Field"
+    },
+    {
+      "name": "J. S. Gray"
+    },
+    {
+      "name": "LA Meyer-Reil"
+    },
+    {
+      "name": "T. Frede Thingstad"
+    }
+  ],
+  "publication_year": 1983,
+  "cited_by_count": 5301,
+  "primary_topic": "Marine Sponges and Natural Products",
+  "subfield_topic": "Biotechnology",
+  "field_topic": "Biochemistry, Genetics and Molecular Biology",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W135534217",
+    "https://openalex.org/W1515985097",
+    "https://openalex.org/W1518414514",
+    "https://openalex.org/W1536480799",
+    "https://openalex.org/W1551657140",
+    "https://openalex.org/W1555203493",
+    "https://openalex.org/W1589136197",
+    "https://openalex.org/W165368682",
+    "https://openalex.org/W173368913",
+    "https://openalex.org/W1750364302",
+    "https://openalex.org/W1833927854",
+    "https://openalex.org/W1836769955",
+    "https://openalex.org/W1964514156",
+    "https://openalex.org/W1971453097",
+    "https://openalex.org/W1971469096",
+    "https://openalex.org/W1978864047",
+    "https://openalex.org/W1979346209",
+    "https://openalex.org/W1980934656",
+    "https://openalex.org/W1990655280",
+    "https://openalex.org/W1995033830",
+    "https://openalex.org/W1996956445",
+    "https://openalex.org/W1997423387",
+    "https://openalex.org/W1997876102",
+    "https://openalex.org/W2000889985",
+    "https://openalex.org/W2003615897",
+    "https://openalex.org/W2008612822",
+    "https://openalex.org/W2016043016",
+    "https://openalex.org/W2018091585",
+    "https://openalex.org/W2025081245",
+    "https://openalex.org/W2033461047",
+    "https://openalex.org/W2042123288",
+    "https://openalex.org/W2057227015",
+    "https://openalex.org/W2064256263",
+    "https://openalex.org/W2069015237",
+    "https://openalex.org/W2071823253",
+    "https://openalex.org/W2074430558",
+    "https://openalex.org/W2085142229",
+    "https://openalex.org/W2089989370",
+    "https://openalex.org/W2102805791",
+    "https://openalex.org/W2105553897",
+    "https://openalex.org/W2106954267",
+    "https://openalex.org/W2133750208",
+    "https://openalex.org/W2162501745",
+    "https://openalex.org/W2164514728",
+    "https://openalex.org/W2314904970",
+    "https://openalex.org/W2419383982",
+    "https://openalex.org/W2593141013",
+    "https://openalex.org/W4242179909",
+    "https://openalex.org/W579449557",
+    "https://openalex.org/W90735588"
+  ]
+}

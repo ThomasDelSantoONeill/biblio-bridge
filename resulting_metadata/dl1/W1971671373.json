@@ -1,0 +1,55 @@
+{
+  "id": "https://openalex.org/W1971671373",
+  "title": "Hawaiian Islands Marine Ecosystem Case Study: Ecosystem- and Community-Based Management in Hawaii",
+  "abstract": "The Hawaiian Islands comprise a large and isolated archipelago that includes the largest reef area in the United States. Managing nearshore fisheries in this archipelago is a major challenge compounded by the difficulty of coordinating multiple agencies to provide governance across a broad series of islands with substantial social and political differences. There has been interest in, and progress toward, key elements of ecosystem-based management (EBM) in Hawaii, including a network of MPAs and community-based co-management. However, progress has been slow and largely driven by increased attention to the risks facing coral reef ecosystems, enabling both legislation and emergence of local engagement in fishery issues. Key elements of EBM in Hawaii include enhanced coordination among multiple agencies, establishment of place-based and community-based (or Hawaiian ahupua'a'-based) co-management, and acquisition of data on both the ecology of the nearshore system and the role of human impacts for use in management decisions. The development of community-based co-management and an MPA network along the western Kohala-Kona coast of the island of Hawaii (West Hawaii) illustrates a unique approach demonstrating an incremental approach toward EBM. Nonetheless, there are major challenges to scaling up the West Hawaii model to other islands within the state. These challenges include (1) the limited extent of community involvement, as well as legislative and administrative support, of community-based co-management and MPAs, (2) the complexity of conflicts that develop on more populated islands with diverse stakeholders, (3) weak enforcement of fishing regulations, and (4) whether synergy among federal, state, and local governments, nongovernmental organizations, and the scientific community will be sustainable.",
+  "authors": [
+    {
+      "name": "Brian N. Tissot"
+    },
+    {
+      "name": "William J. Walsh"
+    },
+    {
+      "name": "Mark A. Hixon"
+    }
+  ],
+  "publication_year": 2009,
+  "cited_by_count": 70,
+  "primary_topic": "Coral and Marine Ecosystems Studies",
+  "subfield_topic": "Ecology",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1488984069",
+    "https://openalex.org/W1814013181",
+    "https://openalex.org/W1976012769",
+    "https://openalex.org/W1992516819",
+    "https://openalex.org/W2007909772",
+    "https://openalex.org/W2016621692",
+    "https://openalex.org/W2023493166",
+    "https://openalex.org/W2028060710",
+    "https://openalex.org/W2028187058",
+    "https://openalex.org/W2037603274",
+    "https://openalex.org/W2040032555",
+    "https://openalex.org/W2046992861",
+    "https://openalex.org/W2053022084",
+    "https://openalex.org/W2055959583",
+    "https://openalex.org/W2075234717",
+    "https://openalex.org/W2104195528",
+    "https://openalex.org/W2114363971",
+    "https://openalex.org/W2115537133",
+    "https://openalex.org/W2124947785",
+    "https://openalex.org/W2130091916",
+    "https://openalex.org/W2181429656",
+    "https://openalex.org/W2254651904",
+    "https://openalex.org/W2599805419",
+    "https://openalex.org/W2995752350",
+    "https://openalex.org/W3128058985",
+    "https://openalex.org/W3178417948",
+    "https://openalex.org/W4231499903",
+    "https://openalex.org/W4231563450",
+    "https://openalex.org/W4248925300",
+    "https://openalex.org/W4319738502",
+    "https://openalex.org/W603119281"
+  ]
+}

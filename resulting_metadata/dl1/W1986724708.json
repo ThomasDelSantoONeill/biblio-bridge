@@ -1,0 +1,29 @@
+{
+  "id": "https://openalex.org/W1986724708",
+  "title": "Leaf pubescence in buttonwood: Community variation in a putative defense against defoliation",
+  "abstract": "Plants have a variety of putative defenses against defoliation by herbivores, among which are pubescent leaves. Buttonwood (Conocarpus erectus), a Caribbean tree, shows considerable between-individual variation in this trait, and pubescent leaves have less herbivore damage. Surveying 97 island communities, I documented three patterns expected were pubescent individuals more frequent where herbivory is great. (i) Larger islands have a higher percentage of pubescence (larger islands have more herbivores). (ii) Islands nearer to a mainland have a higher percentage of pubescence (nearer islands receive more herbivore immigrants). (iii) Islands having an extremely abundant predator on foliage arthropods, arboreal lizards, have a smaller percentage of pubescence than no-lizard islands. The third effect, though statistically significant, is weak relative to the direct effects of lizards on one category of their prey (spiders) measured in the same system.",
+  "authors": [
+    {
+      "name": "Thomas W. Schoener"
+    }
+  ],
+  "publication_year": 1987,
+  "cited_by_count": 35,
+  "primary_topic": "Plant and animal studies",
+  "subfield_topic": "Ecology, Evolution, Behavior and Systematics",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1936774573",
+    "https://openalex.org/W1964373309",
+    "https://openalex.org/W2003292588",
+    "https://openalex.org/W2015024517",
+    "https://openalex.org/W2059109619",
+    "https://openalex.org/W2074119247",
+    "https://openalex.org/W2261336659",
+    "https://openalex.org/W2323955985",
+    "https://openalex.org/W2377497976",
+    "https://openalex.org/W3137224376",
+    "https://openalex.org/W4249706015"
+  ]
+}

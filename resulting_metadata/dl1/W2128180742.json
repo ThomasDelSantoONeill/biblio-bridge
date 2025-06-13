@@ -1,0 +1,128 @@
+{
+  "id": "https://openalex.org/W2128180742",
+  "title": "Fisheries management under climate and environmental uncertainty: control rules and performance simulation",
+  "abstract": "Abstract The ability of management strategies to achieve the fishery management goals are impacted by environmental variation and, therefore, also by global climate change. Management strategies can be modified to use environmental data using the “dynamic B0” concept, and changing the set of years used to define biomass reference points. Two approaches have been developed to apply management strategy evaluation to evaluate the impact of environmental variation on the performance of management strategies. The “mechanistic approach” estimates the relationship between the environment and elements of the population dynamics of the fished species and makes predictions for population trends using the outputs from global climate models. In contrast, the “empirical approach” examines possible broad scenarios without explicitly identifying mechanisms. Many reviewed studies have found that modifying management strategies to include environmental factors does not improve the ability to achieve management goals much, if at all, and only if the manner in which these factors drive the system is well known. As such, until the skill of stock projection models improves, it seems more appropriate to consider the implications of plausible broad forecasts related to how biological parameters may change in the future as a way to assess the robustness of management strategies, rather than attempting specific predictions per se.",
+  "authors": [
+    {
+      "name": "André E. Punt"
+    },
+    {
+      "name": "Teresa A’mar"
+    },
+    {
+      "name": "Nicholas A. Bond"
+    },
+    {
+      "name": "Douglas Butterworth"
+    },
+    {
+      "name": "Carryn L De Moor"
+    },
+    {
+      "name": "José A. A. De Oliveira"
+    },
+    {
+      "name": "Melissa A. Haltuch"
+    },
+    {
+      "name": "Anne B. Hollowed"
+    },
+    {
+      "name": "Cody Szuwalski"
+    }
+  ],
+  "publication_year": 2013,
+  "cited_by_count": 200,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1489430206",
+    "https://openalex.org/W1535193442",
+    "https://openalex.org/W1858562211",
+    "https://openalex.org/W1964620107",
+    "https://openalex.org/W1970783963",
+    "https://openalex.org/W1973831399",
+    "https://openalex.org/W1975964083",
+    "https://openalex.org/W1981397895",
+    "https://openalex.org/W1982336379",
+    "https://openalex.org/W1984052306",
+    "https://openalex.org/W1986400874",
+    "https://openalex.org/W1987650767",
+    "https://openalex.org/W1989031733",
+    "https://openalex.org/W1991591819",
+    "https://openalex.org/W1999174320",
+    "https://openalex.org/W1999802734",
+    "https://openalex.org/W2003899690",
+    "https://openalex.org/W2006647779",
+    "https://openalex.org/W2006959528",
+    "https://openalex.org/W2008598417",
+    "https://openalex.org/W2016005207",
+    "https://openalex.org/W2020328572",
+    "https://openalex.org/W2022167933",
+    "https://openalex.org/W2024945415",
+    "https://openalex.org/W2026645398",
+    "https://openalex.org/W2029345767",
+    "https://openalex.org/W2037643833",
+    "https://openalex.org/W2041031482",
+    "https://openalex.org/W2042924629",
+    "https://openalex.org/W2045299376",
+    "https://openalex.org/W2055675565",
+    "https://openalex.org/W2058514690",
+    "https://openalex.org/W2058835527",
+    "https://openalex.org/W2063804786",
+    "https://openalex.org/W2064730812",
+    "https://openalex.org/W2069992743",
+    "https://openalex.org/W2075314043",
+    "https://openalex.org/W2075535485",
+    "https://openalex.org/W2082180761",
+    "https://openalex.org/W2083106752",
+    "https://openalex.org/W2083290876",
+    "https://openalex.org/W2084106276",
+    "https://openalex.org/W2085474907",
+    "https://openalex.org/W2094171438",
+    "https://openalex.org/W2096299353",
+    "https://openalex.org/W2097151205",
+    "https://openalex.org/W2100170577",
+    "https://openalex.org/W2100983617",
+    "https://openalex.org/W2103423125",
+    "https://openalex.org/W2103937295",
+    "https://openalex.org/W2107922162",
+    "https://openalex.org/W2108431125",
+    "https://openalex.org/W2111714961",
+    "https://openalex.org/W2111825003",
+    "https://openalex.org/W2113470865",
+    "https://openalex.org/W2116745613",
+    "https://openalex.org/W2119937852",
+    "https://openalex.org/W2120186285",
+    "https://openalex.org/W2122505518",
+    "https://openalex.org/W2122719118",
+    "https://openalex.org/W2122959420",
+    "https://openalex.org/W2123125788",
+    "https://openalex.org/W2126475261",
+    "https://openalex.org/W2130170186",
+    "https://openalex.org/W2139427938",
+    "https://openalex.org/W2141342294",
+    "https://openalex.org/W2142052460",
+    "https://openalex.org/W2144964858",
+    "https://openalex.org/W2147731173",
+    "https://openalex.org/W2147841996",
+    "https://openalex.org/W2148357187",
+    "https://openalex.org/W2153729162",
+    "https://openalex.org/W2156623230",
+    "https://openalex.org/W2161667482",
+    "https://openalex.org/W2162787361",
+    "https://openalex.org/W2166807792",
+    "https://openalex.org/W2166987133",
+    "https://openalex.org/W2167131604",
+    "https://openalex.org/W2171113886",
+    "https://openalex.org/W2172011390",
+    "https://openalex.org/W2466838009",
+    "https://openalex.org/W2494830749",
+    "https://openalex.org/W2903507958",
+    "https://openalex.org/W2914252064",
+    "https://openalex.org/W3049038260",
+    "https://openalex.org/W4255245620"
+  ]
+}

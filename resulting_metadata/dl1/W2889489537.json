@@ -1,0 +1,267 @@
+{
+  "id": "https://openalex.org/W2889489537",
+  "title": "Outstanding Challenges in the Transferability of Ecological Models",
+  "abstract": "Predictive models are central to many scientific disciplines and vital for informing management in a rapidly changing world. However, limited understanding of the accuracy and precision of models transferred to novel conditions (their 'transferability') undermines confidence in their predictions. Here, 50 experts identified priority knowledge gaps which, if filled, will most improve model transfers. These are summarized into six technical and six fundamental challenges, which underlie the combined need to intensify research on the determinants of ecological predictability, including species traits and data quality, and develop best practices for transferring models. Of high importance is the identification of a widely applicable set of transferability metrics, with appropriate tools to quantify the sources and impacts of prediction uncertainty under novel conditions.",
+  "authors": [
+    {
+      "name": "Katherine L. Yates"
+    },
+    {
+      "name": "Phil J. Bouchet"
+    },
+    {
+      "name": "M. Julian Caley"
+    },
+    {
+      "name": "Kerrie Mengersen"
+    },
+    {
+      "name": "Christophe F. Randin"
+    },
+    {
+      "name": "Stephen Parnell"
+    },
+    {
+      "name": "Alan H. Fielding"
+    },
+    {
+      "name": "Andrew J. Bamford"
+    },
+    {
+      "name": "Stephen S. Ban"
+    },
+    {
+      "name": "A. Márcia Barbosa"
+    },
+    {
+      "name": "Carsten F. Dormann"
+    },
+    {
+      "name": "Jane Elith"
+    },
+    {
+      "name": "Clare B. Embling"
+    },
+    {
+      "name": "Gary N. Ervin"
+    },
+    {
+      "name": "Rebecca Fisher"
+    },
+    {
+      "name": "Susan Gould"
+    },
+    {
+      "name": "Roland Felix Graf"
+    },
+    {
+      "name": "Edward J. Gregr"
+    },
+    {
+      "name": "Patrick N. Halpin"
+    },
+    {
+      "name": "Risto K. Heikkinen"
+    },
+    {
+      "name": "Stefan Heinänen"
+    },
+    {
+      "name": "Alice R. Jones"
+    },
+    {
+      "name": "P K Krishnakumar"
+    },
+    {
+      "name": "Valentina Lauria"
+    },
+    {
+      "name": "Hector Lozano‐Montes"
+    },
+    {
+      "name": "Laura Mannocci"
+    },
+    {
+      "name": "Camille Mellin"
+    },
+    {
+      "name": "Mohsen B. Mesgaran"
+    },
+    {
+      "name": "Elena Moreno Amat"
+    },
+    {
+      "name": "Sophie Mormede"
+    },
+    {
+      "name": "Emilie Novaczek"
+    },
+    {
+      "name": "Steffen Oppel"
+    },
+    {
+      "name": "Guillermo Ortuño Crespo"
+    },
+    {
+      "name": "A. Townsend Peterson"
+    },
+    {
+      "name": "Giovanni Rapacciuolo"
+    },
+    {
+      "name": "Jason J. Roberts"
+    },
+    {
+      "name": "Rebecca E. Ross"
+    },
+    {
+      "name": "Kylie L. Scales"
+    },
+    {
+      "name": "David S. Schoeman"
+    },
+    {
+      "name": "Paul V. R. Snelgrove"
+    },
+    {
+      "name": "Göran Sundblad"
+    },
+    {
+      "name": "Wilfried Thuiller"
+    },
+    {
+      "name": "Leigh G. Torres"
+    },
+    {
+      "name": "Heroen Verbruggen"
+    },
+    {
+      "name": "Lifei Wang"
+    },
+    {
+      "name": "Seth J. Wenger"
+    },
+    {
+      "name": "Mark J. Whittingham"
+    },
+    {
+      "name": "Yuri Zharikov"
+    },
+    {
+      "name": "Damaris Zurell"
+    },
+    {
+      "name": "Ana M. M. Sequeira"
+    }
+  ],
+  "publication_year": 2018,
+  "cited_by_count": 611,
+  "primary_topic": "Species Distribution and Climate Change",
+  "subfield_topic": "Ecological Modeling",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1500255874",
+    "https://openalex.org/W1722998844",
+    "https://openalex.org/W1824049191",
+    "https://openalex.org/W1837822620",
+    "https://openalex.org/W1917576719",
+    "https://openalex.org/W1960914988",
+    "https://openalex.org/W1965759024",
+    "https://openalex.org/W1980216543",
+    "https://openalex.org/W1986520077",
+    "https://openalex.org/W1992707237",
+    "https://openalex.org/W2002525709",
+    "https://openalex.org/W2007049610",
+    "https://openalex.org/W2009313389",
+    "https://openalex.org/W2011875027",
+    "https://openalex.org/W2014022087",
+    "https://openalex.org/W2028854964",
+    "https://openalex.org/W2039242947",
+    "https://openalex.org/W2042783301",
+    "https://openalex.org/W2057950738",
+    "https://openalex.org/W2060732158",
+    "https://openalex.org/W2063733373",
+    "https://openalex.org/W2070935594",
+    "https://openalex.org/W2078122051",
+    "https://openalex.org/W2078913531",
+    "https://openalex.org/W2084485698",
+    "https://openalex.org/W2087859722",
+    "https://openalex.org/W2090863412",
+    "https://openalex.org/W2093866787",
+    "https://openalex.org/W2094023494",
+    "https://openalex.org/W2095749788",
+    "https://openalex.org/W2097800683",
+    "https://openalex.org/W2098074542",
+    "https://openalex.org/W2098689521",
+    "https://openalex.org/W2101715158",
+    "https://openalex.org/W2110248929",
+    "https://openalex.org/W2114060135",
+    "https://openalex.org/W2114548855",
+    "https://openalex.org/W2118775743",
+    "https://openalex.org/W2120807969",
+    "https://openalex.org/W2121137277",
+    "https://openalex.org/W2123195536",
+    "https://openalex.org/W2126433576",
+    "https://openalex.org/W2128285285",
+    "https://openalex.org/W2129435498",
+    "https://openalex.org/W2130653110",
+    "https://openalex.org/W2133483336",
+    "https://openalex.org/W2137735407",
+    "https://openalex.org/W2140534668",
+    "https://openalex.org/W2144237449",
+    "https://openalex.org/W2148389197",
+    "https://openalex.org/W2151202495",
+    "https://openalex.org/W2152986536",
+    "https://openalex.org/W2155986656",
+    "https://openalex.org/W2156182980",
+    "https://openalex.org/W2156909800",
+    "https://openalex.org/W2157979460",
+    "https://openalex.org/W2160743115",
+    "https://openalex.org/W2161728721",
+    "https://openalex.org/W2162983459",
+    "https://openalex.org/W2163833366",
+    "https://openalex.org/W2164772977",
+    "https://openalex.org/W2170565777",
+    "https://openalex.org/W2171374232",
+    "https://openalex.org/W2190327227",
+    "https://openalex.org/W2203020735",
+    "https://openalex.org/W2213761457",
+    "https://openalex.org/W2233938529",
+    "https://openalex.org/W2285375120",
+    "https://openalex.org/W2286748342",
+    "https://openalex.org/W2295373462",
+    "https://openalex.org/W2295501321",
+    "https://openalex.org/W2295721025",
+    "https://openalex.org/W2330581843",
+    "https://openalex.org/W2333722298",
+    "https://openalex.org/W2344800035",
+    "https://openalex.org/W2346831018",
+    "https://openalex.org/W2422300297",
+    "https://openalex.org/W2499986294",
+    "https://openalex.org/W2507708273",
+    "https://openalex.org/W2510796315",
+    "https://openalex.org/W2515706791",
+    "https://openalex.org/W2527954661",
+    "https://openalex.org/W2531640182",
+    "https://openalex.org/W2537818838",
+    "https://openalex.org/W2538115536",
+    "https://openalex.org/W2539016905",
+    "https://openalex.org/W2563614562",
+    "https://openalex.org/W2592119888",
+    "https://openalex.org/W2615652245",
+    "https://openalex.org/W2624708862",
+    "https://openalex.org/W2661835989",
+    "https://openalex.org/W2724983626",
+    "https://openalex.org/W2769311935",
+    "https://openalex.org/W2773283933",
+    "https://openalex.org/W2794995741",
+    "https://openalex.org/W2799405530",
+    "https://openalex.org/W2801257202",
+    "https://openalex.org/W2953106474",
+    "https://openalex.org/W4240461418",
+    "https://openalex.org/W4241708500",
+    "https://openalex.org/W769592261",
+    "https://openalex.org/W835604753"
+  ]
+}

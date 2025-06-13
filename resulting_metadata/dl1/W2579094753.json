@@ -1,0 +1,24 @@
+{
+  "id": "https://openalex.org/W2579094753",
+  "title": "The foundations of behavioral economic analysis",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Jean‐Robert Tyran"
+    }
+  ],
+  "publication_year": 2017,
+  "cited_by_count": 360,
+  "primary_topic": "Decision-Making and Behavioral Economics",
+  "subfield_topic": "General Decision Sciences",
+  "field_topic": "Decision Sciences",
+  "domain_topic": "Social Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1534689241",
+    "https://openalex.org/W1557885208",
+    "https://openalex.org/W2165773602",
+    "https://openalex.org/W2256988667",
+    "https://openalex.org/W2549328713",
+    "https://openalex.org/W2992481041"
+  ]
+}

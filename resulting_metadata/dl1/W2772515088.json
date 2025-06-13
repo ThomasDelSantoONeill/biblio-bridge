@@ -1,0 +1,40 @@
+{
+  "id": "https://openalex.org/W2772515088",
+  "title": "Fisheries Impacts on North Atlantic Ecosystems : Models and Analyses",
+  "abstract": "The biological communities of the Atlantic continental shelf adjacent to the southeastern United States are well known, but this knowledge is not integrated into a cohesive description of that region. We constructed a preliminary food web model of this area using Ecopath with Ecosim, as a way to initiate a long-term process of integrating this knowledge, learning more about the structure and resiliency of the system, and helping to guide research priorities in the future. The current model is considered to be a first iteration that can be used as a vehicle to stimulate a more rigorous refinement effort in the near future. The ecologically defined area covered by this model extends from Cape Hatteras, North Carolina to the easternmost extent of the Florida Keys, and from the intertidal zone (or the entrance of estuarine systems) to the 500 m isobath. The time period characterized by this preliminary model is the four years from 1995 to 1998.",
+  "authors": [
+    {
+      "name": "Sylvie Guénette"
+    },
+    {
+      "name": "Villy Christensen"
+    },
+    {
+      "name": "Daniel Pauly"
+    }
+  ],
+  "publication_year": 2001,
+  "cited_by_count": 84,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W134004065",
+    "https://openalex.org/W1515130622",
+    "https://openalex.org/W1524760816",
+    "https://openalex.org/W1785140726",
+    "https://openalex.org/W1975128847",
+    "https://openalex.org/W1997649950",
+    "https://openalex.org/W2004833531",
+    "https://openalex.org/W2010319767",
+    "https://openalex.org/W2035752133",
+    "https://openalex.org/W2047826904",
+    "https://openalex.org/W2126868219",
+    "https://openalex.org/W2136798689",
+    "https://openalex.org/W2156820786",
+    "https://openalex.org/W2328928234",
+    "https://openalex.org/W2899829300",
+    "https://openalex.org/W3112784372"
+  ]
+}

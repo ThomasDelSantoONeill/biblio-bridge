@@ -1,0 +1,36 @@
+{
+  "id": "https://openalex.org/W2159325249",
+  "title": "<b>Rcpp</b>: Seamless<i>R</i>and<i>C++</i>Integration",
+  "abstract": "The <b>Rcpp</b> package simplifies integrating C++ code with R. It provides a consistent C++ class hierarchy that maps various types of R objects (vectors, matrices, functions, environments, . . . ) to dedicated C++ classes. Object interchange between R and C++ is managed by simple, flexible and extensible concepts which include broad support for C++ Standard Template Library idioms. C++ code can both be compiled, linked and loaded on the fly, or added via packages. Flexible error and exception code handling is provided. <b>Rcpp</b> substantially lowers the barrier for programmers wanting to combine C++ code with R.",
+  "authors": [
+    {
+      "name": "Dirk Eddelbuettel"
+    },
+    {
+      "name": "Romain François"
+    }
+  ],
+  "publication_year": 2011,
+  "cited_by_count": 1279,
+  "primary_topic": "Data Analysis with R",
+  "subfield_topic": "Artificial Intelligence",
+  "field_topic": "Computer Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W133977063",
+    "https://openalex.org/W1486064919",
+    "https://openalex.org/W1513612082",
+    "https://openalex.org/W1548485674",
+    "https://openalex.org/W1581501197",
+    "https://openalex.org/W1586932577",
+    "https://openalex.org/W1598340254",
+    "https://openalex.org/W2013999503",
+    "https://openalex.org/W2067376581",
+    "https://openalex.org/W2083948961",
+    "https://openalex.org/W2087130716",
+    "https://openalex.org/W20879699",
+    "https://openalex.org/W2289748525",
+    "https://openalex.org/W2566837370",
+    "https://openalex.org/W398759745"
+  ]
+}

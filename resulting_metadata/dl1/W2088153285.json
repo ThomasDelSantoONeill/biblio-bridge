@@ -1,0 +1,50 @@
+{
+  "id": "https://openalex.org/W2088153285",
+  "title": "Relationships between Coastal Ocean Conditions and Survival Rates of Northeast Pacific Salmon at Multiple Lags",
+  "abstract": "Abstract We tested the hypothesis that survival rates from spawners to recruits in Pacific salmon Oncorhynchus spp. are primarily related to coastal ocean conditions during migration to the sea and soon after. We correlated measures of survival rate in units of log e (recruits/spawner) for 110 stocks of pink salmon O. gorbuscha , chum salmon O. keta , and sockeye salmon O. nerka with regional‐scale indices of coastal sea surface temperature, sea surface salinity, and upwelling as well as with a large‐scale index of ocean climate. We examined correlations by month and at multiple lags spanning the periods of spawning, freshwater residence, and early ocean residence of salmon. Survival rates of all three salmon species were related to ocean temperatures just prior to, during, and after out‐migration, which are indicative of the early marine conditions experienced by juvenile salmon. This is consistent with the hypothesis that the early marine period is critical to the survival of juvenile salmon. However, survival rates of sockeye salmon were most strongly correlated with coastal sea surface temperature during freshwater residency (i.e., the winter and spring prior to out‐migration). Survival rates of pink salmon were also related to sea surface salinity conditions prior to out‐migration. There was no evidence for any relationship between the survival rates of salmon and coastal upwelling conditions. As in previous studies, we found that correlations between the survival rates of pink or sockeye salmon in Alaska and sea surface temperature have opposite signs from correlations for stocks in British Columbia and Washington at most lags and at both regional and large (basinwide) spatial scales. In general, however, the measures of coastal ocean conditions that we examined explain a relatively small proportion of the environmentally induced variability in salmon survival rates.",
+  "authors": [
+    {
+      "name": "Franz J. Mueter"
+    },
+    {
+      "name": "Brian J. Pyper"
+    },
+    {
+      "name": "Randall M. Peterman"
+    }
+  ],
+  "publication_year": 2005,
+  "cited_by_count": 97,
+  "primary_topic": "Fish Ecology and Management Studies",
+  "subfield_topic": "Nature and Landscape Conservation",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1615699600",
+    "https://openalex.org/W1968371014",
+    "https://openalex.org/W1995948408",
+    "https://openalex.org/W1998683733",
+    "https://openalex.org/W2009297465",
+    "https://openalex.org/W2014326790",
+    "https://openalex.org/W2019246349",
+    "https://openalex.org/W2022167933",
+    "https://openalex.org/W2045968144",
+    "https://openalex.org/W2050121222",
+    "https://openalex.org/W2057912276",
+    "https://openalex.org/W2058634769",
+    "https://openalex.org/W2058790434",
+    "https://openalex.org/W2061077955",
+    "https://openalex.org/W2061328952",
+    "https://openalex.org/W2068953622",
+    "https://openalex.org/W2074484122",
+    "https://openalex.org/W2085802583",
+    "https://openalex.org/W2093401535",
+    "https://openalex.org/W2101842079",
+    "https://openalex.org/W2102586571",
+    "https://openalex.org/W2114877040",
+    "https://openalex.org/W2147136303",
+    "https://openalex.org/W2162574092",
+    "https://openalex.org/W2332450806",
+    "https://openalex.org/W2788655338"
+  ]
+}

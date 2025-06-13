@@ -1,0 +1,20 @@
+{
+  "id": "https://openalex.org/W2012770272",
+  "title": "The Effect of Asphyxia on the Pupil",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "John Auer"
+    }
+  ],
+  "publication_year": 1910,
+  "cited_by_count": 5,
+  "primary_topic": "Sympathectomy and Hyperhidrosis Treatments",
+  "subfield_topic": "Physiology",
+  "field_topic": "Medicine",
+  "domain_topic": "Health Sciences",
+  "referenced_works": [
+    "https://openalex.org/W2018877190",
+    "https://openalex.org/W2335725209"
+  ]
+}

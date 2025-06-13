@@ -1,0 +1,29 @@
+{
+  "id": "https://openalex.org/W3121580816",
+  "title": "Spatial Agglomeration Dynamics",
+  "abstract": "This paper develops a model of economic growth and activity locating endogenously on a 3- dimensional featureless global geography. The same economic forces influence simultaneously growth, convergence, and spatial agglomeration and clustering. Economic activity is not concentrated on discrete isolated points but instead a dynamically- fluctuating, smooth spatial distribution. Spatial inequality is a Cass-Koopmans saddlepath, and the global distribution of economic activity converges towards egalitarian growth. Equality is stable but spatial inequality is needed to attain it.",
+  "authors": [
+    {
+      "name": "Danny Quah"
+    }
+  ],
+  "publication_year": 2002,
+  "cited_by_count": 67,
+  "primary_topic": "Regional Economics and Spatial Analysis",
+  "subfield_topic": "Economics and Econometrics",
+  "field_topic": "Economics, Econometrics and Finance",
+  "domain_topic": "Social Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1484044859",
+    "https://openalex.org/W1857431113",
+    "https://openalex.org/W1980661496",
+    "https://openalex.org/W2011731435",
+    "https://openalex.org/W2046824614",
+    "https://openalex.org/W2115537527",
+    "https://openalex.org/W2156129258",
+    "https://openalex.org/W2163213322",
+    "https://openalex.org/W2163655788",
+    "https://openalex.org/W3124035589",
+    "https://openalex.org/W3124380383"
+  ]
+}

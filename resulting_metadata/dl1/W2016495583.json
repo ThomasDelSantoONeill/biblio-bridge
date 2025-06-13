@@ -1,0 +1,54 @@
+{
+  "id": "https://openalex.org/W2016495583",
+  "title": "Sea Otter Predation and Community Organization in the Western Aleutian Islands, Alaska",
+  "abstract": "Predation by the sea otter (Enhydra lutris) limits epibenthic invertebrates, especially sea urchins (Strongylocentrotus polyacanthus), in turn allowing a luxuriant development of the macroalgal canopy. Where sea otters are abundant, sea urchins are small and scarce in shallow water, and the association of fleshy macroalgae apparently is regulated by competition. Sea urchins are larger and more abundant in deeper water, where they are less accessible to sea otters. Macroalgae are most abundant, and competition in the plant association is severest, near the sublittoral fringe where sea otters can remove sea urchins most efficiently. In deep water, competition among maccroalgae is reduced because the light intensity is lower and grazing by sea urchins increases. On islands where sea otters are absent, sea urchins are abundant, large, and are probably limited by intraspecific competition; and they have eliminated fleshly macroalgae. Available data suggest that the association of Laminaria spp. and Agarum cribrosum contributes most to primary production in nearshore areas of the western Aleutian Islands. Where sea otters are absent and sea urchins have eliminated this plant association, some higher trophic forms also are absent or less abundant than where sea otters are common and the plant association is well developed. Earlier studies of sea otter food suggested that low—density populations of sea otters consume primarily sea urchins and mollusks in the western Aleutian Islands. Later studies of high—density populations showed a wider variety of foods consumed, with fish an important component of the diet. These studies support our observations on the differences in availability of these foods between islands with and without sea otters.",
+  "authors": [
+    {
+      "name": "James E. Estes"
+    },
+    {
+      "name": "Norman S. Smith"
+    },
+    {
+      "name": "John F. Palmisano"
+    }
+  ],
+  "publication_year": 1978,
+  "cited_by_count": 321,
+  "primary_topic": "Marine and coastal plant biology",
+  "subfield_topic": "Oceanography",
+  "field_topic": "Earth and Planetary Sciences",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1936774573",
+    "https://openalex.org/W1973688100",
+    "https://openalex.org/W1974072473",
+    "https://openalex.org/W1980177068",
+    "https://openalex.org/W2005320682",
+    "https://openalex.org/W2007243010",
+    "https://openalex.org/W2009158425",
+    "https://openalex.org/W2011303397",
+    "https://openalex.org/W2023317317",
+    "https://openalex.org/W2028435430",
+    "https://openalex.org/W2029796932",
+    "https://openalex.org/W2041800983",
+    "https://openalex.org/W2046941228",
+    "https://openalex.org/W2050517563",
+    "https://openalex.org/W2052231134",
+    "https://openalex.org/W2060356263",
+    "https://openalex.org/W2086115411",
+    "https://openalex.org/W2095411036",
+    "https://openalex.org/W2097003005",
+    "https://openalex.org/W2157933170",
+    "https://openalex.org/W2164325852",
+    "https://openalex.org/W2317513092",
+    "https://openalex.org/W2322638896",
+    "https://openalex.org/W2326679269",
+    "https://openalex.org/W2335297224",
+    "https://openalex.org/W2558979643",
+    "https://openalex.org/W2912676497",
+    "https://openalex.org/W2945782453",
+    "https://openalex.org/W5777460",
+    "https://openalex.org/W804690500"
+  ]
+}

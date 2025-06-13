@@ -1,0 +1,29 @@
+{
+  "id": "https://openalex.org/W2072453073",
+  "title": "The application of a management procedure to regulate the directed and bycatch fishery of South African sardine<i>Sardinops sagax</i>",
+  "abstract": "The South African sardine Sardinops sagax resource is subjected to both directed fishing that targets adult fish, and bycatch of both juvenile and adult fish taken in the directed fisheries for anchovy Engraulis capensis and round herring Etrumeus whiteheadi. Two separate TACs (Total Allowable Catch) for sardine are calculated in the management procedures considered. The first is a directed TAC linked to sardine abundance, and the second is a bycatch TAC with an \"anchovy\" component coupled to the anchovy population dynamics as a proportion of the anchovy TAC, plus a \"round herring\" component reflecting a fixed tonnage independent of round herring abundance. Requirements from the pelagic industry, such as a minimum economically viable annual directed catch and a maximum percentage decrease in the directed TAC that could be tolerated from year to year are also incorporated. The selection of a single management procedure for implementation is based on the comparison of performance statistics such as risk of severe depletion and average annual catch, which incorporate the consequences of random error in survey estimates of abundance and random fluctuations in recruitment from year to year. Sensitivity tests are carried out to ensure robustness over a range of alternative assumptions concerning resource dynamics. A description is given of the development of the management procedure for sardine that was implemented in 1994, and the rationale for its selection. A wide range of variants to this procedure, including those that consider alternative approaches for handling bycatch, are investigated. Performance of the management procedures considered demonstrates extreme sensitivity to the choice of the proportion of the anchovy TAC used in the sardine bycatch TAC calculation. A lack of robustness of the selected management procedure to possible bias in estimates of spawner biomass from hydroacoustic surveys, and poor precision of recruit survey estimates are argued as justification for adopting a conservative approach for managing sardine.",
+  "authors": [
+    {
+      "name": "José A. A. De Oliveira"
+    },
+    {
+      "name": "Doug S Butterworth"
+    },
+    {
+      "name": "Beatriz Roel"
+    },
+    {
+      "name": "Kevern L. Cochrane"
+    },
+    {
+      "name": "Jacques P. Brown"
+    }
+  ],
+  "publication_year": 1998,
+  "cited_by_count": 32,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": []
+}

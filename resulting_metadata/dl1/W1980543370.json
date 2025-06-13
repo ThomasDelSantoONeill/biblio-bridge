@@ -1,0 +1,30 @@
+{
+  "id": "https://openalex.org/W1980543370",
+  "title": "Optimal exploitation of a multi-species community",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "William Silvert"
+    },
+    {
+      "name": "William R. Smith"
+    }
+  ],
+  "publication_year": 1977,
+  "cited_by_count": 49,
+  "primary_topic": "Mathematical and Theoretical Epidemiology and Ecology Models",
+  "subfield_topic": "Public Health, Environmental and Occupational Health",
+  "field_topic": "Medicine",
+  "domain_topic": "Health Sciences",
+  "referenced_works": [
+    "https://openalex.org/W2005212304",
+    "https://openalex.org/W2035155528",
+    "https://openalex.org/W2069460986",
+    "https://openalex.org/W2169477456",
+    "https://openalex.org/W2334591577",
+    "https://openalex.org/W2479453927",
+    "https://openalex.org/W3206777520",
+    "https://openalex.org/W4250382023",
+    "https://openalex.org/W633885201"
+  ]
+}

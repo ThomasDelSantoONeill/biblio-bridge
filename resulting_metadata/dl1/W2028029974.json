@@ -1,0 +1,115 @@
+{
+  "id": "https://openalex.org/W2028029974",
+  "title": "Pathways between Primary Production and Fisheries Yields of Large Marine Ecosystems",
+  "abstract": "The shift in marine resource management from a compartmentalized approach of dealing with resources on a species basis to an approach based on management of spatially defined ecosystems requires an accurate accounting of energy flow. The flow of energy from primary production through the food web will ultimately limit upper trophic-level fishery yields. In this work, we examine the relationship between yield and several metrics including net primary production, chlorophyll concentration, particle-export ratio, and the ratio of secondary to primary production. We also evaluate the relationship between yield and two additional rate measures that describe the export of energy from the pelagic food web, particle export flux and mesozooplankton productivity. We found primary production is a poor predictor of global fishery yields for a sample of 52 large marine ecosystems. However, chlorophyll concentration, particle-export ratio, and the ratio of secondary to primary production were positively associated with yields. The latter two measures provide greater mechanistic insight into factors controlling fishery production than chlorophyll concentration alone. Particle export flux and mesozooplankton productivity were also significantly related to yield on a global basis. Collectively, our analyses suggest that factors related to the export of energy from pelagic food webs are critical to defining patterns of fishery yields. Such trophic patterns are associated with temperature and latitude and hence greater yields are associated with colder, high latitude ecosystems.",
+  "authors": [
+    {
+      "name": "Kevin D. Friedland"
+    },
+    {
+      "name": "Charles A. Stock"
+    },
+    {
+      "name": "Kenneth F. Drinkwater"
+    },
+    {
+      "name": "Jason S. Link"
+    },
+    {
+      "name": "Robert T. Leaf"
+    },
+    {
+      "name": "Burton Shank"
+    },
+    {
+      "name": "Julie M. Rose"
+    },
+    {
+      "name": "Cynthia H. Pilskaln"
+    },
+    {
+      "name": "Michael J. Fogarty"
+    }
+  ],
+  "publication_year": 2012,
+  "cited_by_count": 234,
+  "primary_topic": "Marine and coastal ecosystems",
+  "subfield_topic": "Oceanography",
+  "field_topic": "Earth and Planetary Sciences",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W101096562",
+    "https://openalex.org/W1520023064",
+    "https://openalex.org/W1533208962",
+    "https://openalex.org/W1543409689",
+    "https://openalex.org/W185910945",
+    "https://openalex.org/W1966606650",
+    "https://openalex.org/W1976628086",
+    "https://openalex.org/W1985216095",
+    "https://openalex.org/W1986249894",
+    "https://openalex.org/W1988923805",
+    "https://openalex.org/W1992857777",
+    "https://openalex.org/W2007173289",
+    "https://openalex.org/W2008733299",
+    "https://openalex.org/W2009031534",
+    "https://openalex.org/W2015918764",
+    "https://openalex.org/W2015957072",
+    "https://openalex.org/W2016637157",
+    "https://openalex.org/W2018580425",
+    "https://openalex.org/W2025420670",
+    "https://openalex.org/W2029222794",
+    "https://openalex.org/W2035341631",
+    "https://openalex.org/W2037612458",
+    "https://openalex.org/W2040558007",
+    "https://openalex.org/W2041893300",
+    "https://openalex.org/W2042924629",
+    "https://openalex.org/W2046075192",
+    "https://openalex.org/W2051663919",
+    "https://openalex.org/W2060789210",
+    "https://openalex.org/W2062523558",
+    "https://openalex.org/W2065272594",
+    "https://openalex.org/W2074600358",
+    "https://openalex.org/W2078114051",
+    "https://openalex.org/W2082215781",
+    "https://openalex.org/W2085665478",
+    "https://openalex.org/W2092182129",
+    "https://openalex.org/W2096950322",
+    "https://openalex.org/W209848231",
+    "https://openalex.org/W2099097750",
+    "https://openalex.org/W2102685747",
+    "https://openalex.org/W2106979775",
+    "https://openalex.org/W2108084128",
+    "https://openalex.org/W2111738696",
+    "https://openalex.org/W2113039267",
+    "https://openalex.org/W2113728791",
+    "https://openalex.org/W2117702587",
+    "https://openalex.org/W2118956924",
+    "https://openalex.org/W2120129362",
+    "https://openalex.org/W2122930237",
+    "https://openalex.org/W2131070146",
+    "https://openalex.org/W2132644644",
+    "https://openalex.org/W2140959043",
+    "https://openalex.org/W2143554766",
+    "https://openalex.org/W2144404706",
+    "https://openalex.org/W2146476358",
+    "https://openalex.org/W2150097329",
+    "https://openalex.org/W2156850746",
+    "https://openalex.org/W2159593456",
+    "https://openalex.org/W2159666708",
+    "https://openalex.org/W2160259862",
+    "https://openalex.org/W2172890996",
+    "https://openalex.org/W2174627445",
+    "https://openalex.org/W2185681858",
+    "https://openalex.org/W2217546142",
+    "https://openalex.org/W2267071955",
+    "https://openalex.org/W2500177852",
+    "https://openalex.org/W2513305863",
+    "https://openalex.org/W2608799023",
+    "https://openalex.org/W2914252064",
+    "https://openalex.org/W4245772992",
+    "https://openalex.org/W4246171447",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W4391191157",
+    "https://openalex.org/W934251524"
+  ]
+}

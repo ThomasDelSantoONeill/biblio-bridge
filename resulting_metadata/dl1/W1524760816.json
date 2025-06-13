@@ -1,0 +1,67 @@
+{
+  "id": "https://openalex.org/W1524760816",
+  "title": null,
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Carl J. Walters"
+    },
+    {
+      "name": "Villy Christensen"
+    },
+    {
+      "name": "Daniel Pauly"
+    }
+  ],
+  "publication_year": 1997,
+  "cited_by_count": 931,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W146535024",
+    "https://openalex.org/W1496578198",
+    "https://openalex.org/W1516238711",
+    "https://openalex.org/W1649163763",
+    "https://openalex.org/W1675865103",
+    "https://openalex.org/W179413179",
+    "https://openalex.org/W1966476930",
+    "https://openalex.org/W1967049079",
+    "https://openalex.org/W1973784759",
+    "https://openalex.org/W1978220643",
+    "https://openalex.org/W1980101723",
+    "https://openalex.org/W1996401175",
+    "https://openalex.org/W1997479272",
+    "https://openalex.org/W1997649950",
+    "https://openalex.org/W2011303397",
+    "https://openalex.org/W2015231214",
+    "https://openalex.org/W2035058341",
+    "https://openalex.org/W2042162102",
+    "https://openalex.org/W2047904830",
+    "https://openalex.org/W2051439418",
+    "https://openalex.org/W2059008864",
+    "https://openalex.org/W2060070160",
+    "https://openalex.org/W2060759128",
+    "https://openalex.org/W2060789210",
+    "https://openalex.org/W2061961173",
+    "https://openalex.org/W2062753024",
+    "https://openalex.org/W2076153258",
+    "https://openalex.org/W2079844236",
+    "https://openalex.org/W2081050205",
+    "https://openalex.org/W2082031293",
+    "https://openalex.org/W2092590782",
+    "https://openalex.org/W2099009583",
+    "https://openalex.org/W2131915744",
+    "https://openalex.org/W2137705922",
+    "https://openalex.org/W2165007446",
+    "https://openalex.org/W2282448634",
+    "https://openalex.org/W2517605530",
+    "https://openalex.org/W3124013191",
+    "https://openalex.org/W4233480426",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W579279199",
+    "https://openalex.org/W642201813",
+    "https://openalex.org/W96318972"
+  ]
+}

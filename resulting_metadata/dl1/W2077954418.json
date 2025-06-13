@@ -1,0 +1,26 @@
+{
+  "id": "https://openalex.org/W2077954418",
+  "title": "Exploitation in Three Trophic Levels",
+  "abstract": "The population dynamics of a general three-species, three-trophic-level exploitational system are explored. The conclusions pertaining to three levels are much the same as those for two. Exploitation is defined as one species using another to satisfy its reproductive requirements while the other suffers reproductive depression because of the interaction. Exploitation is the only interspecific interaction assumed to exist in the system. Other assumptions of the theory include: (a) it is possible to construct a first-order partial, nonlinear, differential equation for each species which will predict the population dynamics of that species (such equations do not exist today because of our ignorance); (b) carnivores exploit herbivores, herbivores exploit plants; (c) both herbivores and plants exhibit intraspecific competition at high densities and intraspecific mutualism at low densities. The mutualism may be only technical and requires only that the victim's predators exert a diminishing effect on each victim as victim population increases; (d) carnivores have no intraspecific interaction; (e) habitats are homogeneous in space and time; and (f) populations are phenotypically homogeneous. These assumptions are used to construct the general zero isoclines for each species. From linear approximations of the isoclines, one can determine dynamics near any possible community equilibria. For an equilibrium point to be stable, the plants' intraspecific competition must overshadow their mutualism near that equilibrium. If the same is true of herbivores, the equilibrium is a steady state. If not, it may still be a steady state, provided the herbivore mutualism is weak, herbivore and carnivore interactions are generally weak, and all plant interactions are strong. The population dynamics of the species may or may not exhibit oscillations. As in the two-species model, natural selection can destabilize the equilibrium. Addition of the third or carnivore species always increases the equilibrium density of plants. But its effect on herbivore density is not predictable without knowledge of the dynamics of the two-species system to which it is added. Addition of the carnivore may not only increase both plant and herbivore densities, it may also stabilize them. Thus, removal of carnivores is a perilous ecological gamble. Because of the nonlinear properties of an exploitative system, measurement of interaction coefficients in one small region of phase space does not yield information about stability in other regions.",
+  "authors": [
+    {
+      "name": "Michael L. Rosenzweig"
+    }
+  ],
+  "publication_year": 1973,
+  "cited_by_count": 215,
+  "primary_topic": "Mathematical and Theoretical Epidemiology and Ecology Models",
+  "subfield_topic": "Public Health, Environmental and Occupational Health",
+  "field_topic": "Medicine",
+  "domain_topic": "Health Sciences",
+  "referenced_works": [
+    "https://openalex.org/W2021796170",
+    "https://openalex.org/W2038891875",
+    "https://openalex.org/W2052125279",
+    "https://openalex.org/W2054637019",
+    "https://openalex.org/W2058315195",
+    "https://openalex.org/W2076198188",
+    "https://openalex.org/W2314077490",
+    "https://openalex.org/W2324245840"
+  ]
+}

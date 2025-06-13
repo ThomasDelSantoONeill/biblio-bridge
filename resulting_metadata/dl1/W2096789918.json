@@ -1,0 +1,45 @@
+{
+  "id": "https://openalex.org/W2096789918",
+  "title": "Accounting for length- and depth-dependent diel variation in catchability of fish and invertebrates in an annual bottom-trawl survey",
+  "abstract": "Abstract Diel variation in the catchability of 51 species of fish and 13 invertebrate taxa from an annual bottom-trawl survey of the southern Gulf of St. Lawrence was examined using generalized linear (Poisson) models. Two approaches were used: comparative fishing based on spatially paired day and night tows, and statistical control of spatio-temporal effects in regular survey data. The two approaches provided remarkably similar results. Furthermore, species-specific results were consistent between survey time periods where different vessels were used, and were quite comparable to results from other studies conducted in separate geographic areas. Where sufficient data existed, we considered both length and depth dependencies in diel variation in catchability. We commonly found significant length dependency for groundfish species and the pervasive pattern was for higher nighttime catches of small fish, the magnitude of the effect generally decreasing with increasing length. In contrast, water depth had a much less important impact, except for a few species. When considered jointly, however, patterns in length/depth dependency were not always clear. Given length-dependent geographic and bathymetric patterns in species distribution, the potential for confounding length and depth dependencies exists and correction factors for diel variation in catchability need to be applied cautiously.",
+  "authors": [
+    {
+      "name": "Hugues P. Benoît"
+    },
+    {
+      "name": "Douglas P. Swain"
+    }
+  ],
+  "publication_year": 2003,
+  "cited_by_count": 48,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1528905581",
+    "https://openalex.org/W1968052463",
+    "https://openalex.org/W1975236571",
+    "https://openalex.org/W1977865040",
+    "https://openalex.org/W1994511236",
+    "https://openalex.org/W2009133909",
+    "https://openalex.org/W2012961901",
+    "https://openalex.org/W2020679351",
+    "https://openalex.org/W2025119241",
+    "https://openalex.org/W2040427197",
+    "https://openalex.org/W2044726584",
+    "https://openalex.org/W2046699458",
+    "https://openalex.org/W2060043635",
+    "https://openalex.org/W2078540094",
+    "https://openalex.org/W2083413117",
+    "https://openalex.org/W2108367215",
+    "https://openalex.org/W2117648113",
+    "https://openalex.org/W2160698120",
+    "https://openalex.org/W2328425223",
+    "https://openalex.org/W2340756408",
+    "https://openalex.org/W2944952802",
+    "https://openalex.org/W4250801571",
+    "https://openalex.org/W4299950270",
+    "https://openalex.org/W4301861531"
+  ]
+}

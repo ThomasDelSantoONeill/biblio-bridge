@@ -1,0 +1,20 @@
+{
+  "id": "https://openalex.org/W2060197083",
+  "title": "Optimal Growth with a Convex-Concave Production Function",
+  "abstract": "NUMEROUS STUDIES OF OPTIMAL MODELS in economic growth theory conducted with the aid of Pontryagin's maximum principle [3] led to important qualitive conclusions about the optimal development of economic systems over a finite or even infinite horizon (the latter is the more natural statement of the problem). At the same time almost all authors have been limited by consideration of production functions of only a narrow class, as a rule the class of concave functions. Concave production functions are known to be a good approximation of economic reality when the economy is in a high state of economic development (for instance, when the ratio of capital K to labor force L is great). However, accurate analysis of growth in certain less developed countries leads one to the conclusion that economic description by a concave function is not always applicable and that it is necessary to expand the class of production functions under consideration for a more adequate description of an economic system. Of special interest in this respect are functions which possess increasing returns to scale at an early stage of economic development and diminishing returns at a later stage. In turn, introduction of such functions generates a number of difficulties of a mathematical character (for example, Mangasarian's theorem on the sufficiency of the Pontryagin's conditions is not valid in this case). At present we do not know works where this problem has been studied definitively even in the one-dimensional case. Meanwhile, in our opinion, it is of considerable interest. In the present paper we consider a one-sector dynamic model of an economy with a convex-concave production function. The study is based on application of a maximum principle in Arrow's form [1] which is extremely useful for the analysis of the economic processes, since it allows taking phase constraints into consideration. Arrow's proposition has not been strictly proved; however, to my knowledge, there does not exist any contradictory examples.",
+  "authors": [
+    {
+      "name": "Alexander K. Skiba"
+    }
+  ],
+  "publication_year": 1978,
+  "cited_by_count": 462,
+  "primary_topic": "Economic theories and models",
+  "subfield_topic": "Economics and Econometrics",
+  "field_topic": "Economics, Econometrics and Finance",
+  "domain_topic": "Social Sciences",
+  "referenced_works": [
+    "https://openalex.org/W2064061280",
+    "https://openalex.org/W3206777520"
+  ]
+}

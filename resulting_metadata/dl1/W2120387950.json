@@ -1,0 +1,60 @@
+{
+  "id": "https://openalex.org/W2120387950",
+  "title": "QUANTIFYING VARIATION IN THE STRENGTHS OF SPECIES INTERACTIONS",
+  "abstract": "Understanding how the strengths of species interactions are distributed among species is critical for developing predictive models of natural food webs as well as for developing management and conservation strategies. Recently a number of ecologists have attempted to clarify the concepts of \"strong-\" and \"weak-interactors\" in a community, and to derive techniques for quantifying interaction strengths in the field, using metrics that are consistent, comparable, and of relevance to theoreticians. In this paper, we examine potential biases in different empirical approaches to quantifying variation in interaction strengths within and among natural communities. Using both simulated and published data, we explore the behavior of four commonly used or recently proposed empirical measures of the strength of consumer–prey interactions. The type of index used, the experimental protocol, and the underlying model of predator–prey interaction all strongly influence one's perception of both (1) the distribution of interaction strengths among species (e.g., presence of \"keystone\" species), and (2) the specific identity of the interactions that appear to be most important. Raw treatment differences tend to emphasize effects on very abundant prey, while the three proportional indices tend to emphasize effects on extremely rare prey. Two of the proportional indices are inherently asymmetric about zero, and they inflate positive or negative effects, respectively. When predators exhibit a saturating functional response, the three proportional measures of per capita effect are biased toward a skewed distribution of interaction strengths dominated by effects on the rarest prey. Predator interference causes the per capita measures to emphasize the effects of rare predators. Estimates of per capita effects are also problematic when (1) the per capita effects are back-calculated from experiments designed to measure collective effects (e.g., predator exclusions), and (2) the collective effect of a predator is constant across a wide range of predator densities, as may be common for keystone predators. Finally, since all of the indices show time-dependent behavior, they are differentially suited for different experimental protocols (e.g., short-term vs. long-term results, or community initially near vs. far from equilibrium). All the indices explored here have the potential to provide useful, complementary information about ecological impacts of species in natural communities. In this analysis, we attempt to clarify what each index actually measures and the conditions under which each is most revealing.",
+  "authors": [
+    {
+      "name": "Eric L. Berlow"
+    },
+    {
+      "name": "Sérgio A. Navarrete"
+    },
+    {
+      "name": "Cheryl J. Briggs"
+    },
+    {
+      "name": "Mary E. Power"
+    },
+    {
+      "name": "Bruce A. Menge"
+    }
+  ],
+  "publication_year": 1999,
+  "cited_by_count": 267,
+  "primary_topic": "Plant and animal studies",
+  "subfield_topic": "Ecology, Evolution, Behavior and Systematics",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W149174806",
+    "https://openalex.org/W1492559487",
+    "https://openalex.org/W1498054492",
+    "https://openalex.org/W1654237396",
+    "https://openalex.org/W1973406031",
+    "https://openalex.org/W1974072473",
+    "https://openalex.org/W1978723196",
+    "https://openalex.org/W1983530401",
+    "https://openalex.org/W1988026685",
+    "https://openalex.org/W1988997784",
+    "https://openalex.org/W1992089967",
+    "https://openalex.org/W1993646858",
+    "https://openalex.org/W1999416752",
+    "https://openalex.org/W1999654666",
+    "https://openalex.org/W2014923532",
+    "https://openalex.org/W2024882325",
+    "https://openalex.org/W2054126322",
+    "https://openalex.org/W2063150254",
+    "https://openalex.org/W2068001349",
+    "https://openalex.org/W2086053402",
+    "https://openalex.org/W2090688544",
+    "https://openalex.org/W2122296071",
+    "https://openalex.org/W2131915744",
+    "https://openalex.org/W2140306747",
+    "https://openalex.org/W2157907208",
+    "https://openalex.org/W2162495242",
+    "https://openalex.org/W2165976254",
+    "https://openalex.org/W2185752871",
+    "https://openalex.org/W3048022990",
+    "https://openalex.org/W4237315514"
+  ]
+}

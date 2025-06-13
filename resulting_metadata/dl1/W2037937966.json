@@ -1,0 +1,43 @@
+{
+  "id": "https://openalex.org/W2037937966",
+  "title": "The authorship structure of “ecosystem services” as a transdisciplinary field of scholarship",
+  "abstract": "\"Ecosystem Services\" is now a well-defined and active enough field of scholarship to warrant its own academic journal (this paper is published in the inaugural issue). In this paper we describe the authorship structure of this rapidly emerging transdisciplinary field, which has so far generated over 2400 papers (as of January 2011) listed in ISI Web of Science journals, written by over 2000 authors since the 1990s. We describe the number of publications, the number and interconnection of co-authors, clusters of co-authors, and other variables for the top 172 authors who have authored or co-authored more than 5 papers each. These 172 authors together have written over half the total papers. This allows a coherent picture of current participants in the field and their collaborative interconnections. These methods can be applied to any topic area and represent one way to better understand and support emerging scholarship that goes beyond disciplinary boundaries.",
+  "authors": [
+    {
+      "name": "Robert Costanza"
+    },
+    {
+      "name": "Ida Kubiszewski"
+    }
+  ],
+  "publication_year": 2012,
+  "cited_by_count": 167,
+  "primary_topic": "Interdisciplinary Research and Collaboration",
+  "subfield_topic": "Information Systems and Management",
+  "field_topic": "Decision Sciences",
+  "domain_topic": "Social Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1624058994",
+    "https://openalex.org/W1932222150",
+    "https://openalex.org/W1986187407",
+    "https://openalex.org/W1986899182",
+    "https://openalex.org/W2009929562",
+    "https://openalex.org/W2010055302",
+    "https://openalex.org/W2014655228",
+    "https://openalex.org/W2035081121",
+    "https://openalex.org/W2047220937",
+    "https://openalex.org/W2079530188",
+    "https://openalex.org/W2081230103",
+    "https://openalex.org/W2098468322",
+    "https://openalex.org/W2099221079",
+    "https://openalex.org/W2105174853",
+    "https://openalex.org/W2117269329",
+    "https://openalex.org/W2144611791",
+    "https://openalex.org/W2156016952",
+    "https://openalex.org/W2226489716",
+    "https://openalex.org/W2486291793",
+    "https://openalex.org/W4300713960",
+    "https://openalex.org/W43383022",
+    "https://openalex.org/W7321142"
+  ]
+}

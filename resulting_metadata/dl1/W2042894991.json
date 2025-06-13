@@ -1,0 +1,22 @@
+{
+  "id": "https://openalex.org/W2042894991",
+  "title": "Behavior of Mixed Populations and the Problem of Natural Selection",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "G. F. Gause"
+    },
+    {
+      "name": "Arthur Witt"
+    }
+  ],
+  "publication_year": 1935,
+  "cited_by_count": 260,
+  "primary_topic": "Plant and animal studies",
+  "subfield_topic": "Ecology, Evolution, Behavior and Systematics",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W2157258388"
+  ]
+}

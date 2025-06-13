@@ -1,0 +1,37 @@
+{
+  "id": "https://openalex.org/W2004827430",
+  "title": "Community Structure, Population Control, and Competition",
+  "abstract": "In summary, then, our general conclusions are: (1) Populations of producers, carnivores, and decomposers are limited by their respective resources in the classical density-dependent fashion. (2) Interspecific competition must necessarily exist among the members of each of these three trophic levels. (3) Herbivores are seldom food-limited, appear most often to be predator-limited, and therefore are not likely to compete for common resources.",
+  "authors": [
+    {
+      "name": "Nelson G. Hairston"
+    },
+    {
+      "name": "Frederick E. Smith"
+    },
+    {
+      "name": "Lawrence B. Slobodkin"
+    }
+  ],
+  "publication_year": 1960,
+  "cited_by_count": 3409,
+  "primary_topic": "Animal Ecology and Behavior Studies",
+  "subfield_topic": "Ecology",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W2010807175",
+    "https://openalex.org/W2013775905",
+    "https://openalex.org/W2036374024",
+    "https://openalex.org/W2037698740",
+    "https://openalex.org/W2096038813",
+    "https://openalex.org/W2104816500",
+    "https://openalex.org/W2136546113",
+    "https://openalex.org/W2317173388",
+    "https://openalex.org/W2317594356",
+    "https://openalex.org/W2327386507",
+    "https://openalex.org/W2328515115",
+    "https://openalex.org/W2333084281",
+    "https://openalex.org/W2333117847"
+  ]
+}

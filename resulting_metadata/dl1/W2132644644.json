@@ -1,0 +1,63 @@
+{
+  "id": "https://openalex.org/W2132644644",
+  "title": "Reconciling differences in trophic control in mid‐latitude marine ecosystems",
+  "abstract": "The dependence of long-term fishery yields on primary productivity, largely based on cross-system comparisons and without reference to the potential dynamic character of this relationship, has long been considered strong evidence for bottom-up control in marine systems. We examined time series of intensive empirical observations from nine heavily exploited regions in the western North Atlantic and find evidence of spatial variance of trophic control. Top-down control dominated in northern areas, the dynamics evolved from bottom-up to top-down in an intermediate region, and bottom-up control governed the southern areas. A simplified, trophic control diagram was developed accounting for top-down and bottom-up forcing within a larger region whose base state dynamics are bottom-up and can accommodate time-varying dynamics. Species diversity and ocean temperature co-varied, being relatively high in southern areas and lower in the north, mirroring the shifting pattern of trophic control. A combination of compensatory population dynamics and accelerated demographic rates in southern areas seems to account for the greater stability of the predator species complex in this region.",
+  "authors": [
+    {
+      "name": "Kenneth T. Frank"
+    },
+    {
+      "name": "Brian Petrie"
+    },
+    {
+      "name": "Nancy L. Shackell"
+    },
+    {
+      "name": "Jae S. Choi"
+    }
+  ],
+  "publication_year": 2006,
+  "cited_by_count": 217,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1598363147",
+    "https://openalex.org/W1649215506",
+    "https://openalex.org/W1964025311",
+    "https://openalex.org/W1969721104",
+    "https://openalex.org/W1981109096",
+    "https://openalex.org/W1982191767",
+    "https://openalex.org/W2006368158",
+    "https://openalex.org/W2014725271",
+    "https://openalex.org/W2018580425",
+    "https://openalex.org/W2019512511",
+    "https://openalex.org/W2048020255",
+    "https://openalex.org/W2050393255",
+    "https://openalex.org/W2050781579",
+    "https://openalex.org/W2051554651",
+    "https://openalex.org/W2073289890",
+    "https://openalex.org/W2081645934",
+    "https://openalex.org/W2082836020",
+    "https://openalex.org/W2083382404",
+    "https://openalex.org/W2088194227",
+    "https://openalex.org/W2092590782",
+    "https://openalex.org/W2098876115",
+    "https://openalex.org/W2107794977",
+    "https://openalex.org/W2117702587",
+    "https://openalex.org/W2120108422",
+    "https://openalex.org/W2124272933",
+    "https://openalex.org/W2143453691",
+    "https://openalex.org/W2147773081",
+    "https://openalex.org/W2154788332",
+    "https://openalex.org/W2155955654",
+    "https://openalex.org/W2162290603",
+    "https://openalex.org/W2163326970",
+    "https://openalex.org/W2164713942",
+    "https://openalex.org/W2764741613",
+    "https://openalex.org/W3095349305",
+    "https://openalex.org/W4205920120",
+    "https://openalex.org/W4237677063"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "https://openalex.org/W2153437555",
+  "title": "Do climate and fishing influence size-based indicators of Celtic Sea fish community structure?",
+  "abstract": "Abstract Ecosystem-based management requires the development of indicators that allow anthropogenic impacts to be detected against the background of natural variation. Size-based community metrics are potentially useful indicators because of their theoretical foundation and practical utility. Temporal and spatial patterns in size-based community metrics for Celtic Sea fish are described and calculated using data from the English groundfish survey of the area (1987–2003). The results reveal that the size structure of the community has changed over time, and that a decrease in the relative abundance of larger fish was accompanied by an increase in smaller fish (4–25 g). Temporal analyses of the effects of fishing and climate variation suggest that fishing generally has had a stronger effect on size structure than changes in temperature. Therefore, size-based metrics respond clearly to the effects of fishing even in variable environments, reflecting the ubiquity of size-based processes in defining community structure and responses to mortality. Spatial analyses were inconclusive, probably owing to the limited area for which fishing effort, temperature, and survey data were all available.",
+  "authors": [
+    {
+      "name": "Julia L. Blanchard"
+    },
+    {
+      "name": "Nicholas K. Dulvy"
+    },
+    {
+      "name": "Simon Jennings"
+    },
+    {
+      "name": "J. R. Ellis"
+    },
+    {
+      "name": "John K. Pinnegar"
+    },
+    {
+      "name": "Alex Tidd"
+    },
+    {
+      "name": "Laurence T. Kell"
+    }
+  ],
+  "publication_year": 2005,
+  "cited_by_count": 200,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1483452701",
+    "https://openalex.org/W1513618424",
+    "https://openalex.org/W1970699386",
+    "https://openalex.org/W1971313627",
+    "https://openalex.org/W1984258744",
+    "https://openalex.org/W1985098578",
+    "https://openalex.org/W1988265452",
+    "https://openalex.org/W2009597272",
+    "https://openalex.org/W2015762135",
+    "https://openalex.org/W2042736310",
+    "https://openalex.org/W2047574687",
+    "https://openalex.org/W2052241841",
+    "https://openalex.org/W2076556909",
+    "https://openalex.org/W2090603305",
+    "https://openalex.org/W2091950540",
+    "https://openalex.org/W2103188573",
+    "https://openalex.org/W2114494594",
+    "https://openalex.org/W2114795157",
+    "https://openalex.org/W2118496962",
+    "https://openalex.org/W2122540461",
+    "https://openalex.org/W2124394919",
+    "https://openalex.org/W2125640780",
+    "https://openalex.org/W2131343358",
+    "https://openalex.org/W2133152419",
+    "https://openalex.org/W2147672081",
+    "https://openalex.org/W2160639727",
+    "https://openalex.org/W2162997053",
+    "https://openalex.org/W2169929809",
+    "https://openalex.org/W2346841190",
+    "https://openalex.org/W2552408139",
+    "https://openalex.org/W2612824218",
+    "https://openalex.org/W2768991103",
+    "https://openalex.org/W4390775318",
+    "https://openalex.org/W50460735",
+    "https://openalex.org/W76623649"
+  ]
+}

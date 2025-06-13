@@ -1,0 +1,59 @@
+{
+  "id": "https://openalex.org/W2091289602",
+  "title": "Sharing the cost of muliticast transmissions (preliminary version)",
+  "abstract": "Article Free Access Share on Sharing the cost of muliticast transmissions (preliminary version) Authors: Joan Feigenbaum AT&T Labs - Research, 180 Park Ave., C203, Florham Park, NJ AT&T Labs - Research, 180 Park Ave., C203, Florham Park, NJView Profile , Christos Papadimitriou Computer Science Dept., U. C. Berkeley, Berkeley, CA Computer Science Dept., U. C. Berkeley, Berkeley, CAView Profile , Scott Shenker ACIRI/ICSI, 1947 Center Street, Suite 600, Berkeley, CA ACIRI/ICSI, 1947 Center Street, Suite 600, Berkeley, CAView Profile Authors Info & Claims STOC '00: Proceedings of the thirty-second annual ACM symposium on Theory of computingMay 2000 Pages 218–227https://doi.org/10.1145/335305.335332Published:01 May 2000Publication History 49citation541DownloadsMetricsTotal Citations49Total Downloads541Last 12 Months25Last 6 weeks3 Get Citation AlertsNew Citation Alert added!This alert has been successfully added and will be sent to:You will be notified whenever a record that you have chosen has been cited.To manage your alert preferences, click on the button below.Manage my AlertsNew Citation Alert!Please log in to your account Save to BinderSave to BinderCreate a New BinderNameCancelCreateExport CitationPublisher SiteeReaderPDF",
+  "authors": [
+    {
+      "name": "Joan Feigenbaum"
+    },
+    {
+      "name": "Christos H. Papadimitriou"
+    },
+    {
+      "name": "Scott Shenker"
+    }
+  ],
+  "publication_year": 2000,
+  "cited_by_count": 59,
+  "primary_topic": "Auction Theory and Applications",
+  "subfield_topic": "Management Science and Operations Research",
+  "field_topic": "Decision Sciences",
+  "domain_topic": "Social Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1479964946",
+    "https://openalex.org/W1513351507",
+    "https://openalex.org/W1538963401",
+    "https://openalex.org/W1571408207",
+    "https://openalex.org/W1574410118",
+    "https://openalex.org/W1964005287",
+    "https://openalex.org/W1999143409",
+    "https://openalex.org/W2002482313",
+    "https://openalex.org/W2012634103",
+    "https://openalex.org/W2015007620",
+    "https://openalex.org/W2038644905",
+    "https://openalex.org/W2039634593",
+    "https://openalex.org/W2043905543",
+    "https://openalex.org/W2057500383",
+    "https://openalex.org/W2069853034",
+    "https://openalex.org/W2069876834",
+    "https://openalex.org/W2070552559",
+    "https://openalex.org/W2070646375",
+    "https://openalex.org/W2076143455",
+    "https://openalex.org/W2078040677",
+    "https://openalex.org/W2079994203",
+    "https://openalex.org/W2096322909",
+    "https://openalex.org/W2099699159",
+    "https://openalex.org/W2109100253",
+    "https://openalex.org/W2115064460",
+    "https://openalex.org/W2119083120",
+    "https://openalex.org/W2120100612",
+    "https://openalex.org/W2138661659",
+    "https://openalex.org/W2153335615",
+    "https://openalex.org/W2169265773",
+    "https://openalex.org/W2340787257",
+    "https://openalex.org/W2946624525",
+    "https://openalex.org/W3149796662",
+    "https://openalex.org/W4241226388",
+    "https://openalex.org/W4250380920"
+  ]
+}

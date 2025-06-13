@@ -1,0 +1,68 @@
+{
+  "id": "https://openalex.org/W2311736766",
+  "title": "Assessing fishery and ecological consequences of alternate management options for multispecies fisheries",
+  "abstract": "Abstract Demands for management advice on mixed and multispecies fisheries pose many challenges, further complicated by corresponding requests for advice on the environmental impacts of alternate management options. Here, we develop, and apply to North Sea fisheries, a method for collectively assessing the effects of, and interplay between, technical interactions, multispecies interactions, and the environmental effects of fishing. Ecological interactions involving 21 species are characterized with an ensemble of 188 plausible parameterizations of size-based multispecies models, and four fleets (beam trawl, otter trawl, industrial, and pelagic) characterized with catch composition data. We use the method to evaluate biomass and economic yields, alongside the risk of stock depletion and changes in the value of community indicators, for 10 000 alternate fishing scenarios (combinations of rates of fishing mortality F and fleet configuration) and present the risk vs. reward trade-offs. Technical and multispecies interactions linked to the beam and otter trawl fleets were predicted to have the strongest effects on fisheries yield and value, risk of stock collapse and fish community indicators. Increasing beam trawl effort led to greater increases in beam trawl yield when otter trawl effort was low. If otter trawl effort was high, increases in beam trawl effort led to reduced overall yield. Given the high value of demersal species, permutations of fleet effort leading to high total yield (generated primarily by pelagic species) were not the same as permutations leading to high catch values. A transition from F for 1990 to 2010 to FMSY, but without changes in fleet configuration, reduced risk of stock collapse without affecting long-term weight or value of yield. Our approach directly addresses the need for assessment methods that treat mixed and multispecies issues collectively, address uncertainty, and take account of trade-offs between weight and value of yield, state of stocks and state of the environment.",
+  "authors": [
+    {
+      "name": "Robert Thorpe"
+    },
+    {
+      "name": "Paul J. Dolder"
+    },
+    {
+      "name": "Stuart A. Reeves"
+    },
+    {
+      "name": "Peter Robinson"
+    },
+    {
+      "name": "Simon Jennings"
+    }
+  ],
+  "publication_year": 2016,
+  "cited_by_count": 44,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1573734007",
+    "https://openalex.org/W1872767830",
+    "https://openalex.org/W1882133131",
+    "https://openalex.org/W1966734316",
+    "https://openalex.org/W1968466770",
+    "https://openalex.org/W1975231833",
+    "https://openalex.org/W1990566709",
+    "https://openalex.org/W1991560151",
+    "https://openalex.org/W1997699070",
+    "https://openalex.org/W2014339642",
+    "https://openalex.org/W2017148881",
+    "https://openalex.org/W2030764027",
+    "https://openalex.org/W2052584020",
+    "https://openalex.org/W2055165173",
+    "https://openalex.org/W2072760418",
+    "https://openalex.org/W2077092969",
+    "https://openalex.org/W2116422701",
+    "https://openalex.org/W2116815273",
+    "https://openalex.org/W2118496962",
+    "https://openalex.org/W2122338940",
+    "https://openalex.org/W2122974269",
+    "https://openalex.org/W2127598089",
+    "https://openalex.org/W2128713868",
+    "https://openalex.org/W2139832281",
+    "https://openalex.org/W2141613880",
+    "https://openalex.org/W2153330861",
+    "https://openalex.org/W2154277394",
+    "https://openalex.org/W2158227275",
+    "https://openalex.org/W2158355436",
+    "https://openalex.org/W2164847892",
+    "https://openalex.org/W2170896426",
+    "https://openalex.org/W2186952290",
+    "https://openalex.org/W2221132678",
+    "https://openalex.org/W248978500",
+    "https://openalex.org/W2735068595",
+    "https://openalex.org/W3206086938",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W763007321"
+  ]
+}

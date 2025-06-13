@@ -1,0 +1,85 @@
+{
+  "id": "https://openalex.org/W3128487530",
+  "title": "Balancing Model Complexity, Data Requirements, and Management Objectives in Developing Ecological Reference Points for Atlantic Menhaden",
+  "abstract": "Atlantic menhaden is an important forage fish and the target of the largest fishery along the US East Coast by volume. Since 1999, managers at the Atlantic States Marine Fisheries Commission, stakeholders, and scientists have been interested in developing ecological reference points (ERPs) that account for menhaden’s role as a forage species. To accomplish this, we developed a suite of modeling approaches that incorporated predation on menhaden and changes in productivity over time and allowed for evaluation of trade-offs between menhaden harvest and ecosystem management objectives. These approaches ranged in complexity, from models with minimal data requirements and few assumptions to approaches with extensive data needs and detailed assumptions. This included a surplus production model with a time-varying intrinsic growth rate, a Steele-Henderson surplus production model, a multispecies statistical catch-at-age model, an Ecopath with Ecosim (EwE) model with a limited predator and prey field, and a full EwE model. We evaluated how each model could address managers’ objectives and compared outputs across the approaches, highlighting their strengths, weaknesses, and management utility. All models produced estimates of age-1 + biomass and exploitation rate that were similar in trend and magnitude to the single-species statistical catch-at-age model, especially in recent years. While the less complex models were relativity easy to implement and update, they lacked key elements needed to manage multiple species simultaneously. More complex models required a wider array of data and were more difficult to update within the current management time-frames, but produced a more useful framework for managers. Ultimately, an EwE model of intermediate complexity coupled with the existing single-species assessment model was recommended for use in management.",
+  "authors": [
+    {
+      "name": "Katie Drew"
+    },
+    {
+      "name": "Matthew Cieri"
+    },
+    {
+      "name": "Amy M. Schueller"
+    },
+    {
+      "name": "Andre Buchheister"
+    },
+    {
+      "name": "David Chagaris"
+    },
+    {
+      "name": "Geneviève M. Nesslage"
+    },
+    {
+      "name": "Jason McNamee"
+    },
+    {
+      "name": "James H. Uphoff"
+    }
+  ],
+  "publication_year": 2021,
+  "cited_by_count": 19,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1521037391",
+    "https://openalex.org/W1934921310",
+    "https://openalex.org/W1967036958",
+    "https://openalex.org/W1969102921",
+    "https://openalex.org/W1980242190",
+    "https://openalex.org/W1985165828",
+    "https://openalex.org/W1990566709",
+    "https://openalex.org/W1999270829",
+    "https://openalex.org/W2012742697",
+    "https://openalex.org/W2016293090",
+    "https://openalex.org/W2018466316",
+    "https://openalex.org/W2029353287",
+    "https://openalex.org/W2030764027",
+    "https://openalex.org/W2038644216",
+    "https://openalex.org/W2060501327",
+    "https://openalex.org/W2078441619",
+    "https://openalex.org/W20787259",
+    "https://openalex.org/W2084828496",
+    "https://openalex.org/W2085273858",
+    "https://openalex.org/W2095985740",
+    "https://openalex.org/W2104194276",
+    "https://openalex.org/W2105483011",
+    "https://openalex.org/W2118074382",
+    "https://openalex.org/W2145378599",
+    "https://openalex.org/W2149690525",
+    "https://openalex.org/W2152590961",
+    "https://openalex.org/W2185883831",
+    "https://openalex.org/W2226830235",
+    "https://openalex.org/W2300026946",
+    "https://openalex.org/W2339983891",
+    "https://openalex.org/W2467282877",
+    "https://openalex.org/W2488993120",
+    "https://openalex.org/W2600530559",
+    "https://openalex.org/W2739690405",
+    "https://openalex.org/W2744456328",
+    "https://openalex.org/W2845084941",
+    "https://openalex.org/W2898935298",
+    "https://openalex.org/W2900345024",
+    "https://openalex.org/W2901789054",
+    "https://openalex.org/W2932493822",
+    "https://openalex.org/W2964216155",
+    "https://openalex.org/W3036375099",
+    "https://openalex.org/W3108990744",
+    "https://openalex.org/W3119504640",
+    "https://openalex.org/W4210260625",
+    "https://openalex.org/W4406528197"
+  ]
+}

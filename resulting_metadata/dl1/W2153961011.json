@@ -1,0 +1,37 @@
+{
+  "id": "https://openalex.org/W2153961011",
+  "title": "A restart algorithm for computing fixed points without an extra dimension",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "G. van der Laan"
+    },
+    {
+      "name": "A.J.J. Talman"
+    }
+  ],
+  "publication_year": 1979,
+  "cited_by_count": 131,
+  "primary_topic": "Iterative Methods for Nonlinear Equations",
+  "subfield_topic": "Numerical Analysis",
+  "field_topic": "Mathematics",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1521219885",
+    "https://openalex.org/W1622626893",
+    "https://openalex.org/W198070096",
+    "https://openalex.org/W1990792759",
+    "https://openalex.org/W1992555218",
+    "https://openalex.org/W1999560964",
+    "https://openalex.org/W2003269333",
+    "https://openalex.org/W2051879293",
+    "https://openalex.org/W2053433016",
+    "https://openalex.org/W2060186712",
+    "https://openalex.org/W2070126920",
+    "https://openalex.org/W2070994188",
+    "https://openalex.org/W2073181581",
+    "https://openalex.org/W3123022539",
+    "https://openalex.org/W43234269",
+    "https://openalex.org/W566374216"
+  ]
+}

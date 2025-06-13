@@ -1,0 +1,24 @@
+{
+  "id": "https://openalex.org/W1636410740",
+  "title": "Qualitative Modeling in Ecology: Loop Analysis, Signed Digraphs, and Time Averaging",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Charles J. Puccia"
+    },
+    {
+      "name": "Richard Levins"
+    }
+  ],
+  "publication_year": 1991,
+  "cited_by_count": 35,
+  "primary_topic": "Ecology and Vegetation Dynamics Studies",
+  "subfield_topic": "Nature and Landscape Conservation",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W2128978199",
+    "https://openalex.org/W4230871231",
+    "https://openalex.org/W79881952"
+  ]
+}

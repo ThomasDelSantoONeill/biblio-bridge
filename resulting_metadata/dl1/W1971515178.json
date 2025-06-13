@@ -1,0 +1,27 @@
+{
+  "id": "https://openalex.org/W1971515178",
+  "title": "The FAO guidelines for the development and use of indicators for sustainable development of marine capture fisheries and an Australian example of their application",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Serge M. Garcia"
+    },
+    {
+      "name": "Derek J. Staples"
+    },
+    {
+      "name": "Jean Chesson"
+    }
+  ],
+  "publication_year": 2000,
+  "cited_by_count": 123,
+  "primary_topic": "Environmental and Social Impact Assessments",
+  "subfield_topic": "Management, Monitoring, Policy and Law",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W2804951342",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W49479346"
+  ]
+}

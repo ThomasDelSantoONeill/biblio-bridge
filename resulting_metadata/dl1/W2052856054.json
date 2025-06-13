@@ -1,0 +1,30 @@
+{
+  "id": "https://openalex.org/W2052856054",
+  "title": "Partitioning of Resources and the Outcome of Interspecific Competition: A Model and Some General Considerations",
+  "abstract": "In traditional models of interspecific competition, the relationship between resources and competition is unspecified; yet the biological interpretation of the theory derived from these models is most often expressed in terms of resources. Here we develop models in which the relationship between resources and competition is precisely defined. We consider two modes of resource exploitation: (1) an equable mode in which resources are continuously supplied while organisms and wastes are continuously removed and (2) a seasonal mode in which resources are presented to the populations as discrete entities which are invaded and exhausted and the cycle is repeated when a small fraction of the surviving population invades a new resource. The relationship between resources and competition is identical for both systems. The general properties of these models are examined, with particular emphasis given to the conditions of resource partitioning which allow for stable equilibria with two species coexisting. 1. under the equable mode of resource exploitation, two species can coexist only if they have at least two resources. Stable states of coexistence can occur under all three qualitatively distinct ways in which the two species can partition two resources: (1) exclusive resources for each species, (2) an exclusive resource for one species, and (3) shared resources for both species. 2. Under the seasonal mode of resource exploitation, it is possible to obtain stable states of coexistence for two species under all three of the above qualitatively distinct ways of partitioning the resources Furthermore, and most interestingly, under this mode of resource exploitation it is possible to obtain stable states of coexistence for two species competing for a single resource. The latter can occur when one species grows faster at high concentrations while the other grows faster at low concentrations of the limiting resource. 3. In considering the relative positions of the equilibria for single species and for mixed populations, we found stable equilibria where only unstable equilibria can occur in the Volterra-Gause competition models and unstable equilibria in regions where the Volterra-Gause model predicts stability. 4. Some consideration was given to the limitations of the model and to the implications of these findings for competition theory.",
+  "authors": [
+    {
+      "name": "Frank M. Stewart"
+    },
+    {
+      "name": "Bruce R. Levin"
+    }
+  ],
+  "publication_year": 1973,
+  "cited_by_count": 447,
+  "primary_topic": "Sustainability and Ecological Systems Analysis",
+  "subfield_topic": "Environmental Engineering",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1482486111",
+    "https://openalex.org/W1548377147",
+    "https://openalex.org/W1993444065",
+    "https://openalex.org/W2004827430",
+    "https://openalex.org/W2051529475",
+    "https://openalex.org/W2057443258",
+    "https://openalex.org/W2102784909",
+    "https://openalex.org/W2119510208",
+    "https://openalex.org/W2157258388"
+  ]
+}

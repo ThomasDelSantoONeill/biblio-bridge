@@ -1,0 +1,23 @@
+{
+  "id": "https://openalex.org/W4299309618",
+  "title": "Management Models and Industrial Applications of Linear Programming",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "K. B. Williams"
+    },
+    {
+      "name": "A. Charnes"
+    },
+    {
+      "name": "W. W. Cooper"
+    }
+  ],
+  "publication_year": 1962,
+  "cited_by_count": 652,
+  "primary_topic": "Scheduling and Optimization Algorithms",
+  "subfield_topic": "Industrial and Manufacturing Engineering",
+  "field_topic": "Engineering",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": []
+}

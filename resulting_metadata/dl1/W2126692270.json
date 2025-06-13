@@ -1,0 +1,213 @@
+{
+  "id": "https://openalex.org/W2126692270",
+  "title": "A checklist for ecological management of landscapes for conservation",
+  "abstract": "Abstract The management of landscapes for biological conservation and ecologically sustainable natural resource use are crucial global issues. Research for over two decades has resulted in a large literature, yet there is little consensus on the applicability or even the existence of general principles or broad considerations that could guide landscape conservation. We assess six major themes in the ecology and conservation of landscapes. We identify 13 important issues that need to be considered in developing approaches to landscape conservation. They include recognizing the importance of landscape mosaics (including the integration of terrestrial and aquatic areas), recognizing interactions between vegetation cover and vegetation configuration, using an appropriate landscape conceptual model, maintaining the capacity to recover from disturbance and managing landscapes in an adaptive framework. These considerations are influenced by landscape context, species assemblages and management goals and do not translate directly into on‐the‐ground management guidelines but they should be recognized by researchers and resource managers when developing guidelines for specific cases. Two crucial overarching issues are: (i) a clearly articulated vision for landscape conservation and (ii) quantifiable objectives that offer unambiguous signposts for measuring progress.",
+  "authors": [
+    {
+      "name": "David B. Lindenmayer"
+    },
+    {
+      "name": "Richard J. Hobbs"
+    },
+    {
+      "name": "Rebecca Montague‐Drake"
+    },
+    {
+      "name": "Jason Alexandra"
+    },
+    {
+      "name": "Andrew F. Bennett"
+    },
+    {
+      "name": "Mark A. Burgman"
+    },
+    {
+      "name": "Peter Cale"
+    },
+    {
+      "name": "Aram J. K. Calhoun"
+    },
+    {
+      "name": "Viki A. Cramer"
+    },
+    {
+      "name": "Peter Cullen"
+    },
+    {
+      "name": "Don A. Driscoll"
+    },
+    {
+      "name": "Lenore Fahrig"
+    },
+    {
+      "name": "Joern Fischer"
+    },
+    {
+      "name": "Jerry F. Franklin"
+    },
+    {
+      "name": "Yrjö Haila"
+    },
+    {
+      "name": "Malcolm L. Hunter"
+    },
+    {
+      "name": "Philip Gibbons"
+    },
+    {
+      "name": "Sam Lake"
+    },
+    {
+      "name": "Gary W. Luck"
+    },
+    {
+      "name": "Chris MacGregor"
+    },
+    {
+      "name": "S. McIntyre"
+    },
+    {
+      "name": "Ralph Mac Nally"
+    },
+    {
+      "name": "Adrian D. Manning"
+    },
+    {
+      "name": "James Miller"
+    },
+    {
+      "name": "H.A. Mooney"
+    },
+    {
+      "name": "Reed F. Noss"
+    },
+    {
+      "name": "Hugh P. Possingham"
+    },
+    {
+      "name": "Denis A. Saunders"
+    },
+    {
+      "name": "Fiona K. A. Schmiegelow"
+    },
+    {
+      "name": "Michael J. Scott"
+    },
+    {
+      "name": "Daniel Simberloff"
+    },
+    {
+      "name": "Tom Sisk"
+    },
+    {
+      "name": "Gary M. Tabor"
+    },
+    {
+      "name": "Brian Walker"
+    },
+    {
+      "name": "John J. Wiens"
+    },
+    {
+      "name": "John C. Z. Woinarski"
+    },
+    {
+      "name": "Erika S. Zavaleta"
+    }
+  ],
+  "publication_year": 2007,
+  "cited_by_count": 728,
+  "primary_topic": "Ecology and Vegetation Dynamics Studies",
+  "subfield_topic": "Nature and Landscape Conservation",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1503840956",
+    "https://openalex.org/W1576927510",
+    "https://openalex.org/W1596529738",
+    "https://openalex.org/W1596646469",
+    "https://openalex.org/W1608977359",
+    "https://openalex.org/W1761283816",
+    "https://openalex.org/W1937916265",
+    "https://openalex.org/W1963529341",
+    "https://openalex.org/W1968863977",
+    "https://openalex.org/W1970210694",
+    "https://openalex.org/W1973259567",
+    "https://openalex.org/W1983105640",
+    "https://openalex.org/W1986821457",
+    "https://openalex.org/W1989018200",
+    "https://openalex.org/W1995422480",
+    "https://openalex.org/W2005413391",
+    "https://openalex.org/W2007749020",
+    "https://openalex.org/W2011576493",
+    "https://openalex.org/W2019299471",
+    "https://openalex.org/W2023339029",
+    "https://openalex.org/W2026763517",
+    "https://openalex.org/W2032632590",
+    "https://openalex.org/W2036222281",
+    "https://openalex.org/W2038622599",
+    "https://openalex.org/W2040260121",
+    "https://openalex.org/W2045141031",
+    "https://openalex.org/W2049016557",
+    "https://openalex.org/W2049516377",
+    "https://openalex.org/W2054610106",
+    "https://openalex.org/W2055155561",
+    "https://openalex.org/W2055823787",
+    "https://openalex.org/W2074031809",
+    "https://openalex.org/W2075197853",
+    "https://openalex.org/W2076978655",
+    "https://openalex.org/W2085189820",
+    "https://openalex.org/W2085514490",
+    "https://openalex.org/W2088476097",
+    "https://openalex.org/W2091917814",
+    "https://openalex.org/W2093945120",
+    "https://openalex.org/W2097945186",
+    "https://openalex.org/W2099591330",
+    "https://openalex.org/W2103948957",
+    "https://openalex.org/W2105739041",
+    "https://openalex.org/W2106955441",
+    "https://openalex.org/W2107140090",
+    "https://openalex.org/W2109935101",
+    "https://openalex.org/W2116900086",
+    "https://openalex.org/W2120745888",
+    "https://openalex.org/W2121352324",
+    "https://openalex.org/W2122361861",
+    "https://openalex.org/W2123039671",
+    "https://openalex.org/W2123410629",
+    "https://openalex.org/W2124948776",
+    "https://openalex.org/W2130108244",
+    "https://openalex.org/W2134351079",
+    "https://openalex.org/W2134924002",
+    "https://openalex.org/W2139362435",
+    "https://openalex.org/W2142289369",
+    "https://openalex.org/W2146213009",
+    "https://openalex.org/W2146625409",
+    "https://openalex.org/W2147430252",
+    "https://openalex.org/W2147945290",
+    "https://openalex.org/W2148373626",
+    "https://openalex.org/W2149116407",
+    "https://openalex.org/W2149402324",
+    "https://openalex.org/W2149507322",
+    "https://openalex.org/W2149752076",
+    "https://openalex.org/W2151298159",
+    "https://openalex.org/W2153820558",
+    "https://openalex.org/W2157675652",
+    "https://openalex.org/W2160953634",
+    "https://openalex.org/W2161577053",
+    "https://openalex.org/W2167169890",
+    "https://openalex.org/W2168268204",
+    "https://openalex.org/W2274815048",
+    "https://openalex.org/W2279888815",
+    "https://openalex.org/W2341603110",
+    "https://openalex.org/W2467173215",
+    "https://openalex.org/W2474908076",
+    "https://openalex.org/W2803367667",
+    "https://openalex.org/W4206260110",
+    "https://openalex.org/W4232226405",
+    "https://openalex.org/W4249417569",
+    "https://openalex.org/W597590270",
+    "https://openalex.org/W74028577",
+    "https://openalex.org/W84833874",
+    "https://openalex.org/W904877077"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "https://openalex.org/W2069447117",
+  "title": "Magnification of Secondary Production by Kelp Detritus in Coastal Marine Ecosystems",
+  "abstract": "Kelps are highly productive seaweeds found along most temperate latitude coastlines, but the fate and importance of kelp production to nearshore ecosystems are largely unknown. The trophic role of kelp-derived carbon in a wide range of marine organisms was assessed by a natural experiment. Growth rates of benthic suspension feeders were greatly increased in the presence of organic detritus (particulate and dissolved) originating from large benthic seaweeds (kelps). Stable carbon isotope analysis confirmed that kelp-derived carbon is found throughout the nearshore food web.",
+  "authors": [
+    {
+      "name": "David O. Duggins"
+    },
+    {
+      "name": "CA Simenstad"
+    },
+    {
+      "name": "James A. Estes"
+    }
+  ],
+  "publication_year": 1989,
+  "cited_by_count": 670,
+  "primary_topic": "Marine and coastal plant biology",
+  "subfield_topic": "Oceanography",
+  "field_topic": "Earth and Planetary Sciences",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1529484291",
+    "https://openalex.org/W1980177068",
+    "https://openalex.org/W1989719778",
+    "https://openalex.org/W1997371999",
+    "https://openalex.org/W1997423387",
+    "https://openalex.org/W2009886891",
+    "https://openalex.org/W2016495583",
+    "https://openalex.org/W2018596178",
+    "https://openalex.org/W2039105257",
+    "https://openalex.org/W2050517563",
+    "https://openalex.org/W2081749182",
+    "https://openalex.org/W2131218719",
+    "https://openalex.org/W2167734524",
+    "https://openalex.org/W387695440",
+    "https://openalex.org/W4285719527"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "https://openalex.org/W2139589823",
+  "title": "Regulation in fish populations: myth or mirage?",
+  "abstract": "There is abundant evidence of long-term changes in the abundance offish populations, but the causes are not known. It is almost certain that climatic changes are responsible in part, but the role of population regulatory mechanisms is unclear. The evidence is conflicting. The ability of fish populations to sustain levels of fishing mortality several times the level of natural mortality suggests strong regulatory mechanisms. The persistence of stocks for centuries, with few extinctions or explosions, also implies some regulation, but not necessarily strong regulation. The high levels of fluctuation in recruitment suggest weak regulation except in the earliest stages of the life history. Under weak regulation the time taken for effective explosions or extinctions is long, maybe a century for 1000-fold changes in abundance. There are few historical records that imply greater stability (persistence) of stocks than this. Analysis of stock-recruitment diagrams (the fisheries biologists' version of κ -factor analysis) rarely yields clear evidence for or against regulation, because of high levels of fluctuation, which cannot therefore be because of single-species deterministic chaos (though multispecies chaos remains a possibility). Even the exceptions to this rule (North Sea herring, Georges Bank haddock) are not wholly convincing. Conversely, it is credible that these and other long-term declines of recruitment (Northeast Arctic cod, North Sea haddock) could be due to regulation, since stock sizes also fell. Regrettably we cannot distinguish the chicken and the egg. It is indeed quite plausible that the only regulatory process operating for fish populations is a stochastic one: increased (and non-normal) variability at low stock sizes. This would give strong regulation in the mean, because of the increasing excess of the mean over the median at low stock sizes, but only because of increasingly large, but increasingly infrequent, outstanding year-classes. This sounds such an accurate description of heavily fished stocks that further exploration of this mechanism seems warranted.",
+  "authors": [
+    {
+      "name": "J. G. Shepherd"
+    },
+    {
+      "name": "D. H. Cushing"
+    }
+  ],
+  "publication_year": 1990,
+  "cited_by_count": 83,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1500291103",
+    "https://openalex.org/W157265798",
+    "https://openalex.org/W176003001",
+    "https://openalex.org/W1929922288",
+    "https://openalex.org/W1965038394",
+    "https://openalex.org/W1979284133",
+    "https://openalex.org/W1984676558",
+    "https://openalex.org/W1985941935",
+    "https://openalex.org/W1996929435",
+    "https://openalex.org/W2001104673",
+    "https://openalex.org/W2014994991",
+    "https://openalex.org/W2017352040",
+    "https://openalex.org/W2025839693",
+    "https://openalex.org/W2029581984",
+    "https://openalex.org/W2035058341",
+    "https://openalex.org/W2040321735",
+    "https://openalex.org/W2041633824",
+    "https://openalex.org/W2068860736",
+    "https://openalex.org/W2081527029",
+    "https://openalex.org/W2100891518",
+    "https://openalex.org/W2108752013",
+    "https://openalex.org/W2109763083",
+    "https://openalex.org/W2314062607",
+    "https://openalex.org/W2322023492",
+    "https://openalex.org/W2322615388",
+    "https://openalex.org/W2324234197",
+    "https://openalex.org/W2331245998",
+    "https://openalex.org/W2332284005",
+    "https://openalex.org/W2333947264",
+    "https://openalex.org/W2466838009",
+    "https://openalex.org/W32396108",
+    "https://openalex.org/W4232542152",
+    "https://openalex.org/W600979019"
+  ]
+}

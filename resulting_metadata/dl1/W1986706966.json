@@ -1,0 +1,48 @@
+{
+  "id": "https://openalex.org/W1986706966",
+  "title": "Biodiversity and ecosystem productivity in a fluctuating environment: The insurance hypothesis",
+  "abstract": "Although the effect of biodiversity on ecosystem functioning has become a major focus in ecology, its significance in a fluctuating environment is still poorly understood. According to the insurance hypothesis, biodiversity insures ecosystems against declines in their functioning because many species provide greater guarantees that some will maintain functioning even if others fail. Here we examine this hypothesis theoretically. We develop a general stochastic dynamic model to assess the effects of species richness on the expected temporal mean and variance of ecosystem processes such as productivity, based on individual species’ productivity responses to environmental fluctuations. Our model shows two major insurance effects of species richness on ecosystem productivity: ( i ) a buffering effect, i.e., a reduction in the temporal variance of productivity, and ( ii ) a performance-enhancing effect, i.e., an increase in the temporal mean of productivity. The strength of these insurance effects is determined by three factors: ( i ) the way ecosystem productivity is determined by individual species responses to environmental fluctuations, ( ii ) the degree of asynchronicity of these responses, and ( iii ) the detailed form of these responses. In particular, the greater the variance of the species responses, the lower the species richness at which the temporal mean of the ecosystem process saturates and the ecosystem becomes redundant. These results provide a strong theoretical foundation for the insurance hypothesis, which proves to be a fundamental principle for understanding the long-term effects of biodiversity on ecosystem processes.",
+  "authors": [
+    {
+      "name": "Shigeo Yachi"
+    },
+    {
+      "name": "Michel Loreau"
+    }
+  ],
+  "publication_year": 1999,
+  "cited_by_count": 2831,
+  "primary_topic": "Ecology and Vegetation Dynamics Studies",
+  "subfield_topic": "Nature and Landscape Conservation",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1413533941",
+    "https://openalex.org/W149567199",
+    "https://openalex.org/W1649215506",
+    "https://openalex.org/W1650613930",
+    "https://openalex.org/W1969721104",
+    "https://openalex.org/W1974476190",
+    "https://openalex.org/W1977200897",
+    "https://openalex.org/W2008019499",
+    "https://openalex.org/W2016037098",
+    "https://openalex.org/W2016418366",
+    "https://openalex.org/W2030784825",
+    "https://openalex.org/W2037159992",
+    "https://openalex.org/W2041202474",
+    "https://openalex.org/W2050781579",
+    "https://openalex.org/W2051624184",
+    "https://openalex.org/W2060399587",
+    "https://openalex.org/W2079772313",
+    "https://openalex.org/W2087185473",
+    "https://openalex.org/W2092765906",
+    "https://openalex.org/W2102200338",
+    "https://openalex.org/W2116954415",
+    "https://openalex.org/W2323364760",
+    "https://openalex.org/W2327296281",
+    "https://openalex.org/W2329679623",
+    "https://openalex.org/W2746485780",
+    "https://openalex.org/W4240307243",
+    "https://openalex.org/W4300023889"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "https://openalex.org/W2108402454",
+  "title": "MALTHUSIAN OVERFISHING AND EFFORTS TO OVERCOME IT ON KENYAN CORAL REEFS",
+  "abstract": "This study examined trends along a gradient of fishing intensity in an artisanal coral reef fishery over a 10‐year period along 75 km of Kenya's most populated coastline. As predicted by Malthusian scenarios, catch per unit effort (CPUE), mean trophic level, the functional diversity of fished taxa, and the diversity of gear declined, while total annual catch and catch variability increased along the fishing pressure gradient. The fishery was able to sustain high (∼16 Mg·km −2 ·yr −1 ) but variable yields at high fishing pressure due to the dominance of a few productive herbivorous fish species in the catch. The effect of two separate management strategies to overcome this Malthusian pattern was investigated: fisheries area closure and elimination of the dominant and most “competitive” gear. We found that sites within 5 km of the enforced closure showed significantly lower total catch and CPUE, but increased yield stability and trophic level of catch than predicted by regression models normalized for fishing effort. Sites that had excluded illegal beach seine use through active gear management exhibited increased total catch and CPUE. There was a strong interaction between closure and gear management, which indicates that, for closures to be effective at increasing catch, there must be simultaneous efforts at gear management around the periphery of the closures. We propose that Malthusian effects are responsible for the variation in gear and catch and that active management through reduced effort and reductions in the most competitive gear have the greatest potential to increase the functional and trophic diversity and per‐person productivity.",
+  "authors": [
+    {
+      "name": "Tim R. McClanahan"
+    },
+    {
+      "name": "Christina C. Hicks"
+    },
+    {
+      "name": "Emily S. Darling"
+    }
+  ],
+  "publication_year": 2008,
+  "cited_by_count": 215,
+  "primary_topic": "Coral and Marine Ecosystems Studies",
+  "subfield_topic": "Ecology",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1490500298",
+    "https://openalex.org/W1493386605",
+    "https://openalex.org/W1513647973",
+    "https://openalex.org/W1543298600",
+    "https://openalex.org/W1552288368",
+    "https://openalex.org/W1663564908",
+    "https://openalex.org/W1923103317",
+    "https://openalex.org/W1970604559",
+    "https://openalex.org/W1976299817",
+    "https://openalex.org/W1977297882",
+    "https://openalex.org/W1978162783",
+    "https://openalex.org/W1982931039",
+    "https://openalex.org/W1986086359",
+    "https://openalex.org/W1987657422",
+    "https://openalex.org/W1992233530",
+    "https://openalex.org/W1995694686",
+    "https://openalex.org/W2006648072",
+    "https://openalex.org/W2006949776",
+    "https://openalex.org/W2017881517",
+    "https://openalex.org/W2054297660",
+    "https://openalex.org/W2059254252",
+    "https://openalex.org/W2062356677",
+    "https://openalex.org/W2079670301",
+    "https://openalex.org/W2093292946",
+    "https://openalex.org/W2098319092",
+    "https://openalex.org/W2099499886",
+    "https://openalex.org/W2101635820",
+    "https://openalex.org/W2123258525",
+    "https://openalex.org/W2126038213",
+    "https://openalex.org/W2135716927",
+    "https://openalex.org/W2136281122",
+    "https://openalex.org/W2155848754",
+    "https://openalex.org/W2156709416",
+    "https://openalex.org/W2159411870",
+    "https://openalex.org/W2160590151",
+    "https://openalex.org/W2165702945",
+    "https://openalex.org/W2167825300",
+    "https://openalex.org/W2167941657",
+    "https://openalex.org/W2183098272",
+    "https://openalex.org/W2237327538",
+    "https://openalex.org/W2328411831",
+    "https://openalex.org/W2709573646",
+    "https://openalex.org/W2797068747",
+    "https://openalex.org/W4220399",
+    "https://openalex.org/W4238084999",
+    "https://openalex.org/W4251258414",
+    "https://openalex.org/W4256666364",
+    "https://openalex.org/W4285719527"
+  ]
+}

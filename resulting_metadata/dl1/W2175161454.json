@@ -1,0 +1,51 @@
+{
+  "id": "https://openalex.org/W2175161454",
+  "title": "Maximum likelihood estimation in nonlinear structured fisheries models using survey and catch-at-age data",
+  "abstract": "Age-structured population dynamics models play an important role in fisheries assessments. Such models have traditionally been estimated using crude likelihood approximations or more recently using Bayesian techniques. We contribute to this literature with three main messages. Firstly, we demonstrate how to estimate such models efficiently by simulated maximum likelihood using Laplace importance samplers for the likelihood function. Secondly, we demonstrate how simulated maximum likelihood estimates may be validated using different importance samplers known to approach the exact likelihood function in different regions of the parameter space. Thirdly, we show that our method works in practice by Monte Carlo simulations using parameter values as estimated from data on the Northeast Arctic cod ( Gadus morhua ) stock. The simulations suggest that we are able to recover the unknown true maximum likelihood estimates using moderate importance sample sizes and show that we are able to adequately recover the true parameter values.",
+  "authors": [
+    {
+      "name": "Christian Brinch"
+    },
+    {
+      "name": "Anne Maria Eikeset"
+    },
+    {
+      "name": "Nils Chr. Stenseth"
+    }
+  ],
+  "publication_year": 2011,
+  "cited_by_count": 10,
+  "primary_topic": "Insurance, Mortality, Demography, Risk Management",
+  "subfield_topic": "Demography",
+  "field_topic": "Social Sciences",
+  "domain_topic": "Social Sciences",
+  "referenced_works": [
+    "https://openalex.org/W156230102",
+    "https://openalex.org/W1977874032",
+    "https://openalex.org/W1985093013",
+    "https://openalex.org/W2015617037",
+    "https://openalex.org/W2022832113",
+    "https://openalex.org/W2039255102",
+    "https://openalex.org/W2040791611",
+    "https://openalex.org/W2044763292",
+    "https://openalex.org/W2046200834",
+    "https://openalex.org/W2046260659",
+    "https://openalex.org/W2052850964",
+    "https://openalex.org/W2057565703",
+    "https://openalex.org/W2098823293",
+    "https://openalex.org/W2105607843",
+    "https://openalex.org/W2107858042",
+    "https://openalex.org/W2120880155",
+    "https://openalex.org/W2124763785",
+    "https://openalex.org/W2125581242",
+    "https://openalex.org/W2135034406",
+    "https://openalex.org/W2144869021",
+    "https://openalex.org/W2615953416",
+    "https://openalex.org/W3029645440",
+    "https://openalex.org/W4235256018",
+    "https://openalex.org/W4248957323",
+    "https://openalex.org/W4251263574",
+    "https://openalex.org/W4292691288",
+    "https://openalex.org/W4293775970"
+  ]
+}

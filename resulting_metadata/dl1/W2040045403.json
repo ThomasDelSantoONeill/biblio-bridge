@@ -1,0 +1,45 @@
+{
+  "id": "https://openalex.org/W2040045403",
+  "title": "Patterns of species interaction strength in assembled theoretical competition communities",
+  "abstract": "Strength of interactions between species may be an important tool in our effort to understand community structure. Recent theoretical and empirical findings suggest that despite the presence of some strong interactions, weak interactions prevail in communities. Here, we examine how mean interaction strengths change as theoretical competition communities assemble and what the distribution of interaction coefficients is in the communities that are formed during the assembly process. Our results show that the mean competition strengths fall as assembly progresses and that most interactions in the communities formed are weak. Communities that are invulnerable to further invasions are those where interspecific interactions are weaker than the average interaction strength between species in the pool. If these results can be generalized to more than one trophic level, implications for management and conservation of natural communities are substantial.",
+  "authors": [
+    {
+      "name": "Giorgos D. Kokkoris"
+    },
+    {
+      "name": "Andreas Y. Troumbis"
+    },
+    {
+      "name": "John H. Lawton"
+    }
+  ],
+  "publication_year": 1999,
+  "cited_by_count": 162,
+  "primary_topic": "Plant and animal studies",
+  "subfield_topic": "Ecology, Evolution, Behavior and Systematics",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1596500933",
+    "https://openalex.org/W1654237396",
+    "https://openalex.org/W1968998298",
+    "https://openalex.org/W1975626823",
+    "https://openalex.org/W1988026685",
+    "https://openalex.org/W2026107823",
+    "https://openalex.org/W2035864944",
+    "https://openalex.org/W2054126322",
+    "https://openalex.org/W2055828837",
+    "https://openalex.org/W2067198755",
+    "https://openalex.org/W2090688544",
+    "https://openalex.org/W2142063041",
+    "https://openalex.org/W2158053619",
+    "https://openalex.org/W2162495242",
+    "https://openalex.org/W2168409038",
+    "https://openalex.org/W2185752871",
+    "https://openalex.org/W2259801033",
+    "https://openalex.org/W2316935890",
+    "https://openalex.org/W2317203148",
+    "https://openalex.org/W3214906637",
+    "https://openalex.org/W4299993032"
+  ]
+}

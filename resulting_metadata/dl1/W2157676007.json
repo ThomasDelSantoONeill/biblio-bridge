@@ -1,0 +1,56 @@
+{
+  "id": "https://openalex.org/W2157676007",
+  "title": "Predicting species vulnerability with minimal data to support rapid risk assessment of fishing impacts on biodiversity",
+  "abstract": "Summary 1. Large‐bodied species are especially vulnerable to fishing in mixed fisheries. Their effective conservation requires predictions of sensitivity and exposure to fishing mortality, but such predictions are hard to make when the population dynamics of most of these species have not been described. 2. We present a method for assessing sensitivity and conservation management reference points using widely available life‐history data. The method allows the sensitivity of all fish species in a community to be assessed in relation to conservation‐ and yield‐based fishery reference points. 3. Knowledge of sensitivity is used to (i) rank species by sensitivity, (ii) conduct a risk assessment to identify species potentially vulnerable to current fishing pressure and (iii) examine potential trade‐offs between fishery catches and the conservation status of sensitive species. 4. The method is applied to the Celtic Sea bottom‐dwelling fish community. For the species present, conservation threshold fishing mortalities ranged from 0·05 per year for the most sensitive large elasmobranchs to over 1 per year for small teleosts. The assessment predicts that current levels of fishing mortality may place all the elasmobranchs and over a quarter of the teleosts below conservation reference points. 5. Depending on the relative mortality rates affecting commercially targeted species and species of conservation concern, up to 65% of the potential yield‐per‐recruit of commercially important species may have to be forgone to reduce fishing mortality below conservation limit reference points for the most sensitive species. 6. Synthesis and applications. The method presented provides a clear objective procedure to construct ranked species sensitivity lists that can inform management, monitoring and research. The Celtic Sea case study demonstrated that limiting fishing pressure on key commercial stocks to meet fisheries production targets may be insufficient to guarantee the persistence of more sensitive species. Management actions that effectively decouple the mortality rates on commercial species and ‘conservation’ species are likely to be required to make progress in relation to conservation objectives. The method would support rapid assessment of sensitivity to fishing in many regions around the world as only taxonomic lists and estimates of body size are required.",
+  "authors": [
+    {
+      "name": "Will J. F. Le Quesne"
+    },
+    {
+      "name": "Simon Jennings"
+    }
+  ],
+  "publication_year": 2011,
+  "cited_by_count": 90,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1218902586",
+    "https://openalex.org/W1492835558",
+    "https://openalex.org/W1593139096",
+    "https://openalex.org/W1960744456",
+    "https://openalex.org/W1972601195",
+    "https://openalex.org/W1973933025",
+    "https://openalex.org/W1975416778",
+    "https://openalex.org/W1978406555",
+    "https://openalex.org/W1980814141",
+    "https://openalex.org/W1989774683",
+    "https://openalex.org/W1995059600",
+    "https://openalex.org/W2010848622",
+    "https://openalex.org/W2027722748",
+    "https://openalex.org/W2029937379",
+    "https://openalex.org/W2031569377",
+    "https://openalex.org/W2055402323",
+    "https://openalex.org/W2060930016",
+    "https://openalex.org/W2072079115",
+    "https://openalex.org/W2088865141",
+    "https://openalex.org/W2097963407",
+    "https://openalex.org/W2110310854",
+    "https://openalex.org/W2111284967",
+    "https://openalex.org/W2124688492",
+    "https://openalex.org/W2130870465",
+    "https://openalex.org/W2132312820",
+    "https://openalex.org/W2139658635",
+    "https://openalex.org/W2141886030",
+    "https://openalex.org/W2145297870",
+    "https://openalex.org/W2147846792",
+    "https://openalex.org/W2153330861",
+    "https://openalex.org/W2164847892",
+    "https://openalex.org/W2189513818",
+    "https://openalex.org/W3140286839",
+    "https://openalex.org/W4252711903",
+    "https://openalex.org/W4388299665"
+  ]
+}

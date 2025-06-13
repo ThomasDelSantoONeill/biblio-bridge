@@ -1,0 +1,24 @@
+{
+  "id": "https://openalex.org/W1982802844",
+  "title": "Are Age-Structured Models Appropriate for Catch-Effort Data?",
+  "abstract": "Simulated data have been used to evaluate the performance of schemes for estimating optimum fishing effort using a simple stock-production model and R. B. Deriso's age-structured model Even when the data are generated using Deriso's model, the simpler production model generally gives as good or better estimates for the optimal effort. The only exception to this result is when data are provided with unrealistically large contrasts in effort and catch per unit effort over time. The implication of these findings is that simple production models should often be used in stock assessments based on catch/effort data, even when more realistic and structurally correct models are available to the analyst; the best choice depends on how much contrast has occurred in the historical effort and catch per unit effort data, rather than on prior knowledge about which model structure is biologically more realistic.",
+  "authors": [
+    {
+      "name": "Donald Ludwig"
+    },
+    {
+      "name": "Carl J. Walters"
+    }
+  ],
+  "publication_year": 1985,
+  "cited_by_count": 206,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1976202469",
+    "https://openalex.org/W2026218441",
+    "https://openalex.org/W2076153258"
+  ]
+}

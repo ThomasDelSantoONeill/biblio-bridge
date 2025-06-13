@@ -1,0 +1,28 @@
+{
+  "id": "https://openalex.org/W1982178304",
+  "title": "Community food webs have scale-invariant structure",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Frédéric Briand"
+    },
+    {
+      "name": "Joel E. Cohen"
+    }
+  ],
+  "publication_year": 1984,
+  "cited_by_count": 285,
+  "primary_topic": "Plant and animal studies",
+  "subfield_topic": "Ecology, Evolution, Behavior and Systematics",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1484716122",
+    "https://openalex.org/W1967319785",
+    "https://openalex.org/W2026994436",
+    "https://openalex.org/W2027990961",
+    "https://openalex.org/W2148667958",
+    "https://openalex.org/W4230871231",
+    "https://openalex.org/W4251982956"
+  ]
+}

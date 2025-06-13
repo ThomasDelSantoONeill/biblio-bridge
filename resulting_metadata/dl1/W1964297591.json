@@ -1,0 +1,58 @@
+{
+  "id": "https://openalex.org/W1964297591",
+  "title": "Trophic Cascades and Phytoplankton Community Structure",
+  "abstract": "Two predators of zooplankton, fish (yellow perch) and larval insects (Chaoborus), were manipulated within in situ mesocosms to assess their indirect effects on phytoplankton. The two predators caused similar reductions in zooplankton size and biomass, and as a consequence, zooplankton grazing rates on phytoplankton. However, phytoplankton increased relative to predator—free controls only in enclosures with fish and not in enclosures with Chaoborus, suggesting that fish have effects on phytoplankton independent of their effects on zooplankton grazing rates. Estimation of phosphorus excretion rates of zooplankton and fish suggests that fish render P more available to phytoplankton in two ways: (1) by directly excreting and egesting P, and (2) by increasing rates of P excretion by the zooplankton community. The latter effect resulted because small zooplankton have higher biomass—specific excretion rates than large zooplankton. The importance of nutrient regeneration is further supported by the response of phytoplankton community structure. Phytoplankton taxa exhibiting enhanced biomass in the presence of fish were those with high P requirements, including green and blue—green algae and dinoflagellates; other phytoplankton groups did not respond to manipulations. These results suggest that the mechanisms underlying the tropic cascade are complex and that predators affect phytoplankton by altering nutrient recycling rates as well as zooplankton grazing rates.",
+  "authors": [
+    {
+      "name": "Michael J. Vanni"
+    },
+    {
+      "name": "David L. Findlay"
+    }
+  ],
+  "publication_year": 1990,
+  "cited_by_count": 230,
+  "primary_topic": "Aquatic Ecosystems and Phytoplankton Dynamics",
+  "subfield_topic": "Environmental Chemistry",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1606480864",
+    "https://openalex.org/W1833731256",
+    "https://openalex.org/W1965263848",
+    "https://openalex.org/W1972949060",
+    "https://openalex.org/W1975258039",
+    "https://openalex.org/W1983034681",
+    "https://openalex.org/W1983858377",
+    "https://openalex.org/W1984087400",
+    "https://openalex.org/W1984822033",
+    "https://openalex.org/W1990878260",
+    "https://openalex.org/W1992172958",
+    "https://openalex.org/W1994608760",
+    "https://openalex.org/W1994947978",
+    "https://openalex.org/W2000376534",
+    "https://openalex.org/W2006175918",
+    "https://openalex.org/W2012142270",
+    "https://openalex.org/W2013713527",
+    "https://openalex.org/W2016286022",
+    "https://openalex.org/W2064359817",
+    "https://openalex.org/W2081342099",
+    "https://openalex.org/W2082981352",
+    "https://openalex.org/W2087094857",
+    "https://openalex.org/W2091886609",
+    "https://openalex.org/W2107084129",
+    "https://openalex.org/W2123638529",
+    "https://openalex.org/W2130164248",
+    "https://openalex.org/W2142211232",
+    "https://openalex.org/W2145301284",
+    "https://openalex.org/W2152880597",
+    "https://openalex.org/W2153334759",
+    "https://openalex.org/W2160911567",
+    "https://openalex.org/W2168780219",
+    "https://openalex.org/W2171578494",
+    "https://openalex.org/W2238628896",
+    "https://openalex.org/W2266175882",
+    "https://openalex.org/W2316770764",
+    "https://openalex.org/W2775030735"
+  ]
+}

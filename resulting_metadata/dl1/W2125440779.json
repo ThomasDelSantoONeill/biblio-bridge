@@ -1,0 +1,22 @@
+{
+  "id": "https://openalex.org/W2125440779",
+  "title": "Books Reviewed<i>Ecosystem-Based Fishery Management: Confronting Tradeoffs</i>. Jason S. Link. 2010. Cambridge University Press, UK, 207 pp. ISBN 978-0-521-76298-4 (hardback).",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Daniel Georgianna"
+    }
+  ],
+  "publication_year": 2011,
+  "cited_by_count": 3,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W2054886550",
+    "https://openalex.org/W2055402323",
+    "https://openalex.org/W3088713371",
+    "https://openalex.org/W4246346907"
+  ]
+}

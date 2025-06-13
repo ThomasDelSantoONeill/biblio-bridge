@@ -1,0 +1,22 @@
+{
+  "id": "https://openalex.org/W2169082384",
+  "title": "Applications of Mathematics to Medical Problems",
+  "abstract": "In the majority of the processes with which one is concerned in the study of the medical sciences, one has to deal with assemblages of individuals, be they living or be they dead, which become affected according to some characteristic. They may meet and exchange ideas, the meeting may result in the transference of some infectious disease, and so forth. The life of each individual consists of a train of such incidents, one following the other. From another point of view each member of the human community consists of an assemblage of cells. These cells react and interact amongst each other, and each individual lives a life which may be again considered as a succession of events, one following the other. If one thinks of these individuals, be they human beings or be they cells, as moving in all sorts of dimensions, reversibly or irreversibly, continuously or discontinuously, by unit stages or per saltum , then the method of their movement becomes a study in kinetics, and can be approached by the methods ordinarily adopted in the study of such systems.",
+  "authors": [
+    {
+      "name": "A. G. M'kendrick"
+    }
+  ],
+  "publication_year": 1925,
+  "cited_by_count": 1142,
+  "primary_topic": "Advanced Thermodynamics and Statistical Mechanics",
+  "subfield_topic": "Statistical and Nonlinear Physics",
+  "field_topic": "Physics and Astronomy",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1987860200",
+    "https://openalex.org/W2040643883",
+    "https://openalex.org/W2043223580",
+    "https://openalex.org/W4400948341"
+  ]
+}

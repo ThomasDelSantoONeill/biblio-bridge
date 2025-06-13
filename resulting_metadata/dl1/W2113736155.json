@@ -1,0 +1,76 @@
+{
+  "id": "https://openalex.org/W2113736155",
+  "title": "Processes structuring communities: evidence for trait‐mediated indirect effects through induced polymorphisms",
+  "abstract": "Trait‐mediated indirect effects (TMIs) are changes in the density of one species that are caused by induced changes in one or more traits of an intervening species. For example, induced defense in a prey species may alter the nature of indirect effects that are mediated through that prey species. In the present study, we investigated the TMIs that stem from an interaction between a carnivorous whelk ( Acanthina angelica ) and an intertidal barnacle ( Chthamalus anisopoma) . Depending on the timing of the interaction, the predator either kills the barnacle or induces a predation‐resistant morph. Based on previous work that addressed the direct interactions between Chthamalus and other species in the community we predicted and subsequently found that community structure varies as a function of these differing effects. Specifically, we found that Acanthina has a positive indirect effect on mussels when it interacts with (kills) undefended adult barnacles. In contrast, the predator has a positive indirect effect on an encrusting algae ( Ralfsia ) when it comes into contact with juvenile barnacles, causing the induction of the predator‐resistant morph. We suggest that further research should consider the role of environmentally induced polymorphisms in structuring communities.",
+  "authors": [
+    {
+      "name": "P. Raimondi"
+    },
+    {
+      "name": "Samantha E. Forde"
+    },
+    {
+      "name": "Lynda F. Delph"
+    },
+    {
+      "name": "Curtis M. Lively"
+    }
+  ],
+  "publication_year": 2000,
+  "cited_by_count": 64,
+  "primary_topic": "Marine Biology and Ecology Research",
+  "subfield_topic": "Oceanography",
+  "field_topic": "Earth and Planetary Sciences",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1581830689",
+    "https://openalex.org/W1597871704",
+    "https://openalex.org/W1964665861",
+    "https://openalex.org/W1967683961",
+    "https://openalex.org/W1973199530",
+    "https://openalex.org/W1978416749",
+    "https://openalex.org/W1984658329",
+    "https://openalex.org/W1985230946",
+    "https://openalex.org/W1989314580",
+    "https://openalex.org/W1997765943",
+    "https://openalex.org/W2002315210",
+    "https://openalex.org/W2007020469",
+    "https://openalex.org/W2007168967",
+    "https://openalex.org/W2018153298",
+    "https://openalex.org/W2030616885",
+    "https://openalex.org/W2032839068",
+    "https://openalex.org/W2032970371",
+    "https://openalex.org/W2038084028",
+    "https://openalex.org/W2039933964",
+    "https://openalex.org/W2041139123",
+    "https://openalex.org/W2043719222",
+    "https://openalex.org/W2048564551",
+    "https://openalex.org/W2049376304",
+    "https://openalex.org/W2051177931",
+    "https://openalex.org/W2056282502",
+    "https://openalex.org/W2062716050",
+    "https://openalex.org/W2067230409",
+    "https://openalex.org/W2067810199",
+    "https://openalex.org/W2069895484",
+    "https://openalex.org/W2071272142",
+    "https://openalex.org/W2086067408",
+    "https://openalex.org/W2088555769",
+    "https://openalex.org/W2092703236",
+    "https://openalex.org/W2104882826",
+    "https://openalex.org/W2115430522",
+    "https://openalex.org/W2124514497",
+    "https://openalex.org/W2144810915",
+    "https://openalex.org/W2153487134",
+    "https://openalex.org/W2157286156",
+    "https://openalex.org/W2161169328",
+    "https://openalex.org/W2165778970",
+    "https://openalex.org/W2165999897",
+    "https://openalex.org/W2187042777",
+    "https://openalex.org/W2314213654",
+    "https://openalex.org/W2317265499",
+    "https://openalex.org/W2323444743",
+    "https://openalex.org/W3045904299",
+    "https://openalex.org/W314821563",
+    "https://openalex.org/W764639240"
+  ]
+}

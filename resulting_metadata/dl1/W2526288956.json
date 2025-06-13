@@ -1,0 +1,73 @@
+{
+  "id": "https://openalex.org/W2526288956",
+  "title": "Examining nonstationarity in the recruitment dynamics of fishes using Bayesian change point analysis",
+  "abstract": "Marine ecosystems can undergo regime shifts, which result in nonstationarity in the dynamics of the fish populations inhabiting them. The assumption of time-invariant parameters in stock–recruitment models can lead to severe errors when forecasting renewal ability of stocks that experience shifts in their recruitment dynamics. We present a novel method for fitting stock–recruitment models using the Bayesian online change point detection algorithm, which is able to cope with sudden changes in the model parameters. We validate our method using simulations and apply it to empirical data of four demersal fishes in the southern Gulf of St. Lawrence. We show that all of the stocks have experienced shifts in their recruitment dynamics that cannot be captured by a model that assumes time-invariant parameters. The detected shifts in the recruitment dynamics result in clearly different parameter distributions and recruitment predictions between the regimes. This study illustrates how stock–recruitment relationships can experience shifts, which, if not accounted for, can lead to false predictions about a stock’s recovery ability and resilience to fishing.",
+  "authors": [
+    {
+      "name": "Tommi Perälä"
+    },
+    {
+      "name": "Douglas P. Swain"
+    },
+    {
+      "name": "Anna Kuparinen"
+    }
+  ],
+  "publication_year": 2016,
+  "cited_by_count": 20,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W101398530",
+    "https://openalex.org/W1483365869",
+    "https://openalex.org/W1599127549",
+    "https://openalex.org/W1825736988",
+    "https://openalex.org/W1962762376",
+    "https://openalex.org/W1981033781",
+    "https://openalex.org/W1991434862",
+    "https://openalex.org/W2001104673",
+    "https://openalex.org/W2005701114",
+    "https://openalex.org/W2006681603",
+    "https://openalex.org/W2008598417",
+    "https://openalex.org/W2030402249",
+    "https://openalex.org/W2032117755",
+    "https://openalex.org/W2035058341",
+    "https://openalex.org/W2038512291",
+    "https://openalex.org/W2050957329",
+    "https://openalex.org/W2056133203",
+    "https://openalex.org/W2056803086",
+    "https://openalex.org/W2062549118",
+    "https://openalex.org/W2074185885",
+    "https://openalex.org/W2080169924",
+    "https://openalex.org/W2085474907",
+    "https://openalex.org/W2090503194",
+    "https://openalex.org/W2096789918",
+    "https://openalex.org/W2100891518",
+    "https://openalex.org/W2110011277",
+    "https://openalex.org/W2110180213",
+    "https://openalex.org/W2110747406",
+    "https://openalex.org/W2111714961",
+    "https://openalex.org/W2120502741",
+    "https://openalex.org/W2128180742",
+    "https://openalex.org/W2135620858",
+    "https://openalex.org/W2142052460",
+    "https://openalex.org/W2147505534",
+    "https://openalex.org/W2147731173",
+    "https://openalex.org/W2150727466",
+    "https://openalex.org/W2153729162",
+    "https://openalex.org/W2155480096",
+    "https://openalex.org/W2159273843",
+    "https://openalex.org/W2162575138",
+    "https://openalex.org/W2165609874",
+    "https://openalex.org/W2166987133",
+    "https://openalex.org/W2170169136",
+    "https://openalex.org/W2171599301",
+    "https://openalex.org/W2321755360",
+    "https://openalex.org/W2322357308",
+    "https://openalex.org/W2466838009",
+    "https://openalex.org/W4232464081",
+    "https://openalex.org/W88520345"
+  ]
+}

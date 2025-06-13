@@ -1,0 +1,135 @@
+{
+  "id": "https://openalex.org/W2980255429",
+  "title": "Disentangling ‘ecosystem services’ and ‘nature’s contributions to people’",
+  "abstract": "People depend on functioning ecosystems, which provide benefits that support human existence and wellbeing. The relationship between people and nature has been experienced and conceptualized in multiple ways. Recently, ecosystem services (ES) concepts have permeated science, government policies, multi-national environmental agreements, and science–policy interfaces. In 2017, the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES) introduced a new and closely related concept – Nature's Contributions to People (NCP). The introduction of NCP has sparked some lively discussion and confusion about the distinguishing characteristics between ES and NCP. In order to clarify their conceptual relation, we identify eleven specific claims about novel elements from the latest NCP literature and analyze how far ES research has already contributed to these corresponding conceptual claims in the existing ES literature. We find a mixed-picture, where on six specific conceptual claims (culture, social sciences and humanities, indigenous and local knowledge, negative contributions of nature, generalizing perspective, non-instrumental values and valuation) NCP does not differ greatly from past ES research, but we also find five conceptual claims (diverse worldviews, context-specific perspective, relational values, fuzzy and fluid reporting categories and groups, inclusive language and framing) where NCP provides novel conceptualizations of people and nature relations.",
+  "authors": [
+    {
+      "name": "Andrew N. Kadykalo"
+    },
+    {
+      "name": "María D. López‐Rodríguez"
+    },
+    {
+      "name": "Jacob Ainscough"
+    },
+    {
+      "name": "Nils Droste"
+    },
+    {
+      "name": "Hyeonju Ryu"
+    },
+    {
+      "name": "Giovanni Ávila-Flores"
+    },
+    {
+      "name": "Solen Le Clec’h"
+    },
+    {
+      "name": "Marcia C. Muñoz"
+    },
+    {
+      "name": "L. Anders Nilsson"
+    },
+    {
+      "name": "Sakshi Rana"
+    },
+    {
+      "name": "Priyanka Sarkar"
+    },
+    {
+      "name": "Katharina J. Sevecke"
+    },
+    {
+      "name": "Zuzana V. Harmáčková"
+    }
+  ],
+  "publication_year": 2019,
+  "cited_by_count": 229,
+  "primary_topic": "Land Use and Ecosystem Services",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1501263307",
+    "https://openalex.org/W1543126748",
+    "https://openalex.org/W1551533759",
+    "https://openalex.org/W1571962500",
+    "https://openalex.org/W1611708840",
+    "https://openalex.org/W1643440760",
+    "https://openalex.org/W1891978210",
+    "https://openalex.org/W1971273486",
+    "https://openalex.org/W1972907094",
+    "https://openalex.org/W2017114528",
+    "https://openalex.org/W2027228691",
+    "https://openalex.org/W2037845267",
+    "https://openalex.org/W2048489146",
+    "https://openalex.org/W2059931452",
+    "https://openalex.org/W2065028408",
+    "https://openalex.org/W2066246263",
+    "https://openalex.org/W2095375472",
+    "https://openalex.org/W2097686432",
+    "https://openalex.org/W2099186092",
+    "https://openalex.org/W2108570746",
+    "https://openalex.org/W2109514286",
+    "https://openalex.org/W2114971411",
+    "https://openalex.org/W2116222254",
+    "https://openalex.org/W2118446952",
+    "https://openalex.org/W2142225512",
+    "https://openalex.org/W2144457452",
+    "https://openalex.org/W2150104072",
+    "https://openalex.org/W2150308939",
+    "https://openalex.org/W2153779825",
+    "https://openalex.org/W2156100542",
+    "https://openalex.org/W2160189386",
+    "https://openalex.org/W2191361968",
+    "https://openalex.org/W2209500674",
+    "https://openalex.org/W2222344104",
+    "https://openalex.org/W2272853385",
+    "https://openalex.org/W2297185018",
+    "https://openalex.org/W2342568027",
+    "https://openalex.org/W2343786679",
+    "https://openalex.org/W2344245093",
+    "https://openalex.org/W2406402926",
+    "https://openalex.org/W2473015971",
+    "https://openalex.org/W2518044716",
+    "https://openalex.org/W2550092082",
+    "https://openalex.org/W2558084980",
+    "https://openalex.org/W2558594007",
+    "https://openalex.org/W2560024298",
+    "https://openalex.org/W2560545852",
+    "https://openalex.org/W2560679452",
+    "https://openalex.org/W2562231872",
+    "https://openalex.org/W2586137728",
+    "https://openalex.org/W2589424942",
+    "https://openalex.org/W2616627265",
+    "https://openalex.org/W2725496589",
+    "https://openalex.org/W2737858692",
+    "https://openalex.org/W2739014417",
+    "https://openalex.org/W2744722684",
+    "https://openalex.org/W2746485780",
+    "https://openalex.org/W2751518069",
+    "https://openalex.org/W2756791498",
+    "https://openalex.org/W2766027869",
+    "https://openalex.org/W2782917446",
+    "https://openalex.org/W2790142841",
+    "https://openalex.org/W2790309162",
+    "https://openalex.org/W2790744927",
+    "https://openalex.org/W2794249993",
+    "https://openalex.org/W2808171850",
+    "https://openalex.org/W2808487638",
+    "https://openalex.org/W2888309319",
+    "https://openalex.org/W2888977692",
+    "https://openalex.org/W2894085769",
+    "https://openalex.org/W2901410465",
+    "https://openalex.org/W2904739363",
+    "https://openalex.org/W2912720935",
+    "https://openalex.org/W2950671910",
+    "https://openalex.org/W2978703416",
+    "https://openalex.org/W2982164725",
+    "https://openalex.org/W3157198147",
+    "https://openalex.org/W4240006320",
+    "https://openalex.org/W4240356230",
+    "https://openalex.org/W4391044327",
+    "https://openalex.org/W757044200"
+  ]
+}

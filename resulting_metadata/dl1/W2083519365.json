@@ -1,0 +1,51 @@
+{
+  "id": "https://openalex.org/W2083519365",
+  "title": "Predicting the Response of Populations to Environmental Change",
+  "abstract": "When subject to long—term directional environmental perturbations, changes in population densities depend on the positive and negative feedbacks operating through interactions within and among species in a community. This paper develops techniques to predict the long—term responses of population densities to environmental changes using data on short—term population fluctuations driven by short—term environmental variability. In addition to giving quantitative predictions, the techniques also reveal how different qualitative patterns of species interactions either buffer or accentuate population responses to environmental trends. All of the predictions are based on regression coefficients extracted from time series data, and they can therefore be applied with a minimum of mathematical and statistical gymnastics.",
+  "authors": [
+    {
+      "name": "Anthony R. Ives"
+    }
+  ],
+  "publication_year": 1995,
+  "cited_by_count": 189,
+  "primary_topic": "Ecology and Vegetation Dynamics Studies",
+  "subfield_topic": "Nature and Landscape Conservation",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1505542987",
+    "https://openalex.org/W1565689223",
+    "https://openalex.org/W1636410740",
+    "https://openalex.org/W1964915882",
+    "https://openalex.org/W1965020693",
+    "https://openalex.org/W1969027200",
+    "https://openalex.org/W1978137995",
+    "https://openalex.org/W1983237122",
+    "https://openalex.org/W1988997784",
+    "https://openalex.org/W1992806469",
+    "https://openalex.org/W2008019499",
+    "https://openalex.org/W2008968713",
+    "https://openalex.org/W2010981035",
+    "https://openalex.org/W2016975098",
+    "https://openalex.org/W2024882325",
+    "https://openalex.org/W2033665301",
+    "https://openalex.org/W2041266146",
+    "https://openalex.org/W2041357136",
+    "https://openalex.org/W2054637019",
+    "https://openalex.org/W2061448580",
+    "https://openalex.org/W2078387249",
+    "https://openalex.org/W2083465547",
+    "https://openalex.org/W2086053402",
+    "https://openalex.org/W2094687535",
+    "https://openalex.org/W2138132363",
+    "https://openalex.org/W2140098222",
+    "https://openalex.org/W2141552878",
+    "https://openalex.org/W2149049530",
+    "https://openalex.org/W2168467282",
+    "https://openalex.org/W2322414476",
+    "https://openalex.org/W2323804128",
+    "https://openalex.org/W2590327120",
+    "https://openalex.org/W2984191933"
+  ]
+}

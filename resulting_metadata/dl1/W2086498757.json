@@ -1,0 +1,117 @@
+{
+  "id": "https://openalex.org/W2086498757",
+  "title": "Modeling multiple ecosystem services, biodiversity conservation, commodity production, and tradeoffs at landscape scales",
+  "abstract": "Nature provides a wide range of benefits to people. There is increasing consensus about the importance of incorporating these “ecosystem services” into resource management decisions, but quantifying the levels and values of these services has proven difficult. We use a spatially explicit modeling tool, Integrated Valuation of Ecosystem Services and Tradeoffs (InVEST), to predict changes in ecosystem services, biodiversity conservation, and commodity production levels. We apply InVEST to stakeholder‐defined scenarios of land‐use/land‐cover change in the Willamette Basin, Oregon. We found that scenarios that received high scores for a variety of ecosystem services also had high scores for biodiversity, suggesting there is little tradeoff between biodiversity conservation and ecosystem services. Scenarios involving more development had higher commodity production values, but lower levels of biodiversity conservation and ecosystem services. However, including payments for carbon sequestration alleviates this tradeoff. Quantifying ecosystem services in a spatially explicit manner, and analyzing tradeoffs between them, can help to make natural resource decisions more effective, efficient, and defensible.",
+  "authors": [
+    {
+      "name": "Erik Nelson"
+    },
+    {
+      "name": "Guillermo Mendoza"
+    },
+    {
+      "name": "James Regetz"
+    },
+    {
+      "name": "Stephen Polasky"
+    },
+    {
+      "name": "Heather Tallis"
+    },
+    {
+      "name": "DRichard Cameron"
+    },
+    {
+      "name": "Kai M. A. Chan"
+    },
+    {
+      "name": "Gretchen C. Daily"
+    },
+    {
+      "name": "Joshua Goldstein"
+    },
+    {
+      "name": "Peter Kareiva"
+    },
+    {
+      "name": "Eric V. Lonsdorf"
+    },
+    {
+      "name": "Robin Naidoo"
+    },
+    {
+      "name": "Taylor H. Ricketts"
+    },
+    {
+      "name": "M. Rebecca Shaw"
+    }
+  ],
+  "publication_year": 2009,
+  "cited_by_count": 2230,
+  "primary_topic": "Economic and Environmental Valuation",
+  "subfield_topic": "Economics and Econometrics",
+  "field_topic": "Economics, Econometrics and Finance",
+  "domain_topic": "Social Sciences",
+  "referenced_works": [
+    "https://openalex.org/W128498988",
+    "https://openalex.org/W1490476406",
+    "https://openalex.org/W1513485831",
+    "https://openalex.org/W1519637993",
+    "https://openalex.org/W1533809201",
+    "https://openalex.org/W1596061762",
+    "https://openalex.org/W1728792544",
+    "https://openalex.org/W1966547652",
+    "https://openalex.org/W1975696768",
+    "https://openalex.org/W1981502333",
+    "https://openalex.org/W1983977858",
+    "https://openalex.org/W1997049619",
+    "https://openalex.org/W2003605835",
+    "https://openalex.org/W2007788522",
+    "https://openalex.org/W2020096766",
+    "https://openalex.org/W2023906603",
+    "https://openalex.org/W2037845267",
+    "https://openalex.org/W2049861921",
+    "https://openalex.org/W2055306644",
+    "https://openalex.org/W2057432150",
+    "https://openalex.org/W2061803529",
+    "https://openalex.org/W2063021237",
+    "https://openalex.org/W2063681265",
+    "https://openalex.org/W2064475635",
+    "https://openalex.org/W2066871295",
+    "https://openalex.org/W2071247382",
+    "https://openalex.org/W2075845155",
+    "https://openalex.org/W2080107303",
+    "https://openalex.org/W2083521896",
+    "https://openalex.org/W2096812063",
+    "https://openalex.org/W2098259793",
+    "https://openalex.org/W2099737130",
+    "https://openalex.org/W2100306352",
+    "https://openalex.org/W2108173127",
+    "https://openalex.org/W2109202456",
+    "https://openalex.org/W2116215912",
+    "https://openalex.org/W2118705368",
+    "https://openalex.org/W2123810646",
+    "https://openalex.org/W2125288676",
+    "https://openalex.org/W2126507922",
+    "https://openalex.org/W2130989460",
+    "https://openalex.org/W2131782538",
+    "https://openalex.org/W2132101248",
+    "https://openalex.org/W2134939504",
+    "https://openalex.org/W2139362435",
+    "https://openalex.org/W2139765443",
+    "https://openalex.org/W2149089374",
+    "https://openalex.org/W2152881839",
+    "https://openalex.org/W2155720867",
+    "https://openalex.org/W2157638901",
+    "https://openalex.org/W2162171832",
+    "https://openalex.org/W2180370185",
+    "https://openalex.org/W2245487528",
+    "https://openalex.org/W2525163994",
+    "https://openalex.org/W2746485780",
+    "https://openalex.org/W2773365185",
+    "https://openalex.org/W3124498559",
+    "https://openalex.org/W4243814094",
+    "https://openalex.org/W55057057",
+    "https://openalex.org/W633793818"
+  ]
+}

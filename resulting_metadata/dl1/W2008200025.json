@@ -1,0 +1,58 @@
+{
+  "id": "https://openalex.org/W2008200025",
+  "title": "Positive interactions in communities",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Mark D. Bertness"
+    },
+    {
+      "name": "Ragan M. Callaway"
+    }
+  ],
+  "publication_year": 1994,
+  "cited_by_count": 3551,
+  "primary_topic": "Plant and animal studies",
+  "subfield_topic": "Ecology, Evolution, Behavior and Systematics",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1967821679",
+    "https://openalex.org/W1981826379",
+    "https://openalex.org/W1998245410",
+    "https://openalex.org/W2001001249",
+    "https://openalex.org/W2007568618",
+    "https://openalex.org/W2028349528",
+    "https://openalex.org/W2030382730",
+    "https://openalex.org/W2037611159",
+    "https://openalex.org/W2043806900",
+    "https://openalex.org/W2047367811",
+    "https://openalex.org/W2052118511",
+    "https://openalex.org/W2057127727",
+    "https://openalex.org/W2060665028",
+    "https://openalex.org/W2064242117",
+    "https://openalex.org/W2064346432",
+    "https://openalex.org/W2072867685",
+    "https://openalex.org/W2081732547",
+    "https://openalex.org/W2086053402",
+    "https://openalex.org/W2086921721",
+    "https://openalex.org/W2091818139",
+    "https://openalex.org/W2094216431",
+    "https://openalex.org/W2102510200",
+    "https://openalex.org/W2128569550",
+    "https://openalex.org/W2132609597",
+    "https://openalex.org/W2134213690",
+    "https://openalex.org/W2144733420",
+    "https://openalex.org/W2146897699",
+    "https://openalex.org/W2147960962",
+    "https://openalex.org/W2157258388",
+    "https://openalex.org/W2232718524",
+    "https://openalex.org/W2275853531",
+    "https://openalex.org/W2276494761",
+    "https://openalex.org/W2318146960",
+    "https://openalex.org/W2335728124",
+    "https://openalex.org/W3025136633",
+    "https://openalex.org/W4233703666",
+    "https://openalex.org/W4245756022"
+  ]
+}

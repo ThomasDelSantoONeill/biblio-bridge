@@ -1,0 +1,60 @@
+{
+  "id": "https://openalex.org/W2015721756",
+  "title": "Effects of predatorprey interactions and adaptive change on sustainable yield",
+  "abstract": "We explore the effects on population size and yield of different levels of harvesting of a predator in a predatorprey system. We consider the consequences of adaptive change in the predator's foraging time (or effort) and feedback control of fishing effort. The predator may increase in population size with increasing fishing effort, either when the prey is characterized by a positive effect of its own population size on its own growth rate or when the prey is overexploited by the predator. The predator abundance at which the sustainable yield is maximized can be larger than the abundance without fishing. The effort that achieves maximum sustainable yield and the effort that maximizes predator abundance can both be close to the effort at which the stock collapses. Feedback control in the response to predator abundance may fail to achieve the desired abundance of the target stock or its prey even if the fishing effort is well controlled. These results suggest that developing policies for exploiting adaptive predator species in potentially cycling systems cannot be based on the stable single-species models often used in fisheries management.",
+  "authors": [
+    {
+      "name": "Hiroyuki Matsuda"
+    },
+    {
+      "name": "Peter A. Abrams"
+    }
+  ],
+  "publication_year": 2004,
+  "cited_by_count": 49,
+  "primary_topic": "Mathematical and Theoretical Epidemiology and Ecology Models",
+  "subfield_topic": "Public Health, Environmental and Occupational Health",
+  "field_topic": "Medicine",
+  "domain_topic": "Health Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1514623197",
+    "https://openalex.org/W1562539700",
+    "https://openalex.org/W1589375716",
+    "https://openalex.org/W1594116563",
+    "https://openalex.org/W1964853788",
+    "https://openalex.org/W1976840387",
+    "https://openalex.org/W1981520550",
+    "https://openalex.org/W1988201445",
+    "https://openalex.org/W1988239875",
+    "https://openalex.org/W1990670209",
+    "https://openalex.org/W1992808937",
+    "https://openalex.org/W2002882282",
+    "https://openalex.org/W2003647390",
+    "https://openalex.org/W2012325732",
+    "https://openalex.org/W2024463869",
+    "https://openalex.org/W2030898595",
+    "https://openalex.org/W2042464037",
+    "https://openalex.org/W2044708702",
+    "https://openalex.org/W2054297660",
+    "https://openalex.org/W2057950679",
+    "https://openalex.org/W2061154665",
+    "https://openalex.org/W2088865141",
+    "https://openalex.org/W2088992723",
+    "https://openalex.org/W2093566571",
+    "https://openalex.org/W2093745521",
+    "https://openalex.org/W2097498947",
+    "https://openalex.org/W2097743726",
+    "https://openalex.org/W2101369997",
+    "https://openalex.org/W2104037602",
+    "https://openalex.org/W2111673492",
+    "https://openalex.org/W2143245964",
+    "https://openalex.org/W2146746507",
+    "https://openalex.org/W2165111556",
+    "https://openalex.org/W2167875938",
+    "https://openalex.org/W2240242151",
+    "https://openalex.org/W2326310646",
+    "https://openalex.org/W2335656288",
+    "https://openalex.org/W4237015956",
+    "https://openalex.org/W4255376369"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "https://openalex.org/W1538380038",
+  "title": "Setting Realistic Recovery Targets for Two Interacting Endangered Species, Sea Otter and Northern Abalone",
+  "abstract": "Failure to account for interactions between endangered species may lead to unexpected population dynamics, inefficient management strategies, waste of scarce resources, and, at worst, increased extinction risk. The importance of species interactions is undisputed, yet recovery targets generally do not account for such interactions. This shortcoming is a consequence of species-centered legislation, but also of uncertainty surrounding the dynamics of species interactions and the complexity of modeling such interactions. The northern sea otter (Enhydra lutris kenyoni) and one of its preferred prey, northern abalone (Haliotis kamtschatkana), are endangered species for which recovery strategies have been developed without consideration of their strong predator-prey interactions. Using simulation-based optimization procedures from artificial intelligence, namely reinforcement learning and stochastic dynamic programming, we combined sea otter and northern abalone population models with functional-response models and examined how different management actions affect population dynamics and the likelihood of achieving recovery targets for each species through time. Recovery targets for these interacting species were difficult to achieve simultaneously in the absence of management. Although sea otters were predicted to recover, achieving abalone recovery targets failed even when threats to abalone such as predation and poaching were reduced. A management strategy entailing a 50% reduction in the poaching of northern abalone was a minimum requirement to reach short-term recovery goals for northern abalone when sea otters were present. Removing sea otters had a marginally positive effect on the abalone population but only when we assumed a functional response with strong predation pressure. Our optimization method could be applied more generally to any interacting threatened or invasive species for which there are multiple conservation objectives.",
+  "authors": [
+    {
+      "name": "Iadine Chadès"
+    },
+    {
+      "name": "Janelle M. R. Curtis"
+    },
+    {
+      "name": "Tara G. Martin"
+    }
+  ],
+  "publication_year": 2012,
+  "cited_by_count": 58,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1010779",
+    "https://openalex.org/W1499196050",
+    "https://openalex.org/W1598539338",
+    "https://openalex.org/W1862929095",
+    "https://openalex.org/W1897405904",
+    "https://openalex.org/W1966531449",
+    "https://openalex.org/W1979126271",
+    "https://openalex.org/W1983960337",
+    "https://openalex.org/W1989031074",
+    "https://openalex.org/W2001383044",
+    "https://openalex.org/W2014101946",
+    "https://openalex.org/W2017861185",
+    "https://openalex.org/W2034338612",
+    "https://openalex.org/W2039079315",
+    "https://openalex.org/W2042088616",
+    "https://openalex.org/W2044735587",
+    "https://openalex.org/W2053424262",
+    "https://openalex.org/W2068014951",
+    "https://openalex.org/W2086426010",
+    "https://openalex.org/W2098384110",
+    "https://openalex.org/W2104474860",
+    "https://openalex.org/W2106261710",
+    "https://openalex.org/W2115571765",
+    "https://openalex.org/W2121863487",
+    "https://openalex.org/W2129750939",
+    "https://openalex.org/W2131915744",
+    "https://openalex.org/W2132488095",
+    "https://openalex.org/W2133434930",
+    "https://openalex.org/W2140024126",
+    "https://openalex.org/W2140031662",
+    "https://openalex.org/W2140213067",
+    "https://openalex.org/W2141898766",
+    "https://openalex.org/W2145487889",
+    "https://openalex.org/W2147458403",
+    "https://openalex.org/W2175427911",
+    "https://openalex.org/W2284189120",
+    "https://openalex.org/W2588652354",
+    "https://openalex.org/W2744711048",
+    "https://openalex.org/W4214717370",
+    "https://openalex.org/W4214863912"
+  ]
+}

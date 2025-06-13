@@ -1,0 +1,79 @@
+{
+  "id": "https://openalex.org/W2553744917",
+  "title": "Defining Ecosystem Assets for Natural Capital Accounting",
+  "abstract": "In natural capital accounting, ecosystems are assets that provide ecosystem services to people. Assets can be measured using both physical and monetary units. In the international System of Environmental-Economic Accounting, ecosystem assets are generally valued on the basis of the net present value of the expected flow of ecosystem services. In this paper we argue that several additional conceptualisations of ecosystem assets are needed to understand ecosystems as assets, in support of ecosystem assessments, ecosystem accounting and ecosystem management. In particular, we define ecosystems' capacity and capability to supply ecosystem services, as well as the potential supply of ecosystem services. Capacity relates to sustainable use levels of multiple ecosystem services, capability involves prioritising the use of one ecosystem service over a basket of services, and potential supply considers the ability of ecosystems to generate services regardless of demand for these services. We ground our definitions in the ecosystem services and accounting literature, and illustrate and compare the concepts of flow, capacity, capability, and potential supply with a range of conceptual and real-world examples drawn from case studies in Europe and North America. Our paper contributes to the development of measurement frameworks for natural capital to support environmental accounting and other assessment frameworks.",
+  "authors": [
+    {
+      "name": "Lars Hein"
+    },
+    {
+      "name": "Kenneth J. Bagstad"
+    },
+    {
+      "name": "Bram Edens"
+    },
+    {
+      "name": "Carl Obst"
+    },
+    {
+      "name": "Rixt de Jong"
+    },
+    {
+      "name": "J.P. Lesschen"
+    }
+  ],
+  "publication_year": 2016,
+  "cited_by_count": 101,
+  "primary_topic": "Land Use and Ecosystem Services",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1508886745",
+    "https://openalex.org/W1540250989",
+    "https://openalex.org/W1579132009",
+    "https://openalex.org/W1591536087",
+    "https://openalex.org/W1972494005",
+    "https://openalex.org/W1990267258",
+    "https://openalex.org/W2000476414",
+    "https://openalex.org/W2002194583",
+    "https://openalex.org/W2005099671",
+    "https://openalex.org/W2006970256",
+    "https://openalex.org/W2007218223",
+    "https://openalex.org/W2008783538",
+    "https://openalex.org/W2008877450",
+    "https://openalex.org/W2012837863",
+    "https://openalex.org/W2020153874",
+    "https://openalex.org/W2029732231",
+    "https://openalex.org/W2046514553",
+    "https://openalex.org/W2061942153",
+    "https://openalex.org/W2067155004",
+    "https://openalex.org/W2083919264",
+    "https://openalex.org/W2095818013",
+    "https://openalex.org/W2097686432",
+    "https://openalex.org/W2103809536",
+    "https://openalex.org/W2120716973",
+    "https://openalex.org/W2123610169",
+    "https://openalex.org/W2139362435",
+    "https://openalex.org/W2152245073",
+    "https://openalex.org/W2157154835",
+    "https://openalex.org/W2165338797",
+    "https://openalex.org/W2169293504",
+    "https://openalex.org/W2169715400",
+    "https://openalex.org/W2201146008",
+    "https://openalex.org/W221961528",
+    "https://openalex.org/W2265550095",
+    "https://openalex.org/W2317304769",
+    "https://openalex.org/W2317947913",
+    "https://openalex.org/W2322480672",
+    "https://openalex.org/W2549613929",
+    "https://openalex.org/W2613452697",
+    "https://openalex.org/W2751439612",
+    "https://openalex.org/W291102383",
+    "https://openalex.org/W2948270237",
+    "https://openalex.org/W301565149",
+    "https://openalex.org/W3121503710",
+    "https://openalex.org/W3124677426",
+    "https://openalex.org/W622162370"
+  ]
+}

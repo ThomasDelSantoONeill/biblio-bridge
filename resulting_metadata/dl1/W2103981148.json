@@ -1,0 +1,34 @@
+{
+  "id": "https://openalex.org/W2103981148",
+  "title": "How easy is local search?",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "David S. Johnson"
+    },
+    {
+      "name": "Christos H. Papadimitriou"
+    },
+    {
+      "name": "Mihalis Yannakakis"
+    }
+  ],
+  "publication_year": 1988,
+  "cited_by_count": 717,
+  "primary_topic": "Advanced Graph Theory Research",
+  "subfield_topic": "Computational Theory and Mathematics",
+  "field_topic": "Computer Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1982347904",
+    "https://openalex.org/W2011039300",
+    "https://openalex.org/W2024060531",
+    "https://openalex.org/W2042986967",
+    "https://openalex.org/W2053913299",
+    "https://openalex.org/W2069323107",
+    "https://openalex.org/W2089929819",
+    "https://openalex.org/W2161455936",
+    "https://openalex.org/W3148725352",
+    "https://openalex.org/W95841981"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "https://openalex.org/W2166440264",
+  "title": "OSPAR Ecological Quality Objectives: the utility of health indicators for the North Sea",
+  "abstract": "Abstract Heslenfeld, P., and Enserink, E. L. 2008. OSPAR Ecological Quality Objectives: the utility of health indicators for the North Sea. – ICES Journal of Marine Science, 65: 1392–1397. Committed to the ecosystem approach to management, OSPAR has accumulated 15 years of experience in developing a conceptual framework for ecological indicators and objectives, and in applying the framework to the North Sea as a test case. These Ecological Quality Objectives (EcoQOs) have become a model for the implementation of the new European Marine Strategy Framework Directive. We describe the history of EcoQO development, its current status, and future needs. We also present our positive and negative experiences in developing the approach, and conclude that regional sea conventions and marine research institutes in Europe should join forces to accelerate the development of ecosystem indicators and objectives, using existing concepts.",
+  "authors": [
+    {
+      "name": "Peter Heslenfeld"
+    },
+    {
+      "name": "E. Lisette Enserink"
+    }
+  ],
+  "publication_year": 2008,
+  "cited_by_count": 67,
+  "primary_topic": "Environmental and Social Impact Assessments",
+  "subfield_topic": "Management, Monitoring, Policy and Law",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1426379968",
+    "https://openalex.org/W2154954233",
+    "https://openalex.org/W3206086938"
+  ]
+}

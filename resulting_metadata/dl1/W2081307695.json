@@ -1,0 +1,36 @@
+{
+  "id": "https://openalex.org/W2081307695",
+  "title": "Global Stability and Multiple Domains of Attraction in Ecological Systems",
+  "abstract": "We investigate the global stability properties of MacArthur's (1972) differential equations describing the dynamics of n resources and m consumer species. As long as an interior equilibrium point is feasible for pure exploitation systems, it is globally stable. If the interior equilibrium point is unfeasible, there will be only one globally stable subset of species from the total species pool. Under most parameter conditions one fixed equilibrium point will be globally stable. Under very rare conditions, a boundary species subset may exist at a set of neutrally stable equilibrium points. When interspecific interference and/or mutualism are also present the above results may not hold, unless these interactions are directed and balanced in a very precise fashion. Feasible equilibrium points may be unstable and multiple domains of attraction may exist. That is, there may be a number of alternative stable equilibrium communities which may develop in a given area and the final outcome may depend solely on historical factors such as the sequences and numbers in which each species colonizes.",
+  "authors": [
+    {
+      "name": "Ted J. Case"
+    },
+    {
+      "name": "Richard G. Casten"
+    }
+  ],
+  "publication_year": 1979,
+  "cited_by_count": 91,
+  "primary_topic": "Mathematical and Theoretical Epidemiology and Ecology Models",
+  "subfield_topic": "Public Health, Environmental and Occupational Health",
+  "field_topic": "Medicine",
+  "domain_topic": "Health Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1998413330",
+    "https://openalex.org/W2012590521",
+    "https://openalex.org/W2016290559",
+    "https://openalex.org/W2019404680",
+    "https://openalex.org/W2020264308",
+    "https://openalex.org/W2045166891",
+    "https://openalex.org/W2053679599",
+    "https://openalex.org/W2053861007",
+    "https://openalex.org/W2061011338",
+    "https://openalex.org/W2061867342",
+    "https://openalex.org/W2068537152",
+    "https://openalex.org/W2077981012",
+    "https://openalex.org/W2327161309",
+    "https://openalex.org/W3023996888",
+    "https://openalex.org/W4299993032"
+  ]
+}

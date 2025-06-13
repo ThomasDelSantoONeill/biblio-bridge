@@ -1,0 +1,26 @@
+{
+  "id": "https://openalex.org/W2067813367",
+  "title": "Niche Overlap as a Function of Environmental Variability",
+  "abstract": "The relationship between environmental variability and niche overlap is studied for a class of model biological communities in which several species compete on a one-dimensional continuum of resources, e.g., food size. In a strictly unvarying (deterministic) environment, there is in general no limit to the degree of overlap, short of complete congruence. However, in a fluctuating (stochastic) environment, the average food sizes for species adjacent on the resource spectrum must differ by an amount roughly equal to the standard deviation in the food size taken by either individual species. This mathematical result emerges in a nonobvious yet robust way for environmental fluctuations whose variance relative to their mean ranges from around 0.01% to around 30%. In short, there is an effective limit to niche overlap in the real world, and this limit is insensitive to the degree of environmental fluctuation, unless it be very severe. Recent field work, particularly on bird guilds, seems in harmony with the model's conclusion.",
+  "authors": [
+    {
+      "name": "Robert M. May"
+    },
+    {
+      "name": "Robert H. Mac Arthur"
+    }
+  ],
+  "publication_year": 1972,
+  "cited_by_count": 685,
+  "primary_topic": "Evolutionary Game Theory and Cooperation",
+  "subfield_topic": "Sociology and Political Science",
+  "field_topic": "Social Sciences",
+  "domain_topic": "Social Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1536997931",
+    "https://openalex.org/W1734689372",
+    "https://openalex.org/W2073993600",
+    "https://openalex.org/W4212846056",
+    "https://openalex.org/W4297784507"
+  ]
+}

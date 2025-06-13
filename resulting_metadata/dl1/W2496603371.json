@@ -1,0 +1,162 @@
+{
+  "id": "https://openalex.org/W2496603371",
+  "title": "Harvest control rules in modern fisheries management",
+  "abstract": "Abstract Harvest control rules have become an important tool in modern fisheries management, and are increasingly adopted to provide continuity in management practices, to deal with uncertainty and ecosystem considerations, and to relieve management decisions from short-term political pressure. We provide the conceptual and institutional background for harvest control rules, a discussion of the structure of fisheries management, and brief introductions to harvest control rules in a selection of present day cases. The cases demonstrate that harvest control rules take different forms in different settings, yet cover only a subset of the full policy space. We conclude with views on harvest control rules in future fisheries management, both in terms of ideal and realistic developments. One major challenge for future fisheries management is closing the gap between ideas and practice.",
+  "authors": [
+    {
+      "name": "Sturla F. Kvamsdal"
+    },
+    {
+      "name": "Arne Eide"
+    },
+    {
+      "name": "Nils-Arne Ekerhovd"
+    },
+    {
+      "name": "Katja Enberg"
+    },
+    {
+      "name": "Asta Gudmundsdóttir"
+    },
+    {
+      "name": "Alf Håkon Hoel"
+    },
+    {
+      "name": "Katherine E. Mills"
+    },
+    {
+      "name": "Franz J. Mueter"
+    },
+    {
+      "name": "Lars Ravn-Jonsen"
+    },
+    {
+      "name": "Leif Kristoffer Sandal"
+    },
+    {
+      "name": "Jan Erik Stiansen"
+    },
+    {
+      "name": "Niels Vestergaard"
+    }
+  ],
+  "publication_year": 2016,
+  "cited_by_count": 91,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W101398530",
+    "https://openalex.org/W137111642",
+    "https://openalex.org/W1492835558",
+    "https://openalex.org/W1528915039",
+    "https://openalex.org/W1540250989",
+    "https://openalex.org/W1545775183",
+    "https://openalex.org/W1560135343",
+    "https://openalex.org/W1572629122",
+    "https://openalex.org/W161352331",
+    "https://openalex.org/W1716832772",
+    "https://openalex.org/W1824164864",
+    "https://openalex.org/W1900761131",
+    "https://openalex.org/W1968989424",
+    "https://openalex.org/W1971597512",
+    "https://openalex.org/W1972601195",
+    "https://openalex.org/W1980700305",
+    "https://openalex.org/W1982038461",
+    "https://openalex.org/W1983301590",
+    "https://openalex.org/W1995099172",
+    "https://openalex.org/W1998645411",
+    "https://openalex.org/W2003512581",
+    "https://openalex.org/W2005735695",
+    "https://openalex.org/W2007263482",
+    "https://openalex.org/W2009815489",
+    "https://openalex.org/W2011668485",
+    "https://openalex.org/W2021308021",
+    "https://openalex.org/W2025732021",
+    "https://openalex.org/W2031672097",
+    "https://openalex.org/W2031966314",
+    "https://openalex.org/W2036114773",
+    "https://openalex.org/W2036539150",
+    "https://openalex.org/W2038512291",
+    "https://openalex.org/W2041031482",
+    "https://openalex.org/W2050154328",
+    "https://openalex.org/W2051208206",
+    "https://openalex.org/W2052850964",
+    "https://openalex.org/W2069941360",
+    "https://openalex.org/W2075388586",
+    "https://openalex.org/W2078597194",
+    "https://openalex.org/W2082873912",
+    "https://openalex.org/W2082936408",
+    "https://openalex.org/W2084330510",
+    "https://openalex.org/W2086420833",
+    "https://openalex.org/W2087155849",
+    "https://openalex.org/W2091930534",
+    "https://openalex.org/W2093650358",
+    "https://openalex.org/W2102849960",
+    "https://openalex.org/W2104743785",
+    "https://openalex.org/W2105755511",
+    "https://openalex.org/W2106169451",
+    "https://openalex.org/W2109703017",
+    "https://openalex.org/W2111064727",
+    "https://openalex.org/W2115997218",
+    "https://openalex.org/W2117035770",
+    "https://openalex.org/W2118472309",
+    "https://openalex.org/W2120502741",
+    "https://openalex.org/W2124782363",
+    "https://openalex.org/W2124908309",
+    "https://openalex.org/W2126654525",
+    "https://openalex.org/W2130170186",
+    "https://openalex.org/W2130339099",
+    "https://openalex.org/W2136652735",
+    "https://openalex.org/W2136739309",
+    "https://openalex.org/W2142549231",
+    "https://openalex.org/W2143424939",
+    "https://openalex.org/W2145424033",
+    "https://openalex.org/W2146726559",
+    "https://openalex.org/W2149567119",
+    "https://openalex.org/W2152006492",
+    "https://openalex.org/W2153002539",
+    "https://openalex.org/W2156523992",
+    "https://openalex.org/W2156709416",
+    "https://openalex.org/W2159908133",
+    "https://openalex.org/W2160799324",
+    "https://openalex.org/W2162721197",
+    "https://openalex.org/W2162910499",
+    "https://openalex.org/W2165306888",
+    "https://openalex.org/W2166914480",
+    "https://openalex.org/W2167950101",
+    "https://openalex.org/W2168438691",
+    "https://openalex.org/W2169149537",
+    "https://openalex.org/W2171706715",
+    "https://openalex.org/W2172802867",
+    "https://openalex.org/W2214480057",
+    "https://openalex.org/W2226396244",
+    "https://openalex.org/W2253240207",
+    "https://openalex.org/W2253352649",
+    "https://openalex.org/W2301075698",
+    "https://openalex.org/W2317543633",
+    "https://openalex.org/W2334359902",
+    "https://openalex.org/W2340698615",
+    "https://openalex.org/W2466226602",
+    "https://openalex.org/W2494773673",
+    "https://openalex.org/W2632945277",
+    "https://openalex.org/W2662310687",
+    "https://openalex.org/W2746012558",
+    "https://openalex.org/W2914252064",
+    "https://openalex.org/W2921275323",
+    "https://openalex.org/W2945493112",
+    "https://openalex.org/W2949175816",
+    "https://openalex.org/W3025349344",
+    "https://openalex.org/W3088713371",
+    "https://openalex.org/W3122788023",
+    "https://openalex.org/W330247109",
+    "https://openalex.org/W382509713",
+    "https://openalex.org/W4233654598",
+    "https://openalex.org/W4236874811",
+    "https://openalex.org/W4240457840",
+    "https://openalex.org/W4252115095",
+    "https://openalex.org/W4299870202",
+    "https://openalex.org/W580209419"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "https://openalex.org/W1521037391",
+  "title": "MULTISPECIES AND SINGLE‐SPECIES MODELS OF FISH POPULATION DYNAMICS: COMPARING PARAMETER ESTIMATES",
+  "abstract": "Abstract Population features inferred from single‐species, age‐structured models are compared to those inferred from a multispecies, age‐structured model that includes predator‐prey interactions among three commercially harvested fish species—walleye pollock, Atka mackerel, and Pacific cod—on the Aleutian Shelf, Alaska. The multispecies framework treats the single‐species models and data as a special case of the multispecies model and data. The same data from fisheries and surveys are used to estimate model parameters for both single‐species and multispecies configurations of the model. Additionally, data from stomach samples and predator rations are used to estimate the parameters of the multispecies model. One form of the feeding functional response, predator pre‐emption, was selected using AIC from seven alternative models for how the predation rate changes with the densities of prey and possibly other predators. Differences in estimated population dynamics and productivity between the multispecies and single‐species models were observed. The multispecies model estimated lower mackerel population sizes from 1964–2003 than the single‐species model, while the spawning biomass of pollock was estimated to have declined more than three times faster since 1964 by the multispecies model. The variances around the estimates of spawning biomass were smaller for mackerel and larger for pollock in the multispecies model compared to the single‐species model.",
+  "authors": [
+    {
+      "name": "Douglas Kinzey"
+    },
+    {
+      "name": "André E. Punt"
+    }
+  ],
+  "publication_year": 2009,
+  "cited_by_count": 74,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1490229695",
+    "https://openalex.org/W1543409689",
+    "https://openalex.org/W1975250828",
+    "https://openalex.org/W1975933594",
+    "https://openalex.org/W1978655427",
+    "https://openalex.org/W1990566709",
+    "https://openalex.org/W1991560151",
+    "https://openalex.org/W1993730300",
+    "https://openalex.org/W1993920411",
+    "https://openalex.org/W2009334420",
+    "https://openalex.org/W2019680662",
+    "https://openalex.org/W2022832113",
+    "https://openalex.org/W2037107284",
+    "https://openalex.org/W2050441977",
+    "https://openalex.org/W2059398300",
+    "https://openalex.org/W2061879675",
+    "https://openalex.org/W2063307896",
+    "https://openalex.org/W2065747561",
+    "https://openalex.org/W2070564523",
+    "https://openalex.org/W2077959816",
+    "https://openalex.org/W2082119996",
+    "https://openalex.org/W2085140823",
+    "https://openalex.org/W2102849960",
+    "https://openalex.org/W2109605050",
+    "https://openalex.org/W2113106927",
+    "https://openalex.org/W2123105131",
+    "https://openalex.org/W2129758451",
+    "https://openalex.org/W2132270486",
+    "https://openalex.org/W2150203206",
+    "https://openalex.org/W2155752038",
+    "https://openalex.org/W2319252967",
+    "https://openalex.org/W2379509210",
+    "https://openalex.org/W2479378631",
+    "https://openalex.org/W2509838528",
+    "https://openalex.org/W2565102868",
+    "https://openalex.org/W2766432511",
+    "https://openalex.org/W2909080386",
+    "https://openalex.org/W3150234440",
+    "https://openalex.org/W4245997023",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W4388323041"
+  ]
+}

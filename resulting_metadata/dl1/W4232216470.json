@@ -1,0 +1,20 @@
+{
+  "id": "https://openalex.org/W4232216470",
+  "title": "Theoretical Concepts and Empirical Approaches to Measuring Interaction Strength",
+  "abstract": "Evaluating the strength of interactions among species is an important step in understanding the structure of natural communities and predicting how they will respond to changes in the biotic environment. Where feasible, accurate characterization of interaction strength can shift the theory of multispecies communities from identifying the vast range of possibilities to isolating the most likely possibilities. To derive generality in our understanding of interaction strengths, however, they must be placed within a unified framework, a framework that can be applied to empirical situations. In this paper we first identify four different theoretical concepts of interaction strength prevalent in the literature (community matrix, Jacobian matrix, inverse Jacobian, and removal matrix), showing how they are related to each other and how they are derived. We also demonstrate that their behavior is not necessarily concordant; hence it is important to identify clearly which concept of interaction strength is being discussed. Then we evaluate several observational and experimental approaches to estimating interaction strength empirically, highlighting their ties to theory, if any, and the limitations and strengths of each approach. Finally, we apply several techniques to a simulated data set, based on an intertidal community, evaluating both accuracy and logistical ease of these approaches. We find that per capita interaction strength is often the most useful index to measure, that caution must be exercised in interpreting empirical estimates of interaction strength because of equilibrium assumptions and the potential confounding effect of indirect effects, and that concentrating on evaluating the relationship between empirically observed rates of change and species abundances may be a profitable way to proceed.",
+  "authors": [
+    {
+      "name": "Mark S. Laska"
+    },
+    {
+      "name": "J. Timothy Wootton"
+    }
+  ],
+  "publication_year": 1998,
+  "cited_by_count": 24,
+  "primary_topic": "Plant and animal studies",
+  "subfield_topic": "Ecology, Evolution, Behavior and Systematics",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": []
+}

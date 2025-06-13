@@ -1,0 +1,36 @@
+{
+  "id": "https://openalex.org/W54118135",
+  "title": "Optimal Capacity Decisions in a Developing Fishery",
+  "abstract": "The problem of estimating optimal fishing capacity for a developing fishery is discussed, using the methods of Bayesian decision analysis. The results obtained indicate that quite good decisions can often be made on the basis of limited prior information as to fish stock productivity, particularly if a conservative approach allowing for subsequent inceases in capacity is employed.",
+  "authors": [
+    {
+      "name": "Colin Clark"
+    },
+    {
+      "name": "Anthony Charles"
+    },
+    {
+      "name": "J. R. Beddington"
+    },
+    {
+      "name": "Marc Mangel"
+    }
+  ],
+  "publication_year": 1985,
+  "cited_by_count": 38,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1514481054",
+    "https://openalex.org/W1974178642",
+    "https://openalex.org/W1989857238",
+    "https://openalex.org/W2006258746",
+    "https://openalex.org/W2026218441",
+    "https://openalex.org/W2035058341",
+    "https://openalex.org/W2040610797",
+    "https://openalex.org/W2081867175",
+    "https://openalex.org/W2093787874"
+  ]
+}

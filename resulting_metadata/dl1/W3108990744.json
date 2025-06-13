@@ -1,0 +1,99 @@
+{
+  "id": "https://openalex.org/W3108990744",
+  "title": "Ecological Reference Points for Atlantic Menhaden Established Using an Ecosystem Model of Intermediate Complexity",
+  "abstract": "Atlantic menhaden ( Brevoortia tyrannus ) are an important forage fish for many predators, and they also support the largest commercial fishery by weight on the U.S. East Coast. Menhaden management has been working toward ecological reference points (ERPs) that account for menhaden’s role in the ecosystem. The goal of this work was to develop menhaden ERPs using ecosystem models. An existing Ecopath with Ecosim model of the Northwest Atlantic Continental Shelf (NWACS) was reduced in complexity from 61 to 17 species/functional groups. The new NWACS model of intermediate complexity for ecosystems (NWACS-MICE) serves to link the dynamics of menhaden with key managed predators. Striped bass ( Morone saxatilis ) were determined to be most sensitive to menhaden harvest and therefore served as an indicator of ecosystem impacts. ERPs were based on the tradeoff relationship between the equilibrium biomass of striped bass and menhaden fishing mortality ( F ). The ERPs were defined as the menhaden F rates that maintain striped bass at their biomass target and threshold when striped bass are fished at their F target , and all other modeled species were fished at status quo levels. These correspond to an ERP F target of 0.19 and an ERP F threshold of 0.57, which are lower than the single species reference points by 30–40%, but higher than current (2017) menhaden F . The ERPs were then fed back into the age-structured stock assessment model projections to provide information on total allowable catch. The ERPs developed in this study were adopted by the Atlantic menhaden Management Board, marking a shift toward ecosystem-based fishery management for this economically and ecologically important species.",
+  "authors": [
+    {
+      "name": "David Chagaris"
+    },
+    {
+      "name": "Katie Drew"
+    },
+    {
+      "name": "Amy M. Schueller"
+    },
+    {
+      "name": "Matt Cieri"
+    },
+    {
+      "name": "Joana Brito"
+    },
+    {
+      "name": "Andre Buchheister"
+    }
+  ],
+  "publication_year": 2020,
+  "cited_by_count": 47,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1524760816",
+    "https://openalex.org/W1543409689",
+    "https://openalex.org/W163013491",
+    "https://openalex.org/W1872767830",
+    "https://openalex.org/W1909116965",
+    "https://openalex.org/W1934921310",
+    "https://openalex.org/W1980242190",
+    "https://openalex.org/W1980769499",
+    "https://openalex.org/W1990566709",
+    "https://openalex.org/W1995918143",
+    "https://openalex.org/W1997649950",
+    "https://openalex.org/W1999270829",
+    "https://openalex.org/W2011244533",
+    "https://openalex.org/W2016293090",
+    "https://openalex.org/W2017468987",
+    "https://openalex.org/W2035842090",
+    "https://openalex.org/W2044351200",
+    "https://openalex.org/W2054074803",
+    "https://openalex.org/W2056225708",
+    "https://openalex.org/W2059008864",
+    "https://openalex.org/W2061513338",
+    "https://openalex.org/W2061580705",
+    "https://openalex.org/W2084828496",
+    "https://openalex.org/W2086475505",
+    "https://openalex.org/W2089287577",
+    "https://openalex.org/W2089993104",
+    "https://openalex.org/W2099653221",
+    "https://openalex.org/W2104194276",
+    "https://openalex.org/W2105483011",
+    "https://openalex.org/W2111276790",
+    "https://openalex.org/W2129869834",
+    "https://openalex.org/W2140613131",
+    "https://openalex.org/W2142434883",
+    "https://openalex.org/W2144127796",
+    "https://openalex.org/W2145378599",
+    "https://openalex.org/W2149851338",
+    "https://openalex.org/W2152590961",
+    "https://openalex.org/W2169602499",
+    "https://openalex.org/W2170544210",
+    "https://openalex.org/W2170926130",
+    "https://openalex.org/W2170980531",
+    "https://openalex.org/W2226830235",
+    "https://openalex.org/W2286380963",
+    "https://openalex.org/W2300026946",
+    "https://openalex.org/W2339983891",
+    "https://openalex.org/W2374103182",
+    "https://openalex.org/W2467282877",
+    "https://openalex.org/W2488993120",
+    "https://openalex.org/W2600530559",
+    "https://openalex.org/W2613915370",
+    "https://openalex.org/W2736354597",
+    "https://openalex.org/W2739690405",
+    "https://openalex.org/W2744456328",
+    "https://openalex.org/W2781882786",
+    "https://openalex.org/W2790677691",
+    "https://openalex.org/W2845084941",
+    "https://openalex.org/W2880764917",
+    "https://openalex.org/W2885001776",
+    "https://openalex.org/W2887611464",
+    "https://openalex.org/W2887714565",
+    "https://openalex.org/W2887913920",
+    "https://openalex.org/W2894541494",
+    "https://openalex.org/W2898000443",
+    "https://openalex.org/W2898935298",
+    "https://openalex.org/W2901789054",
+    "https://openalex.org/W2932493822"
+  ]
+}

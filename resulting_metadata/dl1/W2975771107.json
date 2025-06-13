@@ -1,0 +1,67 @@
+{
+  "id": "https://openalex.org/W2975771107",
+  "title": "Performance of a state‐space multispecies model: What are the consequences of ignoring predation and process errors in stock assessments?",
+  "abstract": "Abstract Having a realistic representation of ecosystems in fisheries models is important in the context of ecosystem‐based fisheries management (EBFM). While different modelling approaches support EBFM, accounting for trophic interactions and uncertainty in stock dynamics is important for management advice. Multispecies models exist, but are rarely used for assessments. Most stock assessments are single species models and predation is subsumed into natural mortality, which is often an assumed known value. The use of state‐space assessment models, which account for stochasticity in unobserved processes (process errors), is increasing. However, many stocks are managed assuming deterministic processes. Little is known of how ignoring predation and process errors in stock assessment can impact the perception of the stocks and therefore fisheries management. We developed an age‐structured multispecies operating model that simulated data with errors in observations, recruitment and fish abundance. Four estimation models (EMs) that differed according to whether or not they accounted for predation or process errors were fitted to the simulated data. Relative differences between true and predicted outputs were estimated as a measure of bias. Equilibrium unfished biomass was estimated for each model as a proxy reference point. Ignoring predation had the largest impact on stock perception and resulted in large bias in parameters, derived outputs and absolute or relative reference points. Estimating unobserved processes was not sufficient in limiting the bias when natural mortality was misspecified. Ignoring process errors had limited bias but the bias increased when no contrasts existed in fishing mortality over time. Looking solely at likelihood values to choose among models is misleading and predictive ability could be used to prevent selecting models that overfit the data. Synthesis and applications . Ignoring trophic interactions that occur in marine ecosystems induces bias in stock assessment outputs and results in low model predictive ability with subsequently biased reference points. While it may be difficult to estimate natural mortality when no data exist to inform it, stock managers should remember that, if predation is large, assuming a constant mortality over time and/or age could have large consequences on stock perception and reference point estimates and affect resulting management advice.",
+  "authors": [
+    {
+      "name": "Vanessa Trijoulet"
+    },
+    {
+      "name": "Gavin Fay"
+    },
+    {
+      "name": "Timothy J. Miller"
+    }
+  ],
+  "publication_year": 2019,
+  "cited_by_count": 38,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1183577688",
+    "https://openalex.org/W1492835558",
+    "https://openalex.org/W1521037391",
+    "https://openalex.org/W1790462712",
+    "https://openalex.org/W1934921310",
+    "https://openalex.org/W1977765506",
+    "https://openalex.org/W1981412285",
+    "https://openalex.org/W1990566709",
+    "https://openalex.org/W1996111012",
+    "https://openalex.org/W2012571969",
+    "https://openalex.org/W2016293090",
+    "https://openalex.org/W2019727683",
+    "https://openalex.org/W2029204539",
+    "https://openalex.org/W2039524292",
+    "https://openalex.org/W2051208206",
+    "https://openalex.org/W2051806801",
+    "https://openalex.org/W2074243714",
+    "https://openalex.org/W2076803781",
+    "https://openalex.org/W2089993104",
+    "https://openalex.org/W2096205555",
+    "https://openalex.org/W2119726237",
+    "https://openalex.org/W2132270486",
+    "https://openalex.org/W2138829457",
+    "https://openalex.org/W2150844962",
+    "https://openalex.org/W2157348076",
+    "https://openalex.org/W2164657301",
+    "https://openalex.org/W2168175751",
+    "https://openalex.org/W2202282372",
+    "https://openalex.org/W2262133047",
+    "https://openalex.org/W2263268167",
+    "https://openalex.org/W2320624544",
+    "https://openalex.org/W2331305604",
+    "https://openalex.org/W2340895707",
+    "https://openalex.org/W2483519781",
+    "https://openalex.org/W2520338460",
+    "https://openalex.org/W2619837186",
+    "https://openalex.org/W2735154077",
+    "https://openalex.org/W2738126223",
+    "https://openalex.org/W3103300580",
+    "https://openalex.org/W3104804076",
+    "https://openalex.org/W4237377395",
+    "https://openalex.org/W4242320893",
+    "https://openalex.org/W4252115095"
+  ]
+}

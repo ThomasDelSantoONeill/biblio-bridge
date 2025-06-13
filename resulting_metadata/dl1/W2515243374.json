@@ -1,0 +1,56 @@
+{
+  "id": "https://openalex.org/W2515243374",
+  "title": "Ecosystem considerations in Alaska: the value of qualitative assessments",
+  "abstract": "The application of ecosystem considerations, and in particular ecosystem report cards, in federal groundfish fisheries management in Alaska can be described as an ecosystem approach to fisheries management (EAFM). Ecosystem information is provided to managers to establish an ecosystem context within which deliberations of fisheries quota occur. Our goal is to make the case for the need for qualitative ecosystem assessments in EAFM, specifically that qualitative synthesis has advantages worthy to keep a permanent place at the fisheries management table. These advantages include flexibility and speed in responding to and synthesizing new information from a variety of sources. First, we use the development of indicator-based ecosystem report cards as an example of adapting ecosystem information to management needs. Second, we review lessons learned and provide suggestions for best practices for applying EAFM to large and diverse fisheries in multiple marine ecosystems. Adapting ecosystem indicator information to better suit the needs of fisheries managers resulted in succinct report cards that summarize ecosystem trends, complementing more detailed ecosystem information to provide context for EAFM. There were several lessons learned in the process of developing the ecosystem report cards. The selection of indicators for each region was influenced by geography, the extent of scientific knowledge/data, and the particular expertise of the selection teams. Optimizing the opportunity to qualitatively incorporate ecosystem information into management decisions requires a good understanding of the management system in question. We found that frequent dialogue with managers and other stakeholders leads to adaptive products. We believe that there will always be a need for qualitative ecosystem assessment because it allows for rapid incorporation of new ideas and data and unexpected events. As we build modelling and predictive capacity, we will still need qualitative synthesis to capture events outside the bounds of current models and to detect impacts of the unexpected.",
+  "authors": [
+    {
+      "name": "Stephani G. Zador"
+    },
+    {
+      "name": "Kirstin K. Holsman"
+    },
+    {
+      "name": "Kerim Aydin"
+    },
+    {
+      "name": "Sarah Gaichas"
+    }
+  ],
+  "publication_year": 2016,
+  "cited_by_count": 60,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1489430206",
+    "https://openalex.org/W1977598736",
+    "https://openalex.org/W2014042014",
+    "https://openalex.org/W2016293090",
+    "https://openalex.org/W2053055442",
+    "https://openalex.org/W2061580705",
+    "https://openalex.org/W2081656950",
+    "https://openalex.org/W2114364088",
+    "https://openalex.org/W2114503729",
+    "https://openalex.org/W2116422701",
+    "https://openalex.org/W2116502993",
+    "https://openalex.org/W2118463937",
+    "https://openalex.org/W2119726237",
+    "https://openalex.org/W2120830385",
+    "https://openalex.org/W2128735565",
+    "https://openalex.org/W2134155369",
+    "https://openalex.org/W2137523123",
+    "https://openalex.org/W2143120920",
+    "https://openalex.org/W2143282806",
+    "https://openalex.org/W2144872997",
+    "https://openalex.org/W2146726559",
+    "https://openalex.org/W2153087638",
+    "https://openalex.org/W2160792582",
+    "https://openalex.org/W2163492266",
+    "https://openalex.org/W2295687299",
+    "https://openalex.org/W2323846125",
+    "https://openalex.org/W2324965891",
+    "https://openalex.org/W382509713",
+    "https://openalex.org/W4252115095"
+  ]
+}

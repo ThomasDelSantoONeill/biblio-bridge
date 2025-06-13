@@ -1,0 +1,93 @@
+{
+  "id": "https://openalex.org/W2144127796",
+  "title": "Bridging the gap between ecosystem modeling tools and geographic information systems: Driving a food web model with external spatial–temporal data",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Jeroen Steenbeek"
+    },
+    {
+      "name": "Marta Coll"
+    },
+    {
+      "name": "L. Gurney"
+    },
+    {
+      "name": "Frédéric Mélin"
+    },
+    {
+      "name": "Nicolas Hoepffner"
+    },
+    {
+      "name": "Joe Buszowski"
+    },
+    {
+      "name": "Villy Christensen"
+    }
+  ],
+  "publication_year": 2013,
+  "cited_by_count": 102,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W111339836",
+    "https://openalex.org/W114028499",
+    "https://openalex.org/W123618397",
+    "https://openalex.org/W1508666235",
+    "https://openalex.org/W1524760816",
+    "https://openalex.org/W1537618227",
+    "https://openalex.org/W1586937166",
+    "https://openalex.org/W1612424560",
+    "https://openalex.org/W1649645444",
+    "https://openalex.org/W1650460840",
+    "https://openalex.org/W1839952345",
+    "https://openalex.org/W1972763932",
+    "https://openalex.org/W1975128847",
+    "https://openalex.org/W1985561761",
+    "https://openalex.org/W1990566709",
+    "https://openalex.org/W1999642158",
+    "https://openalex.org/W2003647390",
+    "https://openalex.org/W2008520857",
+    "https://openalex.org/W2013305213",
+    "https://openalex.org/W2017995545",
+    "https://openalex.org/W2032001267",
+    "https://openalex.org/W2032810031",
+    "https://openalex.org/W2042924629",
+    "https://openalex.org/W2048736896",
+    "https://openalex.org/W2067880994",
+    "https://openalex.org/W2071917969",
+    "https://openalex.org/W2073508911",
+    "https://openalex.org/W20787259",
+    "https://openalex.org/W2079791672",
+    "https://openalex.org/W2081050205",
+    "https://openalex.org/W2082581242",
+    "https://openalex.org/W2090635240",
+    "https://openalex.org/W2091884289",
+    "https://openalex.org/W2093463708",
+    "https://openalex.org/W2095060666",
+    "https://openalex.org/W2105702659",
+    "https://openalex.org/W2106405648",
+    "https://openalex.org/W2113039267",
+    "https://openalex.org/W2124394872",
+    "https://openalex.org/W2129350377",
+    "https://openalex.org/W2130852065",
+    "https://openalex.org/W2152279550",
+    "https://openalex.org/W2153610628",
+    "https://openalex.org/W2159593456",
+    "https://openalex.org/W2161761804",
+    "https://openalex.org/W2162178661",
+    "https://openalex.org/W2170121306",
+    "https://openalex.org/W2277894472",
+    "https://openalex.org/W2486518410",
+    "https://openalex.org/W2507111687",
+    "https://openalex.org/W2558211956",
+    "https://openalex.org/W2775498154",
+    "https://openalex.org/W2795476049",
+    "https://openalex.org/W3150234440",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W4391191157",
+    "https://openalex.org/W564040604"
+  ]
+}

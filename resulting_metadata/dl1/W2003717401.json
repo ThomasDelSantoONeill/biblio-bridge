@@ -1,0 +1,49 @@
+{
+  "id": "https://openalex.org/W2003717401",
+  "title": "Diel Vertical Migrations by Juvenile Sockeye Salmon and the Antipredation Window",
+  "abstract": "Diel migrations between habitats containing different levels of food abundance is a common phenomenon among marine organisms, both vertebrate and invertebrate. We hypothesize that in many cases this behavior constitutes a response to diel changes in the relationship between potential feeding rates and predation risks in the different habitats. For planktivores that locate their prey by sight (such as juvenile sockeye salmon) and that in turn are subject to predators that use sight to locate them, the diel time profiles of potential feeding rate and predation risk in near-surface waters may be determined largely by the relative densities of prey at the two trophic levels. A simple model of aquatic predation leads us to hypothesize the existence of brief \"antipredation windows\" for feeding at dawn and dusk. If this hypothesis is valid, then the optimal behavior for pelagic planktivores is to migrate into surface waters to feed during these two daily windows and to migrate to deeper, less illuminated waters during daylight hours. (Our model does not predict any specific nocturnal migration pattern.) Our arguments can also be used to predict optimal migration patterns for contact-feeding zooplankton subject to visual predation. The resulting predictions agree qualitatively with many observed patterns of diel vertical migration.",
+  "authors": [
+    {
+      "name": "Colin Clark"
+    },
+    {
+      "name": "David A. Levy"
+    }
+  ],
+  "publication_year": 1988,
+  "cited_by_count": 538,
+  "primary_topic": "Fish Ecology and Management Studies",
+  "subfield_topic": "Nature and Landscape Conservation",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1593577418",
+    "https://openalex.org/W1606480864",
+    "https://openalex.org/W1964829040",
+    "https://openalex.org/W1967098305",
+    "https://openalex.org/W1976688019",
+    "https://openalex.org/W1977903159",
+    "https://openalex.org/W1982149422",
+    "https://openalex.org/W1985515992",
+    "https://openalex.org/W1986110492",
+    "https://openalex.org/W1995687461",
+    "https://openalex.org/W2009852781",
+    "https://openalex.org/W2010591553",
+    "https://openalex.org/W2027665073",
+    "https://openalex.org/W2032166931",
+    "https://openalex.org/W2050287340",
+    "https://openalex.org/W2050875168",
+    "https://openalex.org/W2058349147",
+    "https://openalex.org/W2090858917",
+    "https://openalex.org/W2091841121",
+    "https://openalex.org/W2104437410",
+    "https://openalex.org/W2108353086",
+    "https://openalex.org/W2114489703",
+    "https://openalex.org/W2136677650",
+    "https://openalex.org/W2411352303",
+    "https://openalex.org/W4246171447",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W568402025",
+    "https://openalex.org/W91460307"
+  ]
+}

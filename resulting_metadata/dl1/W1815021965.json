@@ -1,0 +1,50 @@
+{
+  "id": "https://openalex.org/W1815021965",
+  "title": "Integrating Property Value and Local Recreation Models to Value Ecosystem Services in Urban Watersheds",
+  "abstract": "This paper outlines a new revealed preference method to estimate the effects of changes in land use associated with residential development on water quality and the implied ecosystem services at the watershed level. The analysis integrates data describing several types of behavior and uses hedonic property value and random utility models for local recreation to consider the multiple impacts of ecosystem services on household well-being. Several policy examples drawn from changes in Wake County, North Carolina, are used to demonstrate how spatial differences in residential development are reflected in the model’s estimates of the economic costs of deterioration in watershed quality. <i>(JEL Q51, Q57)</i>",
+  "authors": [
+    {
+      "name": "D. J. Phaneuf"
+    },
+    {
+      "name": "V. Kerry Smith"
+    },
+    {
+      "name": "Raymond B. Palmquist"
+    },
+    {
+      "name": "John C. Pope"
+    }
+  ],
+  "publication_year": 2008,
+  "cited_by_count": 84,
+  "primary_topic": "Economic and Environmental Valuation",
+  "subfield_topic": "Economics and Econometrics",
+  "field_topic": "Economics, Econometrics and Finance",
+  "domain_topic": "Social Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1482472621",
+    "https://openalex.org/W1484538818",
+    "https://openalex.org/W1533256678",
+    "https://openalex.org/W1597262329",
+    "https://openalex.org/W1599024175",
+    "https://openalex.org/W1709090812",
+    "https://openalex.org/W1963633085",
+    "https://openalex.org/W1966384122",
+    "https://openalex.org/W1989373836",
+    "https://openalex.org/W1995121763",
+    "https://openalex.org/W2015527931",
+    "https://openalex.org/W2019258023",
+    "https://openalex.org/W2031485386",
+    "https://openalex.org/W2033207569",
+    "https://openalex.org/W2057570443",
+    "https://openalex.org/W2108523964",
+    "https://openalex.org/W2125272611",
+    "https://openalex.org/W2139355960",
+    "https://openalex.org/W2151557963",
+    "https://openalex.org/W2237644780",
+    "https://openalex.org/W2526877545",
+    "https://openalex.org/W3124677426",
+    "https://openalex.org/W3125167650"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "https://openalex.org/W2046477495",
+  "title": "On the Internal Structure of Cities",
+  "abstract": "We prove the existence of a symmetric equilibrium in a circular city in which businesses and housing can both be located anywhere in the city. In this equilibrium, firms balance the external benefits from locating near other producers against the costs of longer commutes for workers. An equilibrium city need not take the form of a central business district surrounded by a residential area. We propose a general algorithm for constructing equilibria, and use it to study the way land use is affected by changes in the model's underlying parameters.",
+  "authors": [
+    {
+      "name": "Robert E. Lucas"
+    },
+    {
+      "name": "Esteban Rossi‐Hansberg"
+    }
+  ],
+  "publication_year": 2002,
+  "cited_by_count": 638,
+  "primary_topic": "Regional Economics and Spatial Analysis",
+  "subfield_topic": "Economics and Econometrics",
+  "field_topic": "Economics, Econometrics and Finance",
+  "domain_topic": "Social Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1502136503",
+    "https://openalex.org/W1528727479",
+    "https://openalex.org/W1982417766",
+    "https://openalex.org/W1991106396",
+    "https://openalex.org/W1993445213",
+    "https://openalex.org/W2023294122",
+    "https://openalex.org/W2032142265",
+    "https://openalex.org/W2055378316",
+    "https://openalex.org/W2172087445",
+    "https://openalex.org/W2889260602",
+    "https://openalex.org/W3126104344"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "https://openalex.org/W1966020396",
+  "title": "Two fish species competition model with nonlinear interactions and equilibrium catches",
+  "abstract": "Summary Two species competition model is built up by assuming the hypothetical second order interactions in order to consider effects of exploitation on two competing fish species with non‐linear interactions. Most important characteristic of this model, compared with Lotka‐Volterra type linear competition model, is that this model can possess multiple stable equilibrium points. Therefore there is a possibility that two species keeping the equilibrium state at one stable equilibrium point will be attracted to the other stable equilibrium point after a heavy perturbation. In this model reversible change of the fishing pressure does not always results in that of the equilibrium catch. In this sence MSY concept for single species can not be extended to this model. If there are multiple stable equilibrium points, the change of the dominant fish species, catastrophic and irreversible change of each equilibrium catch may be observed when the perturbation by the exploitation is added. This phenomenon immediately reminds us of the change of the dominant fish species between Japanese common mackerel and Pacific saury in the northwest Pacific Ocean. In case of the management of two competing fish species with nonlinear interactions, the consideration on the balance between the fishing pressure for each species may be as important as the decision on the catch limit for each species. MSY level for each species based on the single‐species theory could be quite erroneous.",
+  "authors": [
+    {
+      "name": "Kunio Shirakihara"
+    },
+    {
+      "name": "Syoiti TANAKA"
+    }
+  ],
+  "publication_year": 1978,
+  "cited_by_count": 18,
+  "primary_topic": "Mathematical and Theoretical Epidemiology and Ecology Models",
+  "subfield_topic": "Public Health, Environmental and Occupational Health",
+  "field_topic": "Medicine",
+  "domain_topic": "Health Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1490215134",
+    "https://openalex.org/W1734689372",
+    "https://openalex.org/W1974357413",
+    "https://openalex.org/W2010303178",
+    "https://openalex.org/W2035058341",
+    "https://openalex.org/W2048070542",
+    "https://openalex.org/W2050652524",
+    "https://openalex.org/W2052125279",
+    "https://openalex.org/W2061011338",
+    "https://openalex.org/W2069460986",
+    "https://openalex.org/W2103907214",
+    "https://openalex.org/W2329551434",
+    "https://openalex.org/W2331625639",
+    "https://openalex.org/W4297918182",
+    "https://openalex.org/W4299993032",
+    "https://openalex.org/W5777460"
+  ]
+}

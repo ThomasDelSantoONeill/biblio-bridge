@@ -1,0 +1,37 @@
+{
+  "id": "https://openalex.org/W2092183701",
+  "title": "On complexity as bounded rationality (extended abstract)",
+  "abstract": "Article Free Access Share on On complexity as bounded rationality (extended abstract) Authors: Christos H. Papadimitriou Department of Computer Science and Engineering, University of California at San Diego Department of Computer Science and Engineering, University of California at San DiegoView Profile , Mihalis Yannakakis AT&T Bell Laboratories, Murray Hill, NJ AT&T Bell Laboratories, Murray Hill, NJView Profile Authors Info & Claims STOC '94: Proceedings of the twenty-sixth annual ACM symposium on Theory of ComputingMay 1994 Pages 726–733https://doi.org/10.1145/195058.195445Online:23 May 1994Publication History 60citation1,269DownloadsMetricsTotal Citations60Total Downloads1,269Last 12 Months76Last 6 weeks9 Get Citation AlertsNew Citation Alert added!This alert has been successfully added and will be sent to:You will be notified whenever a record that you have chosen has been cited.To manage your alert preferences, click on the button below.Manage my AlertsNew Citation Alert!Please log in to your account Save to BinderSave to BinderCreate a New BinderNameCancelCreateExport CitationPublisher SiteeReaderPDF",
+  "authors": [
+    {
+      "name": "Christos H. Papadimitriou"
+    },
+    {
+      "name": "Mihalis Yannakakis"
+    }
+  ],
+  "publication_year": 1994,
+  "cited_by_count": 102,
+  "primary_topic": "Computability, Logic, AI Algorithms",
+  "subfield_topic": "Computational Theory and Mathematics",
+  "field_topic": "Computer Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1491833039",
+    "https://openalex.org/W1606176430",
+    "https://openalex.org/W1989538212",
+    "https://openalex.org/W1995246641",
+    "https://openalex.org/W2002481951",
+    "https://openalex.org/W2023373582",
+    "https://openalex.org/W2046116913",
+    "https://openalex.org/W2049538756",
+    "https://openalex.org/W2062663664",
+    "https://openalex.org/W2077400689",
+    "https://openalex.org/W2091579301",
+    "https://openalex.org/W2131724520",
+    "https://openalex.org/W2292587149",
+    "https://openalex.org/W2395666855",
+    "https://openalex.org/W3123938887",
+    "https://openalex.org/W4243845907"
+  ]
+}

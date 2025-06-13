@@ -1,0 +1,54 @@
+{
+  "id": "https://openalex.org/W2164647633",
+  "title": "Still more spawner-recruitment curves: the hockey stick and its generalizations",
+  "abstract": "Estimation of maximum reproductive rate using spawner-recruitment models involves extrapolating survival for very low spawner abundance. Existing spawner-recruitment curves often lead to biologically unreasonable extrapolations or are unable to model nondecreasing spawner-recruitment data adequately. One alternative is a piecewise linear spawner-recruitment model known as the hockey stick. We compare the fit of the Beverton-Holt with the hockey stick for 246 spawner-recruitment data sets. We show that the Beverton-Holt usually estimates a larger carrying capacity of recruits and a larger maximum reproductive rate than the hockey stick. We propose two families of generalizations of the hockey stick, one with a simple interpretation and one that is more complex but smoother. These generalized hockey sticks are more biologically plausible, less subject to numerical difficulties, and of greater utility in metaanalytic models than the hockey stick.",
+  "authors": [
+    {
+      "name": "Nicholas Barrowman"
+    },
+    {
+      "name": "Ransom A. Myers"
+    }
+  ],
+  "publication_year": 2000,
+  "cited_by_count": 182,
+  "primary_topic": "Fish Ecology and Management Studies",
+  "subfield_topic": "Nature and Landscape Conservation",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W147822764",
+    "https://openalex.org/W1599127549",
+    "https://openalex.org/W1976590602",
+    "https://openalex.org/W1977166585",
+    "https://openalex.org/W1983270419",
+    "https://openalex.org/W1985861673",
+    "https://openalex.org/W1987023222",
+    "https://openalex.org/W1994727944",
+    "https://openalex.org/W1997797741",
+    "https://openalex.org/W2001104673",
+    "https://openalex.org/W2016864345",
+    "https://openalex.org/W2018501584",
+    "https://openalex.org/W2019253172",
+    "https://openalex.org/W2054366241",
+    "https://openalex.org/W2055402323",
+    "https://openalex.org/W2069678034",
+    "https://openalex.org/W2076153258",
+    "https://openalex.org/W2081705636",
+    "https://openalex.org/W2087503270",
+    "https://openalex.org/W2108201922",
+    "https://openalex.org/W2124005062",
+    "https://openalex.org/W2124464523",
+    "https://openalex.org/W2130870465",
+    "https://openalex.org/W2154112976",
+    "https://openalex.org/W2158261246",
+    "https://openalex.org/W2165007446",
+    "https://openalex.org/W2170154553",
+    "https://openalex.org/W2317989487",
+    "https://openalex.org/W2334981212",
+    "https://openalex.org/W2482661094",
+    "https://openalex.org/W2552942965",
+    "https://openalex.org/W3145797532",
+    "https://openalex.org/W4246834424"
+  ]
+}

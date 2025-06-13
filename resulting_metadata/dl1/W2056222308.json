@@ -1,0 +1,17 @@
+{
+  "id": "https://openalex.org/W2056222308",
+  "title": "A Simple Mechanism that Causes Collapsing Stability Regions in Exploited Salmonid Populations",
+  "abstract": "Depensatory predation mortality on salmon when added to a Ricker production model can create a system with at least two stable equilibria and two domains of attraction. The behavior of such a fish system is different from a single equilibrium situation and a simple mechanism is described through which commercial exploitation changes the ability of such multiple-equilibrium fish populations to respond to perturbations in survival rates. Furthermore, it is shown that this change in size of stability regions is proportional to the exploitation rate and that classically defined maximum sustainable yield (MSY) exploitation rates are inevitably close to the rates that would cause a drastic decrease in the population. The uncertainties inherent in environmental effects on survival and in achievement of desired exploitation rates precipitate the need to back away from the usual MSY exploitation rates and set up (through enhancement) a system of stocks whereby feedback information is provided to the manager. This approach of adaptive management seeks reasonable yields while gaining information about the state (or changes in state) of the system. Some applications of catastrophe theory are discussed, especially with reference to harvesting multiple-stock salmon systems. Key words: stability, resilience, exploitation, salmon, depensation, multiple equilibria, adaptive management, enhancement, catastrophe theory",
+  "authors": [
+    {
+      "name": "Randall M. Peterman"
+    }
+  ],
+  "publication_year": 1977,
+  "cited_by_count": 129,
+  "primary_topic": "Ecosystem dynamics and resilience",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": []
+}

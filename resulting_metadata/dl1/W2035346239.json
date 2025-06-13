@@ -1,0 +1,43 @@
+{
+  "id": "https://openalex.org/W2035346239",
+  "title": "Resource Competition between Plankton Algae: An Experimental and Theoretical Approach",
+  "abstract": "The results of 76 long—term competition experiments between two species of freshwater algae (Asterionella formosa and Cyclotella meneghiniana) grown along a resource gradient agree with the predictions of two different models of resource competition. Both models are based on the functional resource—utilization response of each species to limiting resources. The Monod and the Variable Internal Stores model of competition made similar predictions. Asterionella was observed to be competitively dominant when both species were phosphate limited; Cyclotella was dominant when both species were silicate limited; and both species stably coexisted when each species was growth—rate limited by a different resource. Almost 75% of the variance in the relative abundances of these two species along a natural silicate—phosphate gradient in Lake Michigan is explained by the Monod model.",
+  "authors": [
+    {
+      "name": "David Tilman"
+    }
+  ],
+  "publication_year": 1977,
+  "cited_by_count": 1244,
+  "primary_topic": "Aquatic Ecosystems and Phytoplankton Dynamics",
+  "subfield_topic": "Environmental Chemistry",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1967044936",
+    "https://openalex.org/W1967925990",
+    "https://openalex.org/W1971860530",
+    "https://openalex.org/W1973129989",
+    "https://openalex.org/W1988025776",
+    "https://openalex.org/W1998182786",
+    "https://openalex.org/W2001553041",
+    "https://openalex.org/W2021661910",
+    "https://openalex.org/W2029516271",
+    "https://openalex.org/W2048854153",
+    "https://openalex.org/W2052856054",
+    "https://openalex.org/W2067877098",
+    "https://openalex.org/W2068230249",
+    "https://openalex.org/W2082183396",
+    "https://openalex.org/W2088944959",
+    "https://openalex.org/W2128556005",
+    "https://openalex.org/W2132239756",
+    "https://openalex.org/W2152473128",
+    "https://openalex.org/W2153994093",
+    "https://openalex.org/W2167637876",
+    "https://openalex.org/W2171316695",
+    "https://openalex.org/W2327161309",
+    "https://openalex.org/W2584758999",
+    "https://openalex.org/W3173114588",
+    "https://openalex.org/W9474068"
+  ]
+}

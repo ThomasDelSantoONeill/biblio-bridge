@@ -1,0 +1,39 @@
+{
+  "id": "https://openalex.org/W2112653599",
+  "title": "Ecological food webs: High-quality data facilitate theoretical unification",
+  "abstract": "Fast, low-cost, accurate detection of time-resolved dynamic nucleic acid conformational variation in response to small molecule binding: 1) enriches our understanding of nucleic acid structure, and regulation of structure by small molecules as ...Nucleic acids can undergo conformational changes upon binding small molecules. These conformational changes can be exploited to develop new therapeutic strategies through control of gene expression or triggering of cellular responses and can also be used ...",
+  "authors": [
+    {
+      "name": "James H. Brown"
+    },
+    {
+      "name": "James F. Gillooly"
+    }
+  ],
+  "publication_year": 2003,
+  "cited_by_count": 208,
+  "primary_topic": "Isotope Analysis in Ecology",
+  "subfield_topic": "Ecology",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1507156144",
+    "https://openalex.org/W1509995973",
+    "https://openalex.org/W1658772620",
+    "https://openalex.org/W1970894083",
+    "https://openalex.org/W1972106549",
+    "https://openalex.org/W1978379193",
+    "https://openalex.org/W2001767872",
+    "https://openalex.org/W2003615897",
+    "https://openalex.org/W2015823673",
+    "https://openalex.org/W2017841226",
+    "https://openalex.org/W2021714071",
+    "https://openalex.org/W2045944293",
+    "https://openalex.org/W2063367321",
+    "https://openalex.org/W2119893467",
+    "https://openalex.org/W2147690605",
+    "https://openalex.org/W2314701789",
+    "https://openalex.org/W2326433076",
+    "https://openalex.org/W4231868959"
+  ]
+}

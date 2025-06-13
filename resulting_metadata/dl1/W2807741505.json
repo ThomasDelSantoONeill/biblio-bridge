@@ -1,0 +1,74 @@
+{
+  "id": "https://openalex.org/W2807741505",
+  "title": "Quantifying the value of monitoring species in multi‐species, multi‐threat systems",
+  "abstract": "Abstract Making effective management decisions is challenging in multi‐species, multi‐threat systems because of uncertainty about the effects of different threats on different species. To inform management decisions, we often monitor species to detect spatial or temporal trends that can help us learn about threatening processes. However, which species to monitor and how to monitor to inform the management of threats can be difficult to determine. Value of information (VOI) analysis is an approach for quantifying the value of monitoring to inform management decisions. We developed a novel method that applies VOI analysis to quantify the benefits of different species monitoring strategies in multi‐threat, multi‐species systems. We applied the approach to compare the effectiveness of surveillance monitoring (monitoring species without experimentation) to targeted monitoring (monitoring species with experimentation to learn about a specific threat), and how prior information drives the benefits of these two different strategies and the species to monitor. We also illustrate the approach by applying it to two contrasting case studies for monitoring and managing declining mammals in Western Australia. Our approach shows that surveillance monitoring generally provides far lower benefits than targeted monitoring for managing threats in multi‐species, multi‐threat systems under economic constraints. Our approach also informs the choice of species to monitor and which threats to manage experimentally to most improve threat management outcomes. We show that the key parameters driving these choices include: the budget available for management, prior understanding of which threats cause declines in which species, the relative cost of managing these threats, and the background probability of decline. Our new VOI approach allows the evaluation of monitoring decisions in multi‐species, multi‐threat systems in the face of uncertainty, while explicitly accounting for the improvement in management outcomes. We recommend that managers need to explicitly consider a range of decision parameters when selecting which species to monitor to inform management. Our framework provides an objective way to do this.",
+  "authors": [
+    {
+      "name": "Payal Bal"
+    },
+    {
+      "name": "Ayesha Tulloch"
+    },
+    {
+      "name": "Iadine Chadès"
+    },
+    {
+      "name": "Josie Carwardine"
+    },
+    {
+      "name": "Eve McDonald‐Madden"
+    },
+    {
+      "name": "Jonathan R. Rhodes"
+    }
+  ],
+  "publication_year": 2018,
+  "cited_by_count": 23,
+  "primary_topic": "Economic and Environmental Valuation",
+  "subfield_topic": "Economics and Econometrics",
+  "field_topic": "Economics, Econometrics and Finance",
+  "domain_topic": "Social Sciences",
+  "referenced_works": [
+    "https://openalex.org/W126716689",
+    "https://openalex.org/W1523554743",
+    "https://openalex.org/W1749323192",
+    "https://openalex.org/W1923475232",
+    "https://openalex.org/W1926612890",
+    "https://openalex.org/W1946017764",
+    "https://openalex.org/W1947878151",
+    "https://openalex.org/W1974960176",
+    "https://openalex.org/W1985822919",
+    "https://openalex.org/W1997717867",
+    "https://openalex.org/W2004799613",
+    "https://openalex.org/W2026416225",
+    "https://openalex.org/W2029294450",
+    "https://openalex.org/W2061557110",
+    "https://openalex.org/W2062405632",
+    "https://openalex.org/W2072568153",
+    "https://openalex.org/W2074053225",
+    "https://openalex.org/W2081616166",
+    "https://openalex.org/W2098012392",
+    "https://openalex.org/W2098810111",
+    "https://openalex.org/W2104734141",
+    "https://openalex.org/W2105857021",
+    "https://openalex.org/W2113487278",
+    "https://openalex.org/W2119422035",
+    "https://openalex.org/W2123303485",
+    "https://openalex.org/W2125800847",
+    "https://openalex.org/W2127012740",
+    "https://openalex.org/W2135563624",
+    "https://openalex.org/W2137158059",
+    "https://openalex.org/W2147740855",
+    "https://openalex.org/W2148427630",
+    "https://openalex.org/W2149661624",
+    "https://openalex.org/W2158754658",
+    "https://openalex.org/W2164623187",
+    "https://openalex.org/W2167942345",
+    "https://openalex.org/W2175657738",
+    "https://openalex.org/W2767414906",
+    "https://openalex.org/W2795495912",
+    "https://openalex.org/W2915075353",
+    "https://openalex.org/W4232528534",
+    "https://openalex.org/W4298180043"
+  ]
+}

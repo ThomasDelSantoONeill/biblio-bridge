@@ -1,0 +1,57 @@
+{
+  "id": "https://openalex.org/W2168409038",
+  "title": "Permanence and the Assembly of Ecological Communities",
+  "abstract": "A numerical technique for assembly of ecological communities of Lotka—Volterra form is described. The technique is based upon a global criterion for coexistence of species known as permanence. This provides a relatively fast and accurate method to determine the sequence of communities that develops when species are drawn sequentially and in an arbitrary order from a regional pool of species. Steps in the assembly sequence that cannot be resolved by this method are determined by numerical integration. The results are as follows. (1) At each step in an assembly sequence, a species that succeeds in invading when rare persists in the resulting community even if one or more of the resident species becomes extinct. (2) Assembly sequences are terminated with a community that is uninvadable by any of the remaining species from the pool. The number of these endpoints is small, even when the species pool is large. (3) In some cases, the final community cannot be reassembled from the species left in it; other species, which are absent at the end, are needed for the endpoint to be reached. (4) Invasion resistance builds up in three stages during an assembly sequence. Over much of the sequence, invasion resistance shows little if any increase; during this period, species composition continues to change until the sequence happens to land on an endpoint. (5) Communities assembled from large species pools are more resistant to invasion than those assembled from small species pools.",
+  "authors": [
+    {
+      "name": "Richard Law"
+    },
+    {
+      "name": "Richard Morton"
+    }
+  ],
+  "publication_year": 1996,
+  "cited_by_count": 395,
+  "primary_topic": "Evolutionary Game Theory and Cooperation",
+  "subfield_topic": "Sociology and Political Science",
+  "field_topic": "Social Sciences",
+  "domain_topic": "Social Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1590824230",
+    "https://openalex.org/W1963793769",
+    "https://openalex.org/W1965539036",
+    "https://openalex.org/W1966454265",
+    "https://openalex.org/W1974031958",
+    "https://openalex.org/W1980289461",
+    "https://openalex.org/W1995847853",
+    "https://openalex.org/W1998871984",
+    "https://openalex.org/W2002272100",
+    "https://openalex.org/W2011338611",
+    "https://openalex.org/W2016662457",
+    "https://openalex.org/W2028741880",
+    "https://openalex.org/W2028895118",
+    "https://openalex.org/W2030677414",
+    "https://openalex.org/W2035554617",
+    "https://openalex.org/W2037408821",
+    "https://openalex.org/W2044858258",
+    "https://openalex.org/W2045166891",
+    "https://openalex.org/W2050683923",
+    "https://openalex.org/W2052097422",
+    "https://openalex.org/W2052997720",
+    "https://openalex.org/W2053435489",
+    "https://openalex.org/W2055828837",
+    "https://openalex.org/W2067198755",
+    "https://openalex.org/W2081307695",
+    "https://openalex.org/W2082802256",
+    "https://openalex.org/W2093906871",
+    "https://openalex.org/W2129980790",
+    "https://openalex.org/W2132145325",
+    "https://openalex.org/W2232722991",
+    "https://openalex.org/W2315990401",
+    "https://openalex.org/W2320681200",
+    "https://openalex.org/W2326231231",
+    "https://openalex.org/W2939526335",
+    "https://openalex.org/W2990523779",
+    "https://openalex.org/W85710495"
+  ]
+}

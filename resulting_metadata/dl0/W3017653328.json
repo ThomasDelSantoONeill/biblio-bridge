@@ -1,0 +1,49 @@
+{
+  "id": "https://openalex.org/W3017653328",
+  "title": "Conducting reproducible ecosystem modeling using the open source mass balance model Rpath",
+  "abstract": "Ecosystem models are important tools for conducting ecosystem-based management. A particularly useful method of characterizing the flow of energy through an ecosystem and the subsequent direct and indirect implications of management actions is mass balance modeling. Here we outline the equations as utilized in Rpath, an R implementation of the mass balance algorithms popularized by Ecopath with Ecosim that are designed to work with fisheries data sources. We believe that common practices in R will aid in the reproducibility of conducting analysis using a mass balance model as all of the code is contained within a single script file. This includes the built-in statistical and graphical functions of R. In addition to added reproducibility, R is a coding language with which ecologists are familiar. This familiarity offers greater flexibility for practitioners to tailor the model to their needs. We have made the code available on an open software development platform which should aid in continuous community development of the tool.",
+  "authors": [
+    {
+      "name": "Sean M. Lucey"
+    },
+    {
+      "name": "Sarah Gaichas"
+    },
+    {
+      "name": "Kerim Aydin"
+    }
+  ],
+  "publication_year": 2020,
+  "cited_by_count": 24,
+  "primary_topic": "Fish Ecology and Management Studies",
+  "subfield_topic": "Nature and Landscape Conservation",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1513618424",
+    "https://openalex.org/W1524760816",
+    "https://openalex.org/W1738124305",
+    "https://openalex.org/W1872767830",
+    "https://openalex.org/W1875969055",
+    "https://openalex.org/W1967049079",
+    "https://openalex.org/W1988578159",
+    "https://openalex.org/W1990566709",
+    "https://openalex.org/W2003647390",
+    "https://openalex.org/W2008985174",
+    "https://openalex.org/W2042464370",
+    "https://openalex.org/W2063307896",
+    "https://openalex.org/W2081050205",
+    "https://openalex.org/W2088865141",
+    "https://openalex.org/W2151518054",
+    "https://openalex.org/W2154555587",
+    "https://openalex.org/W2159325249",
+    "https://openalex.org/W2185517354",
+    "https://openalex.org/W2286380963",
+    "https://openalex.org/W2320723621",
+    "https://openalex.org/W2324506725",
+    "https://openalex.org/W2792088475",
+    "https://openalex.org/W3150234440",
+    "https://openalex.org/W3171039691",
+    "https://openalex.org/W762834571"
+  ]
+}

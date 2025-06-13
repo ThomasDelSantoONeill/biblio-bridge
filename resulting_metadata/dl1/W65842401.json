@@ -1,0 +1,23 @@
+{
+  "id": "https://openalex.org/W65842401",
+  "title": "C# in a Nutshell",
+  "abstract": "From the Publisher:\r\nC# in a Nutshell provides all C# programmers with a concise and thorough reference to the language in one straightforward and accessible volume. Designed as a handbook for daily use, this book is an essential guide to the C# language and the base class APIs of the .NET Framework. Programmers will want to keep this book next to their keyboards for years to come. The heart of this book is a succinct but detailed reference to the C# language and the .NET types most essential to C# programmers. Each chapter in the API reference begins with an overview of a .NET namespace and a diagram of its types, and provides a quick-reference entry for each type, with name, assembly, category, description, member availability, class hierarchy, and other relevant information, such as whether the type is part of the ECMA CLI specification.",
+  "authors": [
+    {
+      "name": "Peter Drayton"
+    },
+    {
+      "name": "Ben Albahari"
+    },
+    {
+      "name": "Ted Neward"
+    }
+  ],
+  "publication_year": 2002,
+  "cited_by_count": 15,
+  "primary_topic": "Distributed and Parallel Computing Systems",
+  "subfield_topic": "Computer Networks and Communications",
+  "field_topic": "Computer Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": []
+}

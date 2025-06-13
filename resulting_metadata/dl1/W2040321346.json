@@ -1,0 +1,45 @@
+{
+  "id": "https://openalex.org/W2040321346",
+  "title": "Modelling the effects of trade-offs between long and short-term objectives in fisheries management",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Simon Mardle"
+    },
+    {
+      "name": "Sean Pascoe"
+    }
+  ],
+  "publication_year": 2002,
+  "cited_by_count": 61,
+  "primary_topic": "Water resources management and optimization",
+  "subfield_topic": "Ocean Engineering",
+  "field_topic": "Engineering",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W137584378",
+    "https://openalex.org/W1582610003",
+    "https://openalex.org/W1606434356",
+    "https://openalex.org/W163337023",
+    "https://openalex.org/W1968326658",
+    "https://openalex.org/W1985951301",
+    "https://openalex.org/W1990678981",
+    "https://openalex.org/W2018968294",
+    "https://openalex.org/W2021645577",
+    "https://openalex.org/W2023505837",
+    "https://openalex.org/W2042532809",
+    "https://openalex.org/W2044948141",
+    "https://openalex.org/W2047650479",
+    "https://openalex.org/W2078688972",
+    "https://openalex.org/W2079247628",
+    "https://openalex.org/W2118574774",
+    "https://openalex.org/W2126282479",
+    "https://openalex.org/W2152358062",
+    "https://openalex.org/W222222802",
+    "https://openalex.org/W2739880501",
+    "https://openalex.org/W2765379520",
+    "https://openalex.org/W2808123777",
+    "https://openalex.org/W4206623926",
+    "https://openalex.org/W55452100"
+  ]
+}

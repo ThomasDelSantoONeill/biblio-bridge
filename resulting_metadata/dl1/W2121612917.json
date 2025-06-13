@@ -1,0 +1,64 @@
+{
+  "id": "https://openalex.org/W2121612917",
+  "title": "Optimizing for multiple species and multiple values: tradeoffs inherent in ecosystem‐based fisheries management",
+  "abstract": "Abstract Although a consensus in marine science is developing on the need to adopt ecosystem‐based fishery management, few studies try to quantify the context‐specific gains from implementing it. Using a multi‐species bioeconomic model for a Caribbean reef community, we determine the optimal harvesting rates for predator and prey species and ask how this more comprehensive optimization differs from traditional single‐species approaches. We also identify tradeoffs when the objective of the manager includes nonfishing values. We find that the optimal solution when accounting for nonfishing values can include temporary or permanent fishing moratoriums in contrast to continuous fishing at low levels when only fishing profits are considered. We also show that the greatest gains from ecosystem‐based fishery management are not from improved estimation of the trophic coupling, but from reforming the social and economic management of individual fish stocks and by explicitly incorporating a broader set of values into management decisions.",
+  "authors": [
+    {
+      "name": "Julie B. Kellner"
+    },
+    {
+      "name": "James N. Sanchirico"
+    },
+    {
+      "name": "Alan Hastings"
+    },
+    {
+      "name": "Peter J. Mumby"
+    }
+  ],
+  "publication_year": 2010,
+  "cited_by_count": 73,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W132885791",
+    "https://openalex.org/W1543409689",
+    "https://openalex.org/W1967793983",
+    "https://openalex.org/W197314072",
+    "https://openalex.org/W1980753979",
+    "https://openalex.org/W1984298245",
+    "https://openalex.org/W1992347263",
+    "https://openalex.org/W1996963268",
+    "https://openalex.org/W2001398346",
+    "https://openalex.org/W2003636998",
+    "https://openalex.org/W2024882325",
+    "https://openalex.org/W2048887969",
+    "https://openalex.org/W2065479910",
+    "https://openalex.org/W2070439973",
+    "https://openalex.org/W2073652155",
+    "https://openalex.org/W2078209666",
+    "https://openalex.org/W2078418971",
+    "https://openalex.org/W2098285682",
+    "https://openalex.org/W2099499886",
+    "https://openalex.org/W2103573386",
+    "https://openalex.org/W2104698864",
+    "https://openalex.org/W2114489703",
+    "https://openalex.org/W2119350048",
+    "https://openalex.org/W2124372040",
+    "https://openalex.org/W2129386514",
+    "https://openalex.org/W2132194304",
+    "https://openalex.org/W2138786953",
+    "https://openalex.org/W2142598180",
+    "https://openalex.org/W2147885119",
+    "https://openalex.org/W2150711553",
+    "https://openalex.org/W2153903774",
+    "https://openalex.org/W2161890892",
+    "https://openalex.org/W2163492266",
+    "https://openalex.org/W2316812274",
+    "https://openalex.org/W3088713371",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W83524191"
+  ]
+}

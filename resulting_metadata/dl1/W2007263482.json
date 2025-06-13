@@ -1,0 +1,46 @@
+{
+  "id": "https://openalex.org/W2007263482",
+  "title": "Fishing Down Marine Food Webs",
+  "abstract": "The mean trophic level of the species groups reported in Food and Agricultural Organization global fisheries statistics declined from 1950 to 1994. This reflects a gradual transition in landings from long-lived, high trophic level, piscivorous bottom fish toward short-lived, low trophic level invertebrates and planktivorous pelagic fish. This effect, also found to be occurring in inland fisheries, is most pronounced in the Northern Hemisphere. Fishing down food webs (that is, at lower trophic levels) leads at first to increasing catches, then to a phase transition associated with stagnating or declining catches. These results indicate that present exploitation patterns are unsustainable.",
+  "authors": [
+    {
+      "name": "Daniel Pauly"
+    },
+    {
+      "name": "Villy Christensen"
+    },
+    {
+      "name": "Johanne Dalsgaard"
+    },
+    {
+      "name": "Rainer Froese"
+    },
+    {
+      "name": "Francisco Torres"
+    }
+  ],
+  "publication_year": 1998,
+  "cited_by_count": 4578,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W146535024",
+    "https://openalex.org/W1525989817",
+    "https://openalex.org/W1967677891",
+    "https://openalex.org/W1970530728",
+    "https://openalex.org/W1989122167",
+    "https://openalex.org/W2008733299",
+    "https://openalex.org/W2036875091",
+    "https://openalex.org/W2060789210",
+    "https://openalex.org/W2081050205",
+    "https://openalex.org/W2099009583",
+    "https://openalex.org/W2103675362",
+    "https://openalex.org/W2267071955",
+    "https://openalex.org/W2892648032",
+    "https://openalex.org/W2893480961",
+    "https://openalex.org/W412246939",
+    "https://openalex.org/W4230871231"
+  ]
+}

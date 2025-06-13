@@ -1,0 +1,22 @@
+{
+  "id": "https://openalex.org/W3021074502",
+  "title": "Fisheries: Multispecies Dynamics",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Jeremy S. Collie"
+    }
+  ],
+  "publication_year": 2001,
+  "cited_by_count": 2,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W2061011338",
+    "https://openalex.org/W2114525352",
+    "https://openalex.org/W2131129168",
+    "https://openalex.org/W2479766333"
+  ]
+}

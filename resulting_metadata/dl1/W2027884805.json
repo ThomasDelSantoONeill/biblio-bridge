@@ -1,0 +1,21 @@
+{
+  "id": "https://openalex.org/W2027884805",
+  "title": "A Removal Experiment with Darkling Beetles: Lack of Evidence for Interspecific Competition",
+  "abstract": "A removal experiment tested for interspecific competition among darkling ground bee- tles (Tenebrionidae) in a montane New Mexico meadow. Adult Eleodes obscures were removed from three fenced 0. 1-ha plots from August 1975 through August 1978. This species accounts for >50% of the adult tenebrionid biomass in the community (Wise, in press). Adult E. obscures numbers were rapidly reduced and were kept low throughout the experiment. Removing adults should also have reduced densities of the soil-dwelling larvae, though the extent of any reduction in larval numbers could not be measured directly. Three plots in which E. obscures adults were not removed were controls. Adult population densities of the other species did not increase in response to reducing E. obscures density. Adult size was also measured because increased size at eclosion from the pupa would reflect release from competition among larvae. Removing E. obscures adults produced no consistent evi- dence that competition between larval E. obscures and larvae of the other species was influencing their size at eclosion. Adult size differed more between years than between removal and control plots. The number of E. obscures adults emerging in the removal plots had not declined by 1978. Thus, lack of evidence for larval competition may reflect failure to have reduced substantially densities of E. obscures larvae rather than the absence of competition. However, adult E. obscures densities were substantially reduced, yet the other species showed no evidence of competitive release. Inter- specific competition between adults may not be a major interaction in tenebrionid communities.",
+  "authors": [
+    {
+      "name": "David H. Wise"
+    }
+  ],
+  "publication_year": 1981,
+  "cited_by_count": 49,
+  "primary_topic": "Plant and animal studies",
+  "subfield_topic": "Ecology, Evolution, Behavior and Systematics",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1964104682",
+    "https://openalex.org/W2044881087",
+    "https://openalex.org/W2047810995"
+  ]
+}

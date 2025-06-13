@@ -1,0 +1,45 @@
+{
+  "id": "https://openalex.org/W2331158921",
+  "title": "Assembling Ecological Communities in Time and Space",
+  "abstract": "Ecological communities do not spring into existence overnight, but develop during the process we call assembly. As in other complex systems, random assemblies may generate surprising patterns. In previous models, sequential invasion and extinction moved successive species mixes toward a persistent one. Other species present in the pool could not invade this persistent mix. Chance events early in the assembly produced persistent mixes of different compositions. Most model species survived somewhere by belonging to one or more of these different persistent mixes. We show that with more rapid invasion, communities move through complex cycles of composition, where each species gets its turn. These complementary views offer insights into the diversity of natural communities. Importantly, they have practical implications for those attempting to restore diversity to damaged ecosystems.",
+  "authors": [
+    {
+      "name": "Julie L. Lockwood"
+    },
+    {
+      "name": "Robert D. Powell"
+    },
+    {
+      "name": "M. Philip Nott"
+    },
+    {
+      "name": "Stuart L. Pimm"
+    }
+  ],
+  "publication_year": 1997,
+  "cited_by_count": 111,
+  "primary_topic": "Evolutionary Game Theory and Cooperation",
+  "subfield_topic": "Sociology and Political Science",
+  "field_topic": "Social Sciences",
+  "domain_topic": "Social Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1561387878",
+    "https://openalex.org/W1965539036",
+    "https://openalex.org/W1977346794",
+    "https://openalex.org/W1989196916",
+    "https://openalex.org/W2010614057",
+    "https://openalex.org/W2055828837",
+    "https://openalex.org/W2058506983",
+    "https://openalex.org/W2062283701",
+    "https://openalex.org/W2067198755",
+    "https://openalex.org/W2105291362",
+    "https://openalex.org/W2106844219",
+    "https://openalex.org/W2158214141",
+    "https://openalex.org/W2168409038",
+    "https://openalex.org/W2312353563",
+    "https://openalex.org/W2318462315",
+    "https://openalex.org/W2321937847",
+    "https://openalex.org/W2335663788",
+    "https://openalex.org/W3043227200"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "https://openalex.org/W2151482884",
+  "title": "Climatic factors in the Atlantic control the oceanographic and ecological changes in the Baltic Sea",
+  "abstract": "Salinity changes in the Baltic Sea have been attributed to a lack of balance between irregular pulses of North Sea water penetrating the Danish Straits and the freshwater runoff to the Baltic Sea. Both pulses and runoff are controlled by climatic factors in the Atlantic. The occurrence of major pulses of oceanic water has proved unpredictable, being non‐existent during the 1980s. We used dynamic regression models to relate the response of the Baltic Sea salinity to hypothetical controlling factors: westerly winds, freshwater runoff, and, ultimately, the Northern Atlantic oscillation (NAO). Our results provided evidence for general chain‐of‐events relationship between the NAO and a subsequent weather effect over the North Sea, which was finally extended to the Baltic Sea salinity. Westerly winds followed changes in the NAO with a lag of &lt;1 month. Total freshwater runoff to the Baltic Sea followed changes in the NAO with a lag of &lt;2 months. Furthermore, the salinity responded to freshwater runoff with a time lag of &lt;1 yr, and a significant decreasing trend was found in the salinity series. On the basis of the existing lags, we foresee a possibility to predict not only oceanographic, but also biological interactions in the Baltic Sea.",
+  "authors": [
+    {
+      "name": "Jari Hänninen"
+    },
+    {
+      "name": "Ilppo Vuorinen"
+    },
+    {
+      "name": "Pekka Hjelt"
+    }
+  ],
+  "publication_year": 2000,
+  "cited_by_count": 170,
+  "primary_topic": "Oceanographic and Atmospheric Processes",
+  "subfield_topic": "Oceanography",
+  "field_topic": "Earth and Planetary Sciences",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": []
+}

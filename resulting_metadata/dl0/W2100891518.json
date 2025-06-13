@@ -1,0 +1,22 @@
+{
+  "id": "https://openalex.org/W2100891518",
+  "title": "Stock and Recruitment",
+  "abstract": "Plotting net reproduction (reproductive potential of the adults obtained) against the density of stock which produced them, for a number of fish and invertebrate populations, gives a domed curve whose apex lies above the line representing replacement reproduction. At stock densities beyond the apex, reproduction declines either gradually or abruptly. This decline gives a population a tendency to oscillate in numbers; however, the oscillations are damped, not permanent, unless reproduction decreases quite rapidly and there is not too much mixing of generations in the breeding population. Removal of part of the adult stock reduces the amplitude of oscillations that may be in progress and, up to a point, increases reproduction.",
+  "authors": [
+    {
+      "name": "W. E. Ricker"
+    }
+  ],
+  "publication_year": 1954,
+  "cited_by_count": 3119,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W2043310236",
+    "https://openalex.org/W2091142426",
+    "https://openalex.org/W2328448782",
+    "https://openalex.org/W4253464046"
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "https://openalex.org/W2786425804",
+  "title": "Iterative near-term ecological forecasting: Needs, opportunities, and challenges",
+  "abstract": "Two foundational questions about sustainability are “How are ecosystems and the services they provide going to change in the future?” and “How do human decisions affect these trajectories?” Answering these questions requires an ability to forecast ecological processes. Unfortunately, most ecological forecasts focus on centennial-scale climate responses, therefore neither meeting the needs of near-term (daily to decadal) environmental decision-making nor allowing comparison of specific, quantitative predictions to new observational data, one of the strongest tests of scientific theory. Near-term forecasts provide the opportunity to iteratively cycle between performing analyses and updating predictions in light of new evidence. This iterative process of gaining feedback, building experience, and correcting models and methods is critical for improving forecasts. Iterative, near-term forecasting will accelerate ecological research, make it more relevant to society, and inform sustainable decision-making under high uncertainty and adaptive management. Here, we identify the immediate scientific and societal needs, opportunities, and challenges for iterative near-term ecological forecasting. Over the past decade, data volume, variety, and accessibility have greatly increased, but challenges remain in interoperability, latency, and uncertainty quantification. Similarly, ecologists have made considerable advances in applying computational, informatic, and statistical methods, but opportunities exist for improving forecast-specific theory, methods, and cyberinfrastructure. Effective forecasting will also require changes in scientific training, culture, and institutions. The need to start forecasting is now; the time for making ecology more predictive is here, and learning by doing is the fastest route to drive the science forward.",
+  "authors": [
+    {
+      "name": "Michael C. Dietze"
+    },
+    {
+      "name": "A. M. Fox"
+    },
+    {
+      "name": "Lindsay M. Beck‐Johnson"
+    },
+    {
+      "name": "Julio L. Betancourt"
+    },
+    {
+      "name": "Mevin B. Hooten"
+    },
+    {
+      "name": "Catherine S. Jarnevich"
+    },
+    {
+      "name": "Timothy H. Keitt"
+    },
+    {
+      "name": "Melissa A. Kenney"
+    },
+    {
+      "name": "Christine Laney"
+    },
+    {
+      "name": "Laurel G. Larsen"
+    },
+    {
+      "name": "Henry W. Loescher"
+    },
+    {
+      "name": "Claire Lunch"
+    },
+    {
+      "name": "Bryan C. Pijanowski"
+    },
+    {
+      "name": "James T. Randerson"
+    },
+    {
+      "name": "Emily K. Read"
+    },
+    {
+      "name": "Andrew T. Tredennick"
+    },
+    {
+      "name": "Rodrigo Vargas"
+    },
+    {
+      "name": "Kathleen C. Weathers"
+    },
+    {
+      "name": "Ethan P. White"
+    }
+  ],
+  "publication_year": 2018,
+  "cited_by_count": 533,
+  "primary_topic": "Species Distribution and Climate Change",
+  "subfield_topic": "Ecological Modeling",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1480526195",
+    "https://openalex.org/W1481900550",
+    "https://openalex.org/W1508733422",
+    "https://openalex.org/W1596195796",
+    "https://openalex.org/W1603903339",
+    "https://openalex.org/W1761653152",
+    "https://openalex.org/W1789155650",
+    "https://openalex.org/W1827824839",
+    "https://openalex.org/W1829989199",
+    "https://openalex.org/W1855378005",
+    "https://openalex.org/W1913377790",
+    "https://openalex.org/W1942321685",
+    "https://openalex.org/W1946738347",
+    "https://openalex.org/W1949051345",
+    "https://openalex.org/W1974960176",
+    "https://openalex.org/W1987220420",
+    "https://openalex.org/W2002745513",
+    "https://openalex.org/W2006154742",
+    "https://openalex.org/W2017915442",
+    "https://openalex.org/W2035933966",
+    "https://openalex.org/W2039254862",
+    "https://openalex.org/W2040399353",
+    "https://openalex.org/W2042464037",
+    "https://openalex.org/W2043241041",
+    "https://openalex.org/W2048776980",
+    "https://openalex.org/W2050529257",
+    "https://openalex.org/W2059198980",
+    "https://openalex.org/W2059342705",
+    "https://openalex.org/W2066801828",
+    "https://openalex.org/W2069462603",
+    "https://openalex.org/W2078343450",
+    "https://openalex.org/W2081428836",
+    "https://openalex.org/W2087103321",
+    "https://openalex.org/W2088812394",
+    "https://openalex.org/W2104043570",
+    "https://openalex.org/W2111275873",
+    "https://openalex.org/W2113511402",
+    "https://openalex.org/W2114548855",
+    "https://openalex.org/W2117542660",
+    "https://openalex.org/W2119305129",
+    "https://openalex.org/W2124127430",
+    "https://openalex.org/W2127118420",
+    "https://openalex.org/W2130091784",
+    "https://openalex.org/W2131966673",
+    "https://openalex.org/W2143323261",
+    "https://openalex.org/W2143469080",
+    "https://openalex.org/W2147141749",
+    "https://openalex.org/W2147557001",
+    "https://openalex.org/W2157675604",
+    "https://openalex.org/W2160554939",
+    "https://openalex.org/W2215488109",
+    "https://openalex.org/W2288500112",
+    "https://openalex.org/W2293844700",
+    "https://openalex.org/W2299482622",
+    "https://openalex.org/W2328570158",
+    "https://openalex.org/W2472947276",
+    "https://openalex.org/W2510796315",
+    "https://openalex.org/W2543180075",
+    "https://openalex.org/W2547772089",
+    "https://openalex.org/W2550387562",
+    "https://openalex.org/W2566546937",
+    "https://openalex.org/W2588252600",
+    "https://openalex.org/W2648432042",
+    "https://openalex.org/W2755421633",
+    "https://openalex.org/W2889932400",
+    "https://openalex.org/W2949838081",
+    "https://openalex.org/W2953106474",
+    "https://openalex.org/W3086375530",
+    "https://openalex.org/W3187330128",
+    "https://openalex.org/W4213327538",
+    "https://openalex.org/W4230812235",
+    "https://openalex.org/W4239044562",
+    "https://openalex.org/W4240980990",
+    "https://openalex.org/W4247803849",
+    "https://openalex.org/W4253175888",
+    "https://openalex.org/W617721541",
+    "https://openalex.org/W7747271"
+  ]
+}

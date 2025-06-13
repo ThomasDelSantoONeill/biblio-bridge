@@ -1,0 +1,32 @@
+{
+  "id": "https://openalex.org/W3151269144",
+  "title": "The Statistical Inevitability of Stability-Diversity Relationships in Community Ecology",
+  "abstract": "In this article, we explain an often overlooked process that may significantly contribute to positive correlations between measures of species diversity and community stability. Empirical studies showing positive stability‐diversity relationships have, for the most part, used a single class of stability (or, more accurately, instability) measures: the temporal variation in aggregate community properties such as biomass or productivity. We show that for these measures, stability will essentially always rise with species diversity because of the statistical averaging of the fluctuations in species' abundances. This simple probabilistic process will operate in the absence of any strong species interactions, although its strength is driven by the relative abundances of species, as well as by the existence of positive or negative correlations in the fluctuations of species. To explore the possible importance of this effect in real communities, we fit a simple simulation model to Tilman's grassland community. Our results indicate that statistical averaging might play a substantial role in explaining stability‐diversity correlations for this and other systems. Models of statistical averaging can serve as a useful baseline for predictions of community stability, to which the influences of both negative and positive species interactions may then be added and tested.",
+  "authors": [
+    {
+      "name": "Doak"
+    },
+    {
+      "name": "Bigger"
+    },
+    {
+      "name": "Harding Harding"
+    },
+    {
+      "name": "Marvier"
+    },
+    {
+      "name": "O'Malley"
+    },
+    {
+      "name": "Thomson"
+    }
+  ],
+  "publication_year": 1998,
+  "cited_by_count": 139,
+  "primary_topic": "Ecology and Vegetation Dynamics Studies",
+  "subfield_topic": "Nature and Landscape Conservation",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": []
+}

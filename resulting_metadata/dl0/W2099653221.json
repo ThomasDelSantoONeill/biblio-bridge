@@ -1,0 +1,54 @@
+{
+  "id": "https://openalex.org/W2099653221",
+  "title": "Possible ecosystem impacts of applying MSY policies from single-species assessment",
+  "abstract": "Abstract Ecosim models have been fitted to time-series data for a wide variety of ecosystems for which there are long-term data that confirm the models' ability to reproduce past responses of many species to harvesting. We subject these model ecosystems to a variety of harvest policies, including options based on harvesting each species at its maximum sustainable yield (MSY) fishing rate. We show that widespread application of single-species MSY policies would in general cause severe deterioration in ecosystem structure, in particular the loss of top predator species. This supports the long-established practice in fisheries management of protecting at least some smaller “forage” species specifically for their value in supporting larger piscivores.",
+  "authors": [
+    {
+      "name": "Carl J. Walters"
+    },
+    {
+      "name": "Villy Christensen"
+    },
+    {
+      "name": "Steven J.D. Martell"
+    },
+    {
+      "name": "James F. Kitchell"
+    }
+  ],
+  "publication_year": 2005,
+  "cited_by_count": 323,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1524760816",
+    "https://openalex.org/W1599127549",
+    "https://openalex.org/W1608747981",
+    "https://openalex.org/W1627449034",
+    "https://openalex.org/W163013491",
+    "https://openalex.org/W1972708686",
+    "https://openalex.org/W1982939018",
+    "https://openalex.org/W1995629599",
+    "https://openalex.org/W2003647390",
+    "https://openalex.org/W2007263482",
+    "https://openalex.org/W2025015574",
+    "https://openalex.org/W2035842090",
+    "https://openalex.org/W2036875091",
+    "https://openalex.org/W2081645934",
+    "https://openalex.org/W2088865141",
+    "https://openalex.org/W2111673492",
+    "https://openalex.org/W2128548891",
+    "https://openalex.org/W2136199724",
+    "https://openalex.org/W2138829457",
+    "https://openalex.org/W2147773081",
+    "https://openalex.org/W2152100187",
+    "https://openalex.org/W2607764112",
+    "https://openalex.org/W2766432511",
+    "https://openalex.org/W2771297851",
+    "https://openalex.org/W2941736620",
+    "https://openalex.org/W4210260625",
+    "https://openalex.org/W4285719527"
+  ]
+}

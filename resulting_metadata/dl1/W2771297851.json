@@ -1,0 +1,23 @@
+{
+  "id": "https://openalex.org/W2771297851",
+  "title": "The Use of Ecosystem Models to Investigate Multispecies Management Strategies for Capture Fisheries",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Tony J. Pitcher"
+    },
+    {
+      "name": "Kevern L. Cochrane"
+    }
+  ],
+  "publication_year": 2002,
+  "cited_by_count": 60,
+  "primary_topic": "Fish Ecology and Management Studies",
+  "subfield_topic": "Nature and Landscape Conservation",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1561688237",
+    "https://openalex.org/W2034142734"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "https://openalex.org/W1969423477",
+  "title": "Summary diagrams for coupled hydrodynamic-ecosystem model skill assessment",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Jason K. Jolliff"
+    },
+    {
+      "name": "John C. Kindle"
+    },
+    {
+      "name": "Igor Shulman"
+    },
+    {
+      "name": "Bradley Penta"
+    },
+    {
+      "name": "Marjorie A. M. Friedrichs"
+    },
+    {
+      "name": "Robert W. Helber"
+    },
+    {
+      "name": "Robert Arnone"
+    }
+  ],
+  "publication_year": 2008,
+  "cited_by_count": 366,
+  "primary_topic": "Marine and coastal ecosystems",
+  "subfield_topic": "Oceanography",
+  "field_topic": "Earth and Planetary Sciences",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1977578748",
+    "https://openalex.org/W1980107236",
+    "https://openalex.org/W1985479415",
+    "https://openalex.org/W1995811252",
+    "https://openalex.org/W1996819337",
+    "https://openalex.org/W1998294265",
+    "https://openalex.org/W2007101051",
+    "https://openalex.org/W2027667741",
+    "https://openalex.org/W2031127053",
+    "https://openalex.org/W2033904036",
+    "https://openalex.org/W2035636287",
+    "https://openalex.org/W2044249980",
+    "https://openalex.org/W2048857068",
+    "https://openalex.org/W2050393255",
+    "https://openalex.org/W2055121584",
+    "https://openalex.org/W2074840948",
+    "https://openalex.org/W2079036841",
+    "https://openalex.org/W2088665921",
+    "https://openalex.org/W2105777102",
+    "https://openalex.org/W2110929766",
+    "https://openalex.org/W2113039267",
+    "https://openalex.org/W2115717916",
+    "https://openalex.org/W2117988072",
+    "https://openalex.org/W2140659444",
+    "https://openalex.org/W2143032948",
+    "https://openalex.org/W2153328173",
+    "https://openalex.org/W2157281026",
+    "https://openalex.org/W2164496884",
+    "https://openalex.org/W2335720253",
+    "https://openalex.org/W2786957071",
+    "https://openalex.org/W3003085105",
+    "https://openalex.org/W327057227",
+    "https://openalex.org/W4248709400",
+    "https://openalex.org/W4285719527"
+  ]
+}

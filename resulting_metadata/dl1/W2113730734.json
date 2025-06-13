@@ -1,0 +1,65 @@
+{
+  "id": "https://openalex.org/W2113730734",
+  "title": "21st century fisheries management: a spatio-temporally explicit tariff-based approach combining multiple drivers and incentivising responsible fishing",
+  "abstract": "Abstract Kraak, S. B. M., Reid, D. G., Gerritsen, H. D., Kelly, C. J., Fitzpatrick, M., Codling, E. A., and Rogan, E. 2012. 21st century fisheries management: a spatio-temporally explicit tariff-based approach combining multiple drivers and incentivising responsible fishing. – ICES Journal of Marine Science, 69: 590–601. Traditionally fisheries management has focused on biomass and mortality, expressed annually and across large management units. However, because fish abundance varies at much smaller spatio-temporal scales, fishing mortality can potentially be controlled more effectively if managed at finer scale. The ecosystem approach requires more indicators at finer scales as well. Incorporating ecosystem targets would need additional management tools with potentially conflicting results. We present a simple, integrated, management approach that provides incentives for “good behaviour”. Fishers would be given a number of fishing-impact credits, called real-time incentives (RTIs), to spend according to spatio-temporally varying tariffs per fishing day. RTI quotas and tariffs could be based on commercial stocks and ecosystem targets. Fishers could choose how to spend their RTIs, e.g. by limited fishing in high-catch or sensitive areas or by fishing longer in lower-catch or less sensitive areas. The RTI system does not prescribe and forbid, but instead allows fishers to fish wherever and whenever they want; ecosystem costs are internalized and fishers have to take them into account in their business decisions. We envisage no need for traditional landings or catch quotas for the fleets while operating under the scheme. The approach could facilitate further devolution of responsibility to industry.",
+  "authors": [
+    {
+      "name": "Sarah Kraak"
+    },
+    {
+      "name": "David G. Reid"
+    },
+    {
+      "name": "H.D. Gerritsen"
+    },
+    {
+      "name": "Ciarán J. Kelly"
+    },
+    {
+      "name": "Mike Fitzpatrick"
+    },
+    {
+      "name": "Edward A. Codling"
+    },
+    {
+      "name": "Emer Rogan"
+    }
+  ],
+  "publication_year": 2012,
+  "cited_by_count": 32,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1569447676",
+    "https://openalex.org/W1901103216",
+    "https://openalex.org/W1973712822",
+    "https://openalex.org/W1976757215",
+    "https://openalex.org/W2005356875",
+    "https://openalex.org/W2014954620",
+    "https://openalex.org/W2029446428",
+    "https://openalex.org/W2036114773",
+    "https://openalex.org/W2056533392",
+    "https://openalex.org/W2099647993",
+    "https://openalex.org/W2100826828",
+    "https://openalex.org/W2101154940",
+    "https://openalex.org/W2101850956",
+    "https://openalex.org/W2102135014",
+    "https://openalex.org/W2113209277",
+    "https://openalex.org/W2115506663",
+    "https://openalex.org/W2119407402",
+    "https://openalex.org/W2122338940",
+    "https://openalex.org/W2125640780",
+    "https://openalex.org/W2131153777",
+    "https://openalex.org/W2135857860",
+    "https://openalex.org/W2136186834",
+    "https://openalex.org/W2158227275",
+    "https://openalex.org/W2158355436",
+    "https://openalex.org/W2158858856",
+    "https://openalex.org/W2727845211",
+    "https://openalex.org/W3123557926",
+    "https://openalex.org/W3125917087",
+    "https://openalex.org/W4241859500"
+  ]
+}

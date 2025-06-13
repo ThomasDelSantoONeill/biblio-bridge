@@ -1,0 +1,25 @@
+{
+  "id": "https://openalex.org/W1998069438",
+  "title": "The Optimal Exploitation of Renewable Resource Stocks: Problems of Irreversible Investment",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Colin Clark"
+    },
+    {
+      "name": "Frank H. Clarke"
+    },
+    {
+      "name": "Gordon R. Munro"
+    }
+  ],
+  "publication_year": 1979,
+  "cited_by_count": 473,
+  "primary_topic": "Global Energy and Sustainability Research",
+  "subfield_topic": "Renewable Energy, Sustainability and the Environment",
+  "field_topic": "Energy",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1538134105"
+  ]
+}

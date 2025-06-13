@@ -1,0 +1,71 @@
+{
+  "id": "https://openalex.org/W2198205953",
+  "title": "Is risk consistent across tier‐based harvest control rule management systems? A comparison of four case‐studies",
+  "abstract": "Abstract There can be substantial differences in data quality and quantity among fished species. Consequently, the quality and type of assessments can also vary substantially. However, all species, especially those that are targeted, need to be managed. Several jurisdictions have developed hierarchical tier systems that categorize stocks based on, for example, the data available for assessment purposes and/or the extent to which quantities on which management advice is based can be estimated. Four case‐studies (Australia's Southern and Eastern Scalefish and Shark Fishery, the USA west coast groundfishery, the USA Alaskan crab fishery and EU fisheries) are used to contrast the types of hierarchical tier systems available, and to assess the extent to which each system constrains risk to be equivalent among the tiers (termed risk equivalency). Only the Australian system explicitly aims to achieve risk equivalency. However, this intent has not been fully operationalized. Our review reveals that best practice is not to define tiers simply on data availability, but also on what the assessments based on those data are capable of estimating. In addition, clearly differentiating the quantification of uncertainty from how decision‐makers wish to address that uncertainty would simplify justification of buffers (the gap between the assessment‐produced target catch or effort and the final management decision that accounts for uncertainty and risk). Risk equivalency can be achieved using management strategy evaluation to select the values for control variables, which determine the buffer given the uncertainty associated with the assessment.",
+  "authors": [
+    {
+      "name": "Catherine M. Dichmont"
+    },
+    {
+      "name": "André E. Punt"
+    },
+    {
+      "name": "Natalie Dowling"
+    },
+    {
+      "name": "José Antônio Apparecido de Oliveira"
+    },
+    {
+      "name": "L. Richard Little"
+    },
+    {
+      "name": "Miriana Hijaz"
+    },
+    {
+      "name": "Elizabeth A. Fulton"
+    },
+    {
+      "name": "Rebecca Gorton"
+    },
+    {
+      "name": "Neil Klaer"
+    },
+    {
+      "name": "Malcolm Haddon"
+    },
+    {
+      "name": "David C. Smith"
+    }
+  ],
+  "publication_year": 2015,
+  "cited_by_count": 25,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1218902586",
+    "https://openalex.org/W1822104291",
+    "https://openalex.org/W1983503663",
+    "https://openalex.org/W2003996150",
+    "https://openalex.org/W2009589820",
+    "https://openalex.org/W2019770172",
+    "https://openalex.org/W2027740187",
+    "https://openalex.org/W2038475194",
+    "https://openalex.org/W2048286669",
+    "https://openalex.org/W2065428622",
+    "https://openalex.org/W2091512683",
+    "https://openalex.org/W2100629188",
+    "https://openalex.org/W2107242177",
+    "https://openalex.org/W2126475261",
+    "https://openalex.org/W2138522489",
+    "https://openalex.org/W2140992905",
+    "https://openalex.org/W2152353861",
+    "https://openalex.org/W2158095487",
+    "https://openalex.org/W2162787361",
+    "https://openalex.org/W2586886342",
+    "https://openalex.org/W2613442096",
+    "https://openalex.org/W2898163228",
+    "https://openalex.org/W3123681283"
+  ]
+}

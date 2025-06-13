@@ -1,0 +1,62 @@
+{
+  "id": "https://openalex.org/W2112029677",
+  "title": "Scenarios involving future climate and water extraction: ecosystem states in the estuary of Australia's largest river",
+  "abstract": "Management of natural resources, particularly water, increasingly requires that likely benefits of particular actions (e.g., allocating an environmental flow) are quantified in advance. Therefore, new techniques are required that enable those potential benefits to be objectively compared among competing options for management (e.g., compared to a \"do nothing\" scenario). Scenario modeling is one method for developing such an objective comparison. We used existing hydrologic, hydrodynamic, and ecosystem response models for a case study location, the Coorong, an inverse estuary in South Australia, to illustrate the potential for such scenario modeling to inform natural resource management. We modeled a set of 12 scenarios that included different levels of water extraction, potential future climate change, and sea-level change, thereby enabling a comparison of the different drivers of possible future reductions in water availability in the Coorong. We discovered that potential future climate change combined with current extraction levels has the capacity to devastate the ecology of the Coorong, but also that much of the degradation could be averted by reducing upstream extractions of water. The inclusion of possible sea-level change had a surprising effect, whereby higher sea levels increased hydrodynamic connectivity between the Coorong's two lagoons. Increased hydrodynamic connectivity limited the occurrence of extremely low water levels and high salinities due to evapoconcentration that were simulated for dry future climates in the absence of sea-level rise. These findings strongly suggest that future ecological degradation in the Coorong is not a foregone conclusion, and that management decisions regarding water allocations upstream will determine the ecological future of this coastal lagoon.",
+  "authors": [
+    {
+      "name": "Rebecca E. Lester"
+    },
+    {
+      "name": "Peter G. Fairweather"
+    },
+    {
+      "name": "Ian T. Webster"
+    },
+    {
+      "name": "Rebecca A. Quin"
+    }
+  ],
+  "publication_year": 2013,
+  "cited_by_count": 7,
+  "primary_topic": "Oceanographic and Atmospheric Processes",
+  "subfield_topic": "Oceanography",
+  "field_topic": "Earth and Planetary Sciences",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1516331600",
+    "https://openalex.org/W1531678334",
+    "https://openalex.org/W1972205504",
+    "https://openalex.org/W1984517100",
+    "https://openalex.org/W1993897679",
+    "https://openalex.org/W2002235512",
+    "https://openalex.org/W2014450748",
+    "https://openalex.org/W2018419185",
+    "https://openalex.org/W2028559880",
+    "https://openalex.org/W2047677813",
+    "https://openalex.org/W2057384137",
+    "https://openalex.org/W2063429723",
+    "https://openalex.org/W2075197853",
+    "https://openalex.org/W2086230558",
+    "https://openalex.org/W2088635555",
+    "https://openalex.org/W2095109058",
+    "https://openalex.org/W2095817934",
+    "https://openalex.org/W2116792313",
+    "https://openalex.org/W2130041443",
+    "https://openalex.org/W2135557641",
+    "https://openalex.org/W2142097385",
+    "https://openalex.org/W2145145490",
+    "https://openalex.org/W2150457759",
+    "https://openalex.org/W2150540126",
+    "https://openalex.org/W2156353061",
+    "https://openalex.org/W2160397792",
+    "https://openalex.org/W2168111388",
+    "https://openalex.org/W2171660312",
+    "https://openalex.org/W2556946381",
+    "https://openalex.org/W2622978170",
+    "https://openalex.org/W4238764034",
+    "https://openalex.org/W4251430684",
+    "https://openalex.org/W4298386985",
+    "https://openalex.org/W624615286",
+    "https://openalex.org/W64981298"
+  ]
+}

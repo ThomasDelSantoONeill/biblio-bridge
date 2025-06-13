@@ -1,0 +1,45 @@
+{
+  "id": "https://openalex.org/W4213053990",
+  "title": "Memory Consolidation",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "Rafael Roesler"
+    },
+    {
+      "name": "J.L. McGaugh"
+    }
+  ],
+  "publication_year": 2019,
+  "cited_by_count": 8,
+  "primary_topic": "Memory and Neural Mechanisms",
+  "subfield_topic": "Cognitive Neuroscience",
+  "field_topic": "Neuroscience",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1966399026",
+    "https://openalex.org/W1974214885",
+    "https://openalex.org/W1978951493",
+    "https://openalex.org/W1980024704",
+    "https://openalex.org/W1998830506",
+    "https://openalex.org/W1999704907",
+    "https://openalex.org/W2002140212",
+    "https://openalex.org/W2006848499",
+    "https://openalex.org/W2009782005",
+    "https://openalex.org/W2013732069",
+    "https://openalex.org/W2013880564",
+    "https://openalex.org/W2035085103",
+    "https://openalex.org/W2054017008",
+    "https://openalex.org/W2069566702",
+    "https://openalex.org/W2078195513",
+    "https://openalex.org/W2093915036",
+    "https://openalex.org/W2104643304",
+    "https://openalex.org/W2122682406",
+    "https://openalex.org/W2164751282",
+    "https://openalex.org/W2172149172",
+    "https://openalex.org/W2605764604",
+    "https://openalex.org/W4211021876",
+    "https://openalex.org/W4245500012",
+    "https://openalex.org/W569581582"
+  ]
+}

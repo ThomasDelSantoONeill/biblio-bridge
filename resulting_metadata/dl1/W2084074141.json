@@ -1,0 +1,27 @@
+{
+  "id": "https://openalex.org/W2084074141",
+  "title": "Interactions Oetween Arenicola marina and Zostera noltii on a tidal flat in the Wadden Sea",
+  "abstract": "On the tidal flats off Terschelling in the Dutch Wadden Sea, the seagrass Zostera noltii Hornem.and adult lugworms Arenicola marina L. show strictly separate distributions with an abrupt border between the 2 communities.Since seagrass and lugworms do not show different limitations regarding sediment type and emersion period, the border must be the result of other environmental factors or plant-animal interactions.Transplantation experiments on the tidal flats showed that the seagrass was quite capable of growing on the lugworm tidal flat when worms were absent However, the seagrass density and biomass were severely influenced in the presence of lugworms, most probably due to the worms' sediment-reworking activities.Lugworms quickly disappeared from the experimental sites on the seagrass tidal flat, irrespective of the actual presence of seagrass.A local survey of the seagrass area showed that funnel formation by lugworms to sufficient depth was restricted by a dense clay layer under the sediment surface, a remnant of a former salt marsh.These results indicate that an increase of lugworm densities in the Dutch Wadden Sea may have contributed to the decrease of the area covered by Z. noltii on the tidal flats off Terschelling over the last 20 yr.",
+  "authors": [
+    {
+      "name": "CJM Philippart"
+    }
+  ],
+  "publication_year": 1994,
+  "cited_by_count": 94,
+  "primary_topic": "Marine and coastal plant biology",
+  "subfield_topic": "Oceanography",
+  "field_topic": "Earth and Planetary Sciences",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1980445389",
+    "https://openalex.org/W2001064112",
+    "https://openalex.org/W2021066659",
+    "https://openalex.org/W2037367094",
+    "https://openalex.org/W2045230124",
+    "https://openalex.org/W2054329237",
+    "https://openalex.org/W2162036423",
+    "https://openalex.org/W2994673277",
+    "https://openalex.org/W628569189"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "https://openalex.org/W2144636407",
+  "title": "Evolution and Optimum Seeking",
+  "abstract": "Problems and Methods of Optimization Hill Climbing Strategies Random Strategies Evolution Strategies for Numerical Optimization Comparison of Direct Search Strategies for Parameter Optimization.",
+  "authors": [
+    {
+      "name": "Hans–Paul Schwefel"
+    }
+  ],
+  "publication_year": 1995,
+  "cited_by_count": 2242,
+  "primary_topic": "Metaheuristic Optimization Algorithms Research",
+  "subfield_topic": "Artificial Intelligence",
+  "field_topic": "Computer Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": []
+}

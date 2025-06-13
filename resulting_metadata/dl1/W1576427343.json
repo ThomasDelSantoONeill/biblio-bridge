@@ -1,0 +1,56 @@
+{
+  "id": "https://openalex.org/W1576427343",
+  "title": "An exploration of the shapes and stability of population–selection curves",
+  "abstract": "Abstract Fishing operations on any given stock rarely generate fishing mortality that is uniform across all ages and sizes. Population‐selectivity refers to a scaled version of the age‐ or size‐specific fishing mortality experienced by a fish population. Although it is common to apply a sigmoid logistic curve for the selectivity produced by many kinds of fishing gear, the general characteristics of population–selection curves have not been well examined. In this study, generalized additive models were fit to sets of selection coefficients taken from 15 recent stock assessments conducted using the virtual population analysis approach. The selection coefficients predicted by the models provided smoothed representations of the shapes and temporal dynamics of selectivity. Four broad types of selectivity were found: increasing, asymptotic, domed, and having a saddle. Four specific cases, each dominated by one type of selection curve, were examined in detail. For all 15 stocks, the population–selection curves were not stable through time but underwent changes in shape, which in some cases were quite radical. Temporal variation in population‐selectivity has important implications for the conduct of fisheries modelling activities such as evaluating management strategies and forecasting catch and stock size.",
+  "authors": [
+    {
+      "name": "David B. Sampson"
+    },
+    {
+      "name": "Robert Scott"
+    }
+  ],
+  "publication_year": 2011,
+  "cited_by_count": 55,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W142584611",
+    "https://openalex.org/W1589375716",
+    "https://openalex.org/W1969659314",
+    "https://openalex.org/W1982456720",
+    "https://openalex.org/W1982906729",
+    "https://openalex.org/W2000708384",
+    "https://openalex.org/W2017851579",
+    "https://openalex.org/W2023979861",
+    "https://openalex.org/W2030437201",
+    "https://openalex.org/W2038450616",
+    "https://openalex.org/W2063680695",
+    "https://openalex.org/W2064170982",
+    "https://openalex.org/W2067132091",
+    "https://openalex.org/W2069173820",
+    "https://openalex.org/W2083854664",
+    "https://openalex.org/W2097626074",
+    "https://openalex.org/W2107530575",
+    "https://openalex.org/W2109301037",
+    "https://openalex.org/W2126584153",
+    "https://openalex.org/W2144367368",
+    "https://openalex.org/W2155348895",
+    "https://openalex.org/W2164390901",
+    "https://openalex.org/W2168883058",
+    "https://openalex.org/W2173265752",
+    "https://openalex.org/W2189553694",
+    "https://openalex.org/W2288703418",
+    "https://openalex.org/W2289635680",
+    "https://openalex.org/W2290066144",
+    "https://openalex.org/W2737188232",
+    "https://openalex.org/W2738035272",
+    "https://openalex.org/W2791935073",
+    "https://openalex.org/W2886276506",
+    "https://openalex.org/W4249303080",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W4292411114"
+  ]
+}

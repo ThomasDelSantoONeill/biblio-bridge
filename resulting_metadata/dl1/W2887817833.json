@@ -1,0 +1,91 @@
+{
+  "id": "https://openalex.org/W2887817833",
+  "title": "A general framework for combining ecosystem models",
+  "abstract": "Abstract When making predictions about ecosystems, we often have available a number of different ecosystem models that attempt to represent their dynamics in a detailed mechanistic way. Each of these can be used as a simulator of large‐scale experiments and make projections about the fate of ecosystems under different scenarios to support the development of appropriate management strategies. However, structural differences, systematic discrepancies and uncertainties lead to different models giving different predictions. This is further complicated by the fact that the models may not be run with the same functional groups, spatial structure or time scale. Rather than simply trying to select a “best” model, or taking some weighted average, it is important to exploit the strengths of each of the models, while learning from the differences between them. To achieve this, we construct a flexible statistical model of the relationships between a collection of mechanistic models and their biases, allowing for structural and parameter uncertainty and for different ways of representing reality. Using this statistical meta‐model, we can combine prior beliefs, model estimates and direct observations using Bayesian methods and make coherent predictions of future outcomes under different scenarios with robust measures of uncertainty. In this study, we take a diverse ensemble of existing North Sea ecosystem models and demonstrate the utility of our framework by applying it to answer the question what would have happened to demersal fish if fishing was to stop.",
+  "authors": [
+    {
+      "name": "Michael A. Spence"
+    },
+    {
+      "name": "Julia L. Blanchard"
+    },
+    {
+      "name": "Axel G. Rossberg"
+    },
+    {
+      "name": "Michael R. Heath"
+    },
+    {
+      "name": "Johanna J. Heymans"
+    },
+    {
+      "name": "Steven Mackinson"
+    },
+    {
+      "name": "Natalia Serpetti"
+    },
+    {
+      "name": "Douglas C. Speirs"
+    },
+    {
+      "name": "Robert Thorpe"
+    },
+    {
+      "name": "Paul G. Blackwell"
+    }
+  ],
+  "publication_year": 2018,
+  "cited_by_count": 72,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1265389026",
+    "https://openalex.org/W1545319692",
+    "https://openalex.org/W1565512823",
+    "https://openalex.org/W1796961055",
+    "https://openalex.org/W1983053275",
+    "https://openalex.org/W1984415881",
+    "https://openalex.org/W1988520084",
+    "https://openalex.org/W1990004856",
+    "https://openalex.org/W1997699070",
+    "https://openalex.org/W2003512581",
+    "https://openalex.org/W2012460928",
+    "https://openalex.org/W2032299358",
+    "https://openalex.org/W2065637266",
+    "https://openalex.org/W2071413187",
+    "https://openalex.org/W2086518425",
+    "https://openalex.org/W2086702626",
+    "https://openalex.org/W2088259229",
+    "https://openalex.org/W2088592180",
+    "https://openalex.org/W2090712114",
+    "https://openalex.org/W2102360969",
+    "https://openalex.org/W2117709578",
+    "https://openalex.org/W2122974269",
+    "https://openalex.org/W2124669512",
+    "https://openalex.org/W2146081698",
+    "https://openalex.org/W2146443948",
+    "https://openalex.org/W2151110226",
+    "https://openalex.org/W2161323965",
+    "https://openalex.org/W2167041787",
+    "https://openalex.org/W2189124356",
+    "https://openalex.org/W2220466036",
+    "https://openalex.org/W2327040627",
+    "https://openalex.org/W2328570158",
+    "https://openalex.org/W2471055439",
+    "https://openalex.org/W2477709421",
+    "https://openalex.org/W2519103570",
+    "https://openalex.org/W2581347737",
+    "https://openalex.org/W2586055457",
+    "https://openalex.org/W2590011145",
+    "https://openalex.org/W2591487375",
+    "https://openalex.org/W2614771834",
+    "https://openalex.org/W2781882786",
+    "https://openalex.org/W2963402777",
+    "https://openalex.org/W2963977107",
+    "https://openalex.org/W4236387230",
+    "https://openalex.org/W4248681815",
+    "https://openalex.org/W763007321"
+  ]
+}

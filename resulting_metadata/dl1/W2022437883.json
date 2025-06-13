@@ -1,0 +1,53 @@
+{
+  "id": "https://openalex.org/W2022437883",
+  "title": "Plant Species Diversity in a Marine Intertidal Community: Importance of Herbivore Food Preference and Algal Competitive Abilities",
+  "abstract": "Field experiments demonstrate that the herbivorous marine snail Littorina littorea controls the abundance and type of algae in high intertidal tide pools in New England. Here the highest species diversity of algae occurs at intermediate Littorina densities. This unimodal relationship between algal species diversity and herbivore density occurs because the snail's preferred food is competitively dominant in tide pool habitats. Moderate grazing allows inferior algal species to persist and intense grazing eliminates most individuals and species. In contrast to pools, on emergent substrata where the preferred food is competitively inferior, this herbivore decreases algal diversity. Thus, the effect of this consumer on plant species diversity depends on the relationship between herbivore food preference and competitive abilities of the plants. These results may apply to most generalized consumers and provide a framework within which previously confusing results can be understood. Thus predators or herbivores do not simply increase or decrease species diversity of their food, but can potentially do both. The precise effect a consumer has probably depends both on the relationship between its preferences and the food's competitive abilities and on the intensity of the grazing or predation pressure.",
+  "authors": [
+    {
+      "name": "Jane Lubchenco"
+    }
+  ],
+  "publication_year": 1978,
+  "cited_by_count": 1101,
+  "primary_topic": "Marine and coastal plant biology",
+  "subfield_topic": "Oceanography",
+  "field_topic": "Earth and Planetary Sciences",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1487200503",
+    "https://openalex.org/W154610463",
+    "https://openalex.org/W1859637882",
+    "https://openalex.org/W1972409624",
+    "https://openalex.org/W1973688100",
+    "https://openalex.org/W1974072473",
+    "https://openalex.org/W1978955541",
+    "https://openalex.org/W1980255625",
+    "https://openalex.org/W2022114069",
+    "https://openalex.org/W2028080399",
+    "https://openalex.org/W2029732055",
+    "https://openalex.org/W2029796932",
+    "https://openalex.org/W2041491516",
+    "https://openalex.org/W2042055120",
+    "https://openalex.org/W2045806495",
+    "https://openalex.org/W2052231134",
+    "https://openalex.org/W2054570365",
+    "https://openalex.org/W2054637019",
+    "https://openalex.org/W2073264590",
+    "https://openalex.org/W2073289273",
+    "https://openalex.org/W2091777825",
+    "https://openalex.org/W2113007429",
+    "https://openalex.org/W2120407203",
+    "https://openalex.org/W2122296071",
+    "https://openalex.org/W2150218896",
+    "https://openalex.org/W2318158426",
+    "https://openalex.org/W2321937847",
+    "https://openalex.org/W2331203503",
+    "https://openalex.org/W2405033370",
+    "https://openalex.org/W2806270070",
+    "https://openalex.org/W2962874606",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W5580933",
+    "https://openalex.org/W5777460",
+    "https://openalex.org/W75209568"
+  ]
+}

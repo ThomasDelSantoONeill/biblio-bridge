@@ -1,0 +1,79 @@
+{
+  "id": "https://openalex.org/W2324965891",
+  "title": "Management performance of ecological indicators in the Georges Bank finfish fishery",
+  "abstract": "Abstract Successful implementation of Ecosystem-Based Fisheries Management (EBFM) requires appropriate action as informed by reference points in an ecosystem context. Thresholds in the response of ecological indicators to system drivers have been suggested as reference points for EBFM, though the management performance of these indicators and possible values for their reference points have not been widely evaluated. We used Management Strategy Evaluation to test the performance of control rules that used ecological indicators to adjust the advice from single-species stock assessments, using the Georges Bank finfish fishery as a case study. We compare the performance of control rules that used ecological indicators to that of single-species FMSY control rules when the system dynamics were governed by the same multispecies population model. Control rules that used indicator-based reference points were able to perform better against catch and biodiversity objectives than when harvests were based on single-species advice alone. Indicators and values for reference points associated with good performance varied depending on the management objective. We quantified tradeoffs between total catch, biodiversity, and interannual variability in catch, noting that it was possible in some instances to achieve higher than average biodiversity while maintaining high catches using indicator-based control rules. While improved performance was noted using ecological indicators, outcomes were variable, and the gains in performance obtained may be similar to alternative methods of implementing precaution in single-species fishery control rules.",
+  "authors": [
+    {
+      "name": "Gavin Fay"
+    },
+    {
+      "name": "Jason S. Link"
+    },
+    {
+      "name": "Scott I. Large"
+    },
+    {
+      "name": "Robert J. Gamble"
+    }
+  ],
+  "publication_year": 2014,
+  "cited_by_count": 22,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1517555081",
+    "https://openalex.org/W1968466770",
+    "https://openalex.org/W1970915311",
+    "https://openalex.org/W1975231833",
+    "https://openalex.org/W1980700305",
+    "https://openalex.org/W1993108101",
+    "https://openalex.org/W2004037061",
+    "https://openalex.org/W2005086978",
+    "https://openalex.org/W2007881614",
+    "https://openalex.org/W2012800330",
+    "https://openalex.org/W2014085562",
+    "https://openalex.org/W2020063839",
+    "https://openalex.org/W2029006929",
+    "https://openalex.org/W2048286669",
+    "https://openalex.org/W2051806801",
+    "https://openalex.org/W2055402323",
+    "https://openalex.org/W2063804786",
+    "https://openalex.org/W2064548693",
+    "https://openalex.org/W2068360094",
+    "https://openalex.org/W2069165134",
+    "https://openalex.org/W2090527037",
+    "https://openalex.org/W2093603746",
+    "https://openalex.org/W2100629188",
+    "https://openalex.org/W2100890885",
+    "https://openalex.org/W2103423125",
+    "https://openalex.org/W2105755511",
+    "https://openalex.org/W2107242177",
+    "https://openalex.org/W2117809916",
+    "https://openalex.org/W2120830385",
+    "https://openalex.org/W2125656394",
+    "https://openalex.org/W2126475261",
+    "https://openalex.org/W2127032204",
+    "https://openalex.org/W2128180742",
+    "https://openalex.org/W2128735565",
+    "https://openalex.org/W2137523123",
+    "https://openalex.org/W2144872997",
+    "https://openalex.org/W2145378599",
+    "https://openalex.org/W2148311895",
+    "https://openalex.org/W2149876375",
+    "https://openalex.org/W2153743395",
+    "https://openalex.org/W2154277394",
+    "https://openalex.org/W2156523992",
+    "https://openalex.org/W2156695268",
+    "https://openalex.org/W2160792582",
+    "https://openalex.org/W2167607966",
+    "https://openalex.org/W2169266866",
+    "https://openalex.org/W2185517354",
+    "https://openalex.org/W2322234741",
+    "https://openalex.org/W2330425575",
+    "https://openalex.org/W2331305604",
+    "https://openalex.org/W2738126223",
+    "https://openalex.org/W2797581504"
+  ]
+}

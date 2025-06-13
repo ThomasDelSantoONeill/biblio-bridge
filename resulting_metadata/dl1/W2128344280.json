@@ -1,0 +1,69 @@
+{
+  "id": "https://openalex.org/W2128344280",
+  "title": "Predicting marine phytoplankton community size structure from empirical relationships with remotely sensed variables",
+  "abstract": "The size composition of primary producers has a potential influence on the length of marine food chains and carbon sinking rates, thus on the proportion of primary production (PP) that is removed from the upper layers and available to higher trophic levels. While total rates of PP are widely reported, it is also necessary to account for the size composition of primary producers when developing food web models that predict consumer biomass and production. Empirical measurement of size composition over large space and time scales is not feasible, so one approach is to predict size composition from environmental variables that are measured and reported on relevant scales. Here, we describe relationships between the environment and the size composition of phytoplankton communities, using a collation of empirical measurements of size composition from sites that include polar, tropical and upwelling environments. The size composition of the phytoplankton communities can be predicted using two remotely sensed variables, chlorophyll-a concentration and sea surface temperature. Applying such relationships in combination allows prediction of the slope and location of phytoplankton size spectra and estimation of the percentage of different sized phytoplankton groups in communities.",
+  "authors": [
+    {
+      "name": "Carolyn Barnes"
+    },
+    {
+      "name": "Xabier Irigoien"
+    },
+    {
+      "name": "José Antônio Apparecido de Oliveira"
+    },
+    {
+      "name": "David Maxwell"
+    },
+    {
+      "name": "Simon Jennings"
+    }
+  ],
+  "publication_year": 2010,
+  "cited_by_count": 66,
+  "primary_topic": "Marine and coastal ecosystems",
+  "subfield_topic": "Oceanography",
+  "field_topic": "Earth and Planetary Sciences",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1580452789",
+    "https://openalex.org/W1979957360",
+    "https://openalex.org/W1981420541",
+    "https://openalex.org/W1999073163",
+    "https://openalex.org/W2003615897",
+    "https://openalex.org/W2009239184",
+    "https://openalex.org/W2013849888",
+    "https://openalex.org/W2015957072",
+    "https://openalex.org/W2029028922",
+    "https://openalex.org/W2029100467",
+    "https://openalex.org/W2029999913",
+    "https://openalex.org/W2034442655",
+    "https://openalex.org/W2035730201",
+    "https://openalex.org/W2038720636",
+    "https://openalex.org/W2049051125",
+    "https://openalex.org/W2050873627",
+    "https://openalex.org/W2064313964",
+    "https://openalex.org/W2081573292",
+    "https://openalex.org/W2086702626",
+    "https://openalex.org/W2093463708",
+    "https://openalex.org/W2097669257",
+    "https://openalex.org/W2108084128",
+    "https://openalex.org/W2110116737",
+    "https://openalex.org/W2110256211",
+    "https://openalex.org/W2111273878",
+    "https://openalex.org/W2113820674",
+    "https://openalex.org/W2116721474",
+    "https://openalex.org/W2119893467",
+    "https://openalex.org/W2123589240",
+    "https://openalex.org/W2123966228",
+    "https://openalex.org/W2128995069",
+    "https://openalex.org/W2131725208",
+    "https://openalex.org/W2143182887",
+    "https://openalex.org/W2145057264",
+    "https://openalex.org/W2147345950",
+    "https://openalex.org/W2148636866",
+    "https://openalex.org/W2171599533",
+    "https://openalex.org/W2582743722",
+    "https://openalex.org/W594325859"
+  ]
+}

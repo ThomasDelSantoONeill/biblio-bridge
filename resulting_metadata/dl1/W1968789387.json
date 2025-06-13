@@ -1,0 +1,65 @@
+{
+  "id": "https://openalex.org/W1968789387",
+  "title": "Qualitative mathematical models to support ecosystem‐based management of Australia's Northern Prawn Fishery",
+  "abstract": "A major decline in the catch of the banana prawn [shrimp], Penaeus ( Fenneropenaeus ) merguiensis , occurred over a six‐year period in the Weipa region of the northeastern Gulf of Carpentaria, Australia. Three main hypotheses have been developed to explain this decline: (1) prawn recruitment collapsed due to overfishing; (2) recruitment collapsed due to a change in the prawn's environment; and (3) adult banana prawns were still present, but fishers could no longer effectively find or catch them. Qualitative mathematical models were used to link population biology, environmental factors, and fishery dynamics to evaluate the alternative hypotheses. This modeling approach provides the means to rapidly integrate knowledge across disciplines and consider alternative hypotheses about how the structure and function of an ecosystem affects its dynamics. Alternative models were constructed to address the different hypotheses and also to encompass a diversity of opinion about the underlying dynamics of the system. Key findings from these analyses are that: instability in the system can arise when discarded fishery bycatch supports relatively high predation pressure; system stability can be enhanced by management of fishing effort or stock catchability; catch per unit effort is not necessarily a reliable indicator of stock abundance; a change in early‐season rainfall should affect all stages in the banana prawn's life cycle; and a reduced catch in the Weipa region can create and reinforce a shift in fishing effort away from Weipa. Results from the models informed an approach to test the hypotheses (i.e., an experimental fishing program), and promoted understanding of the system among researchers, management agencies, and industry. The analytical tools developed in this work to address stages of a prawn life cycle and fishery dynamics are generally applicable to any exploited natural resource.",
+  "authors": [
+    {
+      "name": "Jeffrey M. Dambacher"
+    },
+    {
+      "name": "Peter C. Rothlisberg"
+    },
+    {
+      "name": "Neil R. Loneragan"
+    }
+  ],
+  "publication_year": 2015,
+  "cited_by_count": 42,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1512279977",
+    "https://openalex.org/W1573240776",
+    "https://openalex.org/W1894578421",
+    "https://openalex.org/W1965507411",
+    "https://openalex.org/W1980048599",
+    "https://openalex.org/W1983388626",
+    "https://openalex.org/W1984797993",
+    "https://openalex.org/W1990566709",
+    "https://openalex.org/W1993132599",
+    "https://openalex.org/W2000726664",
+    "https://openalex.org/W2006046394",
+    "https://openalex.org/W2010707998",
+    "https://openalex.org/W2016293090",
+    "https://openalex.org/W2021657044",
+    "https://openalex.org/W2043438813",
+    "https://openalex.org/W2050338278",
+    "https://openalex.org/W2055165357",
+    "https://openalex.org/W2061430939",
+    "https://openalex.org/W2068360094",
+    "https://openalex.org/W2069441324",
+    "https://openalex.org/W2082119996",
+    "https://openalex.org/W2096819563",
+    "https://openalex.org/W2099421102",
+    "https://openalex.org/W2105825430",
+    "https://openalex.org/W2107000290",
+    "https://openalex.org/W2116422701",
+    "https://openalex.org/W2119070620",
+    "https://openalex.org/W2123774274",
+    "https://openalex.org/W2126315380",
+    "https://openalex.org/W2127298459",
+    "https://openalex.org/W2133120933",
+    "https://openalex.org/W2136187322",
+    "https://openalex.org/W2147945290",
+    "https://openalex.org/W2149049530",
+    "https://openalex.org/W2168005276",
+    "https://openalex.org/W2288790301",
+    "https://openalex.org/W255661142",
+    "https://openalex.org/W4210260625",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W77364397",
+    "https://openalex.org/W79881952"
+  ]
+}

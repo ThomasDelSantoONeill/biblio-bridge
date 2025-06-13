@@ -1,0 +1,64 @@
+{
+  "id": "https://openalex.org/W2137600983",
+  "title": "Biodiversity lessens the risk of cascading extinction in model food webs",
+  "abstract": "Due to the complex interactions between species in food webs, the extinction of one species could lead to a cascade of further extinctions and hence cause dramatic changes in species composition and ecosystem processes. We found that the risk of additional species extinction, following the loss of one species in model food webs, decreases with the number of species per functional group. For a given number of species per functional group, the risk of further extinctions is highest when an autotroph is removed and lowest when a top predator is removed. In addition, stability decreases when the distribution of interaction strengths in the webs is changed from equal to skew (few strong and many weak links). We also found that omnivory appears to stabilize model food webs. Our results indicate that high biodiversity may serve as an insurance against radical ecosystem changes.",
+  "authors": [
+    {
+      "name": "Charlotte Borrvall"
+    },
+    {
+      "name": "Bo Ebenman"
+    },
+    {
+      "name": "Tomas Jönsson"
+    }
+  ],
+  "publication_year": 2000,
+  "cited_by_count": 317,
+  "primary_topic": "Plant and animal studies",
+  "subfield_topic": "Ecology, Evolution, Behavior and Systematics",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1503056460",
+    "https://openalex.org/W1558456135",
+    "https://openalex.org/W1649215506",
+    "https://openalex.org/W1650613930",
+    "https://openalex.org/W1964561454",
+    "https://openalex.org/W1975626823",
+    "https://openalex.org/W1977200897",
+    "https://openalex.org/W1980177068",
+    "https://openalex.org/W1986706966",
+    "https://openalex.org/W1987852776",
+    "https://openalex.org/W1988026685",
+    "https://openalex.org/W1999855446",
+    "https://openalex.org/W2006265485",
+    "https://openalex.org/W2014611299",
+    "https://openalex.org/W2016037098",
+    "https://openalex.org/W2016662457",
+    "https://openalex.org/W2022437883",
+    "https://openalex.org/W2035841992",
+    "https://openalex.org/W2037159992",
+    "https://openalex.org/W2037811913",
+    "https://openalex.org/W2048351718",
+    "https://openalex.org/W2049546703",
+    "https://openalex.org/W2050781579",
+    "https://openalex.org/W2054126322",
+    "https://openalex.org/W2054637019",
+    "https://openalex.org/W2072413027",
+    "https://openalex.org/W2090261889",
+    "https://openalex.org/W2109467374",
+    "https://openalex.org/W2142063041",
+    "https://openalex.org/W2154383837",
+    "https://openalex.org/W2163326970",
+    "https://openalex.org/W2165976254",
+    "https://openalex.org/W2168409038",
+    "https://openalex.org/W2178504862",
+    "https://openalex.org/W2185752871",
+    "https://openalex.org/W2315990401",
+    "https://openalex.org/W2320432931",
+    "https://openalex.org/W2320681200",
+    "https://openalex.org/W4237315514",
+    "https://openalex.org/W4291174900"
+  ]
+}

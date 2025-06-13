@@ -1,0 +1,48 @@
+{
+  "id": "https://openalex.org/W2122959420",
+  "title": "Performance of harvest control rules in a variable environment",
+  "abstract": "Abstract Brunel, T., Piet, G. J., van Hal, R., and Röckmann, C. 2010. Performance of harvest control rules in a variable environment. – ICES Journal of Marine Science, 67: 1051–1062. Population dynamic models used for fisheries management assume that stocks are isolated entities, ignoring the influence of environmental factors on stock productivity. An operating model parameterized for North Sea cod, plaice, and herring is developed, in which the link between recruitment and environment is assumed to be known and described by generalized additive models. This tool is used to compare the performance of harvest control rules (HCRs) when recruitment is independent of the environment or when recruitment is affected by an environment varying according to different scenarios. The first HCR exploited the stock with a fixed fishing mortality (F) corresponding to maximum sustainable yield, and in the second HCR, F was set equal to the precautionary approach F (i.e. Fpa), but reduced from Fpa when stock biomass fell below Bpa. The performance of the HCRs altered only slightly in a randomly varying environment compared with a constant one. For a detrimental change in the environment, however, no HCR could prevent a massive decrease in stock size. The performance of the HCRs was also influenced by the stock characteristics, such as recruitment variability or the shape of the stock–recruitment relationship. The performance of “environmental” HCRs (eHCRs), in which F varies depending on environmental conditions, was compared with that of conventional HCRs. The gain in using the eHCR was small, except for a detrimental change in the environment, where the eHCR performed markedly better than a conventional HCR. The benefits of using the eHCR were the greatest for the stock with the strongest environment–recruitment relationship.",
+  "authors": [
+    {
+      "name": "Thomas Brunel"
+    },
+    {
+      "name": "G.J. Piet"
+    },
+    {
+      "name": "R. van Hal"
+    },
+    {
+      "name": "Christine Röckmann"
+    }
+  ],
+  "publication_year": 2010,
+  "cited_by_count": 27,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1759754829",
+    "https://openalex.org/W1972379970",
+    "https://openalex.org/W1990126545",
+    "https://openalex.org/W1993989949",
+    "https://openalex.org/W2008598417",
+    "https://openalex.org/W2025113108",
+    "https://openalex.org/W2058514690",
+    "https://openalex.org/W2067158571",
+    "https://openalex.org/W2103423125",
+    "https://openalex.org/W2114387920",
+    "https://openalex.org/W2140160734",
+    "https://openalex.org/W2142052460",
+    "https://openalex.org/W2147731173",
+    "https://openalex.org/W2157609210",
+    "https://openalex.org/W2161555108",
+    "https://openalex.org/W2170169136",
+    "https://openalex.org/W2196224392",
+    "https://openalex.org/W2466838009",
+    "https://openalex.org/W2506330813",
+    "https://openalex.org/W2914252064",
+    "https://openalex.org/W3199808132"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "https://openalex.org/W2114208341",
+  "title": "Species Packing and Predation Pressure",
+  "abstract": "The hypothesis that predation presure permits increased niche overlap among prey species is sustained by analysis of a model in which a predator poplulation has been added to the three species \"limiting similarity\" model of MacArthur and Levins (1967). Also, it is predicted that there is a relation between the niche separation distances among prey and properties of the predators, and that if predation pressure is strong enough there is no limiting similarity among prey; i.e., complete niche overlap should be possible.",
+  "authors": [
+    {
+      "name": "Jonathan Roughgarden"
+    },
+    {
+      "name": "Marcus W. Feldman"
+    }
+  ],
+  "publication_year": 1975,
+  "cited_by_count": 209,
+  "primary_topic": "Plant and animal studies",
+  "subfield_topic": "Ecology, Evolution, Behavior and Systematics",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1969764755",
+    "https://openalex.org/W1973833797",
+    "https://openalex.org/W1978221314",
+    "https://openalex.org/W1994507967",
+    "https://openalex.org/W1995511721",
+    "https://openalex.org/W1997503757",
+    "https://openalex.org/W1997741604",
+    "https://openalex.org/W2024011231",
+    "https://openalex.org/W2026107823",
+    "https://openalex.org/W2032839068",
+    "https://openalex.org/W2048365948",
+    "https://openalex.org/W2060759128",
+    "https://openalex.org/W2067794712",
+    "https://openalex.org/W2067889410",
+    "https://openalex.org/W2076661162",
+    "https://openalex.org/W2094525383",
+    "https://openalex.org/W2097003586",
+    "https://openalex.org/W2606347989",
+    "https://openalex.org/W4248709400"
+  ]
+}

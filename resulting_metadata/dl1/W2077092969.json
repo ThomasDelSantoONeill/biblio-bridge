@@ -1,0 +1,36 @@
+{
+  "id": "https://openalex.org/W2077092969",
+  "title": "Single and multispecies reference points for Baltic fish stocks",
+  "abstract": "Single and multispecies models are used to examine the effect of species interaction on biological reference points for cod, herring, and sprat in the Baltic. The results demonstrate that reference points are different in single and multispecies contexts. Reference points for fishing mortality based on single-species yield and SSB calculations are difficult to use when natural mortality depends on the absolute abundance of the predators and their alternative prey. Reference points based on maximizing total yield from the system may lead to impractical results when species interact. Multispecies predictions suggest that the cod stock in the Baltic should be reduced to a very low level of biomass in order to benefit from the higher productivity of herring and sprat, its major prey. Such a result stresses the need for incorporating socio-economic considerations in the definition of target reference points. Management advice based on biomass reference points will also differ. In the single species situation the combinations of cod and pelagic fishing effort for which the equilibrium spawning-stock biomass of the three species is above the biomass reference points forms a rectangular area. When biological interaction is taken into account the limits of this area becomes curved. Reference limits for forage fish cannot be defined without considering changes in the biomass of their natural predators. Likewise, reference limits for predators cannot be defined without considering changes in the biomass of their prey.",
+  "authors": [
+    {
+      "name": "Henrik Gislason"
+    }
+  ],
+  "publication_year": 1999,
+  "cited_by_count": 112,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1218902586",
+    "https://openalex.org/W1599127549",
+    "https://openalex.org/W191104000",
+    "https://openalex.org/W1985342263",
+    "https://openalex.org/W2000557188",
+    "https://openalex.org/W2041329239",
+    "https://openalex.org/W2045101665",
+    "https://openalex.org/W204940627",
+    "https://openalex.org/W2054297660",
+    "https://openalex.org/W2100891518",
+    "https://openalex.org/W2103091051",
+    "https://openalex.org/W2149449654",
+    "https://openalex.org/W2319252967",
+    "https://openalex.org/W2479210057",
+    "https://openalex.org/W2616690807",
+    "https://openalex.org/W2788660638",
+    "https://openalex.org/W3216061933",
+    "https://openalex.org/W623065098"
+  ]
+}

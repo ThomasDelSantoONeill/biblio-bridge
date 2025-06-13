@@ -1,0 +1,49 @@
+{
+  "id": "https://openalex.org/W2091080718",
+  "title": "A field experiment demonstrating the influence of seabird guano on intertidal primary production",
+  "abstract": "No abstract available",
+  "authors": [
+    {
+      "name": "A. L. Bosman"
+    },
+    {
+      "name": "Du Toit"
+    },
+    {
+      "name": "Philip A. R. Hockey"
+    },
+    {
+      "name": "George M. Branch"
+    }
+  ],
+  "publication_year": 1986,
+  "cited_by_count": 80,
+  "primary_topic": "Marine and coastal plant biology",
+  "subfield_topic": "Oceanography",
+  "field_topic": "Earth and Planetary Sciences",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1526426179",
+    "https://openalex.org/W1542162133",
+    "https://openalex.org/W1969039738",
+    "https://openalex.org/W1983622992",
+    "https://openalex.org/W1985289443",
+    "https://openalex.org/W1986611508",
+    "https://openalex.org/W1996963719",
+    "https://openalex.org/W2003367024",
+    "https://openalex.org/W2022453116",
+    "https://openalex.org/W2032641814",
+    "https://openalex.org/W2035454980",
+    "https://openalex.org/W2041101271",
+    "https://openalex.org/W2091250005",
+    "https://openalex.org/W2167802439",
+    "https://openalex.org/W2285694192",
+    "https://openalex.org/W2320332485",
+    "https://openalex.org/W2338120464",
+    "https://openalex.org/W3111723560",
+    "https://openalex.org/W3153392073",
+    "https://openalex.org/W4242531998",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W581131226"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "https://openalex.org/W2122405195",
+  "title": "Competition Among Cladocera",
+  "abstract": "In situ enclosure experiments were used to asses the importance of competition to the population dynamics of three cladocerans (Daphnia pulex, Moina affinis, and Ceriodaphnia sp.) in a small pond. Competitive effects were nonlinear functions of cladoceran density, and both intra and interspecific competition were important determinants of the dynamics of the pond populations. The data suggested that the degree of competition was dependent on resource levels and the age of competitors. The major pond predator, Chaoborus, was able to control prey populations only when the densities of prey and phytoplankton were low.",
+  "authors": [
+    {
+      "name": "Daniel W. Smith"
+    },
+    {
+      "name": "Scott D. Cooper"
+    }
+  ],
+  "publication_year": 1982,
+  "cited_by_count": 93,
+  "primary_topic": "Aquatic Ecosystems and Phytoplankton Dynamics",
+  "subfield_topic": "Environmental Chemistry",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1590052930",
+    "https://openalex.org/W1967198234",
+    "https://openalex.org/W1983956066",
+    "https://openalex.org/W1988640764",
+    "https://openalex.org/W2010981035",
+    "https://openalex.org/W2022707516",
+    "https://openalex.org/W2028435430",
+    "https://openalex.org/W2034018175",
+    "https://openalex.org/W2044424534",
+    "https://openalex.org/W2046503622",
+    "https://openalex.org/W2058258194",
+    "https://openalex.org/W2068211543",
+    "https://openalex.org/W2312921925",
+    "https://openalex.org/W2316434652",
+    "https://openalex.org/W2334161168",
+    "https://openalex.org/W2542547434",
+    "https://openalex.org/W64096637"
+  ]
+}

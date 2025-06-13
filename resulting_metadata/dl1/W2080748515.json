@@ -1,0 +1,66 @@
+{
+  "id": "https://openalex.org/W2080748515",
+  "title": "Press perturbations and indirect effects in real food webs",
+  "abstract": "The prediction of the effects of disturbances in natural systems is limited by the general lack of knowledge on the strength of species interactions, i.e., the effect of one species on the population growth rate of another, and by the uncertainty of the effects that may be manifested via indirect pathways within the food web. Here we explored the consequences of changes in species populations for the remaining species within nine exceptionally well-characterized empirical food webs, for which, unlike the vast majority of other published webs, feeding links have been fully quantified. Using the inverse of the Jacobian matrix, we found that perturbations to species with few connections have larger net effects (considering both direct and indirect pathways between two species) on the rest of the food web than do disturbances to species that are highly connected. For 40% of predator-prey links, predators had positive net effects on prey populations, due to the predominance of indirect interactions. Our results highlight the fundamental, but often counterintuitive, role of indirect effects for the maintenance of food web complexity and biodiversity.",
+  "authors": [
+    {
+      "name": "José M. Montoya"
+    },
+    {
+      "name": "Guy Woodward"
+    },
+    {
+      "name": "Mark Emmerson"
+    },
+    {
+      "name": "Ricard V. Solé"
+    }
+  ],
+  "publication_year": 2009,
+  "cited_by_count": 166,
+  "primary_topic": "Plant and animal studies",
+  "subfield_topic": "Ecology, Evolution, Behavior and Systematics",
+  "field_topic": "Agricultural and Biological Sciences",
+  "domain_topic": "Life Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1511740464",
+    "https://openalex.org/W1598363147",
+    "https://openalex.org/W1684190676",
+    "https://openalex.org/W177912978",
+    "https://openalex.org/W1972753341",
+    "https://openalex.org/W1973406031",
+    "https://openalex.org/W1988201445",
+    "https://openalex.org/W2002315210",
+    "https://openalex.org/W2005861590",
+    "https://openalex.org/W2021752782",
+    "https://openalex.org/W2030757694",
+    "https://openalex.org/W2047989966",
+    "https://openalex.org/W2055630785",
+    "https://openalex.org/W2058757045",
+    "https://openalex.org/W2060597733",
+    "https://openalex.org/W2065757105",
+    "https://openalex.org/W2067703482",
+    "https://openalex.org/W2068761970",
+    "https://openalex.org/W2074870985",
+    "https://openalex.org/W2089514236",
+    "https://openalex.org/W2099889779",
+    "https://openalex.org/W2103388213",
+    "https://openalex.org/W2113618723",
+    "https://openalex.org/W2115298916",
+    "https://openalex.org/W2117690770",
+    "https://openalex.org/W2123202461",
+    "https://openalex.org/W2125783911",
+    "https://openalex.org/W2130070665",
+    "https://openalex.org/W2134462999",
+    "https://openalex.org/W2137600983",
+    "https://openalex.org/W2142063041",
+    "https://openalex.org/W2149049530",
+    "https://openalex.org/W2149060829",
+    "https://openalex.org/W2151402778",
+    "https://openalex.org/W2158084754",
+    "https://openalex.org/W2165927934",
+    "https://openalex.org/W2320432931",
+    "https://openalex.org/W3023996888",
+    "https://openalex.org/W4299993032"
+  ]
+}

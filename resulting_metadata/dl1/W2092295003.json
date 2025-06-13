@@ -1,0 +1,31 @@
+{
+  "id": "https://openalex.org/W2092295003",
+  "title": "Pivotal Assumptions Determining the Relationship between Stability and Complexity: An Analytical Synthesis of the Stability-Complexity Debate",
+  "abstract": "The relationship between stability and complexity is examined in a class of models that has been used ubiquitously over the last twenty years to generate hypotheses concerning the structure and function of ecological communities. Previously established methods of analysis are examined and questionable assumptions identified. These include the use of \"probability of stability\" as a relevant measure of stability, the inclusion of unfeasible and unstable models in the Monte Carlo simulation samples, and the treatment of so-called self-regulatory terms in the models. When these models are reanalyzed under less restrictive assumptions, quite different results can be obtained. It is shown that stability (as measured by return time to equilibrium) can increase with various measures of complexity, which include connectivity, interaction strength, and trophic efficiency. Stability is reduced by the prevalence of donor control and by the number of species in a community. These results can be understood in terms of a very general model by considering the behavior of so-called Gershgorin disks in the complex plane defined by the structure of the Jacobian matrix governing the dynamics around the equilibrium point.",
+  "authors": [
+    {
+      "name": "Daniel T. Haydon"
+    }
+  ],
+  "publication_year": 1994,
+  "cited_by_count": 115,
+  "primary_topic": "Animal Ecology and Behavior Studies",
+  "subfield_topic": "Ecology",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1987852776",
+    "https://openalex.org/W2006265485",
+    "https://openalex.org/W2013737143",
+    "https://openalex.org/W2036486030",
+    "https://openalex.org/W2049318236",
+    "https://openalex.org/W2054972169",
+    "https://openalex.org/W2055828837",
+    "https://openalex.org/W2065036101",
+    "https://openalex.org/W2091671027",
+    "https://openalex.org/W2172027779",
+    "https://openalex.org/W2315990401",
+    "https://openalex.org/W2320432931",
+    "https://openalex.org/W3166294202"
+  ]
+}

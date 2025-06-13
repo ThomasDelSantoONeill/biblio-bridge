@@ -1,0 +1,23 @@
+{
+  "id": "https://openalex.org/W2094689434",
+  "title": "Computing Equilibria of <i>N</i>-Person Games",
+  "abstract": "The algorithm of Lemke and Howson for finding an equilibrium of a 2-person game is extended to provide a constructive procedure for finding an equilibrium of an N-person game by finding in succession an equilibrium for each of certain related k-person games, $1\\leqq k\\leqq N$.",
+  "authors": [
+    {
+      "name": "Robert B. Wilson"
+    }
+  ],
+  "publication_year": 1971,
+  "cited_by_count": 185,
+  "primary_topic": "Game Theory and Applications",
+  "subfield_topic": "Management Science and Operations Research",
+  "field_topic": "Decision Sciences",
+  "domain_topic": "Social Sciences",
+  "referenced_works": [
+    "https://openalex.org/W2008519844",
+    "https://openalex.org/W2089649903",
+    "https://openalex.org/W2330024298",
+    "https://openalex.org/W3016130156",
+    "https://openalex.org/W4234761190"
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "https://openalex.org/W2904705582",
+  "title": "Ocean Ecosystem-Based Management Mandates and Implementation in the North Atlantic",
+  "abstract": "Ecosystem-based management (EBM) necessarily requires a degree of coordination across countries that share ocean ecosystems, and among national agencies and departments that have responsibilities relating to ocean health and marine resource utilization. This requires political direction, legal input, stakeholder consultation and engagement, and complex negotiations. Currently there is a common perception that within and across national jurisdictions there is excessive legislative complexity, a relatively low level of policy coherence or alignment with regards to ocean and coastal EBM, and that more aligned legislation is needed to accelerate EBM adoption. Our Atlantic Ocean Research Alliance (AORA) task group was comprised of a small, focused and interdisciplinary mix of lawyers, social scientists, and natural scientists from Canada, the USA, and the EU. During a four-day workshop, we characterized, compared, and synthesized the mandates that govern marine activities and ocean stressors relative to facilitating EBM in national and international waters of the North Atlantic. We identified formal mandates across jurisdictions and, where possible, policy and other non-regulatory mandates. We found that irrespective of the detailed requirements of legislation or policy across AORA jurisdictions, or the efficacy of their actual implementation, most of the major ocean pressures and uses posing threats to ocean sustainability have some form of coverage by national or regional legislation. The coverage is, in fact, rather comprehensive. Still, numerous impediments to effective EBM implementation arise, potentially relating to the lack of integration between agencies and departments, a lack of adequate policy alignment, and a variety of other socio-political factors. We note with concern that if challenges regarding EBM implementation exist in the North Atlantic, we can expect that in less developed regions where financial and governance capacity may be lower, that implementation of EBM could be even more challenging.",
+  "authors": [
+    {
+      "name": "Murray A. Rudd"
+    },
+    {
+      "name": "Mark Dickey‐Collas"
+    },
+    {
+      "name": "Johanna Ferretti"
+    },
+    {
+      "name": "Ellen Johannesen"
+    },
+    {
+      "name": "Nicol Macdonald"
+    },
+    {
+      "name": "Richard J. McLaughlin"
+    },
+    {
+      "name": "Margaret Rae"
+    },
+    {
+      "name": "Torsten Thiele"
+    },
+    {
+      "name": "Jason S. Link"
+    }
+  ],
+  "publication_year": 2018,
+  "cited_by_count": 50,
+  "primary_topic": "Coastal and Marine Management",
+  "subfield_topic": "Management, Monitoring, Policy and Law",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1511243804",
+    "https://openalex.org/W1522586545",
+    "https://openalex.org/W1855244729",
+    "https://openalex.org/W1877103415",
+    "https://openalex.org/W1889275182",
+    "https://openalex.org/W1942220449",
+    "https://openalex.org/W1944038571",
+    "https://openalex.org/W1965351813",
+    "https://openalex.org/W1970978968",
+    "https://openalex.org/W1982795272",
+    "https://openalex.org/W1986360662",
+    "https://openalex.org/W1989449066",
+    "https://openalex.org/W2001092428",
+    "https://openalex.org/W2003934805",
+    "https://openalex.org/W2014884940",
+    "https://openalex.org/W2018523216",
+    "https://openalex.org/W2024635502",
+    "https://openalex.org/W2025951156",
+    "https://openalex.org/W2027141008",
+    "https://openalex.org/W2034994370",
+    "https://openalex.org/W2042082088",
+    "https://openalex.org/W2042151488",
+    "https://openalex.org/W2048323504",
+    "https://openalex.org/W2048356429",
+    "https://openalex.org/W2049364441",
+    "https://openalex.org/W2071905823",
+    "https://openalex.org/W2080335002",
+    "https://openalex.org/W2080567265",
+    "https://openalex.org/W2081656950",
+    "https://openalex.org/W2089265834",
+    "https://openalex.org/W2092966363",
+    "https://openalex.org/W2096844944",
+    "https://openalex.org/W2101919029",
+    "https://openalex.org/W2106901314",
+    "https://openalex.org/W2111142248",
+    "https://openalex.org/W2111255626",
+    "https://openalex.org/W2114047497",
+    "https://openalex.org/W2114503729",
+    "https://openalex.org/W2119510082",
+    "https://openalex.org/W2122505518",
+    "https://openalex.org/W2123925659",
+    "https://openalex.org/W2129247586",
+    "https://openalex.org/W2130219460",
+    "https://openalex.org/W2132185396",
+    "https://openalex.org/W2134294358",
+    "https://openalex.org/W2139591947",
+    "https://openalex.org/W2159293701",
+    "https://openalex.org/W2168853549",
+    "https://openalex.org/W2185746720",
+    "https://openalex.org/W2264111827",
+    "https://openalex.org/W2290932251",
+    "https://openalex.org/W2305101614",
+    "https://openalex.org/W2307164523",
+    "https://openalex.org/W2328137180",
+    "https://openalex.org/W2405045719",
+    "https://openalex.org/W2471047246",
+    "https://openalex.org/W250394477",
+    "https://openalex.org/W2514013899",
+    "https://openalex.org/W2560037984",
+    "https://openalex.org/W2560925251",
+    "https://openalex.org/W2571872739",
+    "https://openalex.org/W2595299289",
+    "https://openalex.org/W2596694079",
+    "https://openalex.org/W2751251762",
+    "https://openalex.org/W2780637250",
+    "https://openalex.org/W2887502390",
+    "https://openalex.org/W2896770707",
+    "https://openalex.org/W3122785150",
+    "https://openalex.org/W3194066117",
+    "https://openalex.org/W402219611",
+    "https://openalex.org/W4205613251",
+    "https://openalex.org/W4299610040",
+    "https://openalex.org/W560988255"
+  ]
+}

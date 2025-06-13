@@ -1,0 +1,50 @@
+{
+  "id": "https://openalex.org/W2180995104",
+  "title": "Accuracy of ‘My Gut Feeling:’ Comparing System 1 to System 2 Decision-Making for Acuity Prediction, Disposition and Diagnosis in an Academic Emergency Department",
+  "abstract": "Introduction: Current cognitive sciences describe decision-making using the dual-process theory, where a System 1 is intuitive and a System 2 decision is hypothetico-deductive. We aim to compare the performance of these systems in determining patient acuity, disposition and diagnosis.Methods: Prospective observational study of emergency physicians assessing patients in the emergency department of an academic center. Physicians were provided the patient's chief complaint and vital signs and allowed to observe the patient briefly. They were then asked to predict acuity, final disposition (home, intensive care unit (ICU), non-ICU bed) and diagnosis. A patient was classified as sick by the investigators using previously published objective criteria.Results: We obtained 662 observations from 289 patients. For acuity, the observers had a sensitivity of 73.9% (95% CI [67.7-79.5%]), specificity 83.3% (95% CI [79.5-86.7%]), positive predictive value 70.3% (95% CI [64.1-75.9%]) and negative predictive value 85.7% (95% CI [82.0-88.9%]). For final disposition, the observers made a correct prediction in 80.8% (95% CI [76.1-85.0%]) of the cases. For ICU admission, emergency physicians had a sensitivity of 33.9% (95% CI [22.1-47.4%]) and a specificity of 96.9% (95% CI [94.0-98.7%]). The correct diagnosis was made 54% of the time with the limited data available.Conclusion: System 1 decision-making based on limited information had a sensitivity close to 80% for acuity and disposition prediction, but the performance was lower for predicting ICU admission and diagnosis. System 1 decision-making appears insufficient for final decisions in these domains but likely provides a cognitive framework for System 2 decision-making.",
+  "authors": [
+    {
+      "name": "Daniel Cabrera"
+    },
+    {
+      "name": "Jonathan T. Thomas"
+    },
+    {
+      "name": "Jeffrey Wiswell"
+    },
+    {
+      "name": "James Walston"
+    },
+    {
+      "name": "Joel Anderson"
+    },
+    {
+      "name": "Erik P. Hess"
+    },
+    {
+      "name": "Fernanda Bellolio"
+    }
+  ],
+  "publication_year": 2015,
+  "cited_by_count": 36,
+  "primary_topic": "Clinical Reasoning and Diagnostic Skills",
+  "subfield_topic": "Family Practice",
+  "field_topic": "Medicine",
+  "domain_topic": "Health Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1741613994",
+    "https://openalex.org/W1989524138",
+    "https://openalex.org/W1989717110",
+    "https://openalex.org/W2005722852",
+    "https://openalex.org/W2019963249",
+    "https://openalex.org/W2030418672",
+    "https://openalex.org/W2047446843",
+    "https://openalex.org/W2055476838",
+    "https://openalex.org/W2060572591",
+    "https://openalex.org/W2094667037",
+    "https://openalex.org/W2121001250",
+    "https://openalex.org/W2169160087",
+    "https://openalex.org/W4230689127",
+    "https://openalex.org/W4231827415"
+  ]
+}

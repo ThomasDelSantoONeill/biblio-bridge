@@ -1,0 +1,41 @@
+{
+  "id": "https://openalex.org/W2021092900",
+  "title": "Insights on Species Richness and Turnover from Long-Term Ecological Research: Fishes in North Temperate Lakes",
+  "abstract": "SYNOPSIS. We examined eleven years of annual survey data on fish assemblages in seven lakes. Expectations based on biogeographic literature were that, owing to the isolation of lakes, fish species structure should be relatively stable and species turnover low. Our original objective was to determine whether lakes house relatively stable fish assemblages or ones with high rates of species turnover. Methodological issues became apparent that caused us to consider issues of rare species and sample sufficiency.Our data were from samples rather than complete counts and rare species could have been missed. In our results mean annual richness was considerably lower than cumulative richness. In addition, species turnover was overestimated and decreased exponentially as the number of yearsbetween observation increased. Sampling variability might explain these results; however, given the same number of survey years, cumulative richness increased with the number of years between observations. Apparently extinctions and invasions occurred even within eleven years, but uncertainty remains because rare taxa can be missed and their appearances and disappearances in the record influence estimates of richness and turnover. To compensate for this problem we removed rare taxa and corrected turnover rates by removing an estimate of sampling error (the turnover rate between adjacent years). Even using these conservative approaches, estimates of turnover among lakes ranged from 0.36% to 0.50% per year. Because the threshold for species detection by most sampling regimes is greater than zero, survey data are expected to underestimate species richness and overestimate species turnover even with standardized methods. Conservation biologists should evaluate claims of decline in species richness against such considerations",
+  "authors": [
+    {
+      "name": "John J. Magnuson"
+    },
+    {
+      "name": "Barbara J. Benson"
+    },
+    {
+      "name": "Ann S. McLain"
+    }
+  ],
+  "publication_year": 1994,
+  "cited_by_count": 63,
+  "primary_topic": "Fish Ecology and Management Studies",
+  "subfield_topic": "Nature and Landscape Conservation",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1992206934",
+    "https://openalex.org/W2030476659",
+    "https://openalex.org/W2042046698",
+    "https://openalex.org/W2046458298",
+    "https://openalex.org/W2069616846",
+    "https://openalex.org/W2076971028",
+    "https://openalex.org/W2089004709",
+    "https://openalex.org/W2089803011",
+    "https://openalex.org/W2108360659",
+    "https://openalex.org/W2320886557",
+    "https://openalex.org/W2370969724",
+    "https://openalex.org/W2774219667",
+    "https://openalex.org/W2942654305",
+    "https://openalex.org/W3043227200",
+    "https://openalex.org/W4248774412",
+    "https://openalex.org/W64096769",
+    "https://openalex.org/W97425965"
+  ]
+}

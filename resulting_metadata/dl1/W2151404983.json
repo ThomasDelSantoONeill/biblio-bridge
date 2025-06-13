@@ -1,0 +1,68 @@
+{
+  "id": "https://openalex.org/W2151404983",
+  "title": "Fishing and environment drive spatial heterogeneity in Celtic Sea fish community size structure",
+  "abstract": "Abstract Shephard, S., Gerritsen, H. D., Kaiser, M. J., Truszkowska, H. S., and Reid, D. G. 2011. Fishing and environment drive spatial heterogeneity in Celtic Sea fish community size structure. – ICES Journal of Marine Science, 68: 2106–2113. The Large Fish Indicator (LFI) is a univariate size-based indicator of fish community state that has been selected to support the OSPAR fish community Ecological Quality Objective (EcoQO). To operate this EcoQO, a survey-based LFI for each OSPAR region needs to be developed. However, fish communities in these regions are spatially heterogeneous, and there is evidence of within-region spatial variation in the LFI that could confound an overall indicator series. For Celtic Sea trawl-survey sites, spline correlograms indicate positive spatial autocorrelation at a similar range (∼40 km) for the LFI and for fishing effort (h year−1) from vessel monitoring systems. Statistical models reveal a strong negative effect on annual LFI by site of fishing effort within a radius of 40 km. There was a weak effect of fishing within 20 km and no effect at 10 km. LFI also varied significantly with substratum and with local fish community composition identified by a resemblance matrix derived from the survey data. Finally, there was a weak effect of survey year on LFI. Spatial stratification of LFI calculations may be necessary when developing size-based indicators for OSPAR or Marine Strategy Framework Directive regions.",
+  "authors": [
+    {
+      "name": "Samuel Shephard"
+    },
+    {
+      "name": "H.D. Gerritsen"
+    },
+    {
+      "name": "Michel J. Kaiser"
+    },
+    {
+      "name": "Holly S. Truszkowska"
+    },
+    {
+      "name": "David G. Reid"
+    }
+  ],
+  "publication_year": 2011,
+  "cited_by_count": 18,
+  "primary_topic": "Marine and fisheries research",
+  "subfield_topic": "Global and Planetary Change",
+  "field_topic": "Environmental Science",
+  "domain_topic": "Physical Sciences",
+  "referenced_works": [
+    "https://openalex.org/W1513618424",
+    "https://openalex.org/W1518897246",
+    "https://openalex.org/W1593871971",
+    "https://openalex.org/W1965527419",
+    "https://openalex.org/W1985150086",
+    "https://openalex.org/W2002206540",
+    "https://openalex.org/W2005099670",
+    "https://openalex.org/W2005878270",
+    "https://openalex.org/W2006368953",
+    "https://openalex.org/W2023369314",
+    "https://openalex.org/W2037704123",
+    "https://openalex.org/W2057016297",
+    "https://openalex.org/W2060287669",
+    "https://openalex.org/W2060488587",
+    "https://openalex.org/W2062249382",
+    "https://openalex.org/W2067253669",
+    "https://openalex.org/W2075683801",
+    "https://openalex.org/W2077689281",
+    "https://openalex.org/W2101850956",
+    "https://openalex.org/W2104379927",
+    "https://openalex.org/W2107509042",
+    "https://openalex.org/W2119350048",
+    "https://openalex.org/W2121052692",
+    "https://openalex.org/W2128860815",
+    "https://openalex.org/W2131458322",
+    "https://openalex.org/W2139832281",
+    "https://openalex.org/W2148739159",
+    "https://openalex.org/W2160832037",
+    "https://openalex.org/W2165775749",
+    "https://openalex.org/W2166440264",
+    "https://openalex.org/W2169828319",
+    "https://openalex.org/W2170120574",
+    "https://openalex.org/W2265957756",
+    "https://openalex.org/W2295472454",
+    "https://openalex.org/W2517953797",
+    "https://openalex.org/W2796037150",
+    "https://openalex.org/W41629667",
+    "https://openalex.org/W4285719527"
+  ]
+}
