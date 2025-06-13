@@ -6,93 +6,67 @@ def fetch_openalex_data(identifier, email=None):
     """Fetch metadata from OpenAlex API for a given DOI or OpenAlex ID.
     
     Args:
-        identifier (str): The Digital Object Identifier (e.g., "10.1111/faf.12817") 
-                         or OpenAlex ID (e.g., "https://openalex.org/W2033142198").
+        identifier (str): DOI (e.g., "10.1111/faf.12817") or OpenAlex ID (e.g., "https://openalex.org/W2033142198").
         email (str, optional): Email for API's polite pool to improve request priority.
     
     Returns:
-        dict: Metadata like title, abstract, authors, or an error message.
-              Returns {"error": "No authors available for <identifier>"} if authors list is empty.
+        dict: Metadata (title, abstract, authors, etc.) or an error message.
     """
-    # Determine the base URL and ID based on the identifier format
+    # Set up base URL and parameters
     if identifier.startswith("https://openalex.org/"):
         work_id = identifier.split("/")[-1]
-        base_url = f"https://api.openalex.org/works/{work_id}"
+        url = f"https://api.openalex.org/works/{work_id}"
+        params = {"mailto": email} if email else {}
     else:
-        base_url = "https://api.openalex.org/works"
-        params = {"filter": f"doi:{identifier}"}
-    
-    params = params if "params" in locals() else {}
-    if email:
-        params["mailto"] = email
-    
+        url = "https://api.openalex.org/works"
+        params = {"filter": f"doi:{identifier}", "mailto": email} if email else {"filter": f"doi:{identifier}"}
+
     try:
-        response = requests.get(base_url, params=params if "params" in locals() else None, timeout=10)
+        response = requests.get(url, params=params, timeout=10)
         response.raise_for_status()
-        response.encoding = "utf-8"
         data = response.json()
-        
-        if data.get("results") or (isinstance(data, dict) and "id" in data):
-            work = data if "id" in data else data["results"][0]
-            abstract_index = work.get("abstract_inverted_index", {})
-            words_with_positions = []
-            if abstract_index is not None:
-                for word, positions in abstract_index.items():
-                    for pos in positions:
-                        words_with_positions.append((pos, word))
-                words_with_positions.sort()
-                words = [word for pos, word in words_with_positions]
-                abstract_text = " ".join(words) if words else "No abstract available"
-            else:
-                abstract_text = "No abstract available"
-            
-            authors = [{"name": author.get("author", {}).get("display_name", "Unknown")} 
-                       for author in work.get("authorships", [])]
-            
-            if not authors:
-                return {"error": f"No authors available for {identifier}"}
-            
-            # Ensure work_data is always a dictionary
-            work_data = work if work is not None and isinstance(work, dict) else {}
-            try:
-                result = {
-                    "id": work_data.get("id"),
-                    "title": work_data.get("title", "No title available"),
-                    "abstract": abstract_text,
-                    "authors": authors,
-                    "publication_year": work_data.get("publication_year"),
-                    "cited_by_count": work_data.get("cited_by_count", 0),
-                    "primary_topic": work_data.get("primary_topic", {"display_name": "Unknown topic"}).get("display_name", "Unknown topic"),
-                    "subfield_topic": work_data.get("primary_topic", {"subfield": {"display_name": "Unknown subfield"}}).get("subfield", {}).get("display_name", "Unknown subfield"),
-                    "field_topic": work_data.get("primary_topic", {"field": {"display_name": "Unknown field"}}).get("field", {}).get("display_name", "Unknown field"),
-                    "domain_topic": work_data.get("primary_topic", {"domain": {"display_name": "Unknown domain"}}).get("domain", {}).get("display_name", "Unknown domain"),
-                    "referenced_works": work_data.get("referenced_works", [])
-                }
-            except AttributeError as e:
-                print(f"Failed item ID: {identifier}")
-                result = {
-                    "id": work_data.get("id"),
-                    "title": work_data.get("title", "No title available"),
-                    "abstract": abstract_text,
-                    "authors": authors,
-                    "publication_year": work_data.get("publication_year"),
-                    "cited_by_count": work_data.get("cited_by_count", 0),
-                    "primary_topic": "Unknown topic",
-                    "subfield_topic": "Unknown subfield",
-                    "field_topic": "Unknown field",
-                    "domain_topic": "Unknown domain",
-                    "referenced_works": work_data.get("referenced_works", [])
-                }
-            return result
-        else:
+
+        # Handle both single work and results list
+        work = data if "id" in data else data.get("results", [{}])[0]
+        if not work:
             return {"error": f"No results found for {identifier}"}
-            
+
+        # Process abstract (remove "abstract" and handle inverted index)
+        abstract_index = work.get("abstract_inverted_index", {})
+        if abstract_index:
+            words_with_positions = [(pos, word) for word, positions in abstract_index.items() for pos in positions]
+            words_with_positions.sort()
+            words = [word for pos, word in words_with_positions if word.lower() != "abstract"]
+            abstract_text = " ".join(words) if words else "No abstract available"
+        else:
+            abstract_text = "No abstract available"
+
+        # Extract authors
+        authors = [{"name": author.get("author", {}).get("display_name", "Unknown")} 
+                   for author in work.get("authorships", [])]
+        if not authors:
+            return {"error": f"No authors available for {identifier}"}
+
+        # Build result with safe dictionary access
+        primary_topic = work.get("primary_topic", {}) or {}
+        return {
+            "id": work.get("id", ""),
+            "title": work.get("title", "No title available"),
+            "abstract": abstract_text,
+            "authors": authors,
+            "publication_year": work.get("publication_year"),
+            "cited_by_count": work.get("cited_by_count", 0),
+            "primary_topic": primary_topic.get("display_name", "Unknown topic"),
+            "subfield_topic": primary_topic.get("subfield", {}).get("display_name", "Unknown subfield"),
+            "field_topic": primary_topic.get("field", {}).get("display_name", "Unknown field"),
+            "domain_topic": primary_topic.get("domain", {}).get("display_name", "Unknown domain"),
+            "referenced_works": work.get("referenced_works", [])
+        }
+
     except requests.Timeout:
-        return {"error": f"Request timed out after 10 seconds for {identifier}"}
-    except requests.RequestException as e:
-        return {"error": f"API request failed for {identifier}: {str(e)}"}
-    except ValueError as e:
-        return {"error": f"Invalid JSON response for {identifier}: {str(e)}"}
+        return {"error": f"Request timed out for {identifier}"}
+    except (requests.RequestException, ValueError) as e:
+        return {"error": f"Failed to fetch data for {identifier}: {str(e)}"}
       
 # Example usage
 doi = "10.1111/faf.12817"

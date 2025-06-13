@@ -4,7 +4,4 @@
 .Ruserdata
 # Large data files or folders
 /resulting_metadata/
-/dl0/
-/dl1/
-*.json  # Ignore all JSON files unless specifically needed
 ver2.py
