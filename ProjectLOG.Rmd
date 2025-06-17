@@ -15,6 +15,8 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+
+
 ## Concieving the idea
 
 This application constructs a ***context-based*** similarity network from bibliographic data to evaluate citation bias<sup><a href="#footnote1">1</a></sup> and to identify potential knowledge gaps or opportunities for cross-disciplinary research. Specifically, `BiblioBridge` develops a network in which nodes represent scholarly papers and edges denote their semantic similarity. This context-based network is then compared with a ***citation-based*** network, where nodes correspond to papers and edges represent their citation relationships.
