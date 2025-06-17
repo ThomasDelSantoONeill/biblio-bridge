@@ -3,5 +3,7 @@
 .RData
 .Ruserdata
 # Large data files or folders
-/resulting_metadata/
+/metadata/
+/venv/
 ver2.py
+
