@@ -19,49 +19,50 @@ def fetch_openalex_data(identifier, email=None):
         url = "https://api.openalex.org/works"
         params = {"filter": f"doi:{identifier}", "mailto": email} if email else {"filter": f"doi:{identifier}"}
 
-    try:
-        response = requests.get(url, params=params, timeout=10)
-        response.raise_for_status()
-        data = response.json()
+    response = requests.get(url, params=params, timeout=10)
+    response.raise_for_status()
+    data = response.json()
 
-        # Handle both single work and results list
-        work = data if "id" in data else data.get("results", [{}])[0]
-        if not work:
-            return {"error": f"No results found for {identifier}"}
+    # Handle both single work and results list
+    work = data if "id" in data else data.get("results", [{}])[0]
+    if not work:
+        return {"error": f"No results for {identifier}"}
 
-        # Process abstract (remove "abstract" and handle inverted index)
-        abstract_index = work.get("abstract_inverted_index", {})
-        if abstract_index:
-            words_with_positions = [(pos, word) for word, positions in abstract_index.items() for pos in positions]
-            words_with_positions.sort()
-            words = [word for pos, word in words_with_positions if word.lower() != "abstract"]
-            abstract_text = " ".join(words) if words else "No abstract available"
-        else:
-            abstract_text = "No abstract available"
+    # Process abstract (remove "abstract" and handle inverted index)
+    abstract_index = work.get("abstract_inverted_index", {})
+    if abstract_index:
+        words_with_positions = [(pos, word) for word, positions in abstract_index.items() for pos in positions]
+        words_with_positions.sort()
+        words = [word for pos, word in words_with_positions if word.lower() != "abstract"]
+        abstract_text = " ".join(words) if words else "No abstract available"
+    else:
+        abstract_text = "No abstract available"
 
-        # Extract authors
-        authors = [{"name": author.get("author", {}).get("display_name", "Unknown")} 
-                   for author in work.get("authorships", [])]
-        if not authors:
-            return {"error": f"No authors available for {identifier}"}
+    # Replace Unicode escapes with standard dash
+    abstract_text = abstract_text.replace("\u2010", "-").replace("\u2013", "-")
+    title = work.get("title", "No title available").replace("\u2010", "-").replace("\u2013", "-")
 
-        # Build result with safe dictionary access
-        primary_topic = work.get("primary_topic", {}) or {}
-        return {
-            "id": work.get("id", ""),
-            "title": work.get("title", "No title available"),
-            "abstract": abstract_text,
-            "authors": authors,
-            "publication_year": work.get("publication_year"),
-            "cited_by_count": work.get("cited_by_count", 0),
-            "primary_topic": primary_topic.get("display_name", "Unknown topic"),
-            "subfield_topic": primary_topic.get("subfield", {}).get("display_name", "Unknown subfield"),
-            "field_topic": primary_topic.get("field", {}).get("display_name", "Unknown field"),
-            "domain_topic": primary_topic.get("domain", {}).get("display_name", "Unknown domain"),
-            "referenced_works": work.get("referenced_works", [])
-        }
+    # Replace <scp>text</scp> with text by removing <scp> and </scp> tags
+    import re
+    abstract_text = re.sub(r'<scp>(.*?)</scp>', r'\1', abstract_text)
+    title = re.sub(r'<scp>(.*?)</scp>', r'\1', title)
 
-    except requests.Timeout:
-        return {"error": f"Request timed out for {identifier}"}
-    except (requests.RequestException, ValueError) as e:
-        return {"error": f"Failed to fetch data for {identifier}: {str(e)}"}
+    # Extract authors
+    authors = [{"name": author.get("author", {}).get("display_name", "Unknown")} 
+               for author in work.get("authorships", [])]
+
+    # Build result with safe dictionary access
+    primary_topic = work.get("primary_topic", {}) or {}
+    return {
+        "id": work.get("id", ""),
+        "title": title,
+        "abstract": abstract_text,
+        "authors": authors,
+        "publication_year": work.get("publication_year"),
+        "cited_by_count": work.get("cited_by_count", 0),
+        "primary_topic": primary_topic.get("display_name", "Unknown topic"),
+        "subfield_topic": primary_topic.get("subfield", {}).get("display_name", "Unknown subfield"),
+        "field_topic": primary_topic.get("field", {}).get("display_name", "Unknown field"),
+        "domain_topic": primary_topic.get("domain", {}).get("display_name", "Unknown domain"),
+        "referenced_works": work.get("referenced_works", [])
+    }

@@ -1,3 +1,4 @@
+library(shiny)
 library(reticulate)
 library(jsonlite)
 library(dplyr)
@@ -17,7 +18,6 @@ ui <- fluidPage(
       textInput("email", "Enter Email (optional):", value = ""),
       numericInput("depth_level", "Reference Depth Level:", value = 0, min = 0, max = 5, step = 1),
       actionButton("fetch", "Fetch Metadata"),
-      hr(),
       h4("Instructions"),
       p("Enter a DOI or OpenAlex ID and click 'Fetch Metadata'. The app will retrieve metadata for the input DOI or OpenAlex ID and, depending on set 'depth level' its referenced works, saving them as JSON files in the 'resulting_metadata' folder.")
     ),
