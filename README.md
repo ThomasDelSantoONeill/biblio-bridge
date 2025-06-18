@@ -1,9 +1,13 @@
-‘`biblio-bridge`’: a context-based literature linker with emergent
-knowledge identification.
+<font size='30'>`biblio-bridge`</font>: a context-based literature
+linker with emergent knowledge identification.
 ================
 **T. J. Del Santo O’Neill**
 
-*2025-06-17*
+*2025-06-18*
+
+
+
+# <img src="biblio-bridge.svg" style='width: 50%; object-fit: contain; vertical-align:top'>
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
@@ -28,7 +32,7 @@ modification of the project should give appropriate credit.
 
 # In a nutshell
 
-The goal of biblio-bridge is to …
+The goal of `biblio-bridge` is to
 
 What is special about using `README.Rmd` instead of just `README.md`?
 You can include R chunks like so:
