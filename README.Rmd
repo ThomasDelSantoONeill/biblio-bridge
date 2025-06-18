@@ -2,14 +2,12 @@
 title: "<font size='30'>`biblio-bridge`</font>: a context-based literature linker with emergent knowledge identification."
 author: "**T. J. Del Santo O'Neill**\n"
 date: "*`r Sys.Date()`*"
-header-includes:
-- \usepackage{svg}
 output: github_document
 # bibliography: inst/REFERENCES.bib
 link-citations: yes
 linkcolor: cyan
 ---
-# <img src="biblio-bridge.svg" style='width: 50%; object-fit: contain; vertical-align:top'>
+# <img src="README_files/biblio-bridge.svg" style='width: 50%; object-fit: contain; vertical-align:top'>
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
@@ -22,7 +20,7 @@ knitr::opts_chunk$set(
 
 # Disclaimer
 
-This project represents the final beta version of the postgraduate course "Programación Informática Orientada a la Gestión y el Mantenimiento del Sector Transporte, la Logística y sus Infraestructuras Vinculadas" offered by Universidad Politécnica de Madrid. The course is part of the NextGenerationEU funding initiative aimed at supporting research and innovation in various sectors.
+This project represents the final beta version of the postgraduate course "**Programación Informática Orientada a la Gestión y el Mantenimiento del Sector Transporte, la Logística y sus Infraestructuras Vinculadas**" offered by *Universidad Politécnica de Madrid*. The course is part of the "*NextGenerationEU*" funding initiative aimed at supporting research and innovation in various sectors.
 
 This repository contains all relevant code and documentation. It is intended for academic and research purposes only, and any use or modification of the project should give appropriate credit.
 
@@ -32,20 +30,9 @@ This repository contains all relevant code and documentation. It is intended for
 
 # In a nutshell
 
-The goal of `biblio-bridge` is to 
+The goal of `biblio-bridge` is to **identify** potential **research avenues** that **emerge** from analysing the **context** of the focal academic work, as well as, recursively, the context of its cited references depending on a predefined depth.
 
-What is special about using `README.Rmd` instead of just `README.md`? You can include R chunks like so:
+# Under the hood
 
-```{r cars}
-summary(cars)
-```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasDelSantoONeill&repo=biblio-bridge&theme=buefy&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-You'll still need to render `README.Rmd` regularly, to keep `README.md` up-to-date.
-
-You can also embed plots, for example:
-
-```{r pressure, echo = FALSE}
-plot(pressure)
-```
-
-In that case, don't forget to commit and push the resulting figure files, so they display on GitHub.
