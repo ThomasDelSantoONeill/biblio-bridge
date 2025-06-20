@@ -36,3 +36,5 @@ The goal of `biblio-bridge` is to **identify** potential **research avenues** th
 
 `biblio-bridge` is an interactive **web application** build under the **[Shiny](https://en.wikipedia.org/wiki/Shiny_(web_framework)) framework**.
 
+**To be continued**
+

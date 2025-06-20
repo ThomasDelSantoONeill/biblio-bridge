@@ -72,8 +72,8 @@ async def _fetch_openalex_data_batch(identifiers: List[str], email: Optional[str
 
     # Process identifiers in batches of 5
     results = []
-    for i in range(0, len(identifiers), 5):
-        batch = identifiers[i:i + 5]
+    for i in range(0, len(identifiers), 10):
+        batch = identifiers[i:i + 10]
         batch_results = await fetch_batch(batch)
         results.extend(batch_results)
     

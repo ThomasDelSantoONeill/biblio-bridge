@@ -40,3 +40,5 @@ references depending on a user-predefined depth level.
 `biblio-bridge` is an interactive **web application** build under the
 **[Shiny](https://en.wikipedia.org/wiki/Shiny_(web_framework))
 framework**.
+
+**To be continued**

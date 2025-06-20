@@ -1,9 +1,11 @@
+# Load required libraries
 library(shiny)
 library(reticulate)
 library(jsonlite)
 library(dplyr)
 library(purrr)
 library(ggplot2)
+library(visNetwork) # Added for network visualization
 
 # Create or use a virtual environment
 venv_dir <- "r-reticulate"
@@ -30,14 +32,28 @@ ui <- fluidPage(
       p("Enter a DOI or OpenAlex ID and click 'Fetch Metadata and Analyze'. The app will retrieve metadata for the input DOI or OpenAlex ID and its referenced works recursively, saving them as JSON files in the 'metadata' folder. It will then analyze the context and save results in the 'results' folder.")
     ),
     mainPanel(
-      h3("Initial Metadata"),
-      verbatimTextOutput("initial_output"),
-      h3("Status"),
-      verbatimTextOutput("status"),
-      h3("Key Terms Summary"),
-      verbatimTextOutput("key_terms_summary"),
-      h3("Key Terms Frequency Plot"),
-      plotOutput("key_terms_plot")
+      tabsetPanel( # Changed to tabsetPanel to organize outputs
+        tabPanel("Metadata & Status",
+                 h3("Initial Metadata"),
+                 verbatimTextOutput("initial_output"),
+                 h3("Status"),
+                 verbatimTextOutput("status")
+        ),
+        tabPanel("Key Terms",
+                 h3("Key Terms Summary"),
+                 verbatimTextOutput("key_terms_summary"),
+                 h3("Key Terms Frequency Plot"),
+                 plotOutput("key_terms_plot")
+        ),
+        tabPanel("Network Visualization", # New tab for network visualization
+                 h3("Network Visualization"),
+                 visNetworkOutput("network_plot", height = "600px", width = "100%") # Added visNetwork output
+        ),
+        tabPanel("Download",
+                 h3("Download Results"),
+                 downloadButton("download_results", "Download resulting .JSON")
+        )
+      )
     )
   ),
   img(src="caminos.svg", align = "right", height="60%", width="60%")
@@ -48,6 +64,21 @@ server <- function(input, output, session) {
   # Create reactive values for status and debug info
   status_log <- reactiveVal("")
   debug_log <- reactiveVal("")
+  
+  # Download handler for results JSON
+  output$download_results <- downloadHandler(
+    filename = function() {
+      paste0("network_results_depth_", input$depth_level, ".json")
+    },
+    content = function(file) {
+      results_file <- paste0("results/network_results_depth_", input$depth_level, ".json")
+      if (file.exists(results_file)) {
+        file.copy(results_file, file)
+      } else {
+        stop("Results file not found. Please ensure analysis has been completed.")
+      }
+    }
+  )
   
   observeEvent(input$fetch, {
     # Reset status and debug
@@ -93,8 +124,8 @@ server <- function(input, output, session) {
         
         # Process references in batches of 5
         withProgress(message = paste("Fetching at depth level =", current_depth), value = 0, {
-          for (i in seq(1, length(ref_ids), by = 5)) {
-            batch <- ref_ids[i:min(i + 4, length(ref_ids))]
+          for (i in seq(1, length(ref_ids), by = 10)) {
+            batch <- ref_ids[i:min(i + 9, length(ref_ids))]
             # Fetch batch of up to 5 references
             ref_data_list <- fetch_openalex_data_batch(batch, if (input$email != "") input$email else NULL)
             
@@ -109,8 +140,8 @@ server <- function(input, output, session) {
                 debug_log(paste(debug_log(), "\nSaved:", paste0("metadata/dl", current_depth-1, "/", work_id, ".json")))
               }
             }
-            incProgress(min(5, length(ref_ids) - i + 1) / length(ref_ids), 
-                        detail = paste("Processing", min(i + 4, length(ref_ids)), "of", length(ref_ids)))
+            incProgress(min(10, length(ref_ids) - i + 1) / length(ref_ids), 
+                        detail = paste("Processing", min(i + 9, length(ref_ids)), "of", length(ref_ids)))
           }
         })
         
@@ -140,15 +171,17 @@ server <- function(input, output, session) {
         analysis_result <- process_json_files(doi_safe, input$depth_level)
         status_log(paste(status_log(), "\n", analysis_result$status))
         # Log analysis debug info
-        # if ("debug" %in% names(analysis_result)) {
-        #   debug_log(paste(debug_log(), "\nAnalysis:", analysis_result$debug))
-        # }
+        if ("debug" %in% names(analysis_result)) {
+          debug_log(paste(debug_log(), "\nAnalysis:", analysis_result$debug))
+        }
       }
       
-      # Summarize key terms from results file
+      # Summarize key terms and render network visualization from results file
       results_file <- paste0("results/network_results_depth_", input$depth_level, ".json")
       if (file.exists(results_file)) {
         network_data <- fromJSON(results_file)
+        
+        # Key Terms Summary and Plot
         if (!is.null(network_data$nodes$key_terms)) {
           result <- summarize_key_terms(network_data$nodes$key_terms)
           output$key_terms_summary <- renderPrint({
@@ -180,13 +213,44 @@ server <- function(input, output, session) {
             text(0.5, 0.5, "No data to plot", cex = 1.5)
           })
         }
+        
+        # Network Visualization (Integrated visNetwork Code)
+        # Prepare nodes and edges
+        nodes <- data.frame(
+          id = gsub(pattern = "https://openalex.org/", x = network_data$nodes$id, replacement = ""),
+          title = network_data$nodes$title,
+          label = sapply(network_data$nodes$key_terms, function(x) paste(head(x, 3), collapse = ", ")),
+          group = sample(1:5, length(network_data$nodes$id), replace = TRUE)
+        )
+        
+        edges <- data.frame(
+          from = network_data$edges$source,
+          to = network_data$edges$target,
+          width = network_data$edges$weight * 10
+        )
+        
+        # Render the network
+        output$network_plot <- renderVisNetwork({
+          visNetwork(nodes, edges, width = "100%", height = "600px") %>%
+            visIgraphLayout(layout = "layout_with_fr", randomSeed = 123) %>%
+            visEdges(smooth = FALSE, scaling = list(min = 1, max = 10)) %>%
+            visOptions(highlightNearest = TRUE, nodesIdSelection = TRUE) %>%
+            visPhysics(enabled = TRUE, solver = "forceAtlas2Based", stabilization = FALSE) %>%
+            visLayout(randomSeed = 123)
+        })
       } else {
+        # Handle missing results file
         output$key_terms_summary <- renderPrint({
           cat("Key Terms Summary: Results file not found.\n")
         })
         output$key_terms_plot <- renderPlot({
           plot.new()
           text(0.5, 0.5, "No data to plot", cex = 1.5)
+        })
+        output$network_plot <- renderVisNetwork({ # Fallback for network
+          visNetwork(data.frame(id = 1, label = "No data"), data.frame(from = 1, to = 1, width = 1)) %>%
+            visNodes(label = "No data available") %>%
+            visLayout(randomSeed = 123)
         })
       }
     } else {
