@@ -3,49 +3,60 @@ library(reticulate)
 library(jsonlite)
 library(dplyr)
 library(purrr)
-# reticulate::use_python("/home/tom/Documents/biblio-bridge/venv/bin/python3.11", required = TRUE)
-# reticulate::py_config()
+
 # Create or use a virtual environment
 venv_dir <- "r-reticulate"
 if (!virtualenv_exists(venv_dir)) {
   virtualenv_create(envname = venv_dir)
-  virtualenv_install(envname = venv_dir, packages = c("requests", "numpy", "scikit-learn", "spacy"), ignore_installed = TRUE)
+  virtualenv_install(envname = venv_dir, packages = c("requests", "numpy", "scikit-learn", "spacy", "aiohttp"), ignore_installed = TRUE)
 }
 use_virtualenv(venv_dir, required = TRUE)
 
 reticulate::source_python("openalex.py")
-download.file("https://github.com/ThomasDelSantoONeill/biblio-bridge/blob/master/README_files/biblio-bridge.svg", "logo.svg")
+reticulate::source_python("context_extract.py")
 
 # Shiny UI
 ui <- fluidPage(
   img(src="biblio-bridge.svg", height="32.5%", width="32.5%"),
+  img(src="inst.svg", align = "right", height="50%", width="50%"),
   sidebarLayout(
     sidebarPanel(
       textInput("doi", "Enter DOI:", value = "10.1111/faf.12817"),
       textInput("email", "Enter Email (optional):", value = ""),
       numericInput("depth_level", "Reference Depth Level:", value = 0, min = 0, max = 5, step = 1),
-      actionButton("fetch", "Fetch Metadata"),
+      actionButton("fetch", "Fetch Metadata and Analyze"),
       h4("Instructions"),
-      p("Enter a DOI or OpenAlex ID and click 'Fetch Metadata'. The app will retrieve metadata for the input DOI or OpenAlex ID and, depending on the set 'depth level' its referenced works recursively, saving them as JSON files in the 'resulting_metadata' folder.")
+      p("Enter a DOI or OpenAlex ID and click 'Fetch Metadata and Analyze'. The app will retrieve metadata for the input DOI or OpenAlex ID and its referenced works recursively, saving them as JSON files in the 'metadata' folder. It will then analyze the context and save results in the 'results' folder.")
     ),
     mainPanel(
       h3("Initial Metadata"),
       verbatimTextOutput("initial_output"),
       h3("Status"),
       verbatimTextOutput("status")
+      # h3("Debug Info"),
+      # verbatimTextOutput("debug")
     )
-  )
+  ),
+  img(src="caminos.svg", align = "right", height="60%", width="60%")
 )
 
 # Shiny Server
 server <- function(input, output, session) {
+  # Create reactive values for status and debug info
+  status_log <- reactiveVal("")
+  debug_log <- reactiveVal("")
+  
   observeEvent(input$fetch, {
+    # Reset status and debug
+    status_log("")
+    debug_log("")
+    
     # Create directories if they don't exist
     dir.create("metadata", showWarnings = FALSE)
-    if (input$depth_level) {
-      vec <- seq(0,input$depth_level,1)
+    if (input$depth_level > 0) {
+      vec <- seq(0, input$depth_level - 1, 1)
       for (i in 1:length(vec)) {
-        dir.create(paste("metadata/dl",i-1,sep = ""), showWarnings = FALSE)  
+        dir.create(paste("metadata/dl", i-1, sep = ""), showWarnings = FALSE)  
       }
     }
     
@@ -61,16 +72,13 @@ server <- function(input, output, session) {
       }
     })
     
-    # Save initial data
+    # Save initial data and proceed
     if (!("error" %in% names(initial_data))) {
       doi_safe <- gsub("/", "_", input$doi)
       write_json(initial_data, paste0("metadata/initial_data_", doi_safe, ".json"), 
                  pretty = TRUE, auto_unbox = TRUE)
-      output$status <- renderText({
-        paste("Focal data saved to metadata/initial_data_", doi_safe, ".json")
-      })
       
-      # Recursive function to fetch references
+      # Recursive function to fetch references in batches
       fetch_references_recursive <- function(ref_ids, current_depth, max_depth) {
         if (current_depth > max_depth || length(ref_ids) == 0) {
           return(NULL)
@@ -80,23 +88,27 @@ server <- function(input, output, session) {
         dir.create(paste0("metadata/dl", current_depth-1), showWarnings = FALSE)
         next_level_refs <- list()
         
-        # Fetch references with progress bar
+        # Process references in batches of 5
         withProgress(message = paste("Fetching at depth level =", current_depth), value = 0, {
-          for (i in seq_along(ref_ids)) {
-            ref_data <- fetch_openalex_data(ref_ids[[i]], if (input$email != "") input$email else NULL)
-            if (!("error" %in% names(ref_data))) {
-              work_id <- sub(".*/", "", ref_data$id)
-              write_json(ref_data, paste0("metadata/dl", current_depth-1, "/", work_id, ".json"), 
-                         pretty = TRUE, auto_unbox = TRUE)
-              next_level_refs <- c(next_level_refs, ref_data$referenced_works)
+          for (i in seq(1, length(ref_ids), by = 5)) {
+            batch <- ref_ids[i:min(i + 4, length(ref_ids))]
+            # Fetch batch of up to 5 references
+            ref_data_list <- fetch_openalex_data_batch(batch, if (input$email != "") input$email else NULL)
+            
+            # Process each result in the batch
+            for (ref_data in ref_data_list) {
+              if (!("error" %in% names(ref_data))) {
+                work_id <- sub(".*/", "", ref_data$id)
+                write_json(ref_data, paste0("metadata/dl", current_depth-1, "/", work_id, ".json"), 
+                           pretty = TRUE, auto_unbox = TRUE)
+                next_level_refs <- c(next_level_refs, ref_data$referenced_works)
+                # Log saved file
+                debug_log(paste(debug_log(), "\nSaved:", paste0("metadata/dl", current_depth-1, "/", work_id, ".json")))
+              }
             }
-            incProgress(1/length(ref_ids), detail = paste("Processing", i, "of", length(ref_ids)))
+            incProgress(min(5, length(ref_ids) - i + 1) / length(ref_ids), 
+                        detail = paste("Processing", min(i + 4, length(ref_ids)), "of", length(ref_ids)))
           }
-        })
-        
-        # Update status
-        output$status <- renderText({
-          paste(output$status(), "\nDepth", current_depth, "references saved to metadata/dl", current_depth, "/")
         })
         
         # Fetch next level if not at max depth
@@ -105,20 +117,41 @@ server <- function(input, output, session) {
         }
       }
       
-      # Fetch referenced works
+      # Fetch referenced works and update status
       referenced_ids <- initial_data$referenced_works %||% list()
-      if (length(referenced_ids) == 0) {
-        output$status <- renderText({
-          paste(output$status(), "\nNo referenced works found.")
-        })
+      debug_log(paste("Found", length(referenced_ids), "referenced works"))
+      if (length(referenced_ids) == 0 || input$depth_level == 0) {
+        # Set fetching status and run analysis
+        status_log("Metadata fetched successfully")
+        analysis_result <- process_json_files(doi_safe, input$depth_level)
+        status_log(paste(status_log(), "\n", analysis_result$status))
+        # Log analysis debug info
+        if ("debug" %in% names(analysis_result)) {
+          debug_log(paste(debug_log(), "\nAnalysis:", analysis_result$debug))
+        }
       } else {
+        # Run recursive fetching
         fetch_references_recursive(referenced_ids, 1, input$depth_level)
+        # Set fetching status and run analysis
+        status_log("Metadata fetched successfully")
+        analysis_result <- process_json_files(doi_safe, input$depth_level)
+        status_log(paste(status_log(), "\n", analysis_result$status))
+        # Log analysis debug info
+        # if ("debug" %in% names(analysis_result)) {
+        #   debug_log(paste(debug_log(), "\nAnalysis:", analysis_result$debug))
+        # }
       }
     } else {
-      output$status <- renderText({
-        initial_data$error
-      })
+      status_log(initial_data$error)
     }
+    
+    # Render outputs
+    output$status <- renderText({
+      status_log()
+    })
+    output$debug <- renderText({
+      debug_log()
+    })
   })
 }
 

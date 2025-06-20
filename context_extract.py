@@ -5,10 +5,9 @@ import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from collections import defaultdict
-import argparse
 
-# Load spaCy model
-nlp = spacy.load("en_core_web_lg")
+# Load spaCy model from specified path
+nlp = spacy.load("./models/en_core_web_lg/en_core_web_lg/en_core_web_lg-3.8.0/")
 
 def preprocess_text(text):
     doc = nlp(text)
@@ -35,11 +34,12 @@ def compute_similarity_matrix(texts):
     similarity_matrix = cosine_similarity(tfidf_matrix)
     return similarity_matrix
 
-def process_json_files(depth_level):
-    # Fixed paths
-    focal_file = "metadata/initial_data_10.1111_faf.12817.json"
+def process_json_files(doi_safe, depth_level):
+    # Paths based on dynamic DOI
     base_dir = "metadata"
-    ref_dir = os.path.join(base_dir, f"dl{depth_level}")
+    focal_file = os.path.join(base_dir, f"initial_data_{doi_safe}.json")
+    # Adjust reference directory to match R code's saving logic (dl{depth_level-1})
+    ref_dir = os.path.join(base_dir, f"dl{depth_level-1}") if depth_level > 0 else base_dir
     results_dir = "results"
     output_file = f"network_results_depth_{depth_level}.json"
     output_path = os.path.join(results_dir, output_file)
@@ -48,6 +48,8 @@ def process_json_files(depth_level):
     os.makedirs(results_dir, exist_ok=True)
 
     # Load focal data
+    if not os.path.exists(focal_file):
+        return {"status": f"Error: Focal file {focal_file} not found"}
     with open(focal_file, "r") as f:
         focal_data = json.load(f)
 
@@ -58,13 +60,18 @@ def process_json_files(depth_level):
     focal_key_terms = extract_key_terms(focal_text)
 
     # Collect all reference files in the specified depth level
-    all_files = [os.path.join(ref_dir, f) for f in os.listdir(ref_dir) if f.endswith(".json")]
+    all_files = [os.path.join(ref_dir, f) for f in os.listdir(ref_dir) if f.endswith(".json") and f != os.path.basename(focal_file)] if os.path.exists(ref_dir) else []
     all_files.insert(0, focal_file)
+
+    # Log the files being processed
+    status_info = f"Processing {len(all_files)} files: {', '.join([os.path.basename(f) for f in all_files])}"
 
     # Extract data from relevant files
     works = {}
     texts = []
     for file_path in all_files:
+        if not os.path.exists(file_path):
+            continue
         with open(file_path, "r") as f:
             data = json.load(f)
         work_id = data.get("id", os.path.basename(file_path).replace(".json", ""))
@@ -93,21 +100,12 @@ def process_json_files(depth_level):
     # Prepare network output
     network = {
         "nodes": [{"id": work_id, "title": data["title"], "key_terms": data["key_terms"]} for work_id, data in works.items()],
-        "edges": edges
+        "edges": edges,
+        "debug": status_info
     }
 
     # Save results
     with open(output_path, "w") as f:
         json.dump(network, f, indent=2)
 
-    return {"status": f"Network results saved to {output_path}"}
-
-def test_module(depth_level=1):
-    result = process_json_files(depth_level)
-    print(json.dumps(result, indent=2))
-
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Test context extraction module.")
-    parser.add_argument("--depth", type=int, default=0, help="Depth level for analysis")
-    args = parser.parse_args()
-    test_module(args.depth)
+    return {"status":"Context of referenced works analysed"}
