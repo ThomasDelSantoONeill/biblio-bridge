@@ -5,9 +5,9 @@ account: thomasdelsantooneill
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 14957569
-bundleId: 10487653
+bundleId: 10487854
 url: https://thomasdelsantooneill.shinyapps.io/biblio-bridge/
 version: 1
 asMultiple: FALSE
 asStatic: FALSE
-ignoredFiles: .RData|ProjectLOG.Rmd|README.md|README.Rmd|requirements.txt|snd_analysis.R|ver2.py|metadata
+ignoredFiles: .RData|logo.svg|README_files/biblio-bridge.svg|README.md|README.Rmd|snd_analysis.R|ver2.py|metadata
