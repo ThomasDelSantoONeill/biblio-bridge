@@ -5,7 +5,8 @@ library(jsonlite)
 library(dplyr)
 library(purrr)
 library(ggplot2)
-library(visNetwork) # Added for network visualization
+library(igraph)
+library(visNetwork)
 
 # Create or use a virtual environment
 venv_dir <- "r-reticulate"
