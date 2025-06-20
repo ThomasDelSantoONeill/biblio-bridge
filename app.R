@@ -3,15 +3,22 @@ library(reticulate)
 library(jsonlite)
 library(dplyr)
 library(purrr)
-reticulate::use_python("/home/tom/Documents/biblio-bridge/venv/bin/python3.11", required = TRUE)
-reticulate::py_config()
+# reticulate::use_python("/home/tom/Documents/biblio-bridge/venv/bin/python3.11", required = TRUE)
+# reticulate::py_config()
+# Create or use a virtual environment
+venv_dir <- "r-reticulate"
+if (!virtualenv_exists(venv_dir)) {
+  virtualenv_create(envname = venv_dir)
+  virtualenv_install(envname = venv_dir, packages = c("requests", "numpy", "scikit-learn", "spacy"), ignore_installed = TRUE)
+}
+use_virtualenv(venv_dir, required = TRUE)
 
-# Load Python function
-source_python("openalex.py")
+reticulate::source_python("openalex.py")
+download.file("https://github.com/ThomasDelSantoONeill/biblio-bridge/blob/master/README_files/biblio-bridge.svg", "logo.svg")
 
 # Shiny UI
 ui <- fluidPage(
-  titlePanel("OpenAlex Metadata Fetch"),
+  img(src="biblio-bridge.svg", height="32.5%", width="32.5%"),
   sidebarLayout(
     sidebarPanel(
       textInput("doi", "Enter DOI:", value = "10.1111/faf.12817"),
@@ -19,7 +26,7 @@ ui <- fluidPage(
       numericInput("depth_level", "Reference Depth Level:", value = 0, min = 0, max = 5, step = 1),
       actionButton("fetch", "Fetch Metadata"),
       h4("Instructions"),
-      p("Enter a DOI or OpenAlex ID and click 'Fetch Metadata'. The app will retrieve metadata for the input DOI or OpenAlex ID and, depending on set 'depth level' its referenced works, saving them as JSON files in the 'resulting_metadata' folder.")
+      p("Enter a DOI or OpenAlex ID and click 'Fetch Metadata'. The app will retrieve metadata for the input DOI or OpenAlex ID and, depending on the set 'depth level' its referenced works recursively, saving them as JSON files in the 'resulting_metadata' folder.")
     ),
     mainPanel(
       h3("Initial Metadata"),
