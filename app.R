@@ -3,6 +3,7 @@ library(reticulate)
 library(jsonlite)
 library(dplyr)
 library(purrr)
+library(ggplot2)
 
 # Create or use a virtual environment
 venv_dir <- "r-reticulate"
@@ -32,9 +33,11 @@ ui <- fluidPage(
       h3("Initial Metadata"),
       verbatimTextOutput("initial_output"),
       h3("Status"),
-      verbatimTextOutput("status")
-      # h3("Debug Info"),
-      # verbatimTextOutput("debug")
+      verbatimTextOutput("status"),
+      h3("Key Terms Summary"),
+      verbatimTextOutput("key_terms_summary"),
+      h3("Key Terms Frequency Plot"),
+      plotOutput("key_terms_plot")
     )
   ),
   img(src="caminos.svg", align = "right", height="60%", width="60%")
@@ -141,6 +144,51 @@ server <- function(input, output, session) {
         #   debug_log(paste(debug_log(), "\nAnalysis:", analysis_result$debug))
         # }
       }
+      
+      # Summarize key terms from results file
+      results_file <- paste0("results/network_results_depth_", input$depth_level, ".json")
+      if (file.exists(results_file)) {
+        network_data <- fromJSON(results_file)
+        if (!is.null(network_data$nodes$key_terms)) {
+          result <- summarize_key_terms(network_data$nodes$key_terms)
+          output$key_terms_summary <- renderPrint({
+            cat(result$summary)
+          })
+          
+          # Prepare data for plotting
+          if (!is.null(result$freq_data)) {
+            plot_data <- data.frame(term = names(result$freq_data), frequency = as.numeric(result$freq_data))
+            output$key_terms_plot <- renderPlot({
+              ggplot(plot_data[plot_data$frequency > 5, ], aes(x = reorder(term, -frequency), y = frequency)) +
+                geom_bar(stat = "identity", fill = "skyblue") +
+                coord_flip() +  # Flip coordinates for better readability
+                labs(title = "Frequency of Key Terms", x = "Key Terms", y = "Frequency") +
+                theme_minimal()
+            })
+          } else {
+            output$key_terms_plot <- renderPlot({
+              plot.new()
+              text(0.5, 0.5, "No data to plot", cex = 1.5)
+            })
+          }
+        } else {
+          output$key_terms_summary <- renderPrint({
+            cat("Key Terms Summary: No key terms found in the results.\n")
+          })
+          output$key_terms_plot <- renderPlot({
+            plot.new()
+            text(0.5, 0.5, "No data to plot", cex = 1.5)
+          })
+        }
+      } else {
+        output$key_terms_summary <- renderPrint({
+          cat("Key Terms Summary: Results file not found.\n")
+        })
+        output$key_terms_plot <- renderPlot({
+          plot.new()
+          text(0.5, 0.5, "No data to plot", cex = 1.5)
+        })
+      }
     } else {
       status_log(initial_data$error)
     }
@@ -153,6 +201,36 @@ server <- function(input, output, session) {
       debug_log()
     })
   })
+}
+
+# Function to summarize key terms
+summarize_key_terms <- function(key_terms_list) {
+  # Flatten the list of key terms into a single vector
+  all_terms <- unlist(key_terms_list)
+  
+  if (length(all_terms) > 0) {
+    # Calculate term frequencies
+    term_freq <- table(all_terms)
+    
+    # Sort by frequency (descending)
+    term_freq_sorted <- sort(term_freq, decreasing = TRUE)
+    
+    # Get top 10 most frequent and bottom 10 least frequent terms
+    top_terms <- names(term_freq_sorted)[1:min(10, length(term_freq_sorted))]
+    rare_terms <- names(term_freq_sorted)[max(1, length(term_freq_sorted) - 9):length(term_freq_sorted)]
+    
+    # Generate summary
+    summary_text <- c(
+      paste("Key Terms Summary (as of", Sys.time(), "):"),
+      paste("- Total Unique Terms:", length(unique(all_terms))),
+      paste("- Top 10 Most Frequent Terms:", paste(top_terms, collapse = ", ")),
+      paste("- Top 10 Least Frequent Terms:", paste(rare_terms, collapse = ", "))
+    )
+    
+    return(list(summary = paste(summary_text, collapse = "\n"), freq_data = term_freq_sorted))
+  } else {
+    return(list(summary = "Key Terms Summary: No key terms found in the data.", freq_data = NULL))
+  }
 }
 
 # Run the app
