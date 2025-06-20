@@ -3,9 +3,9 @@ linker with emergent knowledge identification.
 ================
 **T. J. Del Santo O’Neill**
 
-*2025-06-18*
+*2025-06-20*
 
-# <img src="README_files/biblio-bridge.svg" style='width: 50%; object-fit: contain; vertical-align:top'>
+# <img src="www/biblio-bridge.svg" style='width: 50%; object-fit: contain; vertical-align:top'>
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
@@ -31,11 +31,12 @@ modification of the project should give appropriate credit.
 # In a nutshell
 
 The goal of `biblio-bridge` is to **identify** potential **research
-avenues** that **emerge** from analysing the **context** of the focal
+avenues** that **emerge** from analysing the **context** of a focal
 academic work, as well as, recursively, the context of its cited
-references depending on a predefined depth.
+references depending on a user-predefined depth level.
 
 # Under the hood
 
-[![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasDelSantoONeill&repo=biblio-bridge&theme=buefy&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+`biblio-bridge` is an interactive **web application** build under the
+**[Shiny](https://en.wikipedia.org/wiki/Shiny_(web_framework))
+framework**.
